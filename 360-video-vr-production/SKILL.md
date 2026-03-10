@@ -1,6 +1,6 @@
 ---
-name: 360-video-vr-production
-description: Create immersive 360° video and VR content including camera selection, stitching workflows, spatial audio, and interactive experiences. Use for shooting 360 footage, stitching panoramic video, adding spatial audio, creating VR experiences, optimizing for VR headsets, building interactive 360 tours, and publishing to YouTube 360 or VR platforms.
+name: "360-video-vr-production"
+description: "Create immersive 360° video and VR content including camera selection, stitching workflows, spatial audio, and interactive experiences. Use for shooting 360 footage, stitching panoramic video, adding spatial audio, creating VR experiences, optimizing for VR headsets, building interactive 360 tours, and publishing to YouTube 360 or VR platforms."
 ---
 
 # 360° Video & VR Production

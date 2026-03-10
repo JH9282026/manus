@@ -1,6 +1,6 @@
 ---
-name: ab-testing-experiment-design
-description: Design and analyze A/B tests and controlled experiments for product optimization, conversion rate improvement, and data-driven decision making. Use for calculating sample sizes, setting up experiments, analyzing test results, avoiding common statistical pitfalls, running multivariate tests, and interpreting significance.
+name: "ab-testing-experiment-design"
+description: "Design and analyze A/B tests and controlled experiments for product optimization, conversion rate improvement, and data-driven decision making. Use for calculating sample sizes, setting up experiments, analyzing test results, avoiding common statistical pitfalls, running multivariate tests, and interpreting significance."
 ---
 
 # A/B Testing & Experiment Design
