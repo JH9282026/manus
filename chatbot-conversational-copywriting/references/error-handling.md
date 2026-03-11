@@ -1,121 +1,88 @@
-# Error Handling and Fallbacks
+# Error Handling and Escalation
 
-## Error Types
-
-### Intent Not Recognized
-Bot doesn't understand what user wants.
-
-```
-Level 1: "I didn't quite get that. Could you rephrase?"
-
-Level 2: "Still having trouble. Did you mean:
-         [📦 Track order] [🔄 Return item] [👤 Talk to someone]"
-
-Level 3: "I want to make sure you get help. 
-         Let me connect you with our team."
-```
-
-### Entity Missing
-Bot understood intent but lacks required information.
-
-```
-"To track your order, I need the order number.
- You can find it in your confirmation email."
-```
-
-### API/System Failure
-External system didn't respond correctly.
-
-```
-"I'm having trouble looking that up right now.
- Can I try again, or would you prefer to speak with someone?
- [Try again] [Connect me]"
-```
-
-### Business Logic Error
-User request can't be fulfilled.
-
-```
-"Unfortunately, that item is final sale and can't be returned.
- I can help you with an exchange or store credit instead.
- What would you prefer?"
-```
+Design robust fallback flows and seamless human handoff experiences.
 
 ---
 
-## Writing Error Messages
+## Error Classification
 
-### Guidelines
-- Don't blame the user
-- Acknowledge the limitation
-- Offer a path forward
-- Maintain personality
+### Error Types
 
-### Examples
-
-**Poor:**
-```
-"Error: Invalid input."
-"I don't understand. Please try again."
-```
-
-**Better:**
-```
-"Hmm, I couldn't find an order with that number.
- Could you double-check? It's usually 5-6 digits,
- starting with your confirmation email."
-
-"I'm still learning and didn't quite catch that.
- Could you try saying it differently?
- Or I can connect you with someone who can help."
-```
+| Type | Cause | Frequency | Example |
+|---|---|---|---|
+| No match | Bot doesn't understand input | 10-20% | Gibberish, complex sentences |
+| No input | User doesn't respond | 5-10% | Distracted, abandoned |
+| Validation | Wrong format for expected data | 5-15% | Text instead of number |
+| System | API or backend failure | 1-5% | Service unavailable |
+| Scope | Request outside bot capability | 10-20% | "What's the meaning of life?" |
 
 ---
 
-## Escalation Scripts
+## Fallback Strategy
 
-### User-Requested Escalation
+### Progressive Fallback Pattern
+
+**First miss:** Friendly clarification
 ```
-User: "Let me talk to a real person"
-
-Bot: "Absolutely! I'll connect you with our team.
-     Before I do, could you briefly describe the issue?
-     This helps them help you faster."
-
-[User describes issue]
-
-Bot: "Thanks! Connecting you now. Wait time is about 2 minutes.
-     While you wait, you can review your account here: [link]"
+"I didn't quite get that. Could you rephrase?"
 ```
 
-### Automatic Escalation Triggers
-- 3+ fallback responses in a row
-- Negative sentiment detected
+**Second miss:** Offer structured options
+```
+"I'm having trouble understanding. Can you choose one of these?
+[Option A] [Option B] [Talk to a person]"
+```
+
+**Third miss:** Escalate
+```
+"I want to make sure you get the help you need. Let me connect you with a team member."
+```
+
+### Context-Aware Fallbacks
+
+Tailor fallback responses to conversation state:
+- **During checkout:** "Hmm, something went wrong. Your cart is saved — want to try again or get help?"
+- **During support:** "I can't resolve this one myself. Let me transfer you to a specialist."
+- **During browsing:** "Not sure about that. Try browsing our categories: [options]"
+
+---
+
+## Human Escalation Design
+
+### Escalation Triggers
+
+Automatically escalate when:
+- User explicitly requests a human (3+ variations)
+- Sentiment analysis detects anger/frustration
+- Bot fails to understand 3 consecutive messages
 - High-value customer identified
-- Sensitive topic (billing, complaint)
-- Keywords: "manager," "angry," "unacceptable"
+- Sensitive topic detected (billing disputes, complaints)
 
-### Context Handoff
+### Handoff Experience
+
+**Before handoff:**
 ```
-Information to pass to agent:
-- Customer name and email
-- Conversation transcript
-- Collected information (order #, issue type)
-- Sentiment indicators
-- Time spent in conversation
+Bot: "I'm connecting you with a team member who can help. This usually takes about 2 minutes."
+Bot: "I'll share our conversation so you won't need to repeat yourself."
 ```
 
----
-
-## Timeout Handling
-
+**During wait:**
 ```
-After 5 minutes no response:
-"Still there? Let me know if you need anything else."
-
-After 15 minutes:
-"Looks like you might be busy. Feel free to come back anytime!"
-
-After 24 hours (for unresolved issues):
-"Hi [Name], checking in! Still need help with [topic]?"
+Bot: "Still looking for the right person — hang tight!"
+[After 2 minutes]: "Thanks for waiting. You're next in line."
 ```
+
+**After connection:**
+```
+Bot: "[Agent name] is here to help. I've shared your conversation. Take it away, [name]!"
+Agent: "Hi [user], I see you need help with [summary]. Let me take care of that."
+```
+
+### Agent Context Transfer
+
+Pass to the human agent:
+- Full conversation transcript
+- Detected intent and entities
+- Customer profile (if authenticated)
+- Sentiment analysis summary
+- Previous interactions (if any)

@@ -1,138 +1,126 @@
 ---
 name: "chatbot-conversational-copywriting"
-description: "Write dialogue and conversation flows for chatbots, virtual assistants, and conversational interfaces. Use for: customer service bots, sales chatbots, FAQ bots, voice assistants, conversational UI design, bot personality development, error handling scripts, and multi-turn conversation flows."
+description: "Write dialogue and conversation flows for chatbots, virtual assistants, and conversational interfaces. Use for: customer service bots, sales chatbots, FAQ bots, voice assistants, conversational UI design, bot personality development, error handling scripts, multi-turn conversation flows, NLP training data, and AI-powered chatbot content."
 ---
 
 # Chatbot & Conversational Copywriting
 
-Craft natural, engaging dialogue for chatbots and conversational interfaces.
+Write engaging, natural dialogue for chatbots and conversational interfaces that drive user satisfaction and business outcomes.
 
 ## Overview
 
-This skill provides frameworks for writing chatbot conversations that feel human, achieve business goals, and handle the complexity of automated dialogue. Create bot personalities, design conversation flows, handle errors gracefully, and optimize for user engagement and conversion.
+Provide frameworks, templates, and best practices for writing chatbot dialogue across all bot types — customer service, sales, FAQ, voice assistants, and AI-powered conversational agents. Cover conversation design fundamentals, personality development, error handling, escalation flows, and optimization strategies.
 
-## Chatbot Type Selection
+## Bot Type Selection Guide
 
-| Bot Type | Primary Goal | Key Focus | Reference |
-|----------|-------------|-----------|----------|
-| Customer service | Issue resolution | Empathy, efficiency | `/references/bot-types.md` |
-| Sales/lead gen | Qualification, booking | Value, low friction | `/references/bot-types.md` |
-| FAQ bot | Information delivery | Clarity, completeness | `/references/bot-types.md` |
-| Voice assistant | Task completion | Natural speech, brevity | `/references/voice-writing.md` |
+| Bot Type | Primary Goal | Complexity | Reference |
+|---|---|---|---|
+| Customer service | Resolve inquiries, reduce tickets | Medium-High | `/references/bot-types.md` |
+| Sales / lead gen | Qualify leads, drive conversions | Medium | `/references/bot-types.md` |
+| FAQ | Answer common questions | Low | `/references/bot-types.md` |
+| Voice assistant | Hands-free task completion | High | `/references/voice-writing.md` |
+| Hybrid (bot + human) | Triage and escalate | Medium | `/references/error-handling.md` |
 
-## Core Competencies
+## Conversational UI Core Principles
 
-### Conversation Design
-- Map conversation flows and branching logic
-- Design happy paths and edge case handling
-- Structure multi-turn conversations
-- Create context-aware dialogue sequences
+Follow these rules for natural-sounding bot dialogue:
 
-### Bot Personality Development
-- Define personality attributes and voice
-- Create consistent tone across interactions
-- Write persona documentation
-- Design branded greeting and closing messages
+1. **Turn-taking** — Alternate between bot and user; never overwhelm with multiple messages
+2. **Relevance** — Respond directly to what the user said; off-topic breaks trust
+3. **Clarity** — Use simple, unambiguous language; avoid jargon
+4. **Cooperation** — Ask clarifying questions rather than guessing incorrectly
+5. **Progressive disclosure** — Reveal information as needed, not all at once
+6. **Graceful degradation** — Acknowledge limitations and offer alternatives
 
-### User Input Handling
-- Anticipate user intent variations
-- Write intent recognition training phrases
-- Design entity extraction patterns
-- Handle ambiguous and unexpected inputs
+## Bot Personality Framework
 
-### Error Recovery
-- Create graceful fallback messages
-- Design escalation to human agents
-- Write clarification requests
-- Handle system errors with empathy
+Define the bot personality along five dimensions:
 
-## Conversation Structure
+| Dimension | Casual End | Professional End |
+|---|---|---|
+| Formality | "Hey! What's up?" | "Hello, how may I assist you?" |
+| Humor | Playful, uses emoji | Serious, straightforward |
+| Warmth | Friendly, uses names | Polite, maintains distance |
+| Directness | Conversational, longer | Concise, to-the-point |
+| Confidence | Humble, hedging | Assertive, definitive |
 
-### Opening Messages
-- Greet and establish bot identity
-- Set expectations for capabilities
-- Invite user interaction
-- Keep concise (under 50 words)
+### Persona Template
 
-### User Input Collection
-- Ask one question at a time
-- Provide clear options when appropriate
-- Confirm understanding before proceeding
-- Validate inputs helpfully
+Define every bot with:
+- **Name** — A human-friendly identifier
+- **Role** — What the bot does
+- **Personality** — 3-4 adjectives
+- **Speaking style** — How it communicates
+- **Vocabulary** — Words to use and avoid
+- **Emoji policy** — Frequency and types
 
-### Response Delivery
-- Keep messages short (1-3 sentences)
-- Break complex info into multiple messages
-- Use formatting for readability
-- Always provide next steps
+## Conversation Design Essentials
 
-### Conversation Closing
-- Confirm resolution or next steps
-- Offer additional help
-- Thank user appropriately
-- Provide satisfaction feedback option
+### Flow Structure
 
-## Quick Reply and Button Guidelines
+Map every conversation path:
 
-| Scenario | Use Buttons/Replies | Use Free Text |
-|----------|--------------------|--------------|
-| Limited valid options | ✓ | |
-| Known intent categories | ✓ | |
-| Accuracy critical | ✓ | |
-| Open-ended questions | | ✓ |
-| Specific data entry | | ✓ |
-| Natural conversation | | ✓ |
+```
+[Greeting] → [Intent Detection] → [Route]
+  ├── Known intent → [Fulfill] → [Confirm] → [Close]
+  ├── Unclear intent → [Clarify] → [Route]
+  └── Out of scope → [Fallback] → [Escalate or redirect]
+```
 
-## Key Deliverables
+### Message Components
 
-### Strategy Documents
-- Bot Persona Document
-- Conversation Flow Diagrams
-- Voice and Tone Guidelines
-- Use Case Prioritization
+| Component | Purpose | Example |
+|---|---|---|
+| Opening | Set expectations | "Hi! I can help with orders, returns, and product questions." |
+| Confirmation | Verify understanding | "Got it — you want to track order #12345." |
+| Action | Deliver value | "Your order shipped yesterday. Expected delivery: Thursday." |
+| Transition | Guide next step | "Is there anything else I can help with?" |
+| Closing | End gracefully | "Great, glad I could help! Have a wonderful day." |
 
-### Conversation Content
-- Opening/Closing Scripts
-- Happy Path Dialogues
-- Error and Fallback Messages
-- Escalation Scripts
+## Writing Natural Dialogue
 
-### Training Content
-- Intent Training Phrases
-- Entity Examples
-- Synonym Lists
-- Validation Messages
+### Key Techniques
 
-## Writing Guidelines
+- **Use contractions** — "I'm" not "I am", "you'll" not "you will"
+- **Use sentence fragments** — "Shipping question? Sure thing!"
+- **Vary responses** — Rotate "Got it!", "Okay!", "Perfect, thanks!"
+- **Mirror user language** — Match formality level of the user
+- **Keep messages short** — 1-3 sentences per message bubble
+- **Add natural filler** — "Hmm, let me check..." for processing pauses
 
-### Language Style
-- Use contractions (I'm, you'll, we're)
-- Write conversationally, not formally
-- Keep sentences under 20 words
-- Avoid jargon and corporate speak
+### Pacing Rules
 
-### Message Formatting
-- Use line breaks for readability
-- Limit paragraphs to 2-3 sentences
-- Use emojis sparingly and purposefully
-- Ensure mobile-friendly length
+- Break long responses into 2-3 separate messages
+- Add typing indicators between messages (platform-dependent)
+- Front-load the answer, then provide details
+- Never exceed 3 messages without user input opportunity
 
-### Personalization
-- Use names when available
-- Reference context from earlier in conversation
-- Acknowledge returning users
-- Adapt tone to user sentiment
+## Error Handling Quick Reference
+
+| Scenario | Response Pattern |
+|---|---|
+| Didn't understand | "I didn't quite catch that. Could you rephrase?" |
+| Out of scope | "That's outside what I can help with. Let me connect you with someone who can." |
+| System error | "Something went wrong on my end. Let me try again..." |
+| User frustration | "I understand this is frustrating. Let me get you to a person who can help right away." |
+| No response (timeout) | "Still there? I'm here if you need anything." |
+
+## Quick Reply & Button Design
+
+- Limit to 3-5 options per prompt
+- Use action-oriented labels ("Track Order" not "Order Tracking")
+- Always include an escape option ("Something else", "Talk to a person")
+- Order options from most to least common
+- Keep button text under 25 characters
 
 ## Using the Reference Files
 
-### When to Read Each Reference
+**`/references/conversation-design.md`** — Read when designing conversation flows, mapping user journeys, or structuring multi-turn dialogues.
 
-**`/references/bot-types.md`** — Read when designing specific bot types (customer service, sales, FAQ) or understanding best practices for each category.
+**`/references/bot-types.md`** — Read when building a specific bot type (customer service, sales, FAQ) and need detailed templates and examples.
 
-**`/references/conversation-design.md`** — Read when mapping conversation flows, designing branching logic, or planning multi-turn interactions.
+**`/references/voice-writing.md`** — Read when writing for voice assistants (Alexa, Google Assistant) or speech-based interfaces.
 
-**`/references/voice-writing.md`** — Read when writing for voice assistants (Alexa, Google Assistant) or audio-first interfaces.
+**`/references/error-handling.md`** — Read when designing fallback flows, escalation paths, or handling edge cases.
 
-**`/references/error-handling.md`** — Read when designing fallback behavior, escalation flows, or recovering from conversation failures.
-
-**`/references/templates.md`** — Read when needing ready-to-use conversation templates or script frameworks.
+**`/references/templates.md`** — Read when needing ready-to-use conversation templates, training phrase examples, or persona worksheets.

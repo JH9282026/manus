@@ -1,93 +1,95 @@
 # Voice Assistant Copywriting
 
+Write effective dialogue for voice-based conversational interfaces.
+
+---
+
 ## Voice vs. Text Differences
 
 | Aspect | Text Chat | Voice |
-|--------|-----------|-------|
-| Length | Short messages | Even shorter |
-| Visuals | Buttons, images | Typically none |
-| Interaction | Tap/type | Speak |
-| Error recovery | See history | Must remember |
-| Speed | User-controlled | Real-time |
+|---|---|---|
+| Input | Typed, can review before sending | Spoken, real-time, may be imprecise |
+| Output | Read at user's pace, scannable | Heard linearly, must be brief |
+| Visual aids | Buttons, images, links | None (or minimal screen) |
+| Corrections | Easy to retype | Must verbally correct |
+| Multi-tasking | Common | Primary use case |
+| Privacy | Private by default | May be overheard |
 
 ---
 
-## Writing for Voice
+## Voice Writing Principles
 
-### Be Ultra-Concise
-Voice utterances must be brief and immediately understandable.
+### Keep It Short
 
-**Text Version:**
-"I found several options for Italian restaurants near you. Would you like me to list them, or should I show you the highest-rated one first?"
+Voice responses should be 15-30 words maximum. Users cannot "re-read" voice output.
 
-**Voice Version:**
-"I found 5 Italian restaurants nearby. Want the top-rated one?"
+**Too long:**
+"I found several options for Italian restaurants near you. The highest rated is Bella Roma on Main Street with 4.8 stars, open until 10 PM. Would you like me to tell you about more options or make a reservation?"
 
-### Use Natural Rhythm
-Write dialogue that sounds good spoken aloud. Read everything out loud to test.
+**Better:**
+"Bella Roma on Main Street is top-rated with 4.8 stars. Want me to book a table?"
 
-### Provide Audio Feedback
-Users can't see progress, so confirm actions audibly:
-- "Got it, adding that to your cart."
-- "One moment while I look that up..."
-- "Done! I've set a reminder for tomorrow at 3."
+### Write for the Ear
 
----
+- Use short, simple sentences
+- Avoid homonyms that could confuse ("there" vs "their")
+- Avoid numbers over 4 digits (say "about twelve hundred" not "1,247")
+- Use natural speech patterns and contractions
 
-## Voice Prompt Structure
+### Confirmation Patterns
 
-### Opening Prompts
+Always confirm before executing actions:
 ```
-Keep greetings minimal:
-"Welcome back. How can I help?"
-"What would you like to do?"
-"Ready when you are."
-```
-
-### Confirmation Prompts
-```
-Confirm before actions:
-"Order coffee for pickup at the usual place?"
-"Send that to Mom's phone?"
-"Set alarm for 7 AM?"
-```
-
-### Error Recovery
-```
-Be clear about what went wrong:
-"I didn't catch that. Could you say it again?"
-"I can help with music, reminders, and smart home.
- Which would you like?"
+User: "Order more coffee"
+Bot: "Starbucks Medium Roast, $12.99. Should I order it?"
+User: "Yes"
+Bot: "Done. Arriving Thursday."
 ```
 
 ---
 
-## Platform Considerations
+## Voice-Specific Error Handling
+
+### Misrecognition Recovery
+
+```
+"Sorry, I didn't catch that. Could you say it again?"
+"I heard [interpretation]. Is that right?"
+"Just to make sure — did you mean [option A] or [option B]?"
+```
+
+### No-Input Timeout
+
+```
+[After 5 seconds]: "Are you still there?"
+[After 10 seconds]: "I'll be here when you need me. Just say 'hey [name]' to continue."
+```
+
+### Disambiguation
+
+```
+"I found a few matches. Did you mean:
+First, [option A]?
+Or second, [option B]?"
+```
+
+---
+
+## Platform-Specific Guidelines
 
 ### Amazon Alexa
-- Skills and Actions framework
-- Echo Show enables visuals
-- Conversational by default
-- Keep responses under 8 seconds when spoken
+- Responses must complete within 8 seconds
+- Reprompt after no input (required by certification)
+- Use SSML tags for emphasis, pauses, and pronunciation
+- Card content supplements voice response on screen devices
 
 ### Google Assistant
-- Actions on Google
-- Smart Display support
-- Rich response cards available
-- Natural conversation flow
+- Support both voice and text input
+- Leverage rich responses on screen devices
+- Follow Google's conversation design guidelines
+- Use Dialogflow for intent management
 
-### Apple Siri
-- SiriKit intents
-- Limited customization
-- iOS integration focus
-- Shortcut-based extensions
-
----
-
-## Voice UX Principles
-
-1. **Don't make users remember** — provide options
-2. **Confirm important actions** — prevent mistakes
-3. **Keep it brief** — attention span is short
-4. **Provide escape routes** — "cancel" always works
-5. **Handle interruptions** — users change their minds
+### Apple Siri / Shortcuts
+- Keep responses extremely brief
+- Support SiriKit intents for deep integration
+- Design for quick, transactional interactions

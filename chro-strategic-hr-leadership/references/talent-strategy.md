@@ -1,113 +1,87 @@
 # Talent Strategy and Workforce Planning
 
+Comprehensive frameworks for strategic talent management and workforce planning.
+
+---
+
 ## Strategic Workforce Planning
 
-### Planning Framework
+### Workforce Planning Methodology
 
-1. **Business Strategy Translation**
-   - Understand growth plans and strategic priorities
-   - Identify capability requirements
-   - Map talent implications of strategy
+**Step 1: Supply Analysis**
+- Current headcount by function, level, location, and skill
+- Attrition projections using historical rates and predictive models
+- Retirement eligibility analysis
+- Internal mobility and promotion pipeline
+- Skills inventory and capability assessment
 
-2. **Demand Forecasting**
-   - Project headcount by function and level
-   - Identify critical roles and skills
-   - Model scenarios for different growth paths
+**Step 2: Demand Forecasting**
+- Strategic plan translation to workforce requirements
+- Scenario modeling (growth, steady state, contraction)
+- New capability requirements from technology and market shifts
+- Geographic expansion workforce needs
+- Automation impact assessment on existing roles
 
-3. **Supply Analysis**
-   - Assess current workforce capabilities
-   - Project attrition and internal mobility
-   - Analyze external labor market
+**Step 3: Gap Analysis**
+- Quantitative gaps (headcount surpluses/shortages by role)
+- Qualitative gaps (skill and capability deficiencies)
+- Critical role vulnerability assessment
+- Geographic misalignment identification
+- Cost model for closing gaps through each strategy
 
-4. **Gap Analysis**
-   - Quantify talent gaps by segment
-   - Prioritize critical gaps
-   - Develop closing strategies
-
-5. **Strategy Development**
-   - Define build/buy/borrow mix
-   - Create talent acquisition plans
-   - Design development programs
-
----
-
-## Build/Buy/Borrow Framework
-
-| Strategy | When to Use | Considerations |
-|----------|-------------|----------------|
-| **Build** | Core capabilities, long-term needs | Time investment, retention risk |
-| **Buy** | Immediate needs, scarce skills | Cost premium, cultural fit |
-| **Borrow** | Project-based, fluctuating demand | IP concerns, engagement |
-
----
-
-## Talent Segmentation
-
-### Segmentation Criteria
-- Strategic criticality of role
-- Scarcity of talent
-- Business impact of vacancy
-- Development time required
-
-### Investment Tiers
-
-| Tier | Characteristics | Investment Level |
-|------|----------------|------------------|
-| Mission-critical | Highest strategic impact, scarce | Premium |
-| Core | Essential capabilities, available | Standard-plus |
-| Supporting | Operational roles | Standard |
-| Flexible | Project-based, seasonal | Variable |
+**Step 4: Strategy Development**
+- Build strategies (development, upskilling, reskilling)
+- Buy strategies (external recruiting, talent acquisition)
+- Borrow strategies (contingent workforce, gig, consulting)
+- Bridge strategies (internal mobility, redeployment, stretch assignments)
+- Automate strategies (RPA, AI, process elimination)
 
 ---
 
 ## Succession Planning
 
-### Process Steps
+### Nine-Box Grid Assessment
 
-1. **Identify Critical Roles**
-   - Executive positions
-   - Revenue-generating roles
-   - Specialized expertise
-   - Strategic program leads
+Evaluate talent on two dimensions:
+- **Performance** (low, medium, high) — current contribution
+- **Potential** (low, medium, high) — future growth capacity
 
-2. **Assess Incumbent Risk**
-   - Retirement timeline
-   - Flight risk indicators
-   - Performance sustainability
+**Nine-Box Actions:**
 
-3. **Evaluate Successors**
-   - Readiness (ready now, 1-2 years, 3+ years)
-   - Development needs
-   - Potential assessment
+| | Low Performance | Medium Performance | High Performance |
+|---|---|---|---|
+| **High Potential** | Develop or move | Invest heavily | Accelerate — future leaders |
+| **Medium Potential** | Coach up or out | Core contributors — grow | High professionals — stretch |
+| **Low Potential** | Manage out | Manage expectations | Valued experts — retain |
 
-4. **Build Development Plans**
-   - Targeted experiences
-   - Skill development
-   - Mentoring and coaching
+### Succession Pipeline Design
 
-5. **Monitor and Update**
-   - Quarterly reviews
-   - Progress tracking
-   - Plan adjustments
+For every critical role, maintain:
+- **Ready now** — 1-2 candidates prepared to step in within 0-6 months
+- **Ready soon** — 2-3 candidates with development plans for 6-18 months
+- **Ready future** — 3-5 high-potential emerging leaders for 18-36 months
+- **Emergency successor** — Designated backup for business continuity
 
 ---
 
 ## Talent Acquisition Strategy
 
 ### Employer Brand Development
-- Define employee value proposition (EVP)
-- Develop employer brand messaging
-- Create candidate experience design
-- Build social and digital presence
 
-### Sourcing Strategy
-- Active vs. passive candidate mix
-- Channel optimization
-- Referral program design
-- Diversity sourcing initiatives
+Build compelling employer value proposition (EVP):
+1. Research what current employees value most (stay interviews, surveys)
+2. Identify differentiators vs. talent competitors
+3. Craft EVP messaging for target candidate personas
+4. Activate across channels (careers site, social media, Glassdoor, events)
+5. Measure brand strength (application rates, offer acceptance, awareness surveys)
 
-### Selection Process
-- Competency-based interviewing
-- Assessment methodology
-- Hiring manager enablement
-- Candidate experience optimization
+### Recruiting Channel Optimization
+
+| Channel | Best For | Cost | Time-to-Fill |
+|---|---|---|---|
+| Employee referrals | All levels, culture fit | Low-Medium | Fast |
+| LinkedIn/direct sourcing | Mid-senior, specialized | Medium | Medium |
+| Job boards | Volume hiring, entry-level | Medium | Medium |
+| Agencies/search firms | Executive, niche | High | Slow-Medium |
+| Campus recruiting | Entry-level, pipeline | Medium | Seasonal |
+| Internal mobility | All levels, retention | Low | Fast |

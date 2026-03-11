@@ -1,98 +1,70 @@
 # Cloud Strategy
 
-## Cloud Strategy Framework
-
-### Strategic Drivers
-- Agility and speed to market
-- Scalability and elasticity
-- Cost optimization
-- Innovation enablement
-- Global reach
-- Resilience and availability
-
-### Cloud Models
-
-| Model | Characteristics | Best For |
-|-------|----------------|----------|
-| Public | Shared infrastructure, pay-as-you-go | Variable workloads, innovation |
-| Private | Dedicated infrastructure | Compliance, control |
-| Hybrid | Combined public/private | Mixed requirements |
-| Multi-cloud | Multiple providers | Avoid lock-in, best-of-breed |
+Develop and execute enterprise cloud migration and optimization strategies.
 
 ---
 
-## Migration Strategy (6Rs)
+## Cloud Migration Approaches
+
+### The 7 Rs of Cloud Migration
 
 | Strategy | Description | When to Use |
-|----------|-------------|-------------|
-| **Rehost** | Lift and shift | Quick migration, minimal change |
-| **Replatform** | Lift and optimize | Some optimization, limited refactoring |
-| **Repurchase** | Move to SaaS | Commercial software available |
-| **Refactor** | Re-architect | Full cloud-native benefits needed |
-| **Retire** | Decommission | No longer needed |
-| **Retain** | Keep on-premises | Compliance, complexity, or cost |
+|---|---|---|
+| **Rehost** (lift and shift) | Move as-is to cloud infrastructure | Quick migration, minimal change needed |
+| **Replatform** (lift and optimize) | Minor optimizations during migration | Moderate benefit, manageable effort |
+| **Repurchase** | Replace with SaaS equivalent | SaaS alternative is superior |
+| **Refactor/Rearchitect** | Rebuild as cloud-native | Strategic applications, maximum cloud benefit |
+| **Retire** | Decommission | Application no longer needed |
+| **Retain** | Keep on-premises | Regulatory, latency, or dependency constraints |
+| **Relocate** | Move to different cloud region/provider | Data sovereignty, performance optimization |
 
-### Migration Assessment Criteria
-- Business criticality
-- Technical complexity
-- Dependencies
-- Compliance requirements
-- Cost implications
-- Risk tolerance
+### Migration Prioritization Framework
 
----
+Assess each application on:
+- **Business criticality** — How important to business operations (1-5)
+- **Technical complexity** — Migration difficulty and risk (1-5)
+- **Cloud readiness** — Architecture compatibility with cloud (1-5)
+- **Business value** — Benefits from cloud migration (1-5)
 
-## Cloud Platform Selection
-
-### Major Platforms
-
-| Platform | Strengths | Considerations |
-|----------|-----------|----------------|
-| AWS | Breadth of services, maturity | Complexity, cost management |
-| Azure | Enterprise integration, hybrid | Microsoft ecosystem dependency |
-| GCP | Data/AI, Kubernetes | Smaller enterprise presence |
-
-### Selection Criteria
-- Service requirements
-- Existing partnerships
-- Technical expertise
-- Geographic coverage
-- Pricing model fit
-- Integration needs
+Plot on a quadrant: **High value + Low complexity = Migrate first**
 
 ---
 
-## FinOps and Cost Management
+## Cloud Architecture Patterns
 
-### Cost Optimization Strategies
-- Right-sizing instances
-- Reserved capacity commitments
-- Spot/preemptible instances
-- Auto-scaling optimization
-- Storage tiering
-- Unused resource cleanup
+### Hybrid Cloud Design
 
-### Governance Model
-- Cost visibility and allocation
-- Budget controls and alerts
-- Tagging standards
-- Approval workflows
-- Regular optimization reviews
+- **Core principle:** Choose the right cloud for the right workload
+- **Public cloud** — Variable workloads, new applications, developer environments
+- **Private cloud** — Sensitive data, regulatory requirements, predictable workloads
+- **Edge** — Low-latency requirements, IoT processing, local data residency
+- **Connectivity** — Secure interconnects, consistent networking, unified management
+
+### Multi-Cloud Strategy
+
+| Approach | Advantages | Challenges |
+|---|---|---|
+| Best-of-breed | Leverage each provider's strengths | Complexity, skills, portability |
+| Risk mitigation | Avoid vendor lock-in | Cost duplication, management overhead |
+| Geographic | Optimize for regional presence | Inconsistent services, governance |
 
 ---
 
-## Cloud Operating Model
+## Cloud Cost Management
 
-### Organizational Components
-- Cloud Center of Excellence
-- Platform teams
-- Application teams
-- Security and compliance
-- FinOps function
+### FinOps Framework
 
-### Capability Requirements
-- Cloud architecture
-- DevOps/SRE
-- Security engineering
-- Cost management
-- Automation
+1. **Inform** — Visibility into cloud spending by team, project, and service
+2. **Optimize** — Right-size instances, use reserved/spot pricing, eliminate waste
+3. **Operate** — Real-time budget alerts, automated cost controls, chargeback models
+
+### Cost Optimization Techniques
+
+| Technique | Typical Savings | Effort |
+|---|---|---|
+| Right-sizing instances | 15-30% | Low |
+| Reserved instances/savings plans | 30-50% | Medium |
+| Spot/preemptible instances | 60-80% (variable workloads) | Medium |
+| Auto-scaling | 20-40% | Medium |
+| Storage tiering | 30-50% | Low |
+| Idle resource cleanup | 10-20% | Low |

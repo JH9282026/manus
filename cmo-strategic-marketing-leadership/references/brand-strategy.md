@@ -1,91 +1,48 @@
 # Brand Strategy
 
-## Brand Positioning
-
-### Positioning Statement Framework
-
-**Formula:**
-For [target audience], [brand] is the [category] that [key benefit] because [reason to believe].
-
-### Positioning Elements
-- Target audience definition
-- Competitive frame of reference
-- Point of difference
-- Reasons to believe
-- Brand character/personality
+Develop and manage strategic brand positioning and architecture.
 
 ---
 
-## Brand Architecture
+## Brand Positioning Framework
 
-### Architecture Models
+### Positioning Statement Template
 
-| Model | Description | Example |
-|-------|-------------|----------|
-| Branded house | Master brand drives all | Google |
-| House of brands | Independent brands | P&G |
-| Endorsed brands | Sub-brands with endorsement | Marriott |
-| Hybrid | Mix of approaches | Amazon |
+"For [target audience] who [need/want], [brand] is the [category] that [key benefit] because [reason to believe]."
 
-### Architecture Decisions
-- Brand portfolio strategy
-- Sub-brand relationships
-- Extension guidelines
-- Naming conventions
+### Positioning Development Process
+
+1. **Market analysis** — Map competitive landscape, identify white space
+2. **Customer insight** — Deep understanding of target audience needs and perceptions
+3. **Competitive differentiation** — Identify sustainable points of difference
+4. **Brand promise** — Define the core value proposition
+5. **Proof points** — Gather evidence supporting the brand promise
+6. **Positioning validation** — Test with target audience segments
+
+### Brand Architecture Models
+
+| Model | Description | Example | Best For |
+|---|---|---|---|
+| Branded house | Master brand dominates | Google (Maps, Drive, Cloud) | Strong master brand, related offerings |
+| House of brands | Independent brands | P&G (Tide, Pampers, Gillette) | Diverse markets, risk isolation |
+| Endorsed | Sub-brands with master endorsement | Marriott (Courtyard by Marriott) | Credibility transfer with differentiation |
+| Hybrid | Mix of above | Amazon (AWS, Prime, Whole Foods) | Complex portfolios |
 
 ---
 
 ## Messaging Framework
 
-### Framework Components
+### Message Hierarchy
 
-| Level | Content | Use |
-|-------|---------|-----|
-| Brand promise | Core commitment | All communications |
-| Value propositions | Key benefits | By audience |
-| Proof points | Supporting evidence | By benefit |
-| Messaging pillars | Thematic content areas | Content strategy |
+1. **Brand narrative** — Overarching story (30-60 seconds)
+2. **Value proposition** — Core benefit statement (1-2 sentences)
+3. **Pillar messages** — 3-5 supporting themes with proof points
+4. **Audience-specific messages** — Tailored by persona/segment
+5. **Channel-specific messages** — Adapted for each touchpoint
 
-### Message Development
-1. Define audience needs
-2. Articulate benefits
-3. Support with proof
-4. Test and refine
+### Message Testing
 
----
-
-## Brand Identity
-
-### Visual Identity Elements
-- Logo and logo system
-- Color palette
-- Typography
-- Photography/illustration style
-- Iconography
-- Layout principles
-
-### Verbal Identity Elements
-- Voice and tone
-- Key phrases and vocabulary
-- Taglines and signatures
-- Naming conventions
-
----
-
-## Brand Measurement
-
-### Brand Health Metrics
-
-| Metric | Measures | Method |
-|--------|----------|--------|
-| Awareness | Brand recognition | Survey |
-| Consideration | Purchase intent | Survey |
-| Preference | Relative choice | Survey |
-| Loyalty | Repeat, advocacy | Behavioral |
-| Equity | Overall brand value | Index |
-
-### Tracking Cadence
-- Continuous tracking for major brands
-- Quarterly dipsticks
-- Annual deep-dive studies
-- Event-driven pulse checks
+- A/B test headlines and value propositions in paid channels
+- Survey-based message testing with target audience panels
+- Landing page conversion testing for different message approaches
+- Sales conversation analysis for message resonance

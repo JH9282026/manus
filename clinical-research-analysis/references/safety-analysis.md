@@ -1,98 +1,71 @@
 # Safety Analysis and Pharmacovigilance
 
+Methods for detecting and evaluating drug safety signals.
+
+---
+
 ## Adverse Event Analysis
 
-### Classification Standards
-- MedDRA coding (preferred terms, system organ class)
-- CTCAE grading (severity 1-5)
-- Causality assessment
-- Seriousness criteria
+### Standard Safety Tables
 
-### Key Metrics
+| Table | Content | Reporting Level |
+|---|---|---|
+| Overall AE summary | Incidence by treatment arm | SOC and preferred term |
+| SAE listing | All serious adverse events | Individual case detail |
+| AE leading to discontinuation | Events causing withdrawal | By treatment arm |
+| Deaths | All-cause and related mortality | Narrative summary |
+| Lab abnormalities | Clinically significant shifts | By parameter and grade |
+| Vital signs | Mean changes and outliers | By timepoint |
 
-| Metric | Calculation | Use |
-|--------|-------------|-----|
-| Incidence | Events/person-time | Common endpoints |
-| Proportion | Subjects with AE/total | Overall burden |
-| Relative Risk | Treatment rate/control rate | Treatment comparison |
-| Risk Difference | Treatment rate - control rate | Absolute difference |
-| NNH | 1/Risk difference | Clinical interpretation |
+### Adverse Event Grading
+
+Use CTCAE (Common Terminology Criteria for Adverse Events) grading:
+- **Grade 1** — Mild; asymptomatic or mild symptoms
+- **Grade 2** — Moderate; minimal intervention indicated
+- **Grade 3** — Severe; hospitalization indicated
+- **Grade 4** — Life-threatening; urgent intervention
+- **Grade 5** — Death related to adverse event
 
 ---
 
-## Safety Signal Detection
+## Signal Detection Methods
 
-### Disproportionality Analysis
+### Spontaneous Reporting Analysis
 
 | Method | Description | Threshold |
-|--------|-------------|----------|
-| PRR | Proportional Reporting Ratio | >2.0 |
-| ROR | Reporting Odds Ratio | Lower CI >1.0 |
-| BCPNN | Bayesian Confidence Propagation | IC025 >0 |
-| EBGM | Empirical Bayes Geometric Mean | EBGM05 >2.0 |
+|---|---|---|
+| Proportional Reporting Ratio (PRR) | Ratio of reporting rates (drug vs. all drugs) | PRR ≥ 2 + chi-square ≥ 4 + N ≥ 3 |
+| Reporting Odds Ratio (ROR) | Odds ratio from 2x2 table | Lower 95% CI > 1 |
+| Bayesian Confidence Propagation (BCPNN) | Information component with Bayesian shrinkage | IC025 > 0 |
+| Multi-item Gamma Poisson Shrinker (MGPS) | Empirical Bayes shrinkage estimator | EB05 > 2 |
 
-### Signal Evaluation
-1. Statistical strength
-2. Biological plausibility
-3. Temporal relationship
-4. Dose-response
-5. Consistency across sources
+### Benefit-Risk Assessment
 
----
+**Framework:** Structured benefit-risk assessment per ICH guidance
 
-## Benefit-Risk Assessment
-
-### Framework Components
-
-| Element | Considerations |
-|---------|---------------|
-| Benefits | Efficacy endpoints, clinical significance |
-| Risks | AE profile, severity, reversibility |
-| Disease context | Severity, unmet need, alternatives |
-| Patient factors | Preferences, risk tolerance |
-
-### Assessment Methods
-- Qualitative benefit-risk tables
-- Quantitative frameworks (MCDA)
-- Number needed to treat/harm
-- Quality-adjusted analyses
+1. Define the decision context and therapeutic area
+2. Identify and prioritize benefits and risks
+3. Assess magnitude and probability of each
+4. Integrate findings using visual displays (forest plots, value trees)
+5. Draw conclusions with uncertainty characterization
 
 ---
 
-## Integrated Safety Summary (ISS)
+## Post-Market Surveillance
 
-### Structure (per FDA guidance)
-1. Exposure information
-2. Adverse event overview
-3. Deaths and serious AEs
-4. AEs leading to discontinuation
-5. Common AEs
-6. Laboratory abnormalities
-7. Vital signs and ECG
-8. Special populations
-9. Overdose and dependence
+### Real-World Safety Monitoring
 
-### Data Integration
-- Pool studies appropriately
-- Address heterogeneity
-- Time-to-event analyses
-- Subgroup safety
+- Analyze electronic health records for safety signals
+- Monitor spontaneous adverse event reporting systems (FAERS, EudraVigilance)
+- Conduct observational safety studies (cohort, case-control)
+- Implement Risk Evaluation and Mitigation Strategies (REMS)
+- Prepare Periodic Benefit-Risk Evaluation Reports (PBRERs)
 
----
+### Pharmacovigilance Reporting
 
-## Periodic Safety Reports
-
-### PSUR/PBRER Structure
-1. Introduction
-2. Worldwide marketing status
-3. Estimated patient exposure
-4. New safety information
-5. Signal evaluation
-6. Benefit-risk analysis
-7. Conclusions
-
-### Reporting Cadence
-- First 2 years: every 6 months
-- Next 2 years: annually
-- Subsequently: every 3 years
-- Or per regulatory agreement
+| Report Type | Frequency | Audience | Content |
+|---|---|---|---|
+| Individual case safety report (ICSR) | Within 15 days (serious) | Regulatory authority | Individual case details |
+| PSUR/PBRER | Per regulatory schedule | Regulatory authority | Cumulative safety review |
+| Signal assessment report | As signals detected | Safety committee | Signal evaluation and recommendation |
+| Risk management plan (RMP) | At approval, updated | Regulatory authority | Risk minimization measures |

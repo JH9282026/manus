@@ -1,113 +1,65 @@
 # Asset Management
 
-## Asset Business Plan
-
-### Plan Structure
-
-1. **Executive Summary**
-   - Asset overview
-   - Strategic direction
-   - Key initiatives
-   - Financial targets
-
-2. **Market Analysis**
-   - Submarket fundamentals
-   - Competitive set
-   - Supply/demand dynamics
-
-3. **Asset Assessment**
-   - Physical condition
-   - Tenant profile
-   - Competitive position
-
-4. **Strategic Initiatives**
-   - Leasing strategy
-   - Capital plan
-   - Operating improvements
-
-5. **Financial Projections**
-   - NOI forecast
-   - Capital budget
-   - Return analysis
+Create and execute property-level business plans to maximize value.
 
 ---
 
-## Value Enhancement
+## Asset Business Plan Structure
 
-### Value-Add Opportunities
+### Plan Components
 
-| Category | Examples | ROI Consideration |
-|----------|----------|-------------------|
-| Leasing | Rent bumps, occupancy | Direct NOI impact |
-| Capital | Renovations, amenities | Cap rate impact |
-| Operating | Expense reduction | Margin improvement |
-| Repositioning | Use change, rebranding | Market positioning |
-
-### Capital Improvement ROI
-
-```
-Return = Incremental NOI ÷ Capital Cost
-
-Example:
-- Lobby renovation: $500,000
-- Rent increase enabled: $2/SF on 50,000 SF = $100,000/year
-- Simple ROI: 20%
-- Payback: 5 years
-```
+1. **Asset overview** — Property description, market position, historical performance
+2. **Market analysis** — Submarket fundamentals, competitive set, demand drivers
+3. **SWOT analysis** — Strengths, weaknesses, opportunities, threats
+4. **Financial performance** — Historical NOI, occupancy, rent roll analysis
+5. **Value creation strategy** — Leasing, capital, repositioning, operational plans
+6. **Capital plan** — CapEx budget, ROI projections, financing
+7. **Financial projections** — 5-10 year DCF model, IRR/equity multiple targets
+8. **Risk assessment** — Key risks and mitigation strategies
+9. **Exit strategy** — Hold period, disposition timing, target buyer profile
 
 ---
 
-## Operating Efficiency
+## NOI Optimization
 
-### Expense Categories
+### Revenue Enhancement
 
-| Category | % of OpEx | Optimization |
-|----------|-----------|-------------|
-| Utilities | 25-35% | Energy efficiency, LED, HVAC |
-| Property taxes | 20-30% | Appeals, exemptions |
-| Insurance | 5-10% | Broker competition |
-| R&M | 15-20% | Preventive maintenance |
-| Management | 3-5% | In-house vs. third-party |
-| Janitorial | 5-10% | Contract renegotiation |
+| Strategy | Implementation | Impact Timeline |
+|---|---|---|
+| Mark-to-market rents | Renew/replace below-market leases | 12-24 months |
+| Reduce vacancy | Aggressive leasing, broker incentives | 6-18 months |
+| Ancillary revenue | Parking, storage, naming rights, cell towers | 3-12 months |
+| Expense recovery | Audit CAM/OpEx recoveries, close leakage | 1-6 months |
+| Rent escalations | Built-in annual increases (CPI or fixed) | Ongoing |
 
-### Benchmarking
-1. Compare to portfolio averages
-2. Compare to market benchmarks
-3. Identify outliers
-4. Investigate root causes
-5. Develop improvement plans
+### Expense Reduction
 
----
-
-## Property Repositioning
-
-### Repositioning Triggers
-- Declining occupancy
-- Below-market rents
-- Competitive obsolescence
-- Changing market dynamics
-- Tenant demand shifts
-
-### Repositioning Options
-
-| Strategy | Investment | Timeline | Risk |
-|----------|------------|----------|------|
-| Light refresh | Low | 3-6 months | Low |
-| Major renovation | Medium | 6-18 months | Medium |
-| Adaptive reuse | High | 18-36 months | High |
-| Redevelopment | Highest | 24-48 months | Highest |
+| Strategy | Implementation | Typical Savings |
+|---|---|---|
+| Energy management | LED retrofits, HVAC optimization, BMS | 15-30% energy cost |
+| Property tax appeals | Annual assessment reviews and appeals | 5-15% tax reduction |
+| Insurance optimization | Market insurance programs, increase deductibles | 10-20% premium reduction |
+| Service contract rebid | Competitive bid janitorial, security, landscaping | 5-15% per contract |
+| Water conservation | Low-flow fixtures, smart irrigation, leak detection | 10-25% water cost |
 
 ---
 
-## Performance Tracking
+## Capital Improvement Planning
 
-### Key Metrics Dashboard
+### Capital Prioritization Framework
 
-| Metric | Frequency | Benchmark |
-|--------|-----------|----------|
-| Occupancy | Monthly | Budget, market |
-| Collections | Monthly | 98%+ target |
-| NOI | Monthly | Budget variance |
-| Rent growth | Quarterly | Market comparison |
-| Tenant retention | Annual | 70%+ target |
-| Capex execution | Quarterly | Budget, timeline |
+| Priority | Category | Examples | ROI Expectation |
+|---|---|---|---|
+| Critical | Life safety, code compliance | Fire system, ADA, structural | Required — no ROI analysis |
+| High | Revenue-generating improvements | Lobby renovation, unit upgrades | 15-25% return on cost |
+| Medium | Competitive positioning | Amenity additions, technology | 10-15% return on cost |
+| Low | Cosmetic/aesthetic | Landscaping refresh, signage | 5-10% return on cost |
+
+### ROI Calculation for Capital Projects
+
+**Return on Cost = Incremental NOI / Total Project Cost**
+
+Example: $500K lobby renovation yields $75K annual rent premium
+- Return on cost = $75K / $500K = 15%
+- Payback period = $500K / $75K = 6.7 years
+- Cap rate impact: $75K / 5.5% cap = $1.36M value creation on $500K investment

@@ -1,67 +1,100 @@
 ---
 name: "compensation-benefits-analysis"
-description: "Design and optimize total rewards programs including salary benchmarking, pay equity analysis, incentive modeling, and benefits optimization. Use for: compensation benchmarking, pay equity audits, bonus plan design, equity compensation programs, benefits cost analysis, merit increase planning, and compliance with pay transparency legislation."
+description: "Design and optimize total rewards programs including salary benchmarking, pay equity analysis, incentive modeling, and benefits optimization. Use for: compensation benchmarking, salary band design, pay equity audits, bonus and commission plan design, equity compensation programs, benefits cost analysis, merit increase planning, job evaluation, and compliance with pay transparency legislation."
 ---
 
 # Compensation & Benefits Analysis
 
-Conduct comprehensive compensation analytics to attract, retain, and motivate employees while maintaining cost efficiency and regulatory compliance.
+Design, analyze, and optimize total rewards programs that attract and retain talent while maintaining cost efficiency and regulatory compliance.
 
 ## Overview
 
-This skill enables market pricing analysis, internal equity assessment, benefits program design, incentive modeling, and compensation philosophy development. Apply methodologies including regression-based salary surveys, point-factor job evaluation, pay equity regression analysis, Monte Carlo simulation for incentive modeling, and Total Cost of Ownership for benefits.
+Provide comprehensive compensation analytics including market benchmarking, internal equity analysis, benefits design, incentive modeling, and compensation philosophy development. Apply regression-based market pricing, pay equity analysis, Monte Carlo simulation for incentive modeling, and total rewards optimization to deliver data-driven compensation decisions.
 
-## Quick Start: Analysis Type Selection
+## Total Rewards Framework
 
-| Scenario | Analysis Type | Reference |
-|----------|---------------|----------|
-| Annual salary review | Market Benchmarking | `/references/market-analysis.md` |
-| Gender/race pay gaps | Pay Equity Audit | `/references/pay-equity.md` |
-| Sales compensation redesign | Incentive Modeling | `/references/incentive-design.md` |
-| Healthcare cost increase | Benefits Optimization | `/references/benefits-analysis.md` |
-| Startup equity guidelines | Equity Compensation | `/references/equity-programs.md` |
+| Component | Elements | Strategic Purpose |
+|---|---|---|
+| Base salary | Salary bands, grades, geographic differentials | Market competitiveness, internal equity |
+| Short-term incentives | Annual bonus, commission, spot awards | Performance motivation, results alignment |
+| Long-term incentives | Stock options, RSUs, ESPP, performance shares | Retention, ownership, long-term alignment |
+| Benefits | Medical, dental, vision, life, disability | Employee wellbeing, regulatory compliance |
+| Retirement | 401(k) match, pension, deferred comp | Long-term financial security, retention |
+| Perquisites | Wellness stipend, learning budget, remote work | Culture differentiation, engagement |
 
-## Core Methodologies
+## Compensation Benchmarking Process
 
-### Market Pricing
-1. Match internal jobs to survey positions
-2. Calculate competitive ratios against target percentiles (P50, P65, P75)
-3. Identify roles below market and recommend adjustments
-4. Apply geographic differentials and industry filters
+1. **Select surveys** — Choose 3-5 reputable sources (Radford, Mercer, Culpepper, Levels.fyi)
+2. **Match jobs** — Map internal roles to survey benchmark jobs (70%+ content match)
+3. **Define peer group** — Filter by industry, company size, geography
+4. **Set market reference** — Choose target percentile by job family (P50, P65, P75)
+5. **Age data** — Apply aging factors for survey data currency (typically 3-4% annually)
+6. **Analyze gaps** — Compare internal pay to market position
+7. **Develop recommendations** — Salary adjustments, band restructuring, hot skill premiums
 
-### Pay Equity Analysis
-1. Perform multivariate regression controlling for legitimate factors
-2. Identify statistically significant gaps by protected class
-3. Calculate remediation costs for closure strategies
-4. Generate compliant disclosure reports
+## Pay Equity Analysis
 
-### Incentive Modeling
-1. Analyze historical performance distributions
-2. Model commission structures with accelerators
-3. Simulate payout distributions under scenarios
-4. Calculate plan costs and pay-for-performance alignment
+### Regression-Based Methodology
 
-## Key Data Sources
+Control for legitimate pay factors to isolate unexplained gaps:
 
-- **Survey Data**: Radford, Mercer, Culpepper, Payscale, Levels.fyi
-- **Equity Data**: Option Impact, Carta benchmarks
-- **Internal Data**: HRIS, payroll, performance ratings
+**Legitimate factors (independent variables):**
+- Job family and level
+- Geography / cost of labor index
+- Tenure / time in role
+- Performance ratings (if validated)
+- Education and certifications (if job-relevant)
+- Prior experience at hire
 
-## Compliance Considerations
+**Protected characteristics (tested variables):**
+- Gender
+- Race/ethnicity
+- Age (for age discrimination analysis)
 
-- Equal Pay Act and state pay equity laws
-- Pay transparency legislation by jurisdiction
-- FLSA overtime and minimum wage requirements
-- SEC executive compensation disclosure (409A, 280G)
+**Decision rules:**
+- Statistically significant gap (p < 0.05) AND practical significance (>2% gap) → Remediate
+- Statistically significant but small gap (<2%) → Monitor, investigate root cause
+- Not statistically significant → No action, continue monitoring
+
+## Salary Band Design
+
+| Component | Definition | Typical Spread |
+|---|---|---|
+| Band minimum | Entry/learning rate | 80-85% of midpoint |
+| Band midpoint | Target market rate | = market reference percentile |
+| Band maximum | Experienced/premium rate | 115-120% of midpoint |
+| Band spread | (Max - Min) / Min | 40-60% for professional; 80-100% for executive |
+
+### Compa-Ratio Analysis
+
+**Compa-ratio = Employee salary / Band midpoint**
+
+| Compa-Ratio | Interpretation | Action |
+|---|---|---|
+| < 0.85 | Significantly below market | Priority increase, retention risk |
+| 0.85 - 0.95 | Below midpoint | Development phase, merit focus |
+| 0.95 - 1.05 | At market | Appropriate for fully competent |
+| 1.05 - 1.15 | Above midpoint | Strong performer, experienced |
+| > 1.15 | Above market | Review for promotion or band adjustment |
+
+## Merit Increase Planning
+
+| Performance Rating | Typical Merit % | Position in Range Adjustment |
+|---|---|---|
+| Exceptional | 6-10% | Higher % if below midpoint |
+| Exceeds expectations | 4-6% | Standard distribution |
+| Meets expectations | 2-4% | Standard distribution |
+| Below expectations | 0-2% | Performance improvement plan |
+| Unsatisfactory | 0% | Performance action required |
 
 ## Using the Reference Files
 
-**`/references/market-analysis.md`** — Read when conducting salary benchmarking or building salary structures.
+**`/references/market-analysis.md`** — Read when conducting salary benchmarking, selecting survey sources, or analyzing market competitiveness.
 
-**`/references/pay-equity.md`** — Read when performing pay equity audits or generating compliance reports.
+**`/references/pay-equity.md`** — Read when performing pay equity audits, building regression models, or developing remediation plans.
 
-**`/references/incentive-design.md`** — Read when designing bonus, commission, or long-term incentive plans.
+**`/references/incentive-design.md`** — Read when designing bonus plans, commission structures, or long-term incentive programs.
 
-**`/references/benefits-analysis.md`** — Read when optimizing benefits programs or modeling cost projections.
+**`/references/equity-programs.md`** — Read when designing stock option, RSU, or ESPP programs or evaluating equity compensation strategies.
 
-**`/references/equity-programs.md`** — Read when designing stock option, RSU, or ESPP programs.
+**`/references/benefits-analysis.md`** — Read when evaluating benefits competitiveness, analyzing costs, or redesigning benefits programs.

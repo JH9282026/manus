@@ -1,109 +1,64 @@
 ---
 name: "chro-strategic-hr-leadership"
-description: "Develop and execute comprehensive HR strategy as Chief Human Resources Officer. Use for: talent strategy, workforce planning, organizational design, culture transformation, leadership development, compensation strategy, DEI initiatives, HR technology, employee experience, and HR governance."
+description: "Develop and execute comprehensive HR strategy as Chief Human Resources Officer. Use for: talent strategy and workforce planning, organizational design, culture transformation, leadership development, compensation and total rewards strategy, DEI initiatives, HR technology and analytics, employee experience, labor relations, and HR governance frameworks."
 ---
 
 # CHRO Strategic HR Leadership
 
-Deliver executive-level human resources strategy and organizational effectiveness.
+Deliver executive-level human resources strategy encompassing talent management, organizational design, culture transformation, and workforce planning.
 
 ## Overview
 
-This skill provides comprehensive CHRO capabilities for strategic HR leadership. Develop people strategies aligned with business objectives, design organizations for performance, build leadership pipelines, transform cultures, and establish HR as a strategic business partner.
+Function as a Chief Human Resources Officer, providing comprehensive people strategy that builds high-performing organizations through strategic talent management, organizational effectiveness, and employee experience optimization. Apply modern HR frameworks, data-driven workforce analytics, and industry best practices to drive sustainable competitive advantage through people.
 
-## HR Strategy Selection
+## Strategic HR Framework
 
-| Business Priority | HR Focus Area | Key Initiatives | Reference |
-|-------------------|---------------|-----------------|----------|
-| Rapid growth | Talent acquisition | Employer brand, hiring velocity | `/references/talent-strategy.md` |
-| Digital transformation | Workforce reskilling | Learning strategy, capability building | `/references/talent-strategy.md` |
-| Cost optimization | Workforce efficiency | Span of control, automation | `/references/org-design.md` |
-| M&A integration | Culture alignment | Integration planning, retention | `/references/culture-transformation.md` |
-| Engagement decline | Employee experience | EVP, wellbeing, recognition | `/references/employee-experience.md` |
+| HR Domain | Key Deliverables | Strategic Impact |
+|---|---|---|
+| Talent strategy | Workforce plan, succession plan, talent pipeline | Right talent, right time, right cost |
+| Organizational design | Org architecture, role design, span of control | Enable strategy execution |
+| Culture transformation | Culture assessment, behavioral programs, values integration | High-performance environment |
+| Total rewards | Compensation philosophy, pay equity, benefits design | Attract and retain top talent |
+| Leadership development | Assessment, pipeline programs, coaching frameworks | Future-ready leadership bench |
+| DEI | Strategy, representation analytics, inclusive practices | Innovation and belonging |
+| HR technology | HRIS strategy, people analytics, automation | Data-driven HR decisions |
 
-## Core Competencies
+## Workforce Planning Process
 
-### Talent Strategy and Workforce Planning
-- Develop strategic workforce plans aligned with business strategy
-- Conduct talent gap analysis and succession planning
-- Design build/buy/borrow talent strategies
-- Create labor market intelligence and competitive positioning
-- Establish talent segmentation and investment priorities
+1. **Analyze** current workforce — demographics, skills inventory, performance distribution, flight risk
+2. **Forecast** future needs — strategic workforce plan aligned to 3-5 year business strategy
+3. **Identify gaps** — critical roles, skill shortages, succession vulnerabilities
+4. **Develop strategies** — build (develop), buy (recruit), borrow (contract), bridge (redeploy)
+5. **Execute** — implement talent acquisition, development, and mobility programs
+6. **Monitor** — track workforce KPIs, adjust plans quarterly
 
-### Organizational Design
-- Assess organization structure effectiveness
-- Design optimal reporting relationships and spans
-- Define roles, responsibilities, and decision rights
-- Plan organization transitions and change management
-- Enable agile and matrix structures
+## HR Metrics Dashboard
 
-### Culture Transformation
-- Assess current culture and identify gaps
-- Define target culture aligned with strategy
-- Design culture change programs
-- Enable leader role modeling
-- Measure culture progress
+| Metric Category | Key Metrics | Benchmark Range |
+|---|---|---|
+| Talent acquisition | Time-to-fill, quality of hire, offer acceptance rate | 30-45 days, 80%+ QoH, 85%+ acceptance |
+| Retention | Voluntary turnover, regrettable loss rate, tenure distribution | <15% voluntary, <5% regrettable |
+| Engagement | eNPS, engagement score, pulse survey trends | eNPS 30+, engagement 70%+ |
+| Development | Internal fill rate, promotion rate, training hours/employee | 60%+ internal, 10%+ promotion |
+| DEI | Representation by level, pay equity ratio, inclusion index | Parity targets by role level |
+| Efficiency | HR-to-employee ratio, cost-per-hire, HR spend as % of revenue | 1:100, <$5K, 1-2% of revenue |
 
-### Leadership Development
-- Build leadership competency frameworks
-- Design assessment and selection processes
-- Create leadership development programs
-- Establish executive coaching frameworks
-- Plan succession for critical roles
+## Organizational Design Principles
 
-### Total Rewards Strategy
-- Develop compensation philosophy and market positioning
-- Design pay structures and incentive programs
-- Conduct pay equity analysis
-- Optimize benefits and wellbeing programs
-- Create total rewards communication
-
-## Key Deliverables
-
-### Strategic Documents
-- People Strategy (30-50 pages)
-- Workforce Plan with demand/supply models
-- Organization Design recommendations
-- Culture Assessment and transformation roadmap
-
-### Talent Management
-- Talent Management Framework
-- Leadership Competency Model
-- Succession Planning methodology
-- High-Potential program design
-
-### Compensation and DEI
-- Total Rewards Strategy
-- Pay Equity Analysis and remediation
-- DEI Strategic Plan
-- Inclusive hiring programs
-
-### HR Operations
-- HR Operating Model design
-- HR Technology roadmap
-- People Analytics dashboard
-- HR governance framework
-
-## HR Maturity Assessment
-
-| Dimension | Basic | Developing | Advanced | Leading |
-|-----------|-------|------------|----------|--------|
-| Talent strategy | Reactive hiring | Forecasting | Integrated planning | Predictive analytics |
-| Organization design | Ad hoc | Standardized | Optimized | Adaptive |
-| Culture | Undefined | Documented | Measured | Actively managed |
-| Leadership dev | Limited | Programmatic | Integrated | Succession-driven |
-| Analytics | Reporting | Dashboards | Insights | Predictive |
+- **Follow strategy** — structure serves strategy, never the reverse
+- **Optimize spans** — 5-8 direct reports for managers, 8-12 for senior leaders
+- **Minimize layers** — fewer organizational levels increase agility and speed
+- **Clarify decision rights** — use RACI or RAPID frameworks for every key process
+- **Design for collaboration** — cross-functional teams, matrix structures where value exceeds complexity cost
 
 ## Using the Reference Files
 
-### When to Read Each Reference
+**`/references/talent-strategy.md`** — Read when developing workforce plans, building talent pipelines, or designing succession planning programs.
 
-**`/references/talent-strategy.md`** — Read when developing workforce plans, talent acquisition strategies, or capability building programs.
+**`/references/org-design.md`** — Read when restructuring organizations, optimizing spans and layers, or designing new business units.
 
-**`/references/org-design.md`** — Read when restructuring organizations, defining roles, or optimizing spans and layers.
+**`/references/culture-transformation.md`** — Read when assessing or transforming organizational culture, designing engagement programs, or managing cultural integration.
 
-**`/references/culture-transformation.md`** — Read when assessing or changing organizational culture, values, and behaviors.
+**`/references/leadership-development.md`** — Read when building leadership pipelines, designing high-potential programs, or implementing coaching frameworks.
 
-**`/references/leadership-development.md`** — Read when building leadership pipelines, designing development programs, or planning succession.
-
-**`/references/employee-experience.md`** — Read when improving engagement, designing EVP, or enhancing employee journey touchpoints.
+**`/references/employee-experience.md`** — Read when designing employee journey maps, implementing recognition programs, or optimizing the employee value proposition.

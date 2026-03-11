@@ -1,97 +1,57 @@
 # Go-to-Market Strategy
 
-## GTM Framework
-
-### Core Components
-
-1. **Market Definition**
-   - Target segments
-   - Market sizing (TAM, SAM, SOM)
-   - Competitive landscape
-   - Market dynamics
-
-2. **Customer Understanding**
-   - Ideal customer profile (ICP)
-   - Buyer personas
-   - Customer journey
-   - Pain points and needs
-
-3. **Positioning**
-   - Value proposition
-   - Differentiation
-   - Competitive positioning
-   - Messaging framework
-
-4. **Channel Strategy**
-   - Direct vs. indirect
-   - Sales model
-   - Partner ecosystem
-   - Distribution approach
-
-5. **Marketing Strategy**
-   - Awareness building
-   - Demand generation
-   - Lead nurturing
-   - Sales enablement
+Plan and execute product launches and market entry strategies.
 
 ---
 
-## Product Launch Framework
+## GTM Planning Framework
 
-### Launch Phases
+### Pre-Launch Checklist
 
-| Phase | Timeline | Activities |
-|-------|----------|------------|
-| Pre-launch | -8 to -4 weeks | Strategy, enablement, content |
-| Soft launch | -4 to 0 weeks | Beta, early access, PR prep |
-| Launch | Week 0 | Announcement, campaigns |
-| Post-launch | +1 to +8 weeks | Optimization, expansion |
+**Market Readiness:**
+- [ ] Market sizing and TAM/SAM/SOM analysis complete
+- [ ] Competitive landscape mapped with positioning strategy
+- [ ] ICP and buyer personas validated through research
+- [ ] Pricing strategy tested and finalized
+- [ ] Channel strategy defined (direct, partner, PLG)
 
-### Launch Readiness Checklist
-- Product ready and tested
-- Pricing and packaging finalized
-- Sales enablement complete
-- Marketing materials ready
-- PR and communications prepared
-- Support and success ready
-- Measurement framework in place
+**Product Readiness:**
+- [ ] Product meets launch criteria (features, quality, performance)
+- [ ] Documentation and help content complete
+- [ ] Support team trained on new product/features
+- [ ] Success metrics defined and tracking implemented
 
----
+**Marketing Readiness:**
+- [ ] Positioning and messaging framework approved
+- [ ] Website and landing pages live
+- [ ] Launch content created (blog, video, case study, demo)
+- [ ] PR strategy and media outreach planned
+- [ ] Sales enablement materials distributed and trained
+- [ ] Email campaigns and nurture sequences built
+- [ ] Paid advertising campaigns configured
 
-## Ideal Customer Profile (ICP)
+### Launch Execution Timeline
 
-### ICP Components
-
-| Dimension | Attributes |
-|-----------|------------|
-| Firmographic | Industry, size, geography |
-| Technographic | Tech stack, digital maturity |
-| Behavioral | Buying patterns, engagement |
-| Intent | Problem urgency, budget |
-
-### ICP Development Process
-1. Analyze best existing customers
-2. Identify common characteristics
-3. Validate with market research
-4. Define scoring criteria
-5. Test and refine
+| Week | Activities |
+|---|---|
+| T-4 | Analyst briefings, media embargoes, internal launch |
+| T-2 | Customer advisory board preview, beta testimonials collected |
+| T-1 | Sales kickoff, final content QA, campaign pre-flight |
+| Launch Day | Press release, social media, email blast, website update |
+| T+1 | Sales follow-up, webinar, community engagement |
+| T+2-4 | Performance analysis, optimization, content amplification |
+| T+8 | Post-launch review, lessons learned, next phase planning |
 
 ---
 
-## Sales and Marketing Alignment
+## Channel Strategy
 
-### Alignment Elements
-- Shared definitions (MQL, SQL, opportunity)
-- Lead handoff process
-- Service level agreements
-- Joint planning and review
-- Integrated technology
+### Go-to-Market Motion Types
 
-### SLA Framework
-
-| Marketing Commits | Sales Commits |
-|-------------------|---------------|
-| Lead volume and quality | Lead follow-up timing |
-| Lead data completeness | Lead disposition |
-| Sales enablement | Feedback on lead quality |
-| Campaign support | CRM data hygiene |
+| Motion | Description | Best For | Key Metrics |
+|---|---|---|---|
+| Sales-led | Direct sales team drives revenue | Enterprise, high ACV, complex products | ACV, win rate, sales cycle |
+| Product-led growth (PLG) | Product drives acquisition and expansion | Self-serve, low ACV, viral potential | Activation rate, PQL conversion |
+| Channel/partner | Partners sell and/or deliver | Market coverage, local presence | Partner revenue, certification rate |
+| Community-led | Community drives awareness and adoption | Developer tools, open source | Community size, contribution rate |
+| Hybrid | Multiple motions for different segments | Multi-segment targeting | Segment-specific metrics |

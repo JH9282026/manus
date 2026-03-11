@@ -1,105 +1,70 @@
-# Portfolio Strategy
+# CRE Portfolio Strategy
 
-## Portfolio Assessment Framework
-
-### Asset Categorization Matrix
-
-| Category | Business Value | Property Quality | Action |
-|----------|---------------|------------------|--------|
-| Core | High | High | Hold long-term |
-| Value-add | High potential | Improvable | Invest and enhance |
-| Non-core | Low/declining | Variable | Dispose |
-| Opportunistic | Turnaround | Challenged | Fix or sell |
-
-### Assessment Criteria
-
-**Business Value**
-- Revenue contribution
-- Strategic importance
-- Growth potential
-- Competitive position
-
-**Property Quality**
-- Physical condition
-- Location fundamentals
-- Tenant quality
-- Market positioning
+Develop and optimize commercial real estate portfolio allocation and performance.
 
 ---
 
-## Hold/Sell Analysis
+## Portfolio Construction Framework
 
-### Decision Framework
+### Investment Strategy Alignment
 
-| Factor | Hold Indicators | Sell Indicators |
-|--------|-----------------|----------------|
-| Market outlook | Growing, improving | Declining, peaked |
-| Asset quality | Competitive, improving | Obsolete, challenged |
-| Capex needs | Manageable, value-creating | Excessive, defensive |
-| Returns | Above target | Below target |
-| Strategic fit | Core to strategy | Non-core |
+| Strategy | Risk Profile | Return Target | Property Focus |
+|---|---|---|---|
+| Core | Low risk, stable income | 6-8% total return | Class A, major markets, long leases |
+| Core Plus | Low-moderate risk | 8-10% total return | Minor value-add, good markets |
+| Value-Add | Moderate risk | 10-14% total return | Repositioning, lease-up, capex |
+| Opportunistic | High risk | 14-20%+ total return | Development, distressed, conversion |
 
-### Financial Analysis
-1. Model hold scenario (NPV over hold period)
-2. Model sell scenario (net proceeds today)
-3. Compare risk-adjusted returns
-4. Consider opportunity cost
-5. Factor in taxes and transaction costs
+### Diversification Dimensions
 
----
-
-## Acquisition Strategy
-
-### Investment Criteria
-
-| Criterion | Definition |
-|-----------|------------|
-| Geography | Target markets, submarkets |
-| Property type | Office, retail, industrial, multifamily |
-| Deal size | Minimum/maximum investment |
-| Risk profile | Core, core-plus, value-add, opportunistic |
-| Returns | Target IRR, cash yield |
-
-### Sourcing Approach
-- Broker relationships
-- Off-market transactions
-- Principal-to-principal deals
-- Distressed opportunities
-- Development pipeline
+Diversify CRE portfolios across:
+- **Property type** — Office, retail, industrial, multifamily, specialty
+- **Geography** — Gateway vs. secondary markets, urban vs. suburban
+- **Tenant credit** — Investment grade vs. small business mix
+- **Lease duration** — WALT (weighted average lease term) distribution
+- **Vintage** — Stagger acquisition timing to smooth market cycles
 
 ---
 
-## Capital Allocation
+## Asset Disposition Strategy
 
-### Capital Uses
+### Sell Decision Framework
 
-| Category | Purpose | Return Target |
-|----------|---------|---------------|
-| Acquisitions | Growth, diversification | Market + premium |
-| Development | New supply creation | Development spread |
-| Capex | Value enhancement | ROI > cost of capital |
-| Debt paydown | Risk reduction | Interest savings |
+Consider selling when:
+- Asset has reached peak value (value-add plan complete)
+- Market cycle indicators suggest overvaluation
+- Capital can be redeployed at higher risk-adjusted returns
+- Asset no longer aligns with portfolio strategy
+- Significant deferred capital needs exceed reinvestment value
 
-### Prioritization Framework
-1. Defensive capex (maintain asset)
-2. Accretive capex (enhance value)
-3. Opportunistic acquisitions
-4. Development (risk-adjusted)
+### Disposition Process
+
+1. Broker selection and listing agreement
+2. Marketing preparation (financials, due diligence docs, virtual tour)
+3. Buyer qualification and offer review
+4. Best-and-final round for competitive bids
+5. PSA negotiation and execution
+6. Buyer due diligence and financing
+7. Closing and transition
 
 ---
 
-## Disposition Strategy
+## ESG in Commercial Real Estate
 
-### Timing Considerations
-- Market cycle position
-- Asset lifecycle stage
-- Lease expiration profile
-- Buyer pool depth
-- Tax implications
+### ESG Framework for CRE
 
-### Execution Approach
-- Marketed sale vs. off-market
-- Single asset vs. portfolio
-- Broker selection
-- Buyer targeting
-- Due diligence preparation
+| Pillar | Initiatives | Metrics |
+|---|---|---|
+| Environmental | Energy efficiency, renewable energy, water conservation, waste reduction | Energy Star score, carbon footprint, LEED/BREEAM certification |
+| Social | Tenant wellness, community engagement, accessibility, diversity | WELL certification, tenant satisfaction, community programs |
+| Governance | Transparent reporting, ethical practices, risk management | GRESB score, sustainability reporting, policy compliance |
+
+### Green Building Certifications
+
+| Certification | Focus | Market Impact |
+|---|---|---|
+| LEED | Comprehensive sustainability | 5-10% rent premium, faster leasing |
+| ENERGY STAR | Energy efficiency | Reduced operating costs, tenant demand |
+| WELL | Occupant health and wellness | Tenant attraction, productivity gains |
+| BREEAM | Comprehensive (international) | European market standard |
+| Fitwel | Health-focused, lower cost | Accessible certification for smaller properties |

@@ -1,128 +1,66 @@
 # Influencer Outreach
 
-## Outreach Framework
-
-### Key Principles
-- Demonstrate genuine appreciation for their work
-- Offer clear value exchange
-- Begin with engagement before outreach
-- Respect their brand and audience
-- Make collaboration easy
+Write effective outreach for influencer collaborations and content partnerships.
 
 ---
 
-## Outreach Types
+## Influencer Outreach Templates
 
-| Collaboration Type | Value to Creator | Your Ask |
-|-------------------|------------------|----------|
-| Sponsored content | Payment | Product mention |
-| Product seeding | Free product | Organic review |
-| Affiliate | Revenue share | Ongoing promotion |
-| Co-creation | Content, exposure | Joint project |
-| Expert feature | Platform, credibility | Interview, quote |
-
----
-
-## Pre-Outreach Engagement
-
-### Build Familiarity First
-1. Follow on relevant platforms
-2. Engage authentically with content
-3. Share their work (with credit)
-4. Leave thoughtful comments
-5. Join their community if applicable
-
----
-
-## Subject Line Examples
+### Template 1: Product Collaboration
 
 ```
-"Loved your [specific content] + collaboration idea"
-"[Your Brand] x [Their Name] partnership"
-"Quick question from a longtime fan"
-"Collaboration opportunity for [topic] content"
-```
-
----
-
-## Opening Approaches
-
-### Specific Appreciation
-```
-"Your breakdown of [topic] on [platform] was excellent—
-the point about [specific insight] particularly resonated. 
-I've shared it with my team multiple times."
-```
-
-### Mutual Connection
-```
-"[Mutual connection] mentioned you'd be a perfect fit 
-for what we're building. After following your work on [topic], 
-I completely agree."
-```
-
----
-
-## Value Proposition
-
-### Clear Exchange
-```
-"Here's what I'm thinking:
-
-• We provide: [Product/payment/exposure]
-• You create: [Content type]
-• Your audience gets: [Benefit]"
-```
-
-### Flexible Collaboration
-```
-"I'm open to whatever format works best for your audience:
-• Sponsored post/video
-• Product review
-• Giveaway collaboration
-• Your ideas welcome!"
-```
-
----
-
-## Complete Template
-
-```
-Subject: Your [specific content]—plus a collaboration idea
+Subject: Loved your [specific content] — collaboration idea
 
 Hi [Name],
 
-Your [specific content] on [topic] was [specific compliment]—
-[what resonated and why].
+I've been following your content for a while — your [specific post/video] on [topic] really resonated with our team.
 
-I'm [brief intro—who you are and what you do].
+I'm [name] from [company]. We make [brief product description] and think your audience would find it genuinely useful because [specific reason tied to their content themes].
 
-I think there's a natural fit for collaboration:
-• [What you offer]
-• [What you're hoping for]
-• [Why it benefits their audience]
+Would you be interested in trying [product] and sharing your honest take with your audience?
 
-Would you be open to exploring this?
+What we'd provide:
+- [Free product/access]
+- [Compensation details if applicable]
+- [Creative freedom — your style, your voice]
 
-Best,
-[Your Name]
+No pressure — just thought there could be a natural fit. Happy to chat more if you're interested.
+
+[Your name]
+```
+
+### Template 2: Content Feature
+
+```
+Subject: Featuring you in our [content piece]
+
+Hi [Name],
+
+We're creating [content type — e.g., expert roundup, industry report, podcast series] on [topic] and would love to feature your insights.
+
+What we need: [Specific ask — e.g., 2-3 sentence quote, 30-minute interview, short video clip]
+
+What you get:
+- Exposure to our audience of [size/description]
+- Link back to [their site/profile]
+- We'll promote across [your channels]
+
+[Similar influencer] and [another] are already participating.
+
+Interested?
+
+[Your name]
 ```
 
 ---
 
-## Negotiation Framework
+## Influencer Outreach Best Practices
 
-### Key Terms to Discuss
-- Compensation structure
-- Content ownership and usage rights
-- Deliverables and timeline
-- Approval process
-- Exclusivity requirements
-- FTC disclosure requirements
-
-### Rate Considerations
-- Follower count and engagement rate
-- Platform and content type
-- Production complexity
-- Usage rights and duration
-- Exclusivity scope
+- Demonstrate genuine familiarity with their content
+- Match compensation to their audience size and engagement
+- Respect their creative autonomy and voice
+- Be transparent about expectations and deliverables
+- Start with micro-influencers (1K-50K) for better engagement rates
+- Build relationships before pitching — engage with their content first
+- Provide clear briefs without being overly prescriptive
+- Have a contract covering deliverables, timeline, usage rights, and payment

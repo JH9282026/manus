@@ -1,44 +1,61 @@
-# Regulatory Standards for Clinical Research
+# Regulatory Standards and Compliance
 
-## ICH Guidelines
-
-### Key ICH Documents
-
-| Guideline | Topic | Application |
-|-----------|-------|-------------|
-| E3 | Clinical Study Reports | CSR structure and content |
-| E6 | Good Clinical Practice | Conduct standards |
-| E8 | General Clinical Studies | Study design principles |
-| E9 | Statistical Principles | Analysis methodology |
-| E10 | Control Groups | Comparator selection |
-| E17 | Multi-regional Trials | Global development |
+Navigate regulatory requirements for clinical research across jurisdictions.
 
 ---
 
-## Clinical Study Report (ICH E3)
+## ICH Guidelines for Clinical Research
 
-### CSR Structure
+### Key ICH Guidelines
 
-1. **Title Page and Synopsis**
-2. **Table of Contents**
-3. **Ethics**
-4. **Investigators and Study Sites**
-5. **Introduction**
-6. **Study Objectives**
-7. **Investigational Plan**
-8. **Study Subjects**
-9. **Efficacy Evaluation**
-10. **Safety Evaluation**
-11. **Discussion and Conclusions**
-12. **Appendices**
+| Guideline | Title | Application |
+|---|---|---|
+| ICH E3 | Structure and Content of CSRs | Clinical study report format |
+| ICH E6 (R2) | Good Clinical Practice | Conduct of clinical trials |
+| ICH E8 (R1) | General Considerations for Clinical Studies | Study design principles |
+| ICH E9 (R1) | Statistical Principles (Estimands) | Statistical analysis framework |
+| ICH E10 | Choice of Control Group | Comparator selection |
+| ICH E17 | Multi-Regional Clinical Trials | Global trial design |
+| ICH M4 | Common Technical Document (CTD) | Submission format |
 
-### Key Components
-- Subject disposition (CONSORT)
-- Demographics and baseline
-- Efficacy results (primary, secondary)
-- Safety results (AEs, labs, vitals)
-- Statistical methodology
-- Individual patient data
+### Clinical Study Report (CSR) Structure — ICH E3
+
+| Section | Content |
+|---|---|
+| Synopsis | 3-5 page summary of study and results |
+| Table of contents | Complete with list of tables, figures, appendices |
+| Ethics | IRB approvals, informed consent process |
+| Investigators and study sites | List of all sites and principal investigators |
+| Study objectives | Primary and secondary objectives |
+| Study design | Design description, endpoints, statistical methods |
+| Study population | Enrollment, demographics, disposition |
+| Efficacy results | Primary and secondary endpoint analyses |
+| Safety results | AE summary, SAEs, lab abnormalities, deaths |
+| Discussion and conclusions | Interpretation of results |
+| Appendices | Protocol, SAP, CRFs, individual data listings |
+
+---
+
+## Regulatory Pathways
+
+### FDA Pathways (United States)
+
+| Pathway | Timeline | Requirements | Best For |
+|---|---|---|---|
+| Standard NDA/BLA | 10-12 months review | Full clinical program | Most applications |
+| Priority Review | 6 months review | Significant improvement over existing | Serious conditions |
+| Breakthrough Therapy | Expedited development + review | Substantial improvement on surrogate | Serious conditions, early evidence |
+| Accelerated Approval | Based on surrogate endpoint | Post-marketing confirmatory study required | Serious conditions, unmet need |
+| Fast Track | Rolling review, more FDA interaction | Addresses unmet medical need | Serious conditions |
+
+### EMA Pathways (European Union)
+
+| Pathway | Description | Requirements |
+|---|---|---|
+| Centralized Procedure | Single application for all EU | Required for biotech, orphan, HIV, cancer |
+| Conditional Marketing Authorization | Early approval with conditions | Positive benefit-risk, unmet need |
+| PRIME (Priority Medicines) | Enhanced support for promising therapies | Substantial clinical evidence, unmet need |
+| Accelerated Assessment | Reduced review timeline (150 days) | Major public health interest |
 
 ---
 
@@ -46,64 +63,18 @@
 
 ### CDISC Standards
 
-| Standard | Purpose |
-|----------|----------|
-| CDASH | Data collection standards |
-| SDTM | Data tabulation model |
-| ADaM | Analysis data model |
-| Define-XML | Metadata documentation |
+| Standard | Purpose | Application |
+|---|---|---|
+| SDTM | Study Data Tabulation Model | Raw collected data standardization |
+| ADaM | Analysis Data Model | Analysis-ready datasets |
+| CDASH | Clinical Data Acquisition Standards | Data collection (CRF) standardization |
+| Define-XML | Dataset metadata | Machine-readable data definitions |
+| ODM | Operational Data Model | Data exchange between systems |
 
-### SDTM Domains
-- DM: Demographics
-- AE: Adverse Events
-- CM: Concomitant Medications
-- EX: Exposure
-- LB: Laboratory Results
-- VS: Vital Signs
+### Compliance Requirements
 
----
-
-## Quality Assessment Tools
-
-### RCT Quality (Cochrane RoB 2.0)
-
-| Domain | Assessment |
-|--------|------------|
-| Randomization process | Low/High/Some concerns |
-| Deviations from intervention | Low/High/Some concerns |
-| Missing outcome data | Low/High/Some concerns |
-| Outcome measurement | Low/High/Some concerns |
-| Selection of results | Low/High/Some concerns |
-
-### Observational Studies (STROBE)
-- Study design description
-- Setting and participants
-- Variables and data sources
-- Bias considerations
-- Statistical methods
-- Main results
-- Limitations
-
----
-
-## Regulatory Submissions
-
-### FDA Submission Types
-- IND: Investigational New Drug
-- NDA: New Drug Application
-- BLA: Biologics License Application
-- ANDA: Abbreviated NDA (generics)
-- 505(b)(2): Referenced NDA
-
-### EMA Submissions
-- CTA: Clinical Trial Application
-- MAA: Marketing Authorization Application
-- Scientific advice procedures
-- Orphan drug designation
-
-### Common Technical Document (CTD)
-- Module 1: Regional administrative
-- Module 2: Summaries
-- Module 3: Quality
-- Module 4: Nonclinical
-- Module 5: Clinical
+- FDA requires CDISC SDTM/ADaM for all NDA/BLA submissions
+- EMA increasingly requires CDISC standards
+- Japan PMDA requires CDISC for new submissions
+- Maintain audit trail for all data transformations
+- Validate all analysis programs with independent QC

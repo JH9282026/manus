@@ -1,155 +1,127 @@
-# Conversation Templates
+# Chatbot Templates and Frameworks
 
-## Customer Service Templates
+Ready-to-use conversation templates and persona development worksheets.
 
-### Order Status Conversation
+---
+
+## Opening Message Templates
+
+### Customer Support
+
 ```
-[Opening]
-Bot: Hi! Need to check on an order? I can help with that.
-     What's your order number?
+Hi! 👋 I'm [Bot Name], your [Company] assistant.
 
-[Collection]
-User: 12345
-Bot: Looking up order #12345...
+I can help with:
+• Order tracking and returns
+• Product questions
+• Account management
 
-[Delivery]
-Bot: Found it! Here's the status:
-     📦 Order #12345
-     📍 Status: In transit
-     📅 Expected: Thursday, Oct 21
-     🔗 Track: [link]
-
-[Close]
-Bot: Anything else I can help with?
-     [🎁 Another order] [🔄 Start return] [✅ All set]
+What can I help you with?
 ```
 
-### Return Request Conversation
+### E-Commerce
+
 ```
-[Opening]
-Bot: I can help you start a return. What's your order number?
+Welcome to [Brand]! 🛍️
 
-[Collection]
-User: 67890
-Bot: Order #67890—got it! Which item are you returning?
-     [👕 Blue T-Shirt] [👖 Black Jeans] [👟 White Sneakers]
+Looking for something specific, or just browsing?
 
-User: [Blue T-Shirt]
-Bot: What's the reason for the return?
-     [📏 Wrong size] [💥 Damaged] [👎 Didn't like it] [📦 Wrong item]
+[Search products] [See deals] [Track order] [Get help]
+```
 
-[Processing]
-User: [Wrong size]
-Bot: No problem! Here's your return label: [link]
-     Drop it at any UPS location within 14 days.
-     Refund processes in 3-5 business days.
+### SaaS Onboarding
 
-[Close]
-Bot: Return started! Need help with anything else?
+```
+Welcome aboard, [Name]! 🎉
+
+I'm here to help you get started with [Product]. Ready for a quick tour?
+
+[Show me around] [I'll explore on my own] [I have a question]
+```
+
+### Lead Generation
+
+```
+Hey there! Interested in [solution category]?
+
+I can help you find the right plan in about 2 minutes.
+
+[Yes, let's go] [Tell me more first] [Just browsing]
 ```
 
 ---
 
-## Lead Generation Templates
+## NLP Training Phrase Templates
 
-### Product Qualification
-```
-[Opening]
-Bot: Hey! 👋 Looking for the right [product] for your team?
-     I can help you find the perfect fit.
+### Intent: Greeting (15+ variations)
+- "Hi" / "Hello" / "Hey" / "Hey there"
+- "Good morning" / "Good afternoon"
+- "What's up" / "Howdy"
+- "I need help" / "Can you help me"
 
-[Qualification Q1]
-Bot: First, how big is your team?
-     [1-10] [11-50] [51-200] [200+]
+### Intent: Order Status (15+ variations)
+- "Where is my order?"
+- "Track my package"
+- "When will my order arrive?"
+- "Check order status"
+- "Is my stuff shipped yet?"
+- "Delivery update"
+- "Order #12345 status"
 
-[Qualification Q2]
-User: [11-50]
-Bot: Mid-sized team! What's your biggest challenge right now?
-     [📈 Tracking progress] [💬 Collaboration] [⏰ Time management]
+### Intent: Complaint (15+ variations)
+- "This is broken"
+- "I'm not happy with my purchase"
+- "I want to complain"
+- "Your product is terrible"
+- "I need to file a complaint"
+- "Something is wrong with my order"
 
-[Recommendation]
-User: [Collaboration]
-Bot: Collaboration is key for growing teams.
-     Our Team Plan includes:
-     ✓ Shared workspaces
-     ✓ Real-time chat
-     ✓ Video calls built in
-
-[CTA]
-Bot: Want to see it in action?
-     [📅 Schedule demo] [🆓 Start free trial] [ℹ️ More info first]
-```
-
----
-
-## Bot Persona Template
-
-```
-BOT PERSONA DEFINITION
-
-Name: [Bot name]
-Role: [What does the bot do?]
-
-Personality Traits:
-1. [Trait 1—e.g., Helpful]
-2. [Trait 2—e.g., Patient]
-3. [Trait 3—e.g., Friendly]
-
-Speaking Style:
-- Tone: [Professional but warm]
-- Formality: [Casual to semi-formal]
-- Emoji usage: [Moderate—1-2 per conversation]
-- Humor: [Light, appropriate]
-
-Sample Phrases:
-- Greeting: "Hi there! How can I help?"
-- Clarification: "Let me make sure I understand..."
-- Success: "All set! Anything else?"
-- Error: "Hmm, that didn't work. Let me try another way."
-- Handoff: "I'm connecting you with someone who can help."
-- Goodbye: "Thanks for chatting! Have a great day."
-
-Words We Use:
-- "Happy to help"
-- "Got it!"
-- "Let me check on that"
-
-Words We Avoid:
-- Corporate jargon
-- "Per our policy..."
-- "Unfortunately..."
-```
+### Intent: Human Request (15+ variations)
+- "Talk to a person"
+- "I want a human"
+- "Get me an agent"
+- "Real person please"
+- "Let me speak to someone"
+- "Transfer me"
 
 ---
 
-## Conversation Flow Template
+## Persona Development Worksheet
 
-```
-[Conversation Name]: [Name]
+### Step 1: Define Purpose
+- What is the bot's primary function?
+- What problems does it solve?
+- What is the target user demographic?
 
-Trigger: [What initiates this flow?]
+### Step 2: Define Personality
+- List 3-4 personality adjectives
+- Place on the personality dimension scales (formality, humor, warmth, directness, confidence)
+- Write sample greeting in-character
 
-1. Opening
-   Bot: "[Opening message]"
-   Options: [Button 1] [Button 2] [Free text]
+### Step 3: Create Voice Guidelines
+- **Vocabulary:** Words to use, words to avoid
+- **Sentence style:** Short/long, fragments allowed, contractions
+- **Emoji policy:** Frequency, types, contexts
+- **Capitalization:** Standard, all caps for emphasis, sentence case
 
-2. Intent Recognition
-   If [Intent A] → Go to Step 3A
-   If [Intent B] → Go to Step 3B
-   If Unclear → Go to Fallback
+### Step 4: Write Sample Dialogues
+- Write 5 happy-path conversations
+- Write 5 error/edge-case conversations
+- Test with real users for naturalness
 
-3A. [Intent A Flow]
-    Bot: "[Response]"
-    Required info: [Entity 1], [Entity 2]
-    ...
+---
 
-3B. [Intent B Flow]
-    ...
+## Conversation Audit Checklist
 
-Fallback:
-    Bot: "[Clarification message]"
-    Options: [Option 1] [Option 2] [Talk to human]
+Review existing bot conversations against these criteria:
 
-Closing:
-    Bot: "[Closing message]"
-```
+- [ ] Every path has a terminal node (success, escalation, or redirect)
+- [ ] Fallback responses are natural and helpful, not robotic
+- [ ] Escalation to human is available at every stage
+- [ ] Confirmation happens before irreversible actions
+- [ ] Error messages explain what went wrong and what to do next
+- [ ] Bot never claims to be human
+- [ ] Response time expectations are set appropriately
+- [ ] All buttons/quick replies have clear, action-oriented labels
+- [ ] Conversation respects user privacy and data handling policies
+- [ ] Multi-language support matches user base demographics

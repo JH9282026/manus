@@ -1,102 +1,82 @@
 ---
 name: "cmo-strategic-marketing-leadership"
-description: "Develop and execute comprehensive marketing strategy as Chief Marketing Officer. Use for: brand strategy, go-to-market planning, customer acquisition, marketing ROI, MarTech strategy, demand generation, customer lifecycle marketing, and marketing organization design."
+description: "Develop and execute comprehensive marketing strategy as Chief Marketing Officer. Use for: brand strategy and management, go-to-market planning, customer acquisition and retention, marketing ROI measurement, MarTech stack strategy, demand generation, content and digital marketing, customer lifecycle optimization, and marketing organization design."
 ---
 
 # CMO Strategic Marketing Leadership
 
-Deliver executive-level marketing strategy and brand leadership.
+Deliver executive-level marketing strategy translating business objectives into market execution that drives revenue growth, brand equity, and customer lifetime value.
 
 ## Overview
 
-This skill provides comprehensive CMO capabilities for strategic marketing leadership. Develop marketing strategies aligned with business objectives, build brand equity, optimize customer acquisition, measure marketing ROI, and establish marketing as a growth driver.
+Function as a Chief Marketing Officer providing end-to-end marketing leadership including brand strategy, go-to-market planning, demand generation, customer lifecycle optimization, MarTech management, and marketing performance measurement. Apply data-driven frameworks and modern marketing methodologies to maximize marketing's contribution to business outcomes.
 
-## Marketing Strategy Selection
+## Marketing Strategy Framework
 
-| Business Priority | Marketing Focus | Key Initiatives | Reference |
-|-------------------|-----------------|-----------------|----------|
-| Revenue growth | Demand generation | Pipeline, conversion | `/references/demand-generation.md` |
-| Brand building | Brand strategy | Awareness, positioning | `/references/brand-strategy.md` |
-| Market expansion | Go-to-market | Launch, penetration | `/references/go-to-market.md` |
-| Efficiency | Marketing ROI | Attribution, optimization | `/references/marketing-analytics.md` |
-| Digital maturity | MarTech | Stack, automation | `/references/martech-strategy.md` |
+| Strategic Area | Key Activities | Success Metrics |
+|---|---|---|
+| Brand strategy | Positioning, messaging, identity management | Brand awareness, consideration, NPS |
+| Demand generation | Lead gen, pipeline creation, conversion optimization | MQLs, SQLs, pipeline value, CAC |
+| Customer lifecycle | Acquisition, activation, retention, expansion | CLV, churn rate, net revenue retention |
+| Content marketing | Strategy, creation, distribution, measurement | Traffic, engagement, conversion, SEO rankings |
+| Digital marketing | Paid, organic, social, email channels | ROAS, CPC, CTR, channel attribution |
+| MarTech | Stack optimization, data integration, automation | Tech utilization, data quality, efficiency gains |
+| Marketing ops | Budget management, process optimization, reporting | Marketing efficiency ratio, speed-to-market |
 
-## Core Competencies
+## Go-to-Market Planning
 
-### Brand Strategy
-- Develop brand positioning and architecture
-- Create messaging frameworks
-- Build brand equity and awareness
-- Design brand governance
-- Measure brand health
+### GTM Launch Framework
 
-### Customer Acquisition
-- Design customer acquisition strategies
-- Optimize channel mix and spend allocation
-- Build demand generation programs
-- Create lead generation and nurturing
-- Measure CAC and acquisition efficiency
+| Phase | Activities | Timeline |
+|---|---|---|
+| Discovery | Market research, competitive analysis, ICP definition | 8-12 weeks pre-launch |
+| Strategy | Positioning, pricing, channel strategy, launch plan | 6-8 weeks pre-launch |
+| Preparation | Content creation, sales enablement, tech setup | 4-6 weeks pre-launch |
+| Launch | Campaign execution, PR, events, sales activation | Launch week |
+| Optimization | Performance analysis, iteration, scale winners | Ongoing post-launch |
 
-### Customer Lifecycle Marketing
-- Map customer journeys
-- Design retention and loyalty programs
-- Develop cross-sell and upsell strategies
-- Build customer advocacy
-- Maximize customer lifetime value
+### Ideal Customer Profile (ICP) Framework
 
-### Marketing Operations
-- Design marketing technology stack
-- Implement marketing automation
-- Build performance measurement
-- Optimize marketing processes
-- Develop marketing capabilities
+Define ICP using these dimensions:
+- **Firmographics** — Industry, company size, revenue, geography
+- **Technographics** — Technology stack, digital maturity, tool usage
+- **Behavioral** — Buying patterns, content consumption, engagement signals
+- **Pain points** — Specific problems your product solves
+- **Buying process** — Decision makers, influencers, budget cycle, procurement process
 
-## Key Deliverables
+## Marketing Budget Allocation
 
-### Strategic Documents
-- Annual Marketing Plan
-- Brand Strategy Document
-- Go-to-Market Strategy
-- Customer Segmentation Framework
+### Channel Mix Optimization
 
-### Campaign Materials
-- Campaign Briefs and Plans
-- Creative Strategy
-- Channel Strategy
-- Content Strategy
+| Channel | Typical B2B Allocation | Typical B2C Allocation | Measurement |
+|---|---|---|---|
+| Content marketing | 20-30% | 15-25% | Organic traffic, leads, engagement |
+| Paid digital | 20-30% | 30-40% | ROAS, CPA, attributed revenue |
+| Events/webinars | 10-20% | 5-10% | Pipeline generated, attendance, follow-up |
+| Email marketing | 5-10% | 10-15% | Open rate, CTR, revenue per email |
+| Social media | 5-10% | 15-25% | Engagement, reach, attributed conversions |
+| SEO | 5-10% | 5-10% | Organic traffic growth, keyword rankings |
+| Brand/PR | 5-10% | 10-15% | Media coverage, brand lift, SOV |
 
-### Performance Tools
-- Marketing Dashboard
-- Attribution Model
-- ROI Analysis
-- Budget Optimization Model
+## Marketing Performance Dashboard
 
-### Organizational
-- Marketing Org Design
-- MarTech Roadmap
-- Partner Strategy
-- Capability Development Plan
+Track these metrics at the executive level:
 
-## Marketing Maturity Assessment
-
-| Dimension | Basic | Developing | Advanced | Leading |
-|-----------|-------|------------|----------|--------|
-| Brand | Inconsistent | Defined | Managed | Iconic |
-| Demand gen | Reactive | Programmatic | Optimized | Predictive |
-| Customer insight | Intuition | Segmented | Personalized | Predictive |
-| MarTech | Point solutions | Integrated | Orchestrated | AI-enabled |
-| Measurement | Activity | Channel | Attribution | Optimization |
+- **Revenue contribution** — Marketing-sourced and influenced revenue as % of total
+- **Customer acquisition cost (CAC)** — Total marketing + sales cost / new customers
+- **CAC payback period** — Months to recover acquisition cost
+- **Marketing efficiency ratio** — Revenue generated / marketing spend
+- **Pipeline velocity** — Speed of lead-to-close conversion
+- **Net Promoter Score (NPS)** — Customer advocacy and satisfaction
 
 ## Using the Reference Files
 
-### When to Read Each Reference
+**`/references/brand-strategy.md`** — Read when developing brand positioning, messaging frameworks, or brand architecture decisions.
 
-**`/references/brand-strategy.md`** — Read when developing brand positioning, messaging frameworks, or brand architecture.
+**`/references/demand-generation.md`** — Read when building lead generation programs, optimizing conversion funnels, or designing ABM strategies.
 
-**`/references/demand-generation.md`** — Read when building demand gen programs, optimizing lead funnels, or designing campaigns.
+**`/references/go-to-market.md`** — Read when planning product launches, entering new markets, or designing channel strategies.
 
-**`/references/go-to-market.md`** — Read when launching products, entering new markets, or developing launch strategies.
+**`/references/marketing-analytics.md`** — Read when building attribution models, designing marketing dashboards, or calculating marketing ROI.
 
-**`/references/marketing-analytics.md`** — Read when building measurement frameworks, attribution models, or optimizing ROI.
-
-**`/references/martech-strategy.md`** — Read when evaluating marketing technology, building stacks, or implementing automation.
+**`/references/martech-strategy.md`** — Read when evaluating marketing technology, designing tech stack architecture, or implementing marketing automation.

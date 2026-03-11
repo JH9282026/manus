@@ -1,108 +1,76 @@
 # Email Deliverability
 
-## Sender Reputation
-
-### Reputation Factors
-
-| Factor | Impact | How to Optimize |
-|--------|--------|----------------|
-| Bounce rate | High | Verify lists, remove invalids |
-| Spam complaints | High | Send relevant content |
-| Engagement | Medium | Write compelling emails |
-| Send volume | Medium | Consistent patterns |
-| Domain age | Low | Use established domains |
+Optimize cold email deliverability to reach the inbox, not the spam folder.
 
 ---
 
-## Email Authentication
+## Domain and Infrastructure Setup
 
-### Required Records
+### Technical Requirements
 
-**SPF (Sender Policy Framework)**
-- Specifies authorized mail servers
-- Add to DNS as TXT record
-- Include all sending services
+| Configuration | Purpose | Priority |
+|---|---|---|
+| SPF record | Authorize sending servers | Required |
+| DKIM signing | Authenticate email integrity | Required |
+| DMARC policy | Prevent spoofing, receive reports | Required |
+| Custom tracking domain | Branded links, avoid shared domain reputation | Recommended |
+| Dedicated IP | Isolated sending reputation | For high volume (1,000+ daily) |
+| BIMI | Brand logo in inbox | Optional but beneficial |
 
-**DKIM (DomainKeys Identified Mail)**
-- Adds digital signature
-- Verifies email authenticity
-- Configure in sending platform
+### Domain Warming Schedule
 
-**DMARC (Domain-based Message Authentication)**
-- Tells receivers how to handle failures
-- Builds on SPF and DKIM
-- Start with p=none, progress to p=reject
-
----
-
-## Domain Warm-Up
-
-### New Domain Schedule
+New domain or IP must be warmed gradually:
 
 | Week | Daily Volume | Focus |
-|------|--------------|-------|
-| 1 | 10-20 | High-engagement recipients |
-| 2 | 25-50 | Expand gradually |
-| 3 | 50-100 | Monitor metrics |
-| 4+ | 100+ | Increase to target |
+|---|---|---|
+| 1 | 10-20 emails | Send to engaged contacts, personal network |
+| 2 | 20-50 emails | Expand to warm contacts, request replies |
+| 3 | 50-100 emails | Begin limited cold outreach |
+| 4 | 100-200 emails | Scale cautiously, monitor deliverability |
+| 5+ | Increase 20-30% weekly | Scale based on engagement metrics |
 
-### Warm-Up Best Practices
-- Start with engaged recipients
-- Send from personal account first
-- Generate replies early
-- Mix cold and warm emails
-- Monitor reputation closely
+**Critical:** Never exceed 200 cold emails/day per domain. Use multiple sending domains for higher volume.
 
 ---
 
-## Spam Trigger Avoidance
+## Spam Filter Avoidance
 
-### Words to Avoid
-- FREE, URGENT, ACT NOW
-- Excessive punctuation (!!!)
-- ALL CAPS
-- "Click here," "Limited time"
-- Money symbols ($$$)
+### Content Guidelines
 
-### Format Best Practices
-- Text-to-link ratio (minimal links)
-- No URL shorteners
-- No attachments in cold emails
-- Include plain text version
-- Consistent formatting
+**Avoid these spam triggers:**
+- ALL CAPS words
+- Excessive exclamation marks (!!!)
+- Spam phrases: "Act now", "Limited time", "Free", "Click here"
+- Image-heavy emails with little text
+- Large attachments
+- URL shorteners (bit.ly)
+- Too many links (keep to 1-2 maximum)
 
----
-
-## List Hygiene
-
-### Verification Process
-1. Run through verification service
-2. Remove hard bounces
-3. Remove role accounts (info@, sales@)
-4. Check for spam traps
-5. Validate regularly (quarterly)
-
-### Verification Services
-- ZeroBounce
-- NeverBounce
-- Hunter.io
-- Clearout
+**Best practices:**
+- Plain text outperforms HTML for cold email
+- Keep emails under 150 words
+- Use natural language, not marketing copy
+- Include a plain-text signature
+- One link maximum in cold emails
+- Always include physical address (CAN-SPAM)
 
 ---
 
-## Monitoring Metrics
+## Deliverability Metrics
 
-### Key Indicators
-
-| Metric | Healthy Range | Action if Poor |
-|--------|---------------|----------------|
-| Open rate | 40-60% | Check subject lines, sender |
-| Bounce rate | <2% | Clean list |
-| Spam complaint | <0.1% | Review content, targeting |
-| Reply rate | 5-15% | Improve copy, personalization |
+| Metric | Healthy Range | Action if Below |
+|---|---|---|
+| Delivery rate | >95% | Check bounce reasons, clean list |
+| Open rate | >40% (cold) | Improve subject lines, check deliverability |
+| Reply rate | >5% (cold) | Improve personalization and offer |
+| Bounce rate | <3% | Verify emails before sending |
+| Spam complaint rate | <0.1% | Reduce volume, improve targeting |
+| Unsubscribe rate | <0.5% | Better targeting, respect opt-outs |
 
 ### Monitoring Tools
-- Google Postmaster Tools
-- Microsoft SNDS
-- MXToolbox
-- Mail-tester.com
+
+- Google Postmaster Tools — Monitor Gmail reputation
+- Microsoft SNDS — Monitor Outlook reputation
+- Mail-tester.com — Check email spam score
+- MXToolbox — Verify DNS and blacklist status
+- GlockApps — Test inbox placement across providers

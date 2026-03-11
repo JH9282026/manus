@@ -1,109 +1,95 @@
 ---
 name: "change-management"
-description: "Plan and execute organizational change initiatives using proven frameworks (ADKAR, Kotter, Lewin). Use for: technology implementations, organizational restructuring, process transformations, cultural change programs, merger integrations, stakeholder engagement planning, resistance management, and adoption strategies."
+description: "Plan and execute organizational change initiatives using proven frameworks (ADKAR, Kotter, Lewin). Use for: technology implementations, organizational restructuring, process transformations, cultural change programs, merger integrations, Agile transformations, stakeholder engagement planning, resistance management, adoption strategy development, and change metrics tracking."
 ---
 
 # Change Management
 
-Plan and execute organizational change initiatives to achieve successful adoption and sustainable transformation.
+Plan and execute organizational change initiatives that achieve adoption and deliver sustainable business outcomes.
 
 ## Overview
 
-This skill provides comprehensive change management capabilities using proven methodologies (Prosci ADKAR, Kotter's 8-Step Model, Lewin's Change Model). Apply these frameworks to drive stakeholder engagement, manage resistance, accelerate adoption, and embed lasting organizational change.
+Provide comprehensive organizational change management capabilities spanning change strategy development, stakeholder engagement, resistance management, communication planning, training design, and adoption measurement. Apply proven methodologies including Prosci ADKAR, Kotter's 8-Step Model, and Lewin's Change Model to drive successful transformations across technology, process, structure, and culture changes.
 
 ## Change Methodology Selection
 
-| Scenario | Recommended Framework | Reference |
-|----------|----------------------|----------|
-| Individual behavior change focus | ADKAR Model | `/references/change-frameworks.md` |
-| Large-scale transformation | Kotter's 8-Step | `/references/change-frameworks.md` |
-| Simple process changes | Lewin's Unfreeze-Change-Refreeze | `/references/change-frameworks.md` |
-| Technology implementation | Hybrid approach | `/references/implementation-guide.md` |
-| Cultural transformation | Values-based change | `/references/culture-change.md` |
+| Change Type | Recommended Framework | Best For |
+|---|---|---|
+| Technology implementation | ADKAR (Awareness, Desire, Knowledge, Ability, Reinforcement) | Individual behavior change, structured rollouts |
+| Cultural transformation | Lewin (Unfreeze-Change-Refreeze) | Deep behavioral shifts, mindset changes |
+| Strategic initiative | Kotter 8-Step | Large-scale, multi-phase programs |
+| Agile transformation | Hybrid (Kotter + ADKAR) | Iterative adoption with individual tracking |
+| Merger integration | Accelerated Kotter | Speed-critical, dual-culture alignment |
 
-## Core Competencies
+## Change Readiness Assessment
 
-### Change Strategy Development
-- Assess organizational readiness and change capacity
-- Develop change vision and case for change
-- Design change approach aligned with business objectives
-- Create change governance and sponsorship structure
-- Define success metrics and measurement framework
+Evaluate organizational readiness across five dimensions before initiating change:
 
-### Stakeholder Management
-- Map stakeholder groups by impact and influence
-- Analyze stakeholder attitudes and resistance patterns
-- Design engagement strategies by stakeholder segment
-- Build sponsor roadmap and coalition of support
-- Establish change agent networks
+1. **Sponsorship** — Assess executive commitment level, coalition strength, and visible advocacy
+2. **Change history** — Review success/failure of past initiatives, organizational fatigue, and lessons learned
+3. **Culture** — Evaluate openness to change, risk tolerance, and innovation appetite
+4. **Capacity** — Determine bandwidth for change given competing priorities and saturation levels
+5. **Capability** — Assess existing change management skills, tools, and infrastructure
 
-### Communication Planning
-- Create key message framework by audience
-- Design multi-channel communication strategy
-- Develop communication calendar and cadence
-- Build feedback mechanisms and two-way channels
-- Prepare leader talking points and cascade materials
+Score each dimension 1–10. Aggregate scores below 30 indicate high risk requiring intervention before launch.
 
-### Training and Enablement
-- Assess learning needs by role and group
-- Design training curriculum and delivery approach
-- Develop job aids and performance support tools
-- Implement knowledge transfer and reinforcement
-- Measure competency development
+## Stakeholder Engagement Framework
 
-### Adoption and Sustainability
-- Track adoption metrics and leading indicators
-- Identify and address resistance root causes
-- Design reinforcement mechanisms
-- Integrate change into performance management
-- Plan ownership transition and sustainability
+### Stakeholder Mapping Matrix
 
-## Key Deliverables
+| Influence | High Impact | Low Impact |
+|---|---|---|
+| **High Influence** | Manage closely — executive sponsors, key leaders | Keep satisfied — board, regulators |
+| **Low Influence** | Keep informed — affected employees, unions | Monitor — peripheral stakeholders |
 
-### Strategic Documents
-- Change Management Strategy (25-40 pages)
-- Change Roadmap with phases and milestones
-- Stakeholder Analysis and Engagement Plan
-- Change Impact Assessment
+### Engagement Strategy by Segment
 
-### Communication Materials
-- Communication Plan and Calendar
-- Key Message Framework
-- Leader Toolkit and Cascade Materials
-- FAQ and Feedback Channels
+- **Sponsors** — Activate through roadmap, talking points, and visible leadership actions
+- **Change champions** — Recruit, train, and empower a network of 1 champion per 50 employees
+- **Middle managers** — Equip with coaching toolkits, FAQ documents, and peer support groups
+- **End users** — Engage through communication, training, feedback mechanisms, and recognition
 
-### Enablement Materials
-- Training Curriculum and Schedule
-- Job Aids and Quick Reference Guides
-- Super User Program Design
-- Coaching Toolkit for Managers
+## Communication Planning
 
-### Measurement Tools
-- Change Metrics Dashboard
-- Adoption Tracking Framework
-- Resistance Assessment Tool
-- Sustainability Scorecard
+Design a multi-channel communication cadence:
 
-## Change Type Selection Guide
+| Phase | Frequency | Channels | Key Messages |
+|---|---|---|---|
+| Awareness (pre-launch) | Weekly | Town halls, email, intranet | Why change, vision, timeline |
+| Preparation (1-2 months pre) | Bi-weekly | Manager cascades, team meetings | What changes, personal impact, support available |
+| Go-live (launch week) | Daily | All channels, help desk, champions | How-to, where to get help, quick wins |
+| Reinforcement (post-launch) | Monthly tapering | Newsletters, success stories, pulse surveys | Progress, wins, adjustments, recognition |
 
-| Change Type | Key Focus Areas | Critical Success Factors |
-|-------------|-----------------|-------------------------|
-| Technology implementation | Training, process change, user adoption | Early engagement, hands-on practice |
-| Organizational restructure | Role clarity, career paths, team integration | Transparent communication, manager capability |
-| Process transformation | New ways of working, efficiency gains | Clear benefits, quick wins visible |
-| Cultural change | Behaviors, values, mindsets | Leader role modeling, recognition |
-| M&A integration | Culture alignment, synergy realization | Speed of decisions, talent retention |
+## Resistance Management
+
+Classify and address resistance by root cause:
+
+| Resistance Type | Root Cause | Intervention |
+|---|---|---|
+| Awareness resistance | Lack of understanding why | Targeted communication, sponsor messaging |
+| Desire resistance | No personal motivation | WIIFM messaging, incentives, peer influence |
+| Knowledge resistance | Don't know how | Training, job aids, coaching |
+| Ability resistance | Can't perform in new way | Practice environments, mentoring, support |
+| Reinforcement resistance | Reverting to old ways | Recognition, metrics, accountability |
+
+## Change Metrics Dashboard
+
+Track adoption through leading and lagging indicators:
+
+- **Awareness** — Communication reach (%), town hall attendance, survey comprehension scores
+- **Adoption** — System utilization rates, process compliance, training completion
+- **Proficiency** — Error rates, time-to-task, support ticket volume
+- **Satisfaction** — Pulse survey scores, eNPS, qualitative feedback themes
+- **Business outcomes** — Benefit realization against projected ROI, productivity metrics
 
 ## Using the Reference Files
 
-### When to Read Each Reference
+**`/references/change-frameworks.md`** — Read when selecting or implementing a specific change methodology (ADKAR, Kotter, Lewin) or designing a hybrid approach.
 
-**`/references/change-frameworks.md`** — Read when selecting a change methodology or understanding framework components for specific initiatives.
+**`/references/resistance-management.md`** — Read when encountering significant resistance, planning proactive resistance mitigation, or coaching managers on resistance conversations.
 
-**`/references/implementation-guide.md`** — Read when planning change execution phases, developing detailed work plans, or managing complex implementations.
+**`/references/culture-change.md`** — Read when the change involves cultural transformation, behavioral shifts, or values-based programs.
 
-**`/references/culture-change.md`** — Read when addressing cultural transformation, behavioral change programs, or values-based initiatives.
+**`/references/implementation-guide.md`** — Read when building detailed change plans, designing training programs, or planning go-live activities.
 
-**`/references/resistance-management.md`** — Read when encountering stakeholder resistance, planning interventions, or coaching leaders on resistance handling.
-
-**`/references/metrics-measurement.md`** — Read when designing change measurement approaches, building dashboards, or tracking adoption progress.
+**`/references/metrics-measurement.md`** — Read when establishing change metrics, building dashboards, or conducting change health assessments.

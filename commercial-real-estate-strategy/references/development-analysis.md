@@ -1,116 +1,67 @@
-# Development Analysis
+# Development and Redevelopment Analysis
 
-## Feasibility Framework
-
-### Feasibility Components
-
-1. **Market Analysis**
-   - Demand drivers
-   - Supply pipeline
-   - Absorption trends
-   - Rent projections
-
-2. **Site Analysis**
-   - Zoning and entitlements
-   - Physical characteristics
-   - Access and utilities
-   - Environmental considerations
-
-3. **Financial Analysis**
-   - Development costs
-   - Projected revenues
-   - Return metrics
-   - Sensitivity analysis
-
-4. **Risk Assessment**
-   - Market risk
-   - Construction risk
-   - Entitlement risk
-   - Financing risk
+Evaluate feasibility and structure for new development and redevelopment projects.
 
 ---
 
-## Market Feasibility
+## Development Feasibility Analysis
 
-### Demand Analysis
+### Feasibility Study Components
 
-| Factor | Analysis |
-|--------|----------|
-| Employment growth | Job growth projections |
-| Population growth | Household formation |
-| Industry trends | Sector expansion/contraction |
-| Tenant requirements | Size, specifications |
+1. **Market study** — Supply/demand analysis, absorption projections, competitive survey
+2. **Site analysis** — Zoning, entitlements, environmental, access, utilities
+3. **Program definition** — Building size, unit mix, parking, amenities
+4. **Construction cost estimate** — Hard costs, soft costs, contingency
+5. **Pro forma** — Revenue projections, operating expenses, financing, returns
+6. **Risk assessment** — Construction risk, lease-up risk, market risk, entitlement risk
 
-### Supply Analysis
+### Development Pro Forma Structure
 
-| Factor | Analysis |
-|--------|----------|
-| Existing inventory | Current supply, vacancy |
-| Pipeline | Under construction, planned |
-| Competitive positioning | Where does project fit? |
-| Absorption capacity | Can market absorb new supply? |
+| Line Item | Description |
+|---|---|
+| Land cost | Acquisition price + closing costs |
+| Hard costs | Construction, site work, tenant improvements |
+| Soft costs | Architecture, engineering, legal, permits, insurance |
+| Financing costs | Construction loan interest, fees |
+| Contingency | 5-10% of hard + soft costs |
+| **Total development cost** | Sum of all above |
+| Stabilized NOI | Revenue at stabilization minus operating expenses |
+| Yield on cost | Stabilized NOI / Total development cost |
+| Market cap rate | Comparable sales capitalization rate |
+| Estimated value | Stabilized NOI / Market cap rate |
+| Development margin | (Estimated value - Total cost) / Total cost |
 
----
+### Target Returns by Strategy
 
-## Financial Analysis
-
-### Development Budget
-
-| Category | % of Total | Components |
-|----------|------------|------------|
-| Land | 15-25% | Acquisition, closing costs |
-| Hard costs | 55-70% | Construction, site work |
-| Soft costs | 15-25% | Design, permits, legal, financing |
-| Contingency | 5-10% | Buffer for unknowns |
-
-### Return Metrics
-
-| Metric | Calculation | Target |
-|--------|-------------|--------|
-| Yield on cost | Stabilized NOI / Total cost | Market cap + 100-200 bps |
-| Development spread | YOC - market cap rate | 100-200+ bps |
-| IRR | Levered/unlevered returns | Risk-adjusted target |
-| Equity multiple | Total distributions / equity | 1.5-2.0x typical |
+| Strategy | Yield on Cost Target | Margin Over Cap Rate | IRR Target |
+|---|---|---|---|
+| Core development | 5.5-6.5% | 100-150 bps over market cap | 8-12% |
+| Value-add redev | 7.0-8.5% | 150-250 bps over cap | 12-18% |
+| Opportunistic dev | 8.5%+ | 250+ bps over cap | 18-25% |
 
 ---
 
-## Risk Assessment
+## Redevelopment Strategy
 
-### Risk Categories
+### Conversion Feasibility Assessment
 
-| Risk Type | Mitigation |
-|-----------|------------|
-| Market | Pre-leasing, phasing |
-| Construction | GMP contracts, contingency |
-| Entitlement | Due diligence, local expertise |
-| Financing | Commitment letters, rate locks |
-| Environmental | Phase I/II, insurance |
+Evaluate conversion potential (e.g., office-to-residential, retail-to-mixed-use):
 
-### Sensitivity Analysis
-- Rent sensitivity (+/- 10%)
-- Construction cost sensitivity (+/- 10%)
-- Lease-up timing sensitivity
-- Exit cap rate sensitivity
-- Interest rate sensitivity
+| Factor | Assessment Criteria |
+|---|---|
+| Structural | Floor plate depth, floor-to-floor height, column spacing |
+| Mechanical | HVAC, plumbing, electrical capacity for new use |
+| Zoning | Permitted uses, variances needed, parking requirements |
+| Market | Demand for proposed use, achievable rents, absorption |
+| Financial | Conversion cost vs. new construction, potential value creation |
+| Environmental | Remediation needs, building condition, asbestos/lead |
 
----
+### Entitlement Process
 
-## Go/No-Go Decision
-
-### Decision Criteria
-
-| Criterion | Threshold |
-|-----------|----------|
-| Development spread | >100 bps |
-| Pre-leasing | >30-50% (speculative) |
-| IRR | >risk-adjusted hurdle |
-| Market fundamentals | Positive |
-| Entitlement risk | Manageable |
-| Capital availability | Confirmed |
-
-### Decision Framework
-1. Pass financial thresholds
-2. Acceptable risk profile
-3. Strategic fit
-4. Execution capability
-5. Capital allocation priority
+1. Pre-application meeting with planning department
+2. Zoning analysis and variance/special permit applications
+3. Environmental review (NEPA, CEQA, or local equivalent)
+4. Community engagement and public hearings
+5. Planning commission review and approval
+6. Building permit application and review
+7. Construction commencement

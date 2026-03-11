@@ -1,65 +1,75 @@
 # Incentive Plan Design
 
-Frameworks for bonus, commission, and long-term incentive programs.
+Design effective bonus, commission, and long-term incentive programs.
 
 ---
 
-## Annual Bonus Plans
+## Annual Bonus Plan Design
 
-### Structure Components
-- **Target Bonus**: Percentage of base salary
-- **Threshold**: Minimum performance for payout (typically 50% target)
-- **Maximum**: Cap on payout (typically 150-200% target)
-- **Funding**: Corporate, business unit, individual mix
+### Plan Structure Components
 
-### Performance Metrics
-- Financial: Revenue, EBITDA, EPS
-- Operational: Customer satisfaction, quality
-- Strategic: Market share, new products
-- Individual: MBOs, competencies
+| Component | Design Choices | Best Practice |
+|---|---|---|
+| Eligibility | By level, job family, or all employees | Broader eligibility increases alignment |
+| Target bonus | % of base salary by level | 10-15% individual contributor, 20-30% director, 40-60% VP+ |
+| Performance measures | Financial, operational, individual, strategic | Balance 2-4 measures |
+| Payout range | Threshold to maximum | 0-200% of target (threshold at 80% of goal) |
+| Payout curve | Linear, step, accelerator | Accelerators above target motivate stretch performance |
 
----
+### Performance Measure Selection
 
-## Sales Commission Plans
-
-### Plan Types
-- **Straight Commission**: 100% variable
-- **Base + Commission**: Typical 60/40 or 70/30 mix
-- **Draw Against Commission**: Guaranteed minimum
-
-### Rate Structures
-- Flat rate: Same % throughout
-- Tiered: Increasing % at thresholds
-- Accelerators: Higher % above quota
-- Decelerators: Lower % below threshold
-
-### Quota Setting
-- Top-down: Company target allocated
-- Bottom-up: Territory-based buildup
-- Hybrid: Both approaches reconciled
+| Measure Type | Examples | Weight (typical) |
+|---|---|---|
+| Financial (company) | Revenue, EBITDA, operating income | 40-60% |
+| Financial (BU/team) | Revenue, margin, cost targets | 20-30% |
+| Individual performance | Goals, competencies, projects | 10-30% |
+| Strategic | Market share, customer satisfaction, NPS | 10-20% |
 
 ---
 
-## Long-Term Incentives
+## Commission Plan Design
 
-### Equity Vehicles
-- **Stock Options**: Right to purchase at strike price
-- **RSUs**: Time-vested stock grants
-- **PSUs**: Performance-vested stock
-- **ESPP**: Discounted stock purchase
+### Commission Structure Types
 
-### Vesting Schedules
-- 4-year with 1-year cliff (standard)
-- Monthly vesting (retention-focused)
-- Performance-based vesting
-- Double-trigger acceleration
+| Type | How It Works | Best For |
+|---|---|---|
+| Straight commission | 100% variable, no base | Independent sales agents |
+| Base + commission | Fixed base + % of sales | Most B2B sales roles |
+| Draw against commission | Advance against future earnings | New sales reps (ramp period) |
+| Tiered commission | Higher % above quota | Motivating above-target performance |
+| Residual commission | Ongoing % of recurring revenue | Subscription/SaaS sales |
+
+### Sales Compensation Best Practices
+
+- Target total compensation at market competitive level
+- Pay mix: 60/40 (base/variable) for hunters, 70/30 for farmers
+- Set quotas achievable by 60-70% of reps at target
+- Top performers should earn 3-4x the poor performers
+- Accelerators above 100% quota (1.5-2x rate)
+- Cap payouts only if business model requires it
+- Pay commissions promptly (within 1-2 pay periods of close)
 
 ---
 
-## Modeling Considerations
+## Long-Term Incentive (LTI) Design
 
-### Monte Carlo Simulation
-- Model performance distributions
-- Calculate expected payout costs
-- Stress test under scenarios
-- Assess pay-for-performance alignment
+### LTI Vehicle Comparison
+
+| Vehicle | Tax Treatment | Retention Value | Alignment |
+|---|---|---|---|
+| Stock options | Capital gains on exercise | Moderate (upside only) | Growth companies |
+| RSUs | Ordinary income on vest | High (value floor) | Stable/growing companies |
+| Performance shares | Ordinary income on vest | High | Performance-driven cultures |
+| ESPP | Discounted purchase (15%) | Moderate | Broad-based participation |
+| Phantom stock | Ordinary income on payment | Moderate | Private companies |
+| Profit interest | Capital gains (partnership) | Moderate-High | LLCs, PE portfolio companies |
+
+### Vesting Schedule Design
+
+| Schedule Type | Structure | Best For |
+|---|---|---|
+| 4-year with 1-year cliff | 25% after year 1, monthly/quarterly after | Standard tech vesting |
+| 3-year annual | 33% per year | Shorter retention cycle |
+| Graded over 4 years | 25% each year | Equal annual retention |
+| Back-loaded | 10/20/30/40% over 4 years | Maximum retention pressure |
+| Performance-based | Vest on metric achievement | Performance-driven organizations |

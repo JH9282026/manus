@@ -1,108 +1,59 @@
-# Meta-Analysis and Evidence Synthesis
+# Meta-Analysis Methods
+
+Conduct systematic reviews and quantitative synthesis across clinical studies.
+
+---
 
 ## Systematic Review Process
 
 ### PRISMA Framework
 
-1. **Identification**
-   - Database searches (PubMed, Embase, Cochrane)
-   - Registration review (ClinicalTrials.gov)
-   - Grey literature search
+Follow the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) checklist:
 
-2. **Screening**
-   - Title/abstract review
-   - Full-text assessment
-   - Apply inclusion/exclusion criteria
-
-3. **Eligibility**
-   - Quality assessment
-   - Data extraction
-   - Risk of bias assessment
-
-4. **Inclusion**
-   - Final study selection
-   - PRISMA flow diagram
+1. **Define research question** using PICOS framework (Population, Intervention, Comparator, Outcome, Study design)
+2. **Search strategy** — Develop comprehensive search across PubMed, Cochrane, Embase, ClinicalTrials.gov
+3. **Study selection** — Apply predefined inclusion/exclusion criteria with dual review
+4. **Data extraction** — Standardized extraction forms with inter-rater reliability checks
+5. **Quality assessment** — Risk of bias assessment (Cochrane RoB 2.0 for RCTs, Newcastle-Ottawa for observational)
+6. **Synthesis** — Quantitative meta-analysis or narrative synthesis
 
 ---
 
-## Meta-Analysis Methods
+## Quantitative Meta-Analysis
 
-### Fixed Effects Model
-- Assumes common true effect
-- Weights by inverse variance
-- Use when studies homogeneous
-- Results specific to included studies
+### Effect Size Calculation
 
-### Random Effects Model
-- Assumes distribution of effects
-- Accounts for between-study variance
-- More conservative estimates
-- Results generalizable
+| Outcome Type | Effect Measure | Interpretation |
+|---|---|---|
+| Continuous | Mean difference, standardized mean difference (SMD) | Magnitude of treatment effect |
+| Binary | Odds ratio, risk ratio, risk difference | Likelihood of outcome |
+| Time-to-event | Hazard ratio | Rate of event occurrence |
 
-### Model Selection
+### Pooling Methods
 
-| Situation | Recommended Model |
-|-----------|------------------|
-| Homogeneous studies, same protocol | Fixed effects |
-| Heterogeneous populations | Random effects |
-| I² > 50% | Random effects |
-| Small number of studies | Fixed effects (with caution) |
+**Fixed-effects model** — Assumes single true effect size across studies
+- Use when studies are methodologically similar
+- Weighted by inverse variance
+- Gives more weight to larger studies
 
----
+**Random-effects model** — Assumes effect sizes vary across studies
+- Use when heterogeneity expected
+- DerSimonian-Laird or REML estimation
+- Gives relatively more weight to smaller studies
+- Generally preferred for clinical meta-analyses
 
-## Heterogeneity Assessment
-
-### Statistical Measures
+### Heterogeneity Assessment
 
 | Measure | Interpretation |
-|---------|---------------|
-| Q-test | Tests presence of heterogeneity |
-| I² | Percentage of variance due to heterogeneity |
-| τ² | Between-study variance estimate |
+|---|---|
+| Q statistic (Cochran's) | Tests whether variability exceeds sampling error (p < 0.10 indicates heterogeneity) |
+| I² statistic | Proportion of variability due to heterogeneity (25% low, 50% moderate, 75% high) |
+| τ² (tau-squared) | Estimated between-study variance |
+| Prediction interval | Range of likely effects in future studies |
 
-### I² Interpretation
-- 0-25%: Low heterogeneity
-- 25-50%: Moderate heterogeneity
-- 50-75%: Substantial heterogeneity
-- >75%: Considerable heterogeneity
+### Subgroup and Sensitivity Analysis
 
-### Exploring Heterogeneity
-- Subgroup analyses
-- Meta-regression
-- Sensitivity analyses
-- Outlier identification
-
----
-
-## Publication Bias
-
-### Detection Methods
-- Funnel plot visual inspection
-- Egger's regression test
-- Begg's rank correlation
-- Trim and fill method
-
-### Interpretation
-- Asymmetry suggests bias
-- Consider other causes (heterogeneity, chance)
-- Sensitivity analyses
-- Report transparently
-
----
-
-## Network Meta-Analysis (NMA)
-
-### Purpose
-- Compare treatments never directly compared
-- Rank multiple treatments
-- Inform treatment guidelines
-
-### Assumptions
-- Transitivity (similarity of studies)
-- Consistency (direct = indirect estimates)
-
-### Key Outputs
-- Treatment rankings (SUCRA)
-- League tables
-- Network diagrams
-- Forest plots by comparison
+- **Subgroup analysis** — Explore potential effect modifiers (age, disease severity, dose)
+- **Sensitivity analysis** — Assess robustness by excluding studies (leave-one-out, quality-based)
+- **Meta-regression** — Model relationship between study characteristics and effect size
+- **Funnel plots** — Assess publication bias (Egger's test, trim-and-fill)

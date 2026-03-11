@@ -1,71 +1,59 @@
-# Market Benchmarking Analysis
+# Compensation Market Analysis
 
-Comprehensive methodology for salary benchmarking against market data.
-
----
-
-## Survey Data Sources
-
-### Premium Surveys
-- **Radford**: Technology and life sciences focus
-- **Mercer**: Broad industry coverage
-- **Willis Towers Watson**: Executive compensation
-- **Culpepper**: Mid-market technology
-
-### Alternative Sources
-- Payscale (crowdsourced)
-- Levels.fyi (tech compensation)
-- Glassdoor (self-reported)
-- LinkedIn Salary Insights
+Conduct rigorous salary benchmarking and market positioning analysis.
 
 ---
 
-## Benchmarking Process
+## Survey Source Selection
 
-### Job Matching
-1. Review survey job descriptions
-2. Match based on scope, responsibilities, reporting level
-3. Document matching rationale
-4. Use multiple matches for hybrid roles
+### Major Compensation Surveys
 
-### Competitive Ratio Calculation
-```
-Competitive Ratio = Employee Salary / Market Median × 100
-```
-- Below 90%: Significantly below market
-- 90-95%: Below market
-- 95-105%: At market
-- 105-110%: Above market
-- Above 110%: Significantly above market
+| Survey Provider | Strength | Best For |
+|---|---|---|
+| Radford (Aon) | Technology, life sciences | Tech companies, startups, equity data |
+| Mercer | Broad industry coverage | Large enterprises, global data |
+| Willis Towers Watson | Executive compensation | C-suite, board compensation |
+| Culpepper | Mid-market, geographic | Regional analysis, smaller companies |
+| Payscale/Salary.com | Real-time, self-reported | Quick checks, individual negotiations |
+| Levels.fyi | Tech-specific, verified | Software engineering, FAANG benchmarking |
+| Glassdoor | Employee-reported | Employer brand, perception data |
+| CompAnalyst | Integrated platform | Comp management software users |
+
+### Survey Selection Criteria
+
+- Minimum 3 surveys for reliable data triangulation
+- Match industry, geography, and company size
+- Verify sample sizes for each benchmark job (n ≥ 5 for reliability)
+- Check data freshness (prefer surveys < 12 months old)
+- Consider both base and total cash compensation data
+
+---
+
+## Job Matching Methodology
+
+### Matching Best Practices
+
+- Match based on job content (duties, scope, impact), NOT job title
+- Require 70%+ content overlap for valid match
+- Use leveling guides when matching across different company structures
+- Document matching rationale for audit trail
+- Have subject matter experts validate matches
 
 ### Geographic Differentials
-Apply location-based adjustments:
-- San Francisco: +20-30%
-- New York: +15-25%
-- Austin: +5-10%
-- Remote: Varies by policy
 
----
+| Market Tier | Cost of Labor Index | Example Markets |
+|---|---|---|
+| Tier 1 (Premium) | 1.15-1.30 | San Francisco, New York, Seattle |
+| Tier 2 (Above average) | 1.05-1.15 | Boston, Los Angeles, DC |
+| Tier 3 (Average) | 0.95-1.05 | Chicago, Denver, Atlanta |
+| Tier 4 (Below average) | 0.85-0.95 | Phoenix, Nashville, Austin |
+| Tier 5 (Low cost) | 0.75-0.85 | Des Moines, Birmingham, Boise |
 
-## Salary Structure Design
+### Remote Work Pay Policies
 
-### Range Components
-- **Minimum**: Entry point for role (typically 80% of midpoint)
-- **Midpoint**: Target for fully competent performers
-- **Maximum**: Cap for role (typically 120% of midpoint)
-- **Range Spread**: (Max - Min) / Min × 100
-
-### Grade Progression
-- Individual contributors: 10-15% between grades
-- Management: 15-20% between grades
-- Executive: 20-30% between grades
-
----
-
-## Data Aging
-
-Survey data ages; apply aging factors:
-- 0-6 months: No adjustment
-- 6-12 months: +2-3%
-- 12-18 months: +4-5%
-- Beyond 18 months: Refresh data
+| Policy | Description | Prevalence |
+|---|---|---|
+| National rate | Same pay regardless of location | Growing (especially tech) |
+| HQ-based | Pay based on office location | Traditional approach |
+| Location-adjusted | Pay adjusted by employee location | Most common hybrid approach |
+| Zone-based | 3-5 geographic pay zones | Simplified location adjustment |

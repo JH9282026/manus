@@ -1,93 +1,54 @@
-# Marketing Analytics and ROI
+# Marketing Analytics and Attribution
 
-## Measurement Framework
-
-### Metric Hierarchy
-
-| Level | Examples | Use |
-|-------|----------|-----|
-| Activity | Impressions, clicks, opens | Operational |
-| Engagement | Time on site, pages/session | Quality |
-| Conversion | Leads, MQLs, SQLs | Funnel |
-| Revenue | Pipeline, closed-won | Business impact |
-| Efficiency | CAC, ROI, ROAS | Optimization |
+Measure marketing effectiveness and optimize performance through data-driven insights.
 
 ---
 
-## Attribution Modeling
+## Attribution Models
 
-### Attribution Models
+### Common Models
 
-| Model | Description | Best For |
-|-------|-------------|----------|
-| First touch | 100% to first interaction | Awareness focus |
-| Last touch | 100% to last interaction | Conversion focus |
-| Linear | Equal across touches | Simple, balanced |
-| Time decay | More to recent touches | Short cycles |
-| Position-based | 40/20/40 distribution | Balanced with emphasis |
-| Data-driven | Algorithmic weighting | Complex, data-rich |
+| Model | Logic | Best For | Limitation |
+|---|---|---|---|
+| First touch | 100% credit to first interaction | Understanding top-of-funnel | Ignores nurture journey |
+| Last touch | 100% credit to last interaction | Understanding conversion drivers | Ignores awareness building |
+| Linear | Equal credit to all touchpoints | Balanced view | Over-simplifies |
+| Time decay | More credit to recent interactions | Sales-focused analysis | Under-values awareness |
+| U-shaped | 40% first, 40% last, 20% middle | Balanced first/last emphasis | Arbitrary weighting |
+| W-shaped | 30% first, 30% lead creation, 30% opportunity, 10% rest | B2B with clear funnel stages | Complex to implement |
+| Algorithmic/ML | Data-driven credit allocation | Organizations with sufficient data | Requires large datasets, less transparent |
 
-### Attribution Implementation
-1. Define conversion events
-2. Select model(s)
-3. Integrate data sources
-4. Validate with holdout tests
-5. Report and optimize
+### Multi-Touch Attribution Implementation
 
----
-
-## Customer Economics
-
-### Key Metrics
-
-| Metric | Calculation | Target |
-|--------|-------------|--------|
-| CAC | Marketing + Sales cost / New customers | Industry benchmark |
-| LTV | Avg revenue × Gross margin × Retention period | 3x+ CAC |
-| Payback | CAC / Monthly contribution | <12 months |
-| LTV:CAC | LTV / CAC | 3:1 or higher |
-
-### Cohort Analysis
-- Track cohorts by acquisition period
-- Measure retention curves
-- Calculate cohort LTV
-- Compare acquisition sources
-- Optimize for quality
+1. Define the customer journey stages and key conversion events
+2. Collect touchpoint data across all channels (UTM parameters, cookies, CRM)
+3. Select attribution model aligned to business questions
+4. Implement tracking infrastructure (CDP, marketing analytics platform)
+5. Build attribution reporting dashboard
+6. Validate with incrementality testing (holdout groups, geo-tests)
 
 ---
 
-## Marketing Mix Modeling
+## Marketing Dashboard Design
 
-### MMM Components
-- Channel spend data
-- Response data (conversions, revenue)
-- External factors (seasonality, economy)
-- Competitive activity
-- Baseline performance
+### Executive Dashboard Metrics
 
-### MMM Outputs
-- Channel contribution
-- Response curves
-- Optimal spend allocation
-- Scenario planning
-- Budget recommendations
+| Metric | Definition | Target Setting |
+|---|---|---|
+| Marketing-sourced pipeline | Pipeline from marketing-generated leads | 40-60% of total pipeline |
+| Marketing-influenced revenue | Revenue where marketing touched any stage | 70-80% of closed revenue |
+| Customer acquisition cost (CAC) | (Marketing spend + sales cost) / new customers | < 1/3 of first-year CLV |
+| CAC payback period | CAC / monthly gross margin per customer | < 12 months |
+| Marketing ROI | (Revenue attributed - marketing cost) / marketing cost | 5:1 or higher |
+| Pipeline-to-close ratio | Closed deals / qualified pipeline | 20-30% |
 
----
+### Channel Performance Reporting
 
-## Dashboard Design
-
-### Essential Dashboard Elements
-
-| Section | Metrics |
-|---------|----------|
-| Executive summary | Revenue, pipeline, CAC, ROI |
-| Funnel performance | Leads, MQLs, SQLs, conversion rates |
-| Channel performance | Spend, leads, cost per lead, ROI |
-| Campaign performance | Top campaigns by revenue |
-| Trends | Period-over-period comparison |
-
-### Reporting Cadence
-- Daily: Operational metrics
-- Weekly: Campaign performance
-- Monthly: Executive dashboard
-- Quarterly: Strategic review
+Report weekly/monthly by channel:
+- Spend and budget utilization
+- Impressions, clicks, engagement
+- Leads generated (MQLs, SQLs)
+- Pipeline created and influenced
+- Revenue attributed
+- Cost per lead, cost per opportunity, cost per customer
+- Return on ad spend (ROAS)

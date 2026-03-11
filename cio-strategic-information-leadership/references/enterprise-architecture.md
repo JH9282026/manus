@@ -1,95 +1,67 @@
 # Enterprise Architecture
 
-## Architecture Framework
-
-### TOGAF Architecture Domains
-
-| Domain | Focus | Key Artifacts |
-|--------|-------|---------------|
-| Business | Processes, capabilities | Capability maps, value streams |
-| Data | Information model | Data models, data flows |
-| Application | Software systems | Application portfolio, integrations |
-| Technology | Infrastructure | Platform standards, deployment |
+Design and govern enterprise architecture using TOGAF and industry frameworks.
 
 ---
 
-## Application Portfolio Management
+## TOGAF Architecture Development Method (ADM)
 
-### TIME Assessment Model
+### ADM Phases
 
-| Category | Description | Action |
-|----------|-------------|--------|
-| **Tolerate** | Low business value, low technical quality | Minimize investment |
-| **Invest** | High business value, good technical quality | Enhance and grow |
-| **Migrate** | High business value, poor technical quality | Modernize/replace |
-| **Eliminate** | Low business value, any quality | Retire and consolidate |
-
-### Assessment Criteria
-
-**Business Value**
-- Revenue contribution
-- Customer impact
-- Operational criticality
-- Strategic alignment
-
-**Technical Health**
-- Age and supportability
-- Maintainability
-- Security posture
-- Integration capability
+| Phase | Focus | Key Deliverables |
+|---|---|---|
+| Preliminary | Framework setup | Architecture principles, governance model |
+| A: Architecture Vision | Strategic direction | Vision document, stakeholder map |
+| B: Business Architecture | Business capabilities | Capability model, process maps |
+| C: Information Systems | Data and applications | Data models, application portfolio |
+| D: Technology Architecture | Infrastructure | Technology standards, reference architecture |
+| E: Opportunities & Solutions | Transition planning | Gap analysis, solution building blocks |
+| F: Migration Planning | Implementation roadmap | Project portfolio, sequencing plan |
+| G: Implementation Governance | Execution oversight | Compliance reviews, architecture waivers |
+| H: Architecture Change Management | Continuous management | Change requests, architecture updates |
 
 ---
 
-## Integration Architecture
+## Application Rationalization
+
+### Application Assessment Framework
+
+Evaluate each application on two dimensions:
+- **Business value** (high/low) — strategic importance, user dependency, revenue impact
+- **Technical health** (high/low) — maintainability, security posture, technology currency
+
+**Rationalization Actions:**
+
+| | High Technical Health | Low Technical Health |
+|---|---|---|
+| **High Business Value** | Invest — modernize, extend | Transform — refactor or replace |
+| **Low Business Value** | Maintain — minimize investment | Retire — decommission |
 
 ### Integration Patterns
 
-| Pattern | Use Case | Considerations |
-|---------|----------|----------------|
-| API-first | Modern integration | Standards, governance |
-| Event-driven | Real-time, decoupled | Complexity, debugging |
-| ETL/ELT | Data integration | Latency, volume |
-| iPaaS | Cloud integration | Vendor dependency |
-
-### API Strategy
-- API design standards
-- API gateway implementation
-- Developer portal
-- Versioning strategy
-- Security model
-
----
-
-## Technical Debt Management
-
-### Debt Categories
-- Code debt (quality, documentation)
-- Architecture debt (design decisions)
-- Infrastructure debt (aging platforms)
-- Testing debt (coverage gaps)
-- Security debt (vulnerabilities)
-
-### Management Approach
-1. Inventory and categorize debt
-2. Assess business impact
-3. Prioritize remediation
-4. Allocate capacity (15-20% of development)
-5. Track and report progress
+| Pattern | Use Case | Complexity |
+|---|---|---|
+| API-led connectivity | Modern application integration | Medium |
+| Event-driven (pub/sub) | Real-time, loosely coupled | Medium-High |
+| ETL/batch | Data warehousing, reporting | Low-Medium |
+| iPaaS | SaaS-to-SaaS integration | Low |
+| ESB | Legacy enterprise integration | High |
 
 ---
 
 ## Architecture Governance
 
-### Governance Components
-- Architecture Review Board (ARB)
-- Architecture standards
-- Exception process
-- Compliance reviews
-- Continuous improvement
+### Architecture Review Board (ARB)
 
-### ARB Responsibilities
-- Review major technology decisions
-- Approve architecture exceptions
-- Set and update standards
-- Monitor compliance
-- Guide technology direction
+**Purpose:** Ensure technology decisions align with enterprise architecture standards and strategy.
+
+**Membership:** CIO (chair), Enterprise Architect, Security Architect, Business representatives, Infrastructure lead
+
+**Review triggers:**
+- New application or platform introduction
+- Major technology change or upgrade
+- Architecture deviation request (waiver)
+- Significant integration requirement
+- Technology investment over threshold ($100K+)
+
+**Review outcomes:** Approve, approve with conditions, defer, reject

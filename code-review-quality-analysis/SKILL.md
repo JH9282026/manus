@@ -1,104 +1,92 @@
 ---
 name: "code-review-quality-analysis"
-description: "Perform comprehensive automated code review and quality analysis. Use for: security vulnerability detection, performance optimization, code style enforcement, technical debt assessment, pull request reviews, code audits, and actionable improvement recommendations."
+description: "Perform comprehensive automated code review and quality analysis across multiple dimensions. Use for: security vulnerability detection (OWASP, CWE), performance optimization, code style enforcement, technical debt assessment, pull request reviews, architecture evaluation, test coverage analysis, and actionable improvement recommendations."
 ---
 
 # Code Review & Quality Analysis
 
-Conduct comprehensive code evaluation across security, performance, maintainability, and style.
+Perform systematic, multi-dimensional code analysis covering security, performance, maintainability, and standards compliance.
 
 ## Overview
 
-This skill provides systematic code analysis covering security vulnerabilities, performance bottlenecks, maintainability metrics, and coding standards. Augment human code review with consistent, thorough analysis that catches issues before production.
+Evaluate source code across security, performance, maintainability, and style dimensions. Detect vulnerabilities (OWASP Top 10, CWE), identify performance bottlenecks, measure complexity metrics, enforce coding standards, assess test coverage, and generate prioritized, actionable improvement recommendations.
 
-## Analysis Type Selection
+## Analysis Scope Selection
 
-| Context | Primary Focus | Key Checks | Reference |
-|---------|---------------|------------|----------|
-| Pull request | Security, standards | OWASP, style | `/references/security-analysis.md` |
-| Pre-release | Performance, reliability | Load, error handling | `/references/performance-analysis.md` |
-| Tech debt audit | Maintainability | Complexity, duplication | `/references/maintainability.md` |
-| Due diligence | Comprehensive | All dimensions | `/references/audit-methodology.md` |
-| Compliance | Security, licensing | Vulnerabilities, licenses | `/references/security-analysis.md` |
+| Review Type | Depth | Time | Best For |
+|---|---|---|---|
+| Quick scan | Surface-level issues, linting | Minutes | Pre-commit checks, small changes |
+| Standard review | Security + style + basic performance | 30-60 min | Pull request reviews |
+| Deep analysis | All dimensions + architecture | 2-4 hours | Release readiness, audits |
+| Focused audit | Single dimension deep-dive | 1-2 hours | Security audit, performance tuning |
 
-## Core Competencies
+## Security Analysis Framework
 
-### Security Analysis
-- Detect injection vulnerabilities (SQL, XSS, SSRF)
-- Identify authentication and authorization flaws
-- Find data exposure risks
-- Check cryptographic implementations
-- Scan dependencies for known vulnerabilities
+### OWASP Top 10 Checklist
 
-### Performance Analysis
-- Identify algorithmic inefficiencies
-- Detect memory leaks and resource issues
-- Find N+1 query patterns
-- Assess caching opportunities
-- Evaluate I/O and concurrency patterns
+| Vulnerability | Detection Pattern | Severity |
+|---|---|---|
+| A01: Broken Access Control | Missing auth checks, IDOR, path traversal | Critical |
+| A02: Cryptographic Failures | Weak algorithms, hardcoded secrets, plaintext storage | Critical |
+| A03: Injection | Unsanitized input in SQL, OS, LDAP commands | Critical |
+| A04: Insecure Design | Missing threat modeling, unsafe business logic | High |
+| A05: Security Misconfiguration | Default credentials, verbose errors, open ports | High |
+| A06: Vulnerable Components | Outdated dependencies with known CVEs | High |
+| A07: Auth Failures | Weak passwords, missing MFA, session issues | High |
+| A08: Data Integrity Failures | Insecure deserialization, unsigned updates | Medium |
+| A09: Logging Failures | Missing audit logs, log injection, PII in logs | Medium |
+| A10: SSRF | Unvalidated URL fetching, internal network access | High |
 
-### Maintainability Analysis
-- Calculate complexity metrics (cyclomatic, cognitive)
-- Detect code duplication
-- Assess coupling and cohesion
-- Identify code smells and anti-patterns
-- Evaluate documentation coverage
+## Code Quality Metrics
 
-### Style and Standards
-- Enforce coding conventions
-- Check naming patterns
-- Validate formatting
-- Assess documentation completeness
-- Verify test coverage
+### Complexity Metrics
 
-## Key Deliverables
+| Metric | Tool | Threshold | Action |
+|---|---|---|---|
+| Cyclomatic complexity | ESLint, pylint, SonarQube | ≤10 per function | Refactor above threshold |
+| Cognitive complexity | SonarQube | ≤15 per function | Simplify logic flow |
+| Lines per function | Linter | ≤50 lines | Extract helper functions |
+| Lines per file | Linter | ≤300 lines | Split into modules |
+| Nesting depth | Linter | ≤4 levels | Use early returns, extract |
+| Duplication | SonarQube, jscpd | <5% codebase | Extract shared code |
 
-### Review Reports
-- Code Review Report (executive summary + details)
-- Security Findings (CWE/OWASP classified)
-- Performance Issues (with impact estimates)
-- Maintainability Assessment
+### Code Smell Categories
 
-### Detailed Outputs
-- Line-by-line findings with code snippets
-- Severity ratings with justification
-- Remediation recommendations with examples
-- Effort estimates for fixes
+| Category | Examples | Refactoring Approach |
+|---|---|---|
+| Bloaters | Long methods, large classes, long parameter lists | Extract method/class, parameter objects |
+| OOP abusers | Switch statements, refused bequest, parallel inheritance | Polymorphism, composition |
+| Change preventers | Divergent change, shotgun surgery | Single responsibility, encapsulation |
+| Dispensables | Dead code, speculative generality, comments as deodorant | Delete unused code, clarify intent |
+| Couplers | Feature envy, inappropriate intimacy, message chains | Move method, delegate, encapsulate |
 
-### Metrics
-- Complexity scores by module
-- Test coverage statistics
-- Dependency health scores
-- Technical debt quantification
+## Review Output Format
 
-## Severity Classification
+Structure every code review report as:
 
-| Severity | Description | Action |
-|----------|-------------|--------|
-| Critical | Security breach, data loss | Block deployment |
-| High | Significant risk or defect | Fix before release |
-| Medium | Quality concern | Fix in sprint |
-| Low | Minor improvement | Backlog |
-| Info | Best practice suggestion | Consider |
+1. **Executive summary** — Overall health score (A-F), critical issues count, risk assessment
+2. **Critical findings** — Security vulnerabilities, data loss risks, breaking changes
+3. **Major findings** — Performance issues, significant maintainability problems
+4. **Minor findings** — Style violations, naming improvements, documentation gaps
+5. **Positive observations** — Well-written patterns worth highlighting
+6. **Recommendations** — Prioritized action items with effort estimates
 
-## Language Support
+## Test Coverage Assessment
 
-| Language | Static Analysis | Security | Style |
-|----------|-----------------|----------|-------|
-| Python | Pylint, mypy | Bandit | Black, PEP8 |
-| JavaScript/TS | ESLint | SonarJS, npm audit | Prettier |
-| Java | PMD, SpotBugs | FindSecBugs | Checkstyle |
-| Go | golangci-lint | gosec | gofmt |
-| C/C++ | cppcheck | Clang-Tidy | clang-format |
+| Coverage Type | Minimum Target | Ideal Target |
+|---|---|---|
+| Line coverage | 70% | 85%+ |
+| Branch coverage | 60% | 75%+ |
+| Function coverage | 80% | 90%+ |
+| Integration test coverage | Key paths covered | All API endpoints |
+| E2E test coverage | Critical user flows | Happy + error paths |
 
 ## Using the Reference Files
 
-### When to Read Each Reference
+**`/references/security-analysis.md`** — Read when performing security-focused reviews, checking OWASP compliance, or auditing authentication and authorization patterns.
 
-**`/references/security-analysis.md`** — Read when conducting security reviews, checking for vulnerabilities, or preparing for security audits.
+**`/references/performance-analysis.md`** — Read when analyzing runtime performance, identifying bottlenecks, or optimizing algorithms and queries.
 
-**`/references/performance-analysis.md`** — Read when optimizing code performance, identifying bottlenecks, or reviewing algorithmic efficiency.
+**`/references/maintainability.md`** — Read when assessing code quality metrics, evaluating architecture, or planning technical debt remediation.
 
-**`/references/maintainability.md`** — Read when assessing code quality, measuring technical debt, or planning refactoring efforts.
-
-**`/references/audit-methodology.md`** — Read when conducting comprehensive code audits, M&A due diligence, or establishing review processes.
+**`/references/audit-methodology.md`** — Read when conducting formal code audits, establishing review processes, or building review checklists for teams.

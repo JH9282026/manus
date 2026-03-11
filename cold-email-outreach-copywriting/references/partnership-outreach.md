@@ -1,130 +1,72 @@
 # Partnership Outreach
 
-## Partnership Email Framework
-
-### Key Differences from Sales
-- Emphasize mutual benefit
-- Longer relationship-building
-- More strategic framing
-- Higher-level discussions
+Templates for business development and strategic partnership emails.
 
 ---
 
-## Partnership Types
+## Partnership Email Templates
 
-| Type | Value Exchange | Email Focus |
-|------|---------------|-------------|
-| Co-marketing | Shared audiences | Audience overlap, content ideas |
-| Integration | Product connection | User benefit, technical fit |
-| Referral | Lead sharing | Complementary offerings |
-| Reseller | Revenue share | Market access, capability |
-| Strategic | Multiple dimensions | Vision alignment |
-
----
-
-## Subject Line Examples
+### Template 1: Co-Marketing
 
 ```
-"[Your Company] + [Their Company] partnership"
-"Co-marketing idea for our shared audience"
-"Integration partnership opportunity"
-"Quick question about partnering"
-```
-
----
-
-## Opening Approaches
-
-### Compliment + Observation
-```
-"I've been following [Company]'s growth in the [space]—
-impressive trajectory. Our audiences overlap significantly, 
-and I see an opportunity for partnership."
-```
-
-### Mutual Benefit Lead
-```
-"We both serve [target audience] with complementary solutions. 
-I think there's an opportunity to help each other grow."
-```
-
-### Existing Relationship
-```
-"Several of our customers have mentioned using [Their Product] 
-alongside ours. I wonder if there's a formal partnership opportunity."
-```
-
----
-
-## Value Proposition Structure
-
-### Clear Mutual Benefits
-```
-"Here's what I'm thinking:
-
-• For [Their Company]: [Specific benefit]
-• For [Your Company]: [Specific benefit]
-• For our shared customers: [Specific benefit]"
-```
-
-### Partnership Ideas
-```
-"A few ways we could work together:
-
-1. Co-host a webinar on [topic] for our combined 50k audience
-2. Integration between [Product A] and [Product B]
-3. Cross-promotion in our respective newsletters"
-```
-
----
-
-## Complete Template
-
-```
-Subject: [Your Company] + [Their Company] partnership
-
-Hi [First Name],
-
-I've been following [Company]'s work in [specific area]—
-[specific compliment about their work].
-
-Our audiences overlap significantly, and I see an opportunity 
-for [specific partnership type] that could benefit both communities:
-
-• [Benefit for them]
-• [Benefit for you]
-• [Mutual benefit]
-
-Would you be open to exploring this?
-
-Best,
-[Your Name]
-```
-
----
-
-## Follow-Up Sequence
-
-### Email 2 (Day 4)
-```
-Subject: Re: Partnership idea
+Subject: [Your company] + [their company] content idea
 
 Hi [Name],
 
-Wanted to follow up on my partnership idea. I think there's 
-real potential here—[add new detail or benefit].
+I'm [your name] from [company]. We serve [similar audience description] and I have an idea that could benefit both our audiences.
 
-Would a quick call next week work to explore this?
+Proposal: [Specific co-marketing idea — e.g., joint webinar, co-authored guide, shared case study]
+
+Why it works:
+- Our audience of [number] [description] gets [benefit]
+- Your audience gets [benefit]
+- We both get exposure to a complementary audience
+
+[Similar company] and we did something like this last quarter — [result].
+
+Interested in exploring this?
+
+[Your name]
 ```
 
-### Email 3 (Day 10)
+### Template 2: Integration Partnership
+
 ```
-Subject: One more thought on [Their Company] + [Your Company]
+Subject: Integration between [your product] and [their product]
 
 Hi [Name],
 
-[Share a relevant insight, content piece, or news item]
+Several of our mutual customers have asked about connecting [your product] with [their product].
 
-This reinforced my thinking about how we could work together. 
-Still interested in connecting?
+We think there's a strong case for a native integration:
+- [Number] overlapping customers identified
+- [Specific use case] would be solved
+- [Competitive advantage] for both platforms
+
+Would love to explore this with your partnerships team. Who would be the best person to connect with?
+
+[Your name]
+```
+
+### Template 3: Affiliate/Referral
+
+```
+Subject: Referral partnership opportunity
+
+Hi [Name],
+
+I follow [their content/company] and think there's a natural fit for a referral partnership.
+
+Our [product] helps [audience] with [outcome], which complements your [offering].
+
+Partnership structure:
+- [Commission/revenue share details]
+- [Support you'd provide — assets, landing pages, training]
+- [No minimum commitment]
+
+Several partners in [similar space] earn [typical range]. Happy to share details.
+
+Worth a conversation?
+
+[Your name]
 ```

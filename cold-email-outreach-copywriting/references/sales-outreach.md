@@ -1,131 +1,85 @@
 # B2B Sales Outreach
 
-## Sales Email Framework
-
-### Problem-Agitate-Solution (PAS)
-1. **Problem**: Identify the pain point
-2. **Agitate**: Amplify the consequences
-3. **Solution**: Present your offering
-
-### Before-After-Bridge (BAB)
-1. **Before**: Current painful state
-2. **After**: Desired improved state
-3. **Bridge**: Your solution connects them
+Templates and strategies for sales prospecting emails.
 
 ---
 
-## Subject Line Formulas
+## Sales Email Templates
 
-### Question Formula
-```
-"Quick question about [their initiative]?"
-"Thoughts on [relevant topic]?"
-```
+### Template 1: Problem-Solution
 
-### Observation Formula
 ```
-"Noticed [specific observation about their business]"
-"Re: [their recent news/announcement]"
-```
+Subject: Quick question about [specific challenge]
 
-### Result Formula
-```
-"[Specific result] for [similar company]"
-"How [company] achieved [metric]"
-```
+Hi [Name],
 
-### Mutual Connection
-```
-"[Name] suggested I reach out"
-"Fellow [YC/conference/group] member"
+I noticed [company] is [specific observation — e.g., expanding into new markets, hiring for X team].
+
+Companies in [industry] at your stage often struggle with [specific problem].
+
+We helped [similar company] [specific result with numbers — e.g., reduce churn by 23% in 3 months].
+
+Worth a 15-minute chat to see if we could do something similar for [company]?
+
+[Your name]
 ```
 
----
+### Template 2: Trigger Event
 
-## Opening Line Examples
-
-### Trigger-Based Openers
 ```
-"Congratulations on the Series B—scaling customer success 
-at this stage is exactly where we've helped companies like yours."
+Subject: Congrats on [event]
 
-"I noticed you just hired 3 new SDRs. Companies scaling 
-sales teams often struggle with onboarding consistency."
+Hi [Name],
+
+Saw [company]'s [trigger event — funding, product launch, expansion]. Congrats!
+
+Usually when companies hit this milestone, [challenge] becomes a priority.
+
+We've helped [number] companies in [industry] navigate this exact transition — [brief result].
+
+Open to a quick conversation about how we could support [company]'s next phase?
+
+[Your name]
 ```
 
-### Research-Based Openers
-```
-"Your LinkedIn post about remote team management resonated—
-we implemented your async framework with great results."
+### Template 3: Mutual Connection
 
-"Loved your take on PLG pricing in the SaaStr session."
+```
+Subject: [Mutual connection] suggested we connect
+
+Hi [Name],
+
+[Mutual connection] mentioned you're working on [initiative] and thought we should talk.
+
+At [your company], we help [target audience] [achieve outcome]. [One sentence proof point.]
+
+Would [day] or [day] work for a brief call?
+
+[Your name]
 ```
 
 ---
 
-## Value Proposition Examples
+## Outbound Sequence Design
 
-### Specific and Quantified
-```
-✘ "We help companies improve sales performance."
+### Multi-Channel Sequence (14 days)
 
-✔ "We helped Techstart increase win rates from 22% to 34% 
-   in Q3 while reducing sales cycle by 15 days."
-```
+| Day | Channel | Action |
+|---|---|---|
+| 1 | Email | Cold email #1 (problem-solution) |
+| 2 | LinkedIn | Connect request with personalized note |
+| 4 | Email | Follow-up #1 (new angle, social proof) |
+| 7 | LinkedIn | Engage with their content (like, comment) |
+| 8 | Email | Follow-up #2 (relevant resource/insight) |
+| 11 | Phone | Call attempt with voicemail script |
+| 14 | Email | Breakup email |
 
-### Benefit-Focused
-```
-✘ "Our platform has AI-powered analytics and 24/7 support."
+### Objection Handling in Email
 
-✔ "See which deals will close before your competitors do—
-   without spending hours in spreadsheets."
-```
-
----
-
-## CTA Examples
-
-### Low-Friction
-```
-"Worth a 15-minute conversation?"
-"Does this resonate?"
-"Interested? I'll send more details."
-```
-
-### Meeting Requests
-```
-"Would Tuesday at 2pm or Thursday at 10am work for a quick chat?"
-"I could give you a quick overview in the time it takes 
- to drink a coffee. Interested?"
-```
-
-### Multiple Options
-```
-"If this sounds interesting, I'm happy to:
-- Jump on a quick call
-- Send a case study from a similar company
-- Connect you with a current client
-
-Which would be most helpful?"
-```
-
----
-
-## Complete Template
-
-```
-Subject: Idea for [Company]'s [specific initiative]
-
-Hi [First Name],
-
-I noticed [Company] just [specific trigger event]. 
-Companies at this stage typically struggle with [specific problem].
-
-We helped [similar company] [specific result] by [brief how].
-
-Worth a 15-minute call to see if we could help [Company] 
-achieve similar results?
-
-Best,
-[Your Name]
-```
+| Objection | Response Approach |
+|---|---|
+| "Not interested" | Respect + offer to follow up later |
+| "Already have a solution" | Acknowledge + differentiate |
+| "Not the right person" | Ask for referral to correct contact |
+| "Send more info" | Send 1-pager + suggest specific meeting time |
+| "Too busy" | Offer async (video, one-pager) or future time |

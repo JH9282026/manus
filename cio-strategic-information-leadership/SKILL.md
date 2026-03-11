@@ -1,109 +1,81 @@
 ---
 name: "cio-strategic-information-leadership"
-description: "Develop and execute IT strategy as Chief Information Officer. Use for: digital transformation, IT governance, enterprise architecture, cloud strategy, technology investment decisions, IT operations, vendor management, cybersecurity oversight, and IT organizational design."
+description: "Develop and execute IT strategy as Chief Information Officer. Use for: digital transformation leadership, IT governance and portfolio management, enterprise architecture, cloud strategy and migration, IT operations and ITIL, vendor management, cybersecurity oversight, technology investment decisions, emerging technology evaluation, and IT organizational design."
 ---
 
 # CIO Strategic Information Leadership
 
-Deliver executive-level IT strategy and digital transformation leadership.
+Deliver executive-level IT strategy, digital transformation leadership, and technology governance to drive business value through strategic technology investments.
 
 ## Overview
 
-This skill provides comprehensive CIO capabilities for strategic technology leadership. Develop IT strategies aligned with business objectives, design enterprise architectures, lead digital transformation, govern technology investments, and establish IT as a strategic business enabler.
+Function as a Chief Information Officer providing comprehensive IT strategy aligned with business objectives. Encompass technology vision, enterprise architecture, cloud strategy, IT governance, vendor management, cybersecurity oversight, and innovation portfolio management to establish IT as a trusted strategic business partner.
 
-## IT Strategy Selection
+## IT Strategy Framework
 
-| Business Priority | IT Focus Area | Key Initiatives | Reference |
-|-------------------|---------------|-----------------|----------|
-| Growth enablement | Digital platforms | New capabilities, scalability | `/references/digital-transformation.md` |
-| Cost optimization | IT efficiency | Cloud migration, consolidation | `/references/cloud-strategy.md` |
-| Risk reduction | Security, resilience | Modernization, governance | `/references/it-governance.md` |
-| Innovation | Emerging tech | AI/ML, automation | `/references/digital-transformation.md` |
-| M&A integration | Systems integration | Consolidation, migration | `/references/enterprise-architecture.md` |
+| Domain | Key Activities | Business Outcome |
+|---|---|---|
+| Digital transformation | Roadmap, business model enablement, culture change | Revenue growth, competitive advantage |
+| Enterprise architecture | Application rationalization, integration, API strategy | Agility, reduced technical debt |
+| Cloud strategy | Migration planning, hybrid architecture, cloud-native | Scalability, cost optimization |
+| IT governance | Investment governance, portfolio management, standards | Aligned spending, risk management |
+| IT operations | ITIL implementation, SLA management, reliability | Uptime, user satisfaction |
+| Vendor management | Strategic sourcing, contract negotiation, ecosystem | Cost efficiency, innovation access |
+| Cybersecurity | Risk governance, security investment, compliance | Risk mitigation, trust |
+| Innovation | Technology scouting, POC management, emerging tech | Future readiness |
 
-## Core Competencies
+## Digital Transformation Maturity Assessment
 
-### IT Strategy and Planning
-- Develop technology vision aligned with business strategy
-- Create multi-year IT roadmaps
-- Prioritize technology investments
-- Balance innovation with operational stability
-- Measure IT value delivery
+Evaluate organizational digital maturity across five levels:
 
-### Enterprise Architecture
-- Design target state architecture
-- Rationalize application portfolios
-- Define integration standards
-- Establish technology standards
-- Manage technical debt
+| Level | Description | Characteristics |
+|---|---|---|
+| 1 — Initial | Ad-hoc digital efforts | No strategy, siloed initiatives, technology-led |
+| 2 — Developing | Coordinated projects | Digital strategy exists, some cross-functional effort |
+| 3 — Defined | Enterprise-wide program | Governance in place, architecture standards, metrics |
+| 4 — Managed | Data-driven optimization | Analytics integrated, continuous improvement, KPIs tracked |
+| 5 — Optimized | Digital-first culture | Innovation embedded, real-time adaptation, industry leadership |
 
-### Digital Transformation
-- Lead business process digitization
-- Enable data-driven decision making
-- Implement customer-facing digital solutions
-- Modernize legacy systems
-- Foster innovation culture
+## IT Investment Decision Framework
 
-### IT Operations Excellence
-- Optimize IT service delivery
-- Implement ITIL best practices
-- Manage infrastructure performance
-- Ensure business continuity
-- Drive operational efficiency
+### Project Evaluation Criteria
 
-### IT Governance
-- Establish technology governance frameworks
-- Manage IT risk and compliance
-- Oversee project portfolio
-- Define decision rights
-- Report to board and executives
+| Criterion | Weight | Measurement |
+|---|---|---|
+| Strategic alignment | 30% | Contribution to business strategic priorities |
+| Financial return | 25% | NPV, ROI, payback period |
+| Risk | 20% | Technical, organizational, market risk assessment |
+| Capability enablement | 15% | New capabilities unlocked for the business |
+| Urgency | 10% | Regulatory deadlines, competitive pressure, technical debt risk |
 
-## Key Deliverables
+### IT Budget Allocation Model
 
-### Strategic Documents
-- IT Strategic Plan (40-60 pages)
-- Digital Transformation Roadmap
-- Enterprise Architecture Framework
-- Application Portfolio Assessment
+Target allocation for balanced IT portfolio:
+- **Run the business** (operations/maintenance): 55-65% of IT budget
+- **Grow the business** (enhancements/optimization): 20-25%
+- **Transform the business** (innovation/new capabilities): 15-25%
 
-### Governance Materials
-- IT Governance Framework
-- Technology Investment Criteria
-- Architecture Review Board charter
-- IT Policy Framework
+Track "Run/Grow/Transform" ratio annually and shift toward Transform over time.
 
-### Operational Plans
-- IT Operating Model design
-- Service Level Framework
-- Vendor Strategy
-- IT Talent Plan
+## Enterprise Architecture Quick Guide
 
-### Financial Models
-- IT Budget and Allocation Model
-- TCO Analysis frameworks
-- Business Case templates
-- IT Financial Dashboard
+Apply TOGAF-based architecture across four domains:
 
-## IT Maturity Assessment
-
-| Dimension | Basic | Developing | Advanced | Leading |
-|-----------|-------|------------|----------|--------|
-| Strategy | Reactive | Documented | Integrated | Business-driving |
-| Architecture | Ad hoc | Standards | Managed | Optimized |
-| Operations | Firefighting | Stable | Proactive | Predictive |
-| Governance | Limited | Defined | Enforced | Value-driven |
-| Innovation | None | Experimentation | Systematic | Culture |
+| Domain | Scope | Key Deliverables |
+|---|---|---|
+| Business architecture | Processes, capabilities, value streams | Capability map, process models |
+| Data architecture | Data models, governance, quality | Data catalog, governance framework |
+| Application architecture | Application portfolio, integration | Application rationalization plan |
+| Technology architecture | Infrastructure, platforms, standards | Technology standards, reference architecture |
 
 ## Using the Reference Files
 
-### When to Read Each Reference
+**`/references/digital-transformation.md`** — Read when planning digital transformation roadmaps, assessing digital maturity, or designing transformation governance.
 
-**`/references/digital-transformation.md`** — Read when planning transformation programs, evaluating emerging technologies, or designing digital roadmaps.
+**`/references/cloud-strategy.md`** — Read when evaluating cloud migration strategies, designing hybrid architectures, or building cloud-native applications.
 
-**`/references/cloud-strategy.md`** — Read when developing cloud migration strategies, selecting cloud platforms, or optimizing cloud costs.
+**`/references/enterprise-architecture.md`** — Read when developing architecture frameworks, rationalizing application portfolios, or designing integration strategies.
 
-**`/references/enterprise-architecture.md`** — Read when designing target architectures, rationalizing applications, or establishing technology standards.
+**`/references/it-governance.md`** — Read when establishing IT governance frameworks, managing technology portfolios, or building architecture review boards.
 
-**`/references/it-governance.md`** — Read when establishing governance frameworks, managing IT risk, or designing decision-making structures.
-
-**`/references/it-operations.md`** — Read when optimizing IT service delivery, implementing ITIL practices, or improving operational efficiency.
+**`/references/it-operations.md`** — Read when implementing ITIL processes, optimizing IT service delivery, or designing IT organizational structures.

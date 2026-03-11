@@ -1,108 +1,75 @@
 # Employee Experience
 
-## Employee Experience Framework
+Design and optimize the end-to-end employee journey from attraction to alumni.
 
-### Experience Pillars
-- Purpose and meaning
-- Growth and development
-- Relationships and belonging
-- Wellbeing and balance
-- Recognition and rewards
-- Environment and tools
+---
 
-### Moments That Matter
+## Employee Journey Map
 
-| Moment | Impact | Focus |
-|--------|--------|-------|
-| Recruiting | First impression | Candidate experience |
-| Onboarding | Early engagement | Connection, clarity |
-| First project | Confidence building | Support, feedback |
-| First performance review | Expectation setting | Development focus |
-| Promotion | Recognition | Celebration, transition |
-| Life events | Personal support | Flexibility, empathy |
-| Exit | Lasting impression | Dignity, feedback |
+### Journey Stages
+
+| Stage | Key Moments | Experience Drivers |
+|---|---|---|
+| Attract | Employer brand, job posting, career site | EVP clarity, authentic storytelling |
+| Recruit | Application, interviews, offer | Speed, transparency, candidate respect |
+| Onboard | First day, first week, first 90 days | Welcome, clarity, connection, productivity |
+| Develop | Training, projects, career discussions | Growth opportunities, manager coaching |
+| Perform | Goals, feedback, recognition | Fairness, transparency, regular feedback |
+| Grow | Promotion, lateral move, new challenges | Internal mobility, career pathing |
+| Transition | Role change, leave, departure | Dignity, support, knowledge transfer |
+| Alumni | Post-departure relationship | Network, rehire program, brand advocacy |
+
+### Moment-of-Truth Analysis
+
+Identify the 10-15 moments that disproportionately impact engagement and retention:
+- Day 1 experience — Sets tone for entire employment
+- First performance review — Validates belonging and contribution
+- First promotion decision — Signals career possibility
+- Merger/restructuring announcement — Tests trust and transparency
+- Return from leave — Signals organizational support
+- Exit conversation — Final impression, shapes alumni advocacy
 
 ---
 
 ## Employee Value Proposition (EVP)
 
 ### EVP Components
-- Compensation and benefits
-- Career development
-- Work environment
-- Culture and values
-- Company reputation
+
+| Component | Description | Examples |
+|---|---|---|
+| Compensation | Total financial rewards | Competitive base, bonus, equity |
+| Benefits | Health, wellness, and lifestyle | Medical, parental leave, wellness stipend |
+| Career | Growth and development opportunities | Learning budget, internal mobility, mentoring |
+| Work environment | Physical and virtual workspace | Hybrid flexibility, modern offices, equipment |
+| Culture | Values, belonging, and purpose | Mission-driven, inclusive, innovative |
 
 ### EVP Development Process
-1. Research current employee perceptions
-2. Understand competitor positioning
-3. Identify differentiators
-4. Craft EVP messaging
-5. Validate with employees
-6. Activate across touchpoints
+
+1. Research current employee values (surveys, focus groups, exit data)
+2. Benchmark against talent competitors in target markets
+3. Identify unique differentiators and authentic strengths
+4. Craft EVP messaging pillars (3-5 themes)
+5. Validate with employee focus groups across segments
+6. Activate across all employee touchpoints
 
 ---
 
-## Engagement Strategy
+## Recognition and Rewards Programs
 
-### Engagement Drivers
-- Clear expectations
-- Resources to do job
-- Opportunity to do best work
-- Recognition for contribution
-- Care from manager
-- Development opportunities
-- Voice and input
-- Connection to mission
+### Recognition Framework
 
-### Measurement Approach
+| Type | Frequency | Value | Example |
+|---|---|---|---|
+| Day-to-day | Daily/weekly | Non-monetary | Verbal praise, Slack shoutout, thank-you note |
+| Informal | Monthly | Low monetary | Gift cards, spot bonuses, team lunch |
+| Formal | Quarterly/annual | Significant | Awards ceremony, performance bonuses, trips |
+| Career milestone | Event-based | Symbolic + monetary | Anniversary celebration, promotion announcement |
 
-| Method | Frequency | Purpose |
-|--------|-----------|----------|
-| Annual survey | Yearly | Comprehensive baseline |
-| Pulse surveys | Quarterly | Trend monitoring |
-| Always-on feedback | Continuous | Real-time insight |
-| Exit surveys | At departure | Retention insight |
-| Stay interviews | Periodic | Retention drivers |
+### Recognition Program Design Principles
 
----
-
-## Onboarding Excellence
-
-### Onboarding Phases
-
-| Phase | Timeline | Focus |
-|-------|----------|-------|
-| Pre-boarding | Offer to Day 1 | Excitement, preparation |
-| First day | Day 1 | Welcome, logistics |
-| First week | Days 1-5 | Orientation, connections |
-| First 30 days | Month 1 | Role clarity, early wins |
-| First 90 days | Quarter 1 | Full productivity |
-
-### Onboarding Components
-- Administrative setup
-- Culture immersion
-- Role training
-- Relationship building
-- Manager connection
-- Buddy assignment
-- Check-ins and feedback
-
----
-
-## Wellbeing Programs
-
-### Wellbeing Dimensions
-- Physical health
-- Mental and emotional health
-- Financial wellness
-- Social connection
-- Professional purpose
-
-### Program Elements
-- Health benefits and resources
-- Mental health support
-- Flexible work arrangements
-- Financial education
-- Community building
-- Work-life integration
+- Align recognition criteria with organizational values and strategic priorities
+- Enable peer-to-peer recognition, not just manager-driven
+- Make recognition timely — within 48 hours of the behavior
+- Be specific about what is being recognized and why it matters
+- Ensure equitable distribution across teams, levels, and demographics
+- Measure program effectiveness through participation rates and engagement impact

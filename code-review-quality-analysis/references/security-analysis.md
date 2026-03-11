@@ -1,103 +1,56 @@
 # Security Analysis
 
-## OWASP Top 10 Checks
-
-| Vulnerability | Detection Method | Remediation |
-|---------------|------------------|-------------|
-| A01 Broken Access Control | Auth flow review, IDOR checks | Implement proper authorization |
-| A02 Cryptographic Failures | Crypto implementation review | Use standard libraries |
-| A03 Injection | Input validation review | Parameterized queries, sanitization |
-| A04 Insecure Design | Architecture review | Threat modeling |
-| A05 Security Misconfiguration | Config review | Secure defaults |
-| A06 Vulnerable Components | Dependency scanning | Update dependencies |
-| A07 Auth Failures | Session management review | MFA, secure session handling |
-| A08 Software Integrity | Build pipeline review | Code signing, SBOM |
-| A09 Logging Failures | Logging review | Comprehensive audit logging |
-| A10 SSRF | Request handling review | URL validation, allowlists |
+Detailed security review methodologies and vulnerability detection patterns.
 
 ---
 
-## Common Vulnerability Patterns
+## Vulnerability Detection by Language
 
-### Injection Vulnerabilities
+### JavaScript/TypeScript
 
-**SQL Injection**
-```python
-# Vulnerable
-query = f"SELECT * FROM users WHERE id = {user_id}"
+| Vulnerability | Pattern to Detect | Fix |
+|---|---|---|
+| XSS | `innerHTML`, `dangerouslySetInnerHTML`, unescaped template literals | Sanitize with DOMPurify, use textContent |
+| Prototype pollution | Deep merge without safeguard, `__proto__` access | Validate keys, use Object.create(null) |
+| Path traversal | User input in `fs.readFile`, `path.join` without validation | Validate paths, use allowlists |
+| ReDoS | Complex regex with nested quantifiers | Simplify regex, use RE2, add timeout |
+| SSRF | User-controlled URLs in fetch/axios | URL allowlisting, disable redirects |
+| Hardcoded secrets | API keys, tokens in source code | Environment variables, secret managers |
 
-# Secure
-cursor.execute("SELECT * FROM users WHERE id = %s", (user_id,))
-```
+### Python
 
-**XSS (Cross-Site Scripting)**
-```javascript
-// Vulnerable
-element.innerHTML = userInput;
+| Vulnerability | Pattern to Detect | Fix |
+|---|---|---|
+| SQL injection | f-strings in SQL queries, string concatenation | Parameterized queries, ORM |
+| Command injection | `os.system()`, `subprocess.call(shell=True)` | `subprocess.run()` with list args, no shell |
+| Deserialization | `pickle.loads()` on untrusted data | Use JSON, validate before deserialize |
+| Path traversal | User input in `open()`, `os.path.join` | Validate paths, chroot |
+| SSTI | User input in Jinja2 `Template()` | Use `render_template()`, sandbox |
 
-// Secure
-element.textContent = userInput;
-```
+### SQL
 
-### Authentication Issues
-- Weak password requirements
-- Missing brute force protection
-- Insecure session management
-- Missing MFA for sensitive operations
-- Credential exposure in logs
-
-### Data Exposure
-- Sensitive data in URLs
-- Unencrypted storage
-- Excessive data in responses
-- Missing data masking
-- Insecure data transmission
+| Vulnerability | Pattern to Detect | Fix |
+|---|---|---|
+| SQL injection | String concatenation in queries | Parameterized queries, stored procedures |
+| Privilege escalation | Excessive GRANT permissions | Principle of least privilege |
+| Data exposure | SELECT * without column filtering | Explicit column selection |
+| Missing encryption | Sensitive data stored unencrypted | Column-level encryption, TDE |
 
 ---
 
-## Dependency Scanning
+## Dependency Security
 
-### Vulnerability Databases
-- CVE (Common Vulnerabilities and Exposures)
-- NVD (National Vulnerability Database)
-- GitHub Security Advisories
-- Snyk Vulnerability DB
+### Vulnerability Scanning
 
-### Scanning Tools
+- Run `npm audit` / `pip audit` / `cargo audit` in CI pipeline
+- Monitor with Snyk, Dependabot, or Renovate
+- Set severity thresholds: block deployment for Critical/High
+- Establish SLA for vulnerability remediation (Critical: 24h, High: 7d, Medium: 30d)
 
-| Language | Tool | Usage |
-|----------|------|-------|
-| Python | safety, pip-audit | pip-audit check |
-| JavaScript | npm audit | npm audit |
-| Java | OWASP Dependency-Check | mvn dependency-check |
-| Go | govulncheck | govulncheck ./... |
+### Supply Chain Security
 
----
-
-## Security Review Checklist
-
-### Authentication
-- [ ] Password strength requirements
-- [ ] Secure password storage (bcrypt, argon2)
-- [ ] Session timeout configuration
-- [ ] MFA implementation
-- [ ] Account lockout after failed attempts
-
-### Authorization
-- [ ] Role-based access control
-- [ ] Resource-level permissions
-- [ ] Principle of least privilege
-- [ ] Authorization on all endpoints
-
-### Data Protection
-- [ ] Encryption at rest
-- [ ] Encryption in transit (TLS)
-- [ ] Sensitive data handling
-- [ ] PII protection
-- [ ] Secure key management
-
-### Input Validation
-- [ ] All inputs validated
-- [ ] Whitelist validation where possible
-- [ ] Output encoding
-- [ ] File upload restrictions
+- Verify package integrity (checksums, signatures)
+- Pin dependency versions in production
+- Review new dependencies before adoption (maintainers, history, downloads)
+- Use lockfiles and reproducible builds
+- Audit transitive dependencies, not just direct

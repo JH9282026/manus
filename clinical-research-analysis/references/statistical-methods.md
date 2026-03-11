@@ -1,102 +1,74 @@
 # Statistical Methods for Clinical Research
 
+Validated statistical approaches for clinical trial analysis.
+
+---
+
+## Primary Analysis Methods
+
+### Intention-to-Treat (ITT) Analysis
+
+Analyze all randomized subjects in their assigned group regardless of compliance:
+- Preserves randomization benefits
+- Provides conservative efficacy estimate
+- Required by most regulatory agencies as primary analysis
+- Handle missing data using validated imputation methods
+
+### Per-Protocol Analysis
+
+Analyze only subjects who completed the study per protocol:
+- Provides estimate of treatment effect under ideal conditions
+- Used as sensitivity analysis to support ITT findings
+- Higher risk of selection bias
+- Useful for non-inferiority trials where ITT may be anti-conservative
+
+---
+
 ## Survival Analysis
 
 ### Kaplan-Meier Method
-Estimate survival function from time-to-event data.
 
-**Application**
-- Overall survival (OS)
-- Progression-free survival (PFS)
-- Time to response
-- Duration of response
+- Estimate survival probability over time for time-to-event endpoints
+- Plot survival curves comparing treatment arms
+- Calculate median survival time and confidence intervals
+- Test difference between curves using log-rank test
+- Report hazard ratio from Cox proportional hazards model
 
-**Key Outputs**
-- Survival curves
-- Median survival time
-- Survival rates at specific timepoints
-- 95% confidence intervals
+### Cox Proportional Hazards Model
 
-### Cox Proportional Hazards
-Assess effect of covariates on survival.
-
-**Assumptions**
-- Proportional hazards over time
-- Log-linear relationship
-- Censoring independent of survival
-
-**Key Outputs**
-- Hazard ratios (HR)
-- 95% confidence intervals
-- p-values
-- Adjusted analyses
-
----
-
-## Efficacy Analysis Methods
-
-### Intention-to-Treat (ITT)
-- Include all randomized subjects
-- Analyze as randomized
-- Preserves randomization benefits
-- Primary analysis for regulatory submissions
-
-### Per-Protocol (PP)
-- Include only compliant subjects
-- Sensitivity analysis
-- May overestimate treatment effect
-- Supplementary to ITT
-
-### Modified ITT (mITT)
-- Exclude subjects who never received treatment
-- Exclude major protocol violations
-- Common compromise approach
-
----
-
-## Repeated Measures Analysis
-
-### Mixed Models (MMRM)
-- Mixed-effects model for repeated measures
-- Handles missing data under MAR
-- Accounts for correlation structure
-- Standard for longitudinal trials
-
-### Analysis Components
-- Fixed effects: treatment, time, interaction
-- Random effects: subject-level variation
-- Covariance structure: unstructured, compound symmetry
+- Model time-to-event data with covariates
+- Estimate adjusted hazard ratios
+- Test proportional hazards assumption (Schoenfeld residuals)
+- Include pre-specified covariates from SAP
+- Stratified analysis for heterogeneous populations
 
 ---
 
 ## Missing Data Handling
 
-| Method | Assumption | Use Case |
-|--------|------------|----------|
-| Complete case | MCAR | Sensitivity only |
-| LOCF | Stable post-dropout | Historical, limited use |
-| MMRM | MAR | Primary analysis |
-| Multiple imputation | MAR | Sensitivity analysis |
-| Tipping point | MNAR exploration | Sensitivity analysis |
-
-### Missing Data Assessment
-- Characterize missing data patterns
-- Assess randomness assumption
-- Plan sensitivity analyses
-- Document approach in SAP
+| Method | Assumption | When to Use |
+|---|---|---|
+| Complete case analysis | Missing completely at random (MCAR) | Small proportion missing, MCAR justified |
+| Last observation carried forward (LOCF) | Last value represents outcome | Legacy method, becoming less accepted |
+| Mixed model repeated measures (MMRM) | Missing at random (MAR) | Preferred for continuous longitudinal data |
+| Multiple imputation (MI) | MAR with uncertainty estimation | Complex missing patterns, sensitivity analyses |
+| Tipping point analysis | Range of assumptions | Sensitivity analysis for missing data impact |
 
 ---
 
-## Subgroup Analysis
+## Sample Size and Power
 
-### Pre-specified Subgroups
-- Define in protocol/SAP
-- Biological plausibility
-- Adequate sample size
-- Adjust for multiplicity
+### Key Parameters
 
-### Interpretation Guidelines
-- Interaction test p-value
-- Consistency across subgroups
-- Clinical plausibility
-- Pre-specification status
+- **Alpha (Type I error)** — Typically 0.05 (two-sided) or 0.025 (one-sided)
+- **Power (1 - Type II error)** — Typically 80% or 90%
+- **Effect size** — Minimum clinically meaningful difference
+- **Variability** — Standard deviation or event rate estimates
+- **Dropout rate** — Inflate sample size to account for attrition
+
+### Interim Analysis
+
+- Pre-specify interim analyses in protocol and SAP
+- Apply alpha spending functions (O'Brien-Fleming, Lan-DeMets)
+- Maintain blinding of investigators during data monitoring
+- Independent Data Safety Monitoring Board (DSMB) reviews

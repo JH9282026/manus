@@ -1,100 +1,76 @@
 # IT Governance
 
-## Governance Framework
-
-### Governance Objectives
-- Align IT with business strategy
-- Deliver value from IT investments
-- Manage IT-related risks
-- Optimize IT resources
-- Ensure compliance
-
-### Decision Domains
-
-| Domain | Decisions | Key Stakeholders |
-|--------|-----------|------------------|
-| IT principles | Role of IT, behaviors | CIO, business leaders |
-| IT architecture | Standards, integration | Enterprise architects |
-| IT infrastructure | Platforms, services | Infrastructure leaders |
-| Business applications | Application needs | Business, IT |
-| IT investment | Priorities, spending | CIO, CFO, business |
+Establish frameworks for technology investment management and portfolio governance.
 
 ---
 
-## Governance Structure
+## IT Governance Framework
 
-### Governance Bodies
+### COBIT 2019 Alignment
 
-| Body | Purpose | Frequency |
-|------|---------|----------|
-| IT Steering Committee | Strategic alignment, investment | Monthly |
-| Architecture Review Board | Technical standards | Bi-weekly |
-| Project Portfolio Board | Project prioritization | Monthly |
-| Change Advisory Board | Production changes | Weekly |
-| Security Council | Risk and compliance | Monthly |
+Key governance objectives for IT:
 
-### RACI Model
-- **CIO**: Accountable for IT strategy and delivery
-- **Business leaders**: Responsible for requirements, value realization
-- **IT leadership**: Responsible for execution
-- **Finance**: Consulted on investments
-- **Audit/Compliance**: Informed on controls
+| Objective | Description | Key Practices |
+|---|---|---|
+| Evaluate | Assess strategic IT options | Strategy alignment reviews, risk appetite |
+| Direct | Set IT direction and priorities | IT principles, investment guidance, architecture standards |
+| Monitor | Measure IT performance and compliance | KPIs, audits, compliance reviews |
 
----
+### IT Governance Bodies
 
-## IT Investment Management
-
-### Investment Categories
-- Run the business (operations, maintenance)
-- Grow the business (enhancements, capabilities)
-- Transform the business (innovation, new platforms)
-
-### Investment Criteria
-
-| Criterion | Weight | Measures |
-|-----------|--------|----------|
-| Strategic alignment | 30% | Linkage to priorities |
-| Business value | 30% | ROI, benefits |
-| Risk | 20% | Technical, delivery |
-| Dependencies | 10% | Prerequisites, constraints |
-| Resource availability | 10% | Skills, capacity |
+| Body | Scope | Frequency | Members |
+|---|---|---|---|
+| IT Steering Committee | Strategic IT direction, major investments | Monthly | C-suite, business unit heads |
+| Architecture Review Board | Technology standards, design compliance | Bi-weekly | CIO, architects, tech leads |
+| Change Advisory Board | Production changes, release management | Weekly | IT ops, development, security |
+| Security Committee | Cybersecurity governance, risk | Monthly | CISO, CIO, compliance, legal |
+| Data Governance Council | Data quality, privacy, usage policies | Monthly | CDO, data stewards, legal |
 
 ---
 
-## IT Risk Management
+## IT Portfolio Management
 
-### Risk Categories
-- Cybersecurity threats
-- Operational disruptions
-- Technology obsolescence
-- Compliance violations
-- Vendor/third-party risks
-- Project/delivery risks
+### Portfolio Categories
 
-### Risk Management Process
-1. Identify and assess risks
-2. Determine risk appetite
-3. Define mitigation strategies
-4. Implement controls
-5. Monitor and report
-6. Continuous improvement
+| Category | Description | Management Approach |
+|---|---|---|
+| Run | Keep-the-lights-on operations | Optimize cost, automate, outsource where possible |
+| Grow | Enhance existing capabilities | Business case required, prioritize by value |
+| Transform | New capabilities, innovation | Strategic alignment, higher risk tolerance |
+
+### Project Prioritization
+
+Score projects using weighted criteria:
+
+1. **Strategic alignment** (30%) — How directly does this support strategic priorities?
+2. **Financial impact** (25%) — NPV, ROI, payback period
+3. **Risk assessment** (20%) — Technical, organizational, market risk
+4. **Resource requirements** (15%) — Availability of skills and capacity
+5. **Dependencies** (10%) — Prerequisites, integration requirements
+
+Rank projects by composite score; fund top-down until budget is exhausted.
 
 ---
 
-## Performance Measurement
+## IT Service Management (ITIL)
 
-### KPI Categories
+### Key ITIL Practices
 
-| Category | Example Metrics |
-|----------|----------------|
-| Value delivery | Project ROI, benefit realization |
-| Operational | Uptime, incident response |
-| Financial | IT cost ratio, budget variance |
-| Customer | Satisfaction, NPS |
-| Innovation | New capabilities, time-to-market |
+| Practice | Purpose | Key Metrics |
+|---|---|---|
+| Incident management | Restore service quickly | MTTR, incident volume, SLA compliance |
+| Problem management | Prevent recurring incidents | Known errors resolved, repeat incidents |
+| Change management | Controlled service changes | Change success rate, emergency change % |
+| Service level management | Agree and monitor SLAs | SLA achievement %, customer satisfaction |
+| Service desk | Single point of contact | First-contact resolution, ticket volume |
+| Capacity management | Ensure adequate resources | Utilization rates, capacity forecasts |
 
-### Reporting Framework
-- Weekly operational dashboards
-- Monthly executive scorecards
-- Quarterly board reports
-- Annual strategic reviews
+### IT Service Catalog
+
+Maintain a published catalog of IT services including:
+- Service name and description
+- Business owner and IT owner
+- SLA targets (availability, response time, resolution time)
+- Support hours and contact methods
+- Cost/chargeback model
+- Dependencies and known limitations

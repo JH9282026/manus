@@ -1,112 +1,96 @@
 ---
 name: "cold-email-outreach-copywriting"
-description: "Write persuasive cold emails and outreach messages for business development. Use for: B2B sales prospecting, partnership outreach, PR and media pitches, influencer outreach, job search networking, link building, and multi-touch email sequences."
+description: "Write persuasive cold emails and outreach messages for business development and relationship building. Use for: B2B sales prospecting, partnership outreach, PR and media pitches, influencer collaboration, link building outreach, job search networking, investor outreach, multi-touch email sequences, and deliverability optimization."
 ---
 
 # Cold Email & Outreach Copywriting
 
-Craft persuasive cold emails that get opened, read, and answered.
+Create high-converting cold email campaigns and outreach sequences that get opened, read, and answered.
 
 ## Overview
 
-This skill provides frameworks for writing effective cold outreach across B2B sales, partnerships, PR, influencer collaborations, and professional networking. Create personalized messages at scale that build relationships and drive responses.
+Provide frameworks, templates, and best practices for all forms of cold outreach — B2B sales, partnerships, PR, influencer, and professional networking. Cover email structure, subject lines, personalization, sequences, deliverability, legal compliance, and optimization strategies.
 
 ## Outreach Type Selection
 
-| Outreach Goal | Email Type | Key Focus | Reference |
-|---------------|------------|-----------|----------|
-| B2B sales | Sales prospecting | Problem-solution, ROI | `/references/sales-outreach.md` |
-| Partnerships | Partnership pitch | Mutual benefit | `/references/partnership-outreach.md` |
-| Media coverage | PR pitch | News hook, exclusivity | `/references/pr-outreach.md` |
-| Influencer collab | Creator outreach | Value exchange | `/references/influencer-outreach.md` |
-| Job/networking | Professional intro | Genuine interest | `/references/networking.md` |
+| Outreach Type | Goal | Typical Reply Rate | Reference |
+|---|---|---|---|
+| B2B sales prospecting | Book meetings, generate pipeline | 5-15% | `/references/sales-outreach.md` |
+| Partnership development | Establish business partnerships | 10-20% | `/references/partnership-outreach.md` |
+| PR / media pitches | Earn media coverage | 3-10% | `/references/pr-outreach.md` |
+| Influencer collaboration | Content partnerships, sponsorships | 5-15% | `/references/influencer-outreach.md` |
+| Link building | Earn backlinks for SEO | 3-8% | `/references/pr-outreach.md` |
 
-## Core Competencies
+## Cold Email Core Principles
 
-### Subject Line Writing
-- Craft curiosity-inducing subject lines
-- Personalize for higher open rates
-- Avoid spam triggers
-- A/B test variations
-- Optimize length for mobile
+1. **Personalize the first line** — Reference something specific about the recipient (recent post, company news, mutual connection)
+2. **One CTA per email** — Don't give multiple options; ask for one specific action
+3. **Keep it short** — Under 125 words for cold emails; under 5 sentences
+4. **Lead with value** — What's in it for them, not what you're selling
+5. **Sound human** — Write like a person, not a marketing department
+6. **Respect boundaries** — Easy opt-out, limited follow-ups, legal compliance
 
-### Opening Line Hooks
-- Personalize with research
-- Reference triggers and events
-- Create pattern interrupts
-- Demonstrate genuine interest
-- Avoid generic openers
+## Email Structure Framework
 
-### Value Proposition
-- Lead with recipient benefit
-- Use specific, quantified claims
-- Include relevant social proof
-- Address pain points directly
-- Differentiate clearly
+### The AIDA Cold Email
 
-### Call-to-Action
-- Keep asks low-friction
-- Offer clear next steps
-- Use question-based CTAs
-- Provide multiple options
-- Create urgency appropriately
+| Element | Purpose | Length |
+|---|---|---|
+| **Attention** (subject line) | Get the open | 3-7 words |
+| **Interest** (opening line) | Hook with relevance | 1 sentence, personalized |
+| **Desire** (value proposition) | Create motivation | 2-3 sentences |
+| **Action** (CTA) | Drive response | 1 clear question |
 
-## Email Structure
+### Subject Line Formulas
 
-### Anatomy of Effective Cold Email
+| Formula | Example | Open Rate Impact |
+|---|---|---|
+| Question | "Quick question about [company]'s [topic]?" | High |
+| Mutual connection | "[Name] suggested I reach out" | Very High |
+| Specific result | "[Company] + [your company] = [outcome]" | Medium-High |
+| Curiosity gap | "Idea for [specific initiative]" | Medium |
+| Direct | "Partnership with [company]" | Medium |
 
-| Component | Length | Purpose |
-|-----------|--------|----------|
-| Subject line | 4-7 words | Get opened |
-| Opening line | 1-2 sentences | Hook attention |
-| Value proposition | 2-3 sentences | Create interest |
-| Social proof | 1 sentence | Build credibility |
-| Call-to-action | 1 sentence | Drive response |
-| Signature | Brief | Establish identity |
+**Rules:** Keep under 50 characters. Avoid spam triggers (FREE, URGENT, !!!). No misleading subjects. Lowercase often outperforms title case.
 
-**Total length target**: 50-125 words
+## Follow-Up Sequence Blueprint
 
-## Sequence Design
+| Touch | Timing | Approach | Goal |
+|---|---|---|---|
+| Email 1 | Day 0 | Value-first cold email | Initial engagement |
+| Email 2 | Day 3 | New angle, add social proof | Re-engage |
+| Email 3 | Day 7 | Share relevant resource/insight | Demonstrate value |
+| Email 4 | Day 14 | Case study or specific results | Build credibility |
+| Email 5 | Day 21 | Breakup email ("closing the loop") | Final attempt |
 
-| Touch | Timing | Focus |
-|-------|--------|-------|
-| Email 1 | Day 0 | Initial value proposition |
-| Email 2 | Day 3-4 | New angle or proof point |
-| Email 3 | Day 7-8 | Value-add content |
-| Email 4 | Day 12-14 | Case study or social proof |
-| Email 5 | Day 18-21 | Breakup email |
+**Rules:** Maximum 5 emails per sequence. Each email must add new value. Never repeat the same CTA. Stop immediately if asked.
 
-## Key Deliverables
+## Personalization Framework
 
-### Email Content
-- Subject line variations (5-10 per campaign)
-- Opening line templates by trigger
-- Value proposition versions by persona
-- CTA variations
-- Full email templates
+| Level | Effort | Example | Impact |
+|---|---|---|---|
+| Basic | Low | First name, company name | Minimal |
+| Contextual | Medium | Industry mention, company size reference | Moderate |
+| Researched | High | Recent news, specific challenge, mutual connection | High |
+| Deep | Very High | Custom video, personalized analysis | Very High |
 
-### Sequences
-- Multi-touch sequences (5-6 emails)
-- Follow-up templates
-- Breakup emails
-- Re-engagement campaigns
+## Legal Compliance Quick Reference
 
-### Supporting Materials
-- Personalization research framework
-- A/B testing plan
-- Response handling scripts
-- Escalation templates
+| Regulation | Key Requirements |
+|---|---|
+| CAN-SPAM (US) | Physical address, opt-out mechanism, accurate sender info |
+| GDPR (EU) | Legitimate interest basis for B2B, right to erasure, data access |
+| CASL (Canada) | Implied consent for business contacts, express consent for B2C |
+| PECR (UK) | Similar to GDPR, soft opt-in for existing customers |
 
 ## Using the Reference Files
 
-### When to Read Each Reference
+**`/references/sales-outreach.md`** — Read when writing B2B sales prospecting emails, designing outbound sequences, or optimizing reply rates.
 
-**`/references/sales-outreach.md`** — Read when writing B2B sales emails, lead generation campaigns, or meeting requests.
+**`/references/partnership-outreach.md`** — Read when reaching out for business partnerships, co-marketing, or strategic alliances.
 
-**`/references/partnership-outreach.md`** — Read when pitching partnerships, co-marketing opportunities, or business development.
+**`/references/pr-outreach.md`** — Read when pitching media, writing press releases, or conducting link building outreach.
 
-**`/references/pr-outreach.md`** — Read when pitching journalists, securing media coverage, or getting expert commentary.
+**`/references/influencer-outreach.md`** — Read when reaching out to influencers, content creators, or thought leaders for collaboration.
 
-**`/references/influencer-outreach.md`** — Read when reaching out to creators, influencers, or thought leaders for collaboration.
-
-**`/references/deliverability.md`** — Read when setting up cold email infrastructure, warming domains, or troubleshooting deliverability.
+**`/references/deliverability.md`** — Read when optimizing email deliverability, warming domains, or troubleshooting spam folder issues.

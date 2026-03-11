@@ -1,93 +1,65 @@
 # Demand Generation
 
-## Demand Gen Framework
-
-### Funnel Stages
-
-| Stage | Goal | Key Tactics |
-|-------|------|-------------|
-| Awareness | Generate interest | Content, PR, advertising |
-| Engagement | Build relationship | Nurture, events, social |
-| Consideration | Educate on solution | Demos, case studies, trials |
-| Decision | Convert to customer | Sales enablement, offers |
+Build and optimize lead generation and pipeline creation programs.
 
 ---
 
-## Channel Strategy
+## Demand Generation Framework
 
-### Channel Selection Matrix
+### Full-Funnel Strategy
 
-| Channel | Best For | Consideration |
-|---------|----------|---------------|
-| Paid search | High-intent capture | Competitive, costly |
-| Social paid | Awareness, targeting | Declining organic |
-| Content/SEO | Long-term, authority | Time to results |
-| Email | Nurture, retention | List quality critical |
-| Events | Relationship, complex sales | Resource intensive |
-| ABM | Enterprise, targeted | Scale limitations |
+| Funnel Stage | Objective | Tactics | Metrics |
+|---|---|---|---|
+| Awareness | Build audience | Content marketing, PR, social, display | Reach, impressions, brand lift |
+| Interest | Engage prospects | Webinars, guides, email nurture | Engagement, MQLs, content downloads |
+| Consideration | Generate demand | Case studies, demos, trials, ABM | SQLs, pipeline value, demo requests |
+| Decision | Convert | Sales enablement, proposals, POC | Win rate, deal velocity, ASP |
+| Expansion | Grow accounts | Upsell campaigns, customer marketing | NRR, expansion revenue, CLV |
 
-### Channel Mix Optimization
-- Analyze channel contribution
-- Model diminishing returns
-- Optimize for CAC and LTV
-- Test new channels systematically
+### Account-Based Marketing (ABM)
 
----
+**ABM Tiers:**
 
-## Lead Generation
-
-### Lead Capture Strategies
-- Gated content (ebooks, reports)
-- Webinars and events
-- Free trials and freemium
-- Demos and consultations
-- Calculators and assessments
-
-### Lead Scoring Model
-
-| Factor | Examples | Points |
-|--------|----------|--------|
-| Demographics | Title, company size | 0-25 |
-| Firmographics | Industry, revenue | 0-25 |
-| Behavior | Website, email engagement | 0-30 |
-| Intent | Demo request, pricing page | 0-20 |
+| Tier | Accounts | Approach | Resources |
+|---|---|---|---|
+| 1:1 (Strategic) | 10-25 accounts | Fully custom campaigns per account | Dedicated team, personalized content |
+| 1:Few (Cluster) | 50-200 accounts | Industry or segment-based campaigns | Shared resources, semi-custom |
+| 1:Many (Programmatic) | 200-1,000+ accounts | Targeted digital campaigns at scale | Automated, templated |
 
 ---
 
-## Lead Nurturing
+## Lead Scoring Model
 
-### Nurture Program Types
-- Welcome/onboarding sequences
-- Educational drip campaigns
-- Re-engagement campaigns
-- Upsell/cross-sell sequences
-- Win-back campaigns
+### Scoring Dimensions
 
-### Nurture Best Practices
-- Segment by persona and stage
-- Personalize content and timing
-- Multi-channel orchestration
-- Test and optimize continuously
-- Measure engagement and conversion
+**Fit score (demographic/firmographic):**
+- Job title/seniority: +10 to +30 points
+- Company size: +5 to +20 points
+- Industry match: +10 to +25 points
+- Geography: +5 to +15 points
+- Technology stack: +5 to +15 points
+
+**Engagement score (behavioral):**
+- Website visit: +2 points per page
+- Content download: +10 to +20 points
+- Webinar attendance: +15 to +25 points
+- Email engagement: +3 to +5 points per click
+- Demo request: +50 points
+- Pricing page visit: +20 points
+
+**MQL threshold:** Combined score ≥ 75 points
+**SQL threshold:** MQL + sales acceptance criteria met
 
 ---
 
-## Campaign Planning
+## Email Marketing Optimization
 
-### Campaign Brief Elements
-1. Objective and KPIs
-2. Target audience
-3. Key messages
-4. Channel strategy
-5. Content requirements
-6. Timeline and milestones
-7. Budget allocation
-8. Success measurement
+### Email Performance Benchmarks (B2B)
 
-### Campaign Performance Metrics
-- Reach and impressions
-- Engagement rate
-- Lead volume and quality
-- Pipeline generated
-- Revenue attributed
-- ROI/ROAS
+| Metric | Average | Good | Excellent |
+|---|---|---|---|
+| Open rate | 20-25% | 25-35% | 35%+ |
+| Click-through rate | 2-3% | 3-5% | 5%+ |
+| Click-to-open rate | 10-15% | 15-20% | 20%+ |
+| Unsubscribe rate | 0.3-0.5% | <0.3% | <0.1% |
+| Bounce rate | 1-2% | <1% | <0.5% |
