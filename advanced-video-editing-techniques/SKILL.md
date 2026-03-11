@@ -1,6 +1,6 @@
 ---
 name: "advanced-video-editing-techniques"
-description: "Apply professional video editing techniques beyond basic cuts including J-cuts, L-cuts, match cuts, parallel editing, speed ramping, multi-camera workflows, and motion tracking. Use for: creating compelling visual narratives, controlling pacing and rhythm, building emotional arcs, editing action sequences, documentary storytelling, music video production, and achieving cinematic quality."
+description: "Apply sophisticated video editing techniques for professional content creation. Use for: J-cuts and L-cuts, match cuts, jump cuts, pacing and rhythm control, montage sequences, parallel editing, speed ramping, multi-camera editing, color grading integration, masking and rotoscoping, green screen compositing, and motion tracking."
 ---
 
 # Advanced Video Editing Techniques
@@ -9,129 +9,93 @@ Transform raw footage into compelling visual narratives through sophisticated ed
 
 ## Overview
 
-This skill covers professional editing techniques that manipulate time, space, and viewer perception to create engaging content. Use it for narrative films, documentaries, music videos, commercials, and any video requiring professional polish.
-
-## Quick Start: Technique Selection
-
-| Goal | Technique | Reference |
-|------|-----------|-----------|
-| Smooth scene transitions | J-cuts, L-cuts | `/references/cutting-techniques.md` |
-| Connect scenes visually | Match cuts | `/references/cutting-techniques.md` |
-| Build suspense | Parallel editing | `/references/storytelling.md` |
-| Emphasize action | Speed ramping | `/references/speed-time.md` |
-| Event coverage | Multi-camera editing | `/references/multi-camera.md` |
-| Visual effects integration | Motion tracking, masking | `/references/effects-compositing.md` |
+Move beyond basic cut-and-trim to master techniques that manipulate time, space, and viewer perception. Advanced editing thinks holistically about the viewing experience, crafting sequences that flow naturally while achieving creative objectives.
 
 ## Core Cutting Techniques
 
-### J-Cut (Audio Leads Video)
+### J-Cuts and L-Cuts
 
-Audio from incoming clip begins before its video appears:
-- Creates anticipation
-- Smooths transitions
-- Shows listener reactions in dialogue
+| Type | Audio/Video Relationship | Effect |
+|------|--------------------------|--------|
+| J-Cut | Audio leads video | Creates anticipation |
+| L-Cut | Video leads audio | Maintains momentum |
 
-### L-Cut (Video Leads Audio)
+Typical offset: 12-24 frames (0.5-1 second)
 
-Audio from outgoing clip continues over incoming video:
-- Maintains emotional continuity
-- Creates contrast
-- Allows reaction shots during dialogue
+### Match Cuts
 
-### Match Cut
+| Type | Connection | Example |
+|------|------------|--------|
+| Graphic | Shapes, colors | Clock to moon |
+| Action | Movement continuity | Throwing to catching |
+| Sound | Audio similarity | Alarm to phone ring |
+| Eyeline | Gaze direction | Look to subject |
 
-Visual or thematic connection between shots:
-- **Graphic Match**: Similar shapes across cut
-- **Action Match**: Movement continues across cut
-- **Sound Match**: Similar audio bridges scenes
+### Jump Cuts
+Intentional continuity violations for:
+- Time compression
+- Disorientation
+- Energy building
+- Music video style
 
 ## Pacing and Rhythm
 
-### Cutting Rhythm Guidelines
-
-| Style | Shot Duration | Best For |
-|-------|---------------|----------|
-| Fast cutting | 1-2 seconds | Action, energy, tension |
-| Medium pace | 3-5 seconds | Dialogue, narrative |
-| Slow cutting | 6+ seconds | Drama, contemplation |
-| Variable | Mixed | Dynamic storytelling |
+| Cutting Style | Shot Duration | Creates |
+|---------------|---------------|--------|
+| Fast | 1-2 seconds | Energy, tension |
+| Medium | 3-4 seconds | Balanced engagement |
+| Slow | 5+ seconds | Contemplation, intimacy |
+| Variable | Alternating | Dynamic experience |
 
 ### Pacing Patterns
+- **Escalation**: Long → short toward climax
+- **Deceleration**: Fast → slow for resolution
+- **Pulse**: Alternating for rhythm
 
-- **Escalation**: Start slow, accelerate toward climax
-- **Deceleration**: Fast opening, slow toward resolution
-- **Pulse**: Alternate fast and slow sections
+## Montage Types
 
-## Storytelling Through Editing
-
-### The Kuleshov Effect
-
-Viewers derive meaning from shot juxtaposition:
-- Same face + soup = hunger
-- Same face + coffin = grief
-- Same face + child = love
-
-### Emotional Arc Structure
-
-1. **Setup**: Establish location, characters, mood (longer shots)
-2. **Development**: Build tension (accelerate pacing)
-3. **Climax**: Maximum intensity (fastest cutting or dramatic long take)
-4. **Resolution**: Process emotions (decelerate)
+| Type | Principle | Application |
+|------|-----------|-------------|
+| Metric | Time-based cuts | Music sync |
+| Rhythmic | Movement-based | Action flow |
+| Tonal | Emotion-based | Atmosphere |
+| Intellectual | Idea juxtaposition | Commentary |
 
 ## Speed Manipulation
 
 ### Speed Ramping
-
 Smooth transitions between playback speeds:
-- Requires high frame rate source (60fps+ for slow-mo)
-- Use for action highlights, dramatic reveals
-- Keyframe speed changes for smooth ramps
+- Normal → slow motion → normal
+- Requires high frame rate source (60fps+)
 
-### Frame Rate Guidelines
-
-| Source FPS | At 24fps | Effect |
+### Frame Rate Conversions
+| Source FPS | To 24fps | Result |
 |------------|----------|--------|
-| 60 | 40% speed | 2.5x slow motion |
-| 120 | 20% speed | 5x slow motion |
-| 240 | 10% speed | 10x slow motion |
+| 60 | 40% speed | 2.5× slow-mo |
+| 120 | 20% speed | 5× slow-mo |
+| 240 | 10% speed | 10× slow-mo |
 
-## Multi-Camera Workflow
+## Multi-Camera Editing
 
-### Setup Process
+### Workflow
+1. Import all angles
+2. Synchronize (timecode, audio, visual cues)
+3. Create multi-cam sequence
+4. Live switch or post-switch
+5. Refine cuts
 
-1. Import all camera angles
-2. Synchronize clips (timecode, audio, visual cues)
-3. Create multi-camera sequence
-4. Verify synchronization
+## Parallel Editing
 
-### Switching Approaches
-
-- **Live switching**: Cut in real-time while watching
-- **Post-switching**: Review each angle, make deliberate decisions
-- **Hybrid**: Live switch for rough cut, refine in post
-
-## Quality Checklist
-
-- [ ] Audio-video sync maintained
-- [ ] Consistent color/exposure across cuts
-- [ ] Motivated cuts (serve story, not arbitrary)
-- [ ] Proper pacing for content type
-- [ ] Smooth transitions
-- [ ] No jump cuts unless intentional
-- [ ] Effects serve story, not distract
+Intercut between simultaneous storylines to:
+- Build suspense
+- Create dramatic irony
+- Compress time
+- Build toward convergence
 
 ## Using the Reference Files
 
-### When to Read Each Reference
+### `/references/transition-techniques.md`
+Read when implementing advanced transitions like whip pans, morphs, or seamless cuts.
 
-**`/references/cutting-techniques.md`** — Read when refining edit points. Covers J-cuts, L-cuts, match cuts, jump cuts, and invisible cuts.
-
-**`/references/storytelling.md`** — Read when building narrative. Contains Kuleshov effect, emotional arcs, parallel editing, montage construction.
-
-**`/references/speed-time.md`** — Read when manipulating time. Covers speed ramping, slow motion, time-lapse, freeze frames.
-
-**`/references/multi-camera.md`** — Read when editing event coverage. Contains sync methods, switching approaches, angle selection.
-
-**`/references/effects-compositing.md`** — Read when integrating effects. Covers masking, rotoscoping, green screen, motion tracking.
-
-**`/references/audio-editing.md`** — Read when refining audio. Contains audio sweetening, sound design, music integration.
+### `/references/compositing-basics.md`
+Read when performing green screen keying, masking, rotoscoping, or motion tracking.

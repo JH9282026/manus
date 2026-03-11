@@ -1,145 +1,94 @@
 ---
 name: "advanced-conversion-psychology"
-description: "Apply psychological principles, cognitive biases, and behavioral economics to optimize digital conversions and landing page performance. Use for: understanding decision-making psychology, applying Cialdini's persuasion principles, leveraging cognitive biases ethically, designing emotionally resonant experiences, implementing color psychology, neuromarketing techniques, and building trust-driven conversion strategies."
+description: "Apply psychological principles to influence user behavior and optimize conversions. Use for: landing page optimization, persuasion strategy, cognitive bias application, decision architecture, emotional triggers, trust building, urgency and scarcity tactics, social proof implementation, CTA optimization, and form design psychology."
 ---
 
 # Advanced Conversion Psychology
 
-Apply psychological principles to understand and ethically influence user behavior in digital environments, creating experiences that guide users toward desired actions.
+Apply psychological principles, cognitive biases, and behavioral economics to create experiences that guide users toward desired actions.
 
 ## Overview
 
-This skill combines insights from cognitive psychology, behavioral economics, social psychology, and neuroscience to create more effective, user-centered experiences. Use it to optimize landing pages, improve conversion rates, craft persuasive messaging, and build genuine connections with users.
+Understand how humans actually think and make decisions—which is often not rational. Use this understanding to reduce friction, clarify value, and help users take actions that benefit them.
 
-## Quick Start: Principle Selection
+## Core Psychology Principles
 
-| Situation | Primary Principle | Reference |
-|-----------|-------------------|-----------|
-| Building initial trust | Authority + Social Proof | `/references/cialdini-principles.md` |
-| Overcoming hesitation | Loss Aversion + Scarcity | `/references/behavioral-economics.md` |
-| Simplifying decisions | Choice Architecture | `/references/decision-psychology.md` |
-| Creating emotional resonance | Emotional Triggers | `/references/emotional-triggers.md` |
-| Optimizing visual elements | Color Psychology | `/references/neuromarketing.md` |
+### Decision-Making Systems
 
-## Cialdini's 6 Principles of Persuasion
+| System | Characteristics | Design For |
+|--------|-----------------|------------|
+| System 1 (Fast) | Automatic, intuitive, emotional | Most landing page decisions |
+| System 2 (Slow) | Deliberate, analytical, effortful | Complex/high-stakes choices |
 
-### Quick Reference
+Design for System 1: intuitive understanding, clear emotional appeals, obvious next steps.
+
+## Cialdini's 6 Principles
 
 | Principle | Application | Example |
-|-----------|-------------|---------|
+|-----------|-------------|--------|
 | Reciprocity | Give value first | Free guides, tools, trials |
-| Commitment | Start small | Multi-step forms, micro-commitments |
-| Social Proof | Show others | Testimonials, user counts, logos |
-| Authority | Demonstrate expertise | Credentials, press mentions, awards |
-| Liking | Build connection | Authentic voice, relatable stories |
-| Scarcity | Create urgency | Limited time, limited quantity |
+| Commitment | Small steps first | Multi-step forms |
+| Social Proof | Show others acting | Reviews, user counts |
+| Authority | Demonstrate expertise | Credentials, press mentions |
+| Liking | Build connection | Real photos, personality |
+| Scarcity | Limit availability | Limited time/quantity |
 
 ## Key Cognitive Biases
 
-### Biases That Drive Conversions
-
-**Anchoring Bias**: First number seen influences all subsequent judgments
-- Show original price before discount
-- Present premium option first
-
-**Loss Aversion**: Losses feel 2x stronger than equivalent gains
-- Frame benefits as avoiding loss
-- Highlight what users miss by not acting
-
-**Social Proof**: People follow what others do
-- Display user counts and testimonials
-- Show real-time activity notifications
-
-**Framing Effect**: Presentation changes perception
-- "95% success rate" vs "5% failure rate"
-- Gain-focused vs loss-focused messaging
-
-## Decision-Making Framework
-
-### System 1 vs System 2 Thinking
-
-**System 1 (Fast)**: Intuitive, automatic, emotional
-- Design for quick comprehension
-- Use clear visual hierarchy
-- Leverage emotional appeals
-
-**System 2 (Slow)**: Deliberate, analytical, effortful
-- Reserve for complex information
-- Provide detailed specs when needed
-- Support comparison shopping
-
-### Choice Architecture
-
-Reduce decision fatigue:
-- Limit options to 3-5 choices
-- Highlight recommended option
-- Use smart defaults
-- Progressive disclosure
+| Bias | Effect | Application |
+|------|--------|-------------|
+| Anchoring | First info influences judgment | Show high price first |
+| Loss Aversion | Losses hurt 2× more than gains | Frame as avoiding loss |
+| Social Proof | Follow others' actions | Display activity, counts |
+| Framing | Presentation changes perception | "95% success" vs "5% failure" |
+| Decoy Effect | Third option shifts preference | Strategic pricing tiers |
 
 ## Emotional Triggers
 
-### Primary Triggers
+### Primary Motivators
+- **Fear/Loss Aversion**: What they'll miss or lose
+- **Trust/Security**: Safe to proceed
+- **Belonging**: Part of community
+- **Curiosity**: Information gaps
+- **Instant Gratification**: Immediate reward
+- **Status/Pride**: Achievement, recognition
 
-| Trigger | Application | Copy Example |
-|---------|-------------|--------------|
-| Fear/Loss | Risk highlighting | "Don't miss out on..." |
-| Trust | Security signals | "256-bit encryption" |
-| Belonging | Community | "Join 10,000+ members" |
-| Curiosity | Information gaps | "The secret to..." |
-| Pride | Status/exclusivity | "For serious professionals" |
+## Trust Building Elements
 
-## Trust Building Framework
+- Security badges (SSL, payment)
+- Social proof (testimonials, logos)
+- Authority signals (credentials, press)
+- Risk reversal (guarantees, trials)
+- Transparency (clear policies, contact)
 
-### Trust Signals
+## Form Psychology
 
-1. **Social Proof**: Testimonials, reviews, user counts
-2. **Authority**: Credentials, press mentions, certifications
-3. **Risk Reversal**: Guarantees, free trials, easy refunds
-4. **Security**: SSL badges, payment security, privacy policy
-5. **Transparency**: Clear pricing, honest limitations
+### Reduce Friction
+- Fewer fields = higher completion
+- Smart defaults
+- Inline validation
+- Progress indicators
+- Mobile-optimized inputs
+
+### CTA Optimization
+- Action-oriented verbs
+- First-person language ("Get My...")
+- Specific outcomes
+- Visual prominence
+- Reduce ambiguity
 
 ## Ethical Guidelines
 
-### Responsible Application
-
-- Start with genuine value
-- Align your success with user benefit
-- Be transparent about offers and limitations
-- Use real urgency and scarcity only
-- Empower informed decisions
-- Measure long-term outcomes, not just conversions
-
-### Avoid
-
-- Fake countdown timers
-- Manufactured scarcity
-- Hidden costs or terms
-- Dark patterns that exploit
-- Manipulative pressure tactics
-
-## Landing Page Psychology Checklist
-
-- [ ] Clear value proposition above fold
-- [ ] Social proof visible early
-- [ ] Authority signals present
-- [ ] Risk reversal offered
-- [ ] Scarcity/urgency (if genuine)
-- [ ] Single, clear CTA
-- [ ] Emotional triggers aligned
-- [ ] Decision friction minimized
+- Use psychology to help users make better decisions
+- Scarcity must be genuine
+- Claims must be truthful
+- Empower informed choice
+- Build long-term trust over short-term conversions
 
 ## Using the Reference Files
 
-### When to Read Each Reference
+### `/references/cognitive-biases.md`
+Read when applying specific biases to page elements. Contains detailed bias mechanics and implementation patterns.
 
-**`/references/cialdini-principles.md`** — Read when applying persuasion fundamentals. Contains detailed implementation for reciprocity, commitment, social proof, authority, liking, and scarcity.
-
-**`/references/cognitive-biases.md`** — Read when leveraging mental shortcuts. Covers anchoring, framing, bandwagon effect, decoy effect, and more.
-
-**`/references/behavioral-economics.md`** — Read when addressing economic decision-making. Includes loss aversion, endowment effect, sunk cost fallacy, and pricing psychology.
-
-**`/references/emotional-triggers.md`** — Read when crafting emotionally resonant messaging. Covers fear, trust, belonging, curiosity, pride, and hope.
-
-**`/references/neuromarketing.md`** — Read when optimizing visual and sensory elements. Contains color psychology, eye tracking patterns, attention principles.
-
-**`/references/trust-credibility.md`** — Read when building trust online. Covers authority signals, social proof types, risk reversal, and security signals.
+### `/references/emotional-triggers.md`
+Read when crafting messaging and emotional appeals. Contains trigger psychology and ethical application guidelines.

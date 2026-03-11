@@ -1,156 +1,94 @@
 ---
 name: "app-store-optimization-copywriting"
-description: "Optimize mobile app store listings for discoverability and conversions on Apple App Store and Google Play. Use for: app title optimization, keyword research, writing compelling descriptions, crafting screenshot captions, release notes, promotional text, A/B testing store elements, and localization for international markets."
+description: "Craft text content that improves app visibility and conversion in mobile app stores. Use for: app title optimization, subtitle writing, keyword field optimization, full description writing, release notes, screenshot captions, promotional text, localization strategy, A/B testing copy variants, and platform-specific optimization for Apple App Store and Google Play."
 ---
 
 # App Store Optimization (ASO) Copywriting
 
-Create app store listings that improve visibility in search results and convert browsers into downloaders.
+Create text content that improves app discoverability and converts browsers into downloaders.
 
 ## Overview
 
-This skill combines keyword strategy with persuasive writing to help apps rank higher and achieve better conversion rates. Use it for Apple App Store and Google Play Store optimization across all app categories.
+With millions of apps competing and 65% of downloads coming from search, effective ASO copywriting is essential. Combine keyword strategy with persuasive writing to rank higher and convert more.
 
-## Quick Start: Platform Selection
+## Platform Differences
 
-| Platform | Key Difference | Reference |
-|----------|----------------|-----------|
-| Apple App Store | Hidden keyword field (100 chars) | `/references/ios-optimization.md` |
-| Google Play | Description indexed for search | `/references/android-optimization.md` |
+| Element | iOS | Google Play |
+|---------|-----|-------------|
+| Title | 30 chars | 30 chars |
+| Subtitle/Short | 30 chars | 80 chars |
+| Keywords | 100 chars (hidden) | In description |
+| Description indexed | No | Yes |
+| Key strategy | Keyword field | Natural integration |
 
-## Platform Comparison
-
-| Element | iOS | Android |
-|---------|-----|---------|
-| Title | 30 chars, indexed | 30 chars, indexed |
-| Subtitle/Short Desc | 30 chars, indexed | 80 chars, indexed |
-| Keyword Field | 100 chars, hidden | None |
-| Description | NOT indexed | Indexed (4,000 chars) |
-| Promotional Text | 170 chars, changeable | None |
-
-## App Title Best Practices
+## App Title Optimization
 
 ### Format Options
+- **Brand Only**: "Spotify"
+- **Brand + Keyword**: "Headspace: Meditation & Sleep"
+- **Keyword + Brand**: "Meditation Timer - Insight"
 
-1. **Brand Only**: "Spotify"
-2. **Brand + Keyword**: "Headspace: Meditation & Sleep"
-3. **Keyword + Brand**: "Meditation Timer - Insight"
-4. **Descriptive**: "Photo Editor Pro"
+### Rules
+- 30 characters maximum
+- Include primary keyword naturally
+- Easy to spell and search
+- Check trademark availability
 
-### Title Checklist
+## Subtitle (iOS) / Short Description (Android)
 
-- [ ] Memorable and distinctive
-- [ ] Easy to spell and pronounce
-- [ ] Includes primary keyword naturally
-- [ ] Within 30 character limit
-- [ ] Trademark verified
+### iOS Subtitle (30 chars)
+- Include secondary keywords
+- Communicate key benefit
+- Complement title (don't repeat)
 
-## Keyword Strategy
+### Android Short Description (80 chars)
+- Front-load important keywords
+- Primary value proposition
+- Create curiosity or urgency
 
-### Research Process
+## iOS Keyword Field
 
-1. **Brainstorm**: List relevant terms users might search
-2. **Competitor Analysis**: Analyze top competitors' keywords
-3. **Auto-Suggest**: Check app store suggestions
-4. **Volume Assessment**: Evaluate search volume vs. competition
+### Optimization Rules
+- 100 characters maximum
+- Separate with commas (no spaces)
+- Don't repeat words from title/subtitle
+- No plurals if singular exists
+- No "app" or category names
+- Lowercase only
 
-### Keyword Prioritization
+### Example
+```
+meditation,mindfulness,sleep,stress,relief,calm,relax,breathing,anxiety,guided
+```
 
-| Priority | Criteria | Placement |
-|----------|----------|-----------|
-| Primary | High volume, high relevance | Title, subtitle |
-| Secondary | Medium volume | Keyword field (iOS), description (Android) |
-| Long-tail | Lower volume, specific | Description, keyword field |
+## Full Description
 
-## Description Structure
+### Structure
+1. **Hook**: Compelling first line
+2. **Social proof**: Awards, downloads, ratings
+3. **Problem statement**: Challenge users face
+4. **Solution**: How app solves it
+5. **Features**: Bullet points (4-6)
+6. **Social proof**: Press, testimonials
+7. **CTA**: Download encouragement
 
-### Opening (Above the Fold)
-
-- Hook immediately
-- State primary value proposition
-- Include social proof if available
-- Primary keywords for Google Play
-
-### Feature Section
-
-Use emoji bullets for scannability:
-
-- [emoji] **Benefit** - Feature explanation
-- [emoji] **Benefit** - Feature explanation
-
-### Social Proof
-
-- Press mentions and awards
-- User testimonials
-- Download milestones
-
-### Call to Action
-
-- Clear download encouragement
-- Urgency or incentive
-- Remove perceived risk
+### Feature Bullets Formula
+✨ [Emoji] **[Benefit]** - [Feature explanation]
 
 ## Screenshot Captions
 
-### Best Practices
-
-- Lead with benefits, not features
-- One message per screenshot
-- Create narrative sequence
-- Include social proof
-
-### Caption Formula
-
-| Screenshot | Content |
-|------------|---------|
-| 1 | Hero value proposition |
-| 2-4 | Key features/benefits |
-| 5 | Social proof/CTA |
-
-## Release Notes
-
-### Format
-
-- Lead with exciting new features
-- Be specific, not vague
-- Show you're listening to feedback
-- Use bullet points
-
-### Example
-
-```
-NEW: Dark Mode - easier on your eyes
-IMPROVED: Faster loading times
-FIXED: Login issue some users experienced
-```
-
-## A/B Testing Elements
-
-Test these elements systematically:
-1. Screenshot order and content
-2. Icon variations
-3. Description opening hooks
-4. Feature emphasis
-5. Social proof placement
-
-## Quality Checklist
-
-- [ ] Keywords researched and prioritized
-- [ ] Title optimized with primary keyword
-- [ ] Subtitle/short description compelling
-- [ ] Description formatted for scanning
-- [ ] Screenshots with benefit-driven captions
-- [ ] Release notes specific and helpful
-- [ ] Localization completed for key markets
+| Screenshot | Caption Focus |
+|------------|---------------|
+| 1 | Hero value prop + social proof |
+| 2 | Primary feature + benefit |
+| 3 | Secondary feature + outcome |
+| 4 | Differentiator |
+| 5 | Social proof + CTA |
 
 ## Using the Reference Files
 
-### When to Read Each Reference
+### `/references/platform-guidelines.md`
+Read when optimizing for specific platform requirements, character limits, and indexing rules.
 
-**`/references/ios-optimization.md`** — Read when optimizing for Apple App Store. Contains keyword field strategy, subtitle optimization, and promotional text guidelines.
-
-**`/references/android-optimization.md`** — Read when optimizing for Google Play. Covers description keyword integration, short description strategy, and feature graphic copy.
-
-**`/references/keyword-research.md`** — Read when building keyword strategy. Contains research methods, tools, and prioritization frameworks.
-
-**`/references/localization.md`** — Read when expanding to international markets. Covers localization best practices and market prioritization.
+### `/references/keyword-strategy.md`
+Read when conducting keyword research, prioritization, and seasonal optimization.

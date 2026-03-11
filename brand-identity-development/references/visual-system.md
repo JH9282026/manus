@@ -1,95 +1,109 @@
 # Visual System Development
 
-Detailed guidance for creating visual identity systems.
+Detailed guidance for creating logo systems, color architecture, and typography.
 
 ---
 
 ## Logo Design Principles
 
-### Core Qualities
+### Core Requirements
+- **Scalability**: Work from favicon to billboard
+- **Memorability**: Distinctive and recognizable
+- **Versatility**: Function across all media
+- **Simplicity**: Reduce to essential elements
+- **Timelessness**: Avoid trend-dependent design
 
-1. **Simple**: Clean, uncluttered, memorable
-2. **Memorable**: Distinctive, easy to recall
-3. **Timeless**: Avoids trendy elements
-4. **Versatile**: Works across all applications
-5. **Appropriate**: Fits brand personality
-
-### Construction Methods
-
-**Grid-Based Design:**
-- Use underlying grid for proportion
-- Golden ratio relationships
+### Construction Geometry
+Use mathematical relationships for visual harmony:
+- Grid systems for alignment
+- Golden ratio for proportions
 - Consistent stroke weights
-- Mathematical precision
+- Optical balancing adjustments
 
-**Logo Types:**
-
-| Type | Description | Example Brands |
-|------|-------------|----------------|
-| Wordmark | Text only | Google, Coca-Cola |
-| Lettermark | Initials | IBM, HBO |
-| Pictorial | Symbol/icon | Apple, Twitter |
-| Abstract | Geometric shape | Nike, Pepsi |
-| Mascot | Character | Michelin, KFC |
-| Emblem | Text + symbol enclosed | Starbucks, Harley |
-| Combination | Text + symbol | Adidas, Burger King |
+### Logo Variations
+Create complete systems:
+1. Horizontal lockup (primary)
+2. Vertical/stacked arrangement
+3. Symbol-only version
+4. Wordmark-only version
+5. Single-color versions
+6. Reversed versions
 
 ---
 
-## Color Psychology
+## Color Architecture
 
-| Color | Associations | Industries |
-|-------|-------------|------------|
-| Blue | Trust, stability | Finance, tech, healthcare |
-| Red | Energy, urgency | Food, retail, entertainment |
-| Green | Growth, nature | Eco, health, finance |
-| Yellow | Optimism, clarity | Food, youth brands |
-| Purple | Luxury, creativity | Beauty, tech |
-| Orange | Friendly, energetic | Retail, food, tech |
-| Black | Premium, sophisticated | Luxury, fashion |
+### Palette Development Process
+1. Research brand positioning and competitors
+2. Explore color psychology alignment
+3. Test across digital and print applications
+4. Validate accessibility compliance
+5. Document complete specifications
 
----
+### Color Specifications Format
 
-## Typography Pairing
+```
+Primary Blue
+- HEX: #0066CC
+- RGB: 0, 102, 204
+- CMYK: 100, 50, 0, 20
+- Pantone: 2935 C
+- HSL: 210, 100%, 40%
+```
 
-### Pairing Strategies
-
-1. **Contrast**: Serif headline + sans-serif body
-2. **Superfamily**: Same family, different weights
-3. **Historical**: Fonts from same era
-4. **Mood**: Similar personality, different structure
-
-### Common Pairings
-
-| Headline | Body | Style |
-|----------|------|-------|
-| Playfair Display | Open Sans | Elegant |
-| Montserrat | Roboto | Modern |
-| Oswald | Lato | Bold |
-| Merriweather | Source Sans Pro | Traditional |
+### Accessibility Requirements
+- Text on background: 4.5:1 minimum (AA)
+- Large text: 3:1 minimum
+- Non-text elements: 3:1 minimum
+- Test all color combinations
 
 ---
 
-## Visual Language Elements
+## Typography System
 
-### Patterns
+### Font Selection Criteria
+- Brand personality alignment
+- Legibility at all sizes
+- Language support requirements
+- Licensing for all use cases
+- Web font availability
 
-- Geometric (modern, tech)
-- Organic (natural, wellness)
-- Abstract (creative, artistic)
-- Branded motifs (derived from logo)
+### Hierarchy Definition
+Define specifications for each level:
+- Display/Hero: 48-72px, bold weight
+- H1: 36-48px, semibold
+- H2: 28-36px, semibold
+- H3: 22-28px, medium
+- H4-H6: 16-22px, medium
+- Body: 16-18px, regular
+- Caption: 12-14px, regular
 
-### Iconography
+### Web Font Implementation
+```css
+font-family: 'Primary Font', 'Fallback Sans', system-ui, sans-serif;
+```
 
-- Consistent stroke weight
-- Same corner radius
-- Unified style (outline, filled, duo-tone)
-- Grid-based construction
+Include fallback stacks for email and environments without custom fonts.
 
-### Photography Style
+---
 
-- Subject matter guidelines
-- Lighting preferences
-- Color treatment/filters
-- Composition rules
-- People/lifestyle direction
+## Visual Elements Library
+
+### Pattern Development
+- Create seamless, tileable patterns
+- Provide SVG and PNG formats
+- Document usage guidelines
+- Include scale recommendations
+
+### Icon System
+- Consistent stroke weights
+- Unified grid system
+- Multiple sizes (16, 24, 32, 48px)
+- SVG format for scalability
+
+### Photography Guidelines
+- Subject matter direction
+- Composition principles
+- Lighting and mood
+- Color treatment specifications
+- Do's and don'ts examples

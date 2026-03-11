@@ -1,118 +1,108 @@
 # Brand Applications
 
-Templates and specifications for branded materials.
+Guidance for creating branded application templates and materials.
 
 ---
 
 ## Business Stationery
 
-### Business Card
-
-**Standard Sizes:**
-- US: 3.5" x 2"
-- EU: 85mm x 55mm
-
-**Specifications:**
-- Bleed: 0.125" (3mm)
-- Safe area: 0.125" from trim
-- Paper: 14-16pt, matte or gloss
-
-**Content:**
-- Logo
-- Name and title
-- Contact information
-- Website/social
+### Business Cards
+- Standard size: 3.5" × 2" (US) or 85mm × 55mm (EU)
+- Include primary logo, contact details, social handles
+- Design front and back layouts
+- Specify paper stock recommendations
 
 ### Letterhead
+- Template formats: Word, Google Docs
+- Header with logo placement
+- Footer with legal/contact information
+- Margin and text area specifications
 
-**Standard Size:**
-- US: 8.5" x 11"
-- EU: A4 (210mm x 297mm)
-
-**Elements:**
-- Logo (typically top left or center)
-- Contact footer
-- Margins for content
-
-### Envelope
-
-**Sizes:**
-- #10: 4.125" x 9.5" (US business)
-- DL: 110mm x 220mm (EU business)
+### Email Signatures
+- HTML template format
+- Maximum 600px width
+- Image-based logo with alt text
+- Mobile-responsive design
 
 ---
 
 ## Digital Assets
 
-### Email Signature
+### Social Media Templates
 
-```html
-<table>
-  <tr>
-    <td>[Logo]</td>
-    <td>
-      <b>Name</b><br>
-      Title | Company<br>
-      phone | email<br>
-      website
-    </td>
-  </tr>
-</table>
-```
+| Platform | Profile Size | Cover Size |
+|----------|-------------|------------|
+| LinkedIn | 400×400px | 1584×396px |
+| Twitter/X | 400×400px | 1500×500px |
+| Facebook | 180×180px | 820×312px |
+| Instagram | 320×320px | N/A |
+| YouTube | 800×800px | 2560×1440px |
 
-### Social Media Sizes
-
-| Platform | Profile | Cover | Post |
-|----------|---------|-------|------|
-| LinkedIn | 400x400 | 1584x396 | 1200x627 |
-| Facebook | 170x170 | 820x312 | 1200x630 |
-| Twitter/X | 400x400 | 1500x500 | 1200x675 |
-| Instagram | 320x320 | - | 1080x1080 |
+### Post Templates
+- Square (1080×1080px)
+- Portrait (1080×1350px)
+- Landscape (1200×628px)
+- Stories (1080×1920px)
 
 ---
 
-## Presentation Template
+## Marketing Collateral
 
-### Required Slides
+### Presentation Template
+- 16:9 aspect ratio
+- 10+ slide layouts:
+  - Title slide
+  - Section divider
+  - Text + image
+  - Full-image
+  - Data/chart
+  - Quote
+  - Comparison
+  - Timeline
+  - Team/bio
+  - Contact/CTA
 
-1. **Title slide**: Logo, presentation title, date
-2. **Section divider**: Bold headline, brand color
-3. **Content**: Text + image layouts
-4. **Data**: Charts and graphs
-5. **Quote**: Testimonial format
-6. **Contact/Thank you**: Closing slide
+### One-Pager/Sell Sheet
+- Single-page format
+- Clear hierarchy
+- Key messaging
+- Contact information
+- QR code for digital connection
 
-### Design Specifications
-
-- Aspect ratio: 16:9 (widescreen)
-- Resolution: 1920x1080 minimum
-- Safe margins: 5% from edges
-- Font size: 24pt minimum for body
+### Brochure Template
+- Tri-fold layout
+- Panel flow logic
+- Print specifications
+- Bleed and trim marks
 
 ---
 
-## File Organization
+## Digital Advertising
 
-### Folder Structure
+### Standard IAB Sizes
+- Leaderboard: 728×90px
+- Medium Rectangle: 300×250px
+- Wide Skyscraper: 160×600px
+- Mobile Banner: 320×50px
+- Large Rectangle: 336×280px
 
-```
-Brand_Assets/
-├── Logos/
-│   ├── Primary/
-│   ├── Secondary/
-│   └── Favicon/
-├── Colors/
-├── Typography/
-├── Templates/
-│   ├── Stationery/
-│   ├── Presentations/
-│   └── Social/
-├── Imagery/
-└── Guidelines/
-```
+### Design Requirements
+- Clear CTA button
+- Readable text sizes
+- Brand colors consistent
+- File size optimization
 
-### Naming Convention
+---
 
-`[Brand]_[Asset]_[Variant]_[Color]_[Size].[format]`
+## Environmental Graphics
 
-Example: `Acme_Logo_Primary_FullColor_500px.png`
+### Signage Guidelines
+- Exterior signage specifications
+- Interior wayfinding
+- Vehicle graphics
+- Trade show booth design
+
+### Merchandising
+- Apparel placement
+- Promotional items
+- Packaging applications

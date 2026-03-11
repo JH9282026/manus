@@ -1,189 +1,106 @@
-# Cognitive Biases in Conversion Optimization
+# Cognitive Biases in Detail
 
-Understanding and ethically leveraging mental shortcuts that influence decision-making.
+Deep dive into biases that affect conversion behavior.
 
 ---
 
 ## Anchoring Bias
 
-**Definition**: The tendency to rely heavily on the first piece of information encountered when making decisions.
+### Mechanism
+First information received heavily influences subsequent judgments.
 
 ### Applications
+- **Price anchoring**: Show original price before discount
+- **Comparison anchoring**: Present premium option first
+- **Value anchoring**: Establish high value before price reveal
 
-**Price Anchoring**
-- Show original price before discount
-- Display "Compare at" pricing
-- Present premium option first to make standard seem reasonable
-
-**Value Anchoring**
-- Establish high value before revealing price
-- Compare favorably against alternatives
-- Reference competitor pricing
-
-### Examples
-
-- Showing $299 "Compare at" price makes $149 feel like a bargain
-- Presenting $500/month tier first makes $200/month seem affordable
-- "A $2,000 value for just $497"
+### Example
+Showing "Compare at $299" makes $149 actual price feel like a bargain.
 
 ---
 
-## Confirmation Bias
+## Loss Aversion
 
-**Definition**: The tendency to seek, interpret, and remember information confirming existing beliefs.
+### Mechanism
+Losses feel approximately 2× more powerful than equivalent gains.
 
 ### Applications
+- Frame benefits as avoiding loss: "Don't miss out" vs "Get access"
+- Trial periods create ownership feeling
+- Downgrade warnings highlight what users lose
 
-- Speak to beliefs your audience already holds
-- Confirm challenges users already recognize
-- Position offering as validating their instincts
-- Create segmented content for different belief systems
-
-### Examples
-
-- "You already know [problem] is costing you money"
-- "Smart marketers like you understand that..."
-- "If you've been thinking about [solution], you're right"
+### Framing Examples
+- Gain frame: "Save $100"
+- Loss frame: "Don't lose $100"
+- Loss frame typically more powerful
 
 ---
 
-## Availability Heuristic
+## Social Proof
 
-**Definition**: The tendency to estimate likelihood based on how easily examples come to mind.
+### Types
+1. **Expert**: Industry authorities endorsing
+2. **Celebrity**: Famous figures using
+3. **User**: Customer testimonials
+4. **Crowds**: Large numbers ("Join 10M users")
+5. **Peers**: Similar people recommending
+6. **Certification**: Third-party validation
 
-### Applications
-
-- Use vivid, specific stories rather than statistics
-- Highlight recent success stories and testimonials
-- Describe relatable scenarios users can easily imagine
-- Use visual examples that are memorable
-
-### Examples
-
-- Detailed customer success stories with specific outcomes
-- "Just last week, a client increased revenue by 47%"
-- Scenarios users can picture themselves in
-
----
-
-## Bandwagon Effect
-
-**Definition**: The tendency to do or believe things because many others do.
-
-### Applications
-
-- Popularity indicators: "Best-seller," "Most popular"
-- User counts and download numbers
-- Real-time activity feeds
-- Social media follower counts and engagement
-
-### Examples
-
-- "Join 50,000+ subscribers"
-- "Our most popular plan"
-- "Trending now"
-- Live purchase notifications
+### Implementation
+- Testimonials with photos, names, specifics
+- Real-time activity notifications
+- Review aggregates and star ratings
+- Customer logos
 
 ---
 
 ## Framing Effect
 
-**Definition**: The way information is presented significantly affects decisions, even when underlying facts are identical.
-
-### Types of Framing
-
-**Positive vs Negative**
-- "95% satisfaction rate" vs "5% dissatisfaction"
-- "Save $100" vs "Don't lose $100"
-
-**Attribute Framing**
-- "80% lean" vs "20% fat"
-- "Made with real ingredients" vs "No artificial ingredients"
-
-**Goal Framing**
-- Gain-focused: "Achieve your goals"
-- Loss-focused: "Don't fall behind competitors"
+### Mechanism
+How information is presented changes decisions, even with identical facts.
 
 ### Applications
-
-- Frame benefits as avoiding loss when appropriate
-- Use positive attributes for product descriptions
-- Match frame to audience motivation
+- "95% satisfaction rate" vs "5% dissatisfaction"
+- "Half the price" vs specific dollar amount
+- "Investment" vs "expense"
 
 ---
 
 ## Decoy Effect
 
-**Definition**: An asymmetrically dominated option makes another option more attractive.
-
-### Applications
-
-- Pricing tiers where middle option is clearly best value
-- Feature comparisons highlighting preferred option
-- Bundle design making target option obvious choice
+### Mechanism
+Asymmetrically dominated option makes another more attractive.
 
 ### Classic Example
+Three pricing tiers where middle tier is clearly best value compared to both cheap (too limited) and expensive (marginal benefit).
 
-Three pricing tiers:
-- Basic: $10/month (limited features)
-- Pro: $25/month (full features) - TARGET
-- Enterprise: $100/month (Pro + minor extras)
-
-The Enterprise tier makes Pro look like excellent value.
-
----
-
-## Primacy and Recency Effects
-
-**Primacy**: People remember and weight first items more heavily.
-**Recency**: People remember and weight last items more heavily.
-
-### Applications
-
-**Primacy**
-- Hero sections create first impression
-- Lead with strongest benefit
-- Headlines and first sentences are critical
-
-**Recency**
-- End pages with compelling CTAs
-- Final testimonial should be strongest
-- Last message before conversion matters most
+### Design Pattern
+- Basic: Limited features, low price
+- **Pro: Best value, recommended**
+- Enterprise: Premium, marginal extras
 
 ---
 
-## Halo Effect
+## Default Effect
 
-**Definition**: Overall impression influences evaluation of specific attributes.
+### Mechanism
+People tend to stick with pre-selected options.
 
 ### Applications
-
-- Professional design suggests professional service
-- Association with respected brands
-- Consistent quality across all touchpoints
-- Strong first impression colors entire relationship
-
-### Examples
-
-- "As featured in Forbes, TechCrunch, and Wired"
-- Partnership logos from respected companies
-- Awards and certifications displayed prominently
+- Pre-select preferred plan
+- Opt-out vs opt-in forms
+- Smart form pre-population
+- Recommended choices highlighted
 
 ---
 
-## Choice-Supportive Bias
+## Paradox of Choice
 
-**Definition**: The tendency to retroactively view chosen options more favorably.
+### Mechanism
+Too many options lead to decision paralysis and reduced satisfaction.
 
-### Applications
-
-- Post-purchase reinforcement messaging
-- Onboarding that celebrates the choice
-- Welcome content reinforcing benefits
-- Success stories of others who made same choice
-
-### Examples
-
-- "You made a great choice!"
-- "Join thousands who chose [product] and achieved [outcome]"
-- Immediate value delivery after signup
+### Solutions
+- Limit options (3-5 choices)
+- Clear recommendations
+- Progressive disclosure
+- Curated suggestions

@@ -1,145 +1,107 @@
 ---
 name: "ab-testing-experiment-design"
-description: "Design and analyze A/B tests and controlled experiments for product optimization, conversion rate improvement, and data-driven decision making. Use for calculating sample sizes, setting up experiments, analyzing test results, avoiding common statistical pitfalls, running multivariate tests, and interpreting significance."
+description: "Design, execute, and analyze controlled experiments to measure causal impact of changes. Use for: A/B test design, hypothesis formulation, sample size calculation, randomization strategy, statistical analysis, multivariate testing, sequential testing, Bayesian analysis, experiment monitoring, and evidence-based decision-making."
 ---
 
 # A/B Testing & Experiment Design
 
-Design statistically valid experiments and analyze results to make confident product decisions.
+Apply scientific methodology to business decisions through rigorous controlled experiments.
 
 ## Overview
 
-This skill covers the complete experimentation lifecycle: hypothesis formation, sample size calculation, test design, statistical analysis, and result interpretation. Use it when running website tests, feature experiments, pricing tests, or any controlled experiment requiring statistical rigor.
+Measure causal impact of changes rather than mere correlation. Design experiments that establish whether specific changes actually caused observed outcomes, enabling evidence-based decisions for product features, pricing, marketing, and operations.
 
-## Experiment Type Selection
+## Experiment Lifecycle
 
-| Goal | Test Type | When to Use | Reference |
-|------|-----------|-------------|-----------|
-| Compare two versions | A/B Test | Single variable change | `/references/ab-test-fundamentals.md` |
-| Compare 3+ versions | A/B/n Test | Multiple variants | `/references/ab-test-fundamentals.md` |
-| Test multiple variables | Multivariate (MVT) | Interaction effects matter | `/references/multivariate-testing.md` |
-| Personalization | Bandit algorithms | Continuous optimization | `/references/advanced-methods.md` |
-| Sequential analysis | SPRT | Early stopping needed | `/references/advanced-methods.md` |
+| Phase | Activities | Outputs |
+|-------|------------|--------|
+| Hypothesis | Form testable hypothesis | Hypothesis statement |
+| Design | Calculate sample size, define metrics | Design document |
+| Execution | Randomize, assign treatments | Monitoring data |
+| Analysis | Statistical testing, interpretation | Results report |
+| Decision | Recommend action | Ship/iterate/abandon |
 
-## Sample Size Calculator
+## Experiment Types
 
-### Quick Reference Formula
-```
-n = (2 × σ² × (Z_α + Z_β)²) / δ²
+| Type | Variants | Use Case |
+|------|----------|----------|
+| A/B Test | 2 | Single change comparison |
+| A/B/n Test | 3+ | Multiple variants |
+| Multivariate | Many | Factor combinations |
+| Sequential | Variable | Early stopping |
+| Bandit | Adaptive | Optimization focus |
 
-Where:
-- n = sample size per variant
-- σ = standard deviation
-- Z_α = Z-score for significance (1.96 for 95%)
-- Z_β = Z-score for power (0.84 for 80%)
-- δ = minimum detectable effect
-```
+## Key Parameters
 
-### Sample Size by Baseline Conversion Rate
+### Required Inputs
+- **Hypothesis**: Expected effect and direction
+- **Primary Metric**: Overall Evaluation Criterion (OEC)
+- **MDE**: Minimum Detectable Effect
+- **Significance Level (α)**: Typically 0.05
+- **Statistical Power (1-β)**: Typically 0.80-0.90
 
-| Baseline CR | MDE 5% Relative | MDE 10% Relative | MDE 20% Relative |
-|-------------|-----------------|------------------|------------------|
-| 1% | 380,000 | 95,000 | 24,000 |
-| 3% | 120,000 | 30,000 | 8,000 |
-| 5% | 70,000 | 18,000 | 4,600 |
-| 10% | 32,000 | 8,000 | 2,100 |
-| 20% | 14,000 | 3,600 | 900 |
+### Design Decisions
+- Randomization unit (user, session, device)
+- Traffic allocation per variant
+- Experiment duration
+- Guardrail metrics
 
-*Per variant, 80% power, 95% significance, two-tailed*
+## Sample Size Calculation
 
-## Test Design Checklist
+Required sample depends on:
+- Baseline conversion rate
+- Minimum detectable effect
+- Significance level
+- Statistical power
+- Number of variants
 
-### Pre-Test Requirements
-- [ ] Clear hypothesis documented
-- [ ] Single primary metric defined
-- [ ] Sample size calculated
-- [ ] Test duration estimated
-- [ ] Randomization method confirmed
-- [ ] QA on both variants complete
+Formula: n = 2 × (Zα + Zβ)² × p(1-p) / MDE²
 
-### During Test
-- [ ] Traffic split verified
-- [ ] No peeking at results
-- [ ] Monitoring for technical issues
-- [ ] Data quality checks active
+## Statistical Methods
 
-### Post-Test
-- [ ] Full sample size reached
-- [ ] Statistical analysis complete
-- [ ] Segmentation analysis done
-- [ ] Novelty effects considered
-- [ ] Decision documented
+| Method | Type | Best For |
+|--------|------|----------|
+| t-test | Frequentist | Continuous metrics |
+| Chi-square | Frequentist | Proportions |
+| Mann-Whitney | Non-parametric | Non-normal data |
+| Bayesian | Probability | Business context |
+| Sequential | Adaptive | Early decisions |
 
-## Statistical Significance Quick Guide
+## Guardrail Metrics
 
-| P-value | Interpretation | Action |
-|---------|----------------|--------|
-| p < 0.01 | Strong evidence | High confidence to ship |
-| p < 0.05 | Moderate evidence | Standard threshold to ship |
-| 0.05 < p < 0.10 | Weak evidence | Consider extending test |
-| p > 0.10 | Insufficient evidence | Do not ship based on test |
+Protect against unintended harm:
+- Page load time
+- Error rates
+- Customer complaints
+- Churn indicators
 
-### Confidence Interval Interpretation
-- If CI excludes zero (for lift) → statistically significant
-- Width indicates precision of estimate
-- Narrower CI = more certainty about effect size
+## Common Pitfalls
 
-## Common Pitfalls to Avoid
+- Peeking at results before completion
+- Multiple testing without correction
+- Sample ratio mismatch (SRM)
+- Novelty/primacy effects
+- Carryover between variants
 
-| Pitfall | Problem | Solution |
-|---------|---------|----------|
-| Peeking | Inflates false positive rate | Pre-commit to sample size |
-| Multiple comparisons | Increases error rate | Bonferroni correction or FDR |
-| Selection bias | Invalid results | Proper randomization |
-| Novelty effect | Temporary behavior change | Run longer, segment new users |
-| Simpson's paradox | Aggregation hides truth | Segment analysis |
-| Low power | Miss real effects | Calculate sample size properly |
+## Deliverables
 
-## Metric Selection Framework
+### Design Document
+- Hypothesis statement
+- Metric definitions
+- Sample size calculations
+- Randomization plan
+- Timeline and milestones
 
-### Primary Metric Requirements
-1. **Sensitive**: Moves with expected changes
-2. **Measurable**: Can be tracked accurately  
-3. **Timely**: Observable within test window
-4. **Aligned**: Maps to business objective
-
-### Metric Hierarchy
-| Type | Purpose | Example |
-|------|---------|---------|
-| Primary | Decision metric | Conversion rate |
-| Secondary | Supporting evidence | Revenue per user |
-| Guardrail | Prevent harm | Page load time |
-| Diagnostic | Debug issues | Click-through rate |
-
-## Analysis Output Template
-
-```
-EXPERIMENT: [Name]
-HYPOTHESIS: [If we... then we expect...]
-DURATION: [Start] to [End]
-SAMPLE: Control: n1 | Treatment: n2
-
-RESULTS:
-┌─────────────┬─────────┬───────────┬────────┐
-│ Metric      │ Control │ Treatment │ Change │
-├─────────────┼─────────┼───────────┼────────┤
-│ Conv Rate   │ X.XX%   │ X.XX%     │ +X.X%  │
-│ 95% CI      │         │           │ [a, b] │
-│ P-value     │         │           │ 0.XXX  │
-└─────────────┴─────────┴───────────┴────────┘
-
-DECISION: [Ship / Don't Ship / Iterate]
-RATIONALE: [Why]
-```
+### Analysis Report
+- Results with confidence intervals
+- Effect sizes (not just p-values)
+- Segment analysis
+- Recommendations
 
 ## Using the Reference Files
 
-### When to Read Each Reference
+### `/references/statistical-methods.md`
+Read when performing statistical analysis, calculating sample sizes, or interpreting results.
 
-**`/references/ab-test-fundamentals.md`** — Read when setting up a standard A/B test, calculating sample sizes, or reviewing statistical foundations.
-
-**`/references/statistical-analysis.md`** — Read when analyzing test results, interpreting p-values, or calculating confidence intervals.
-
-**`/references/multivariate-testing.md`** — Read when testing multiple variables simultaneously or when interaction effects between changes are important.
-
-**`/references/advanced-methods.md`** — Read when using Bayesian methods, sequential testing, multi-armed bandits, or handling complex experimental designs.
+### `/references/multivariate-testing.md`
+Read when designing experiments with multiple factors or variants.
