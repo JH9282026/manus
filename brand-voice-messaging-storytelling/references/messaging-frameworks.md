@@ -1,120 +1,137 @@
 # Messaging Frameworks
 
-Structured approaches to building brand messaging hierarchies and value propositions.
+Detailed structures for building messaging hierarchy and value propositions.
 
 ---
 
-## Messaging Hierarchy Structure
+## Messaging Hierarchy Development
 
-### Level 1: Core Message
-The single most important thing you want audiences to know and remember.
+### Core Message Development
 
-**Characteristics:**
+Your core message is the single most important thing you want your audience to know and remember.
+
+**Core Message Characteristics**:
 - Simple and memorable
 - Emotionally resonant
 - Differentiating
 - True and deliverable
 
-**Examples:**
-- Apple: "Think Different"
-- Nike: "Just Do It"
-- L'Oréal: "Because You're Worth It"
-- BMW: "The Ultimate Driving Machine"
+**Development Process**:
+1. Review brand positioning and essence
+2. Identify the most compelling truth about your brand
+3. Distill into a single, powerful statement
+4. Test for memorability and resonance
+5. Refine based on feedback
 
-### Level 2: Key Message Pillars (3-5)
+---
 
-Main themes supporting the core message.
+### Key Message Pillars
 
-**Pillar Structure:**
-- **Pillar Name**: Short, memorable title
-- **Description**: What this pillar means
-- **Proof Points**: Evidence supporting it
-- **Usage Examples**: How to communicate
+Key messages are 3-5 main themes that support your core message. Each pillar addresses a different aspect of your value proposition.
 
-### Level 3: Proof Points
+**Pillar Development Template**:
 
-Evidence making messages credible:
-- **Facts**: Verifiable statistics, numbers
-- **Features**: Specific capabilities
-- **Benefits**: What customers gain
-- **Testimonials**: Customer quotes and stories
-- **Case Studies**: Detailed success examples
-- **Awards**: Third-party validation
+```
+## Pillar: [Name]
 
-### Level 4: Supporting Messages
+**Core Statement**: [One-sentence summary of this pillar]
 
-Tactical adaptations for specific:
-- Audiences (enterprise vs SMB)
-- Products (different product lines)
-- Campaigns (seasonal, promotional)
-- Channels (social vs email vs advertising)
+**Description**: [2-3 sentences expanding on what this pillar means]
+
+**Proof Points**:
+- [Fact, statistic, or evidence #1]
+- [Fact, statistic, or evidence #2]
+- [Fact, statistic, or evidence #3]
+
+**Customer Benefit**: [How this matters to customers]
+
+**Usage Examples**:
+- Headline: "[Example headline using this pillar]"
+- Body Copy: "[Example paragraph using this pillar]"
+- Social: "[Example social post using this pillar]"
+```
+
+---
+
+### Proof Points
+
+Proof points are the evidence that makes your messages credible.
+
+| Type | Description | Example |
+|------|-------------|--------|
+| Facts | Verifiable statistics, numbers | "10,000+ customers" |
+| Features | Specific product capabilities | "AI-powered recommendations" |
+| Benefits | What customers gain | "Save 10 hours per week" |
+| Testimonials | Customer quotes | "Best tool we've ever used" |
+| Case Studies | Detailed success examples | "Company X increased revenue 300%" |
+| Awards/Recognition | Third-party validation | "G2 Leader for 5 years" |
+
+---
+
+### Supporting Messages
+
+Supporting messages are tactical adaptations for specific contexts.
+
+**Adaptation Dimensions**:
+
+| Dimension | Adaptation Approach |
+|-----------|--------------------|
+| Audience | Enterprise vs SMB messaging |
+| Product | Different product line emphasis |
+| Campaign | Seasonal, promotional messaging |
+| Channel | Social vs email vs advertising |
+| Lifecycle | Awareness vs decision stage |
+
+---
 
 ## Value Proposition Development
 
-### Components
-- **Target Audience**: Who it's for
-- **Problem/Need**: What you solve
-- **Solution**: How you solve it
-- **Benefits**: What customers gain
-- **Differentiation**: Why you're better/different
+### Complete Value Proposition Framework
 
-### Value Proposition Formulas
+| Component | Question to Answer | Your Response |
+|-----------|-------------------|---------------|
+| Target Audience | Who is this for? | [Define specific audience] |
+| Problem/Need | What problem do you solve? | [Articulate the pain point] |
+| Solution | How do you solve it? | [Describe your approach] |
+| Benefits | What do customers gain? | [List key outcomes] |
+| Differentiation | Why choose you? | [Explain unique advantage] |
 
-**Formula 1: Helper Format**
-"We help [target] [achieve goal] by [unique approach]"
+### Value Proposition Crafting Tips
 
-Example: "We help small businesses grow their audience by making email marketing simple and affordable."
-
-**Formula 2: For-Who Format**
-"For [target] who [need], [brand] provides [solution] that [benefit]"
-
-Example: "For busy professionals who struggle to eat healthy, FreshPrep provides pre-portioned meal kits that make home cooking fast and delicious."
-
-**Formula 3: Only Format**
-"[Brand] is the only [category] that [unique benefit]"
-
-Example: "Slack is the only collaboration platform that brings all your communication into one searchable place."
-
-### Value Proposition Best Practices
-
-**Be Customer-Centric**
+**Be Customer-Centric**:
 - Not: "We have AI-powered analytics"
-- But: "Understand your customers better with insights that explain themselves"
+- Better: "Understand your customers better with insights that practically explain themselves"
 
-**Be Specific**
+**Be Clear and Specific**:
 - Not: "We leverage synergies to optimize outcomes"
-- But: "Save 10 hours per week on reporting"
+- Better: "We help you save 10 hours per week on reporting"
 
-**Be Differentiated**
+**Be Differentiated**:
 - Not: "Great customer service"
-- But: "24/7 support from real humans who've used the product"
+- Better: "24/7 support from real humans who've used the product themselves"
 
-**Be Credible**
+**Be Credible**:
 - Not: "The best software ever made"
-- But: "Rated #1 by 10,000+ customers on G2"
+- Better: "Rated #1 by 10,000+ customers on G2"
+
+---
 
 ## Audience-Specific Messaging
 
-### B2B vs B2C Differences
+### B2B vs B2C Messaging
 
-**B2B Messaging:**
-- ROI and business impact focus
-- Efficiency and productivity benefits
-- Risk reduction and reliability
-- Rational decision support
-- Multiple stakeholder needs
+| Element | B2B Approach | B2C Approach |
+|---------|--------------|---------------|
+| Focus | ROI and business impact | Emotional and experiential |
+| Benefits | Efficiency, productivity | Lifestyle, personal improvement |
+| Proof | Case studies, data | Reviews, social proof |
+| Tone | Professional, detailed | Personal, conversational |
+| Decision Cycle | Longer, multiple stakeholders | Shorter, individual |
 
-**B2C Messaging:**
-- Emotional and experiential focus
-- Lifestyle and aspiration appeal
-- Personal benefit emphasis
-- Faster decision triggers
-- Social proof importance
+### Stakeholder Messaging
 
-### Stakeholder-Specific Messages
-
-| Stakeholder | Focus |
-|-------------|-------|
+| Stakeholder | Messaging Focus |
+|-------------|----------------|
 | Customers | Value, benefits, experience |
 | Prospects | Awareness, education, differentiation |
 | Employees | Purpose, culture, belonging |
@@ -124,20 +141,11 @@ Example: "Slack is the only collaboration platform that brings all your communic
 
 ### Lifecycle Messaging
 
-**Awareness**: Education and problem identification
-"Did you know 90% of small businesses struggle with..."
-
-**Consideration**: Differentiation and value
-"Unlike other solutions, we..."
-
-**Decision**: Proof, urgency, clear CTA
-"Join 10,000+ companies who chose..."
-
-**Onboarding**: Welcome, guidance, quick wins
-"Let's get you set up for success..."
-
-**Retention**: Value reinforcement
-"You've achieved so much this month..."
-
-**Advocacy**: Community and referral
-"Know someone who'd love this?"
+| Stage | Messaging Goal | Content Type |
+|-------|----------------|-------------|
+| Awareness | Education, problem identification | Blog, social, PR |
+| Consideration | Differentiation, value proposition | Comparison, demos |
+| Decision | Proof, urgency, CTA | Case studies, trials |
+| Onboarding | Welcome, guidance, quick wins | Tutorials, emails |
+| Retention | Value reinforcement, engagement | Success content |
+| Advocacy | Community, referral | User content, programs |

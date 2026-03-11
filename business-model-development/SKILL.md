@@ -1,143 +1,240 @@
 ---
 name: "business-model-development"
-description: "Design and validate comprehensive business models that define value creation, delivery, and capture mechanisms. Use for: Business Model Canvas development, value proposition design, revenue model selection, customer segment definition, channel strategy, partnership development, cost structure analysis, and business model validation."
+description: "Design and validate comprehensive business models that define how organizations create, deliver, and capture value. Use for: Business Model Canvas development, value proposition design, revenue model creation, customer segment analysis, channel strategy, cost structure optimization, partnership strategy, startup business model validation, and business model innovation."
 ---
 
 # Business Model Development
 
-Design foundational architecture for how organizations create, deliver, and capture value through systematic analysis of all business model components.
+Design comprehensive business models that define how organizations create, deliver, and capture value.
 
 ## Overview
 
-This skill provides structured approaches to building viable, scalable business models. Use this when establishing new ventures, evaluating expansion strategies, pivoting existing models, or assessing competitive threats from new entrants. Integrates Business Model Canvas, Lean Canvas, and Value Proposition Canvas methodologies.
+Business Model Development is a strategic design capability for constructing the foundational architecture of how an organization operates. This skill covers customer segments, value propositions, channels, customer relationships, revenue streams, key resources, key activities, key partnerships, and cost structures—providing frameworks to ensure innovative ideas translate into viable, scalable enterprises.
 
-## Business Model Canvas Components
+## Business Model Canvas
 
-| Component | Key Question | Elements |
-|-----------|--------------|----------|
-| Customer Segments | Who do we serve? | Demographics, needs, behaviors |
-| Value Propositions | What value do we deliver? | Problems solved, gains created |
-| Channels | How do we reach customers? | Awareness, purchase, delivery |
-| Customer Relationships | What relationship type? | Self-service to dedicated |
-| Revenue Streams | How do we capture value? | Pricing, payment mechanisms |
-| Key Resources | What assets are essential? | Physical, intellectual, human |
-| Key Activities | What must we do well? | Production, problem-solving |
-| Key Partnerships | Who are essential partners? | Suppliers, alliances, JVs |
-| Cost Structure | What are major costs? | Fixed, variable, economies |
+The Business Model Canvas provides a one-page visual representation of how a business creates, delivers, and captures value.
 
-## Revenue Model Selection
+### Nine Building Blocks
 
-| Model | Description | Best For |
+| Block | Question | Focus |
+|-------|----------|-------|
+| Customer Segments | Who are we creating value for? | Target customers and their characteristics |
+| Value Propositions | What value do we deliver? | Benefits and problem-solving for customers |
+| Channels | How do we reach customers? | Communication, distribution, sales |
+| Customer Relationships | How do we interact? | Relationship types and engagement models |
+| Revenue Streams | How do we earn money? | Pricing models and payment mechanisms |
+| Key Resources | What do we need? | Critical assets required for delivery |
+| Key Activities | What must we do? | Essential operational processes |
+| Key Partnerships | Who helps us? | Strategic relationships and suppliers |
+| Cost Structure | What does it cost? | Fixed/variable costs and drivers |
+
+### Canvas Application Process
+
+1. Start with Customer Segments—understand who you serve
+2. Define Value Propositions for each segment
+3. Determine Channels to reach and serve customers
+4. Design Customer Relationships for each segment
+5. Identify Revenue Streams from value delivery
+6. List Key Resources required for operations
+7. Define Key Activities that must be performed
+8. Establish Key Partnerships for leverage
+9. Calculate Cost Structure for sustainability
+
+## Customer Segments
+
+### Segment Types
+
+| Type | Description | Example |
+|------|-------------|---------|
+| Mass Market | Large, broadly similar customer group | Consumer electronics |
+| Niche Market | Specialized, specific customer needs | Luxury goods |
+| Segmented | Distinct segments with different needs | Banks (retail vs commercial) |
+| Diversified | Unrelated customer segments | Amazon (consumers + AWS) |
+| Multi-sided | Two+ interdependent segments | Platform businesses |
+
+### Segmentation Criteria
+
+- **Demographics**: Age, income, location, occupation
+- **Firmographics**: Company size, industry, revenue (B2B)
+- **Psychographics**: Values, attitudes, lifestyle
+- **Behavioral**: Usage patterns, loyalty, decision process
+- **Jobs-to-be-Done**: Problems customers are trying to solve
+
+## Value Propositions
+
+### Value Proposition Design
+
+| Component | Question | Output |
+|-----------|----------|--------|
+| Customer Jobs | What tasks are customers trying to accomplish? | Job list by importance |
+| Customer Pains | What frustrations do they experience? | Pain points prioritized |
+| Customer Gains | What outcomes do they desire? | Desired benefits |
+| Pain Relievers | How does your offering address pains? | Solution mapping |
+| Gain Creators | How does your offering enable gains? | Benefit delivery |
+
+### Value Types
+
+| Type | Description | Examples |
+|------|-------------|----------|
+| Newness | Satisfies entirely new needs | First smartphone |
+| Performance | Better product/service performance | Faster processors |
+| Customization | Tailored to specific needs | Custom manufacturing |
+| Getting the Job Done | Helps complete a task | Uber for transportation |
+| Design | Superior aesthetics | Apple products |
+| Brand/Status | Social status signaling | Luxury brands |
+| Price | Lower cost for similar value | Budget airlines |
+| Cost Reduction | Reduces customer costs | Cloud computing |
+| Risk Reduction | Reduces purchase risk | Warranties |
+| Accessibility | Makes available to new customers | Low-cost investing |
+| Convenience | Easier to use | One-click purchasing |
+
+## Revenue Models
+
+### Revenue Stream Types
+
+| Model | Description | Examples |
 |-------|-------------|----------|
-| Subscription | Recurring access fees | SaaS, media, services |
-| Transactional | Per-transaction fees | E-commerce, marketplaces |
-| Freemium | Free basic, paid premium | Consumer apps, tools |
-| Usage-Based | Pay per consumption | Utilities, cloud, APIs |
-| Licensing | Rights to use IP | Software, content, patents |
-| Advertising | Monetize attention | Media, platforms |
-| Commission | % of transactions | Marketplaces, brokers |
+| Asset Sale | Selling ownership of product | Retail, manufacturing |
+| Usage Fee | Payment per use | Utilities, pay-per-view |
+| Subscription | Recurring access payment | SaaS, streaming |
+| Licensing | Permission to use IP | Software licenses |
+| Brokerage Fee | Facilitating transactions | Real estate, stock trading |
+| Advertising | Selling attention/audience | Media, social platforms |
+| Freemium | Free basic + paid premium | Spotify, Dropbox |
 
-## Value Proposition Design
+### Pricing Mechanisms
 
-### Jobs-to-Be-Done Framework
+| Approach | Description | When to Use |
+|----------|-------------|-------------|
+| Fixed | Set prices per offering | Commodity products |
+| Dynamic | Prices change based on conditions | Airlines, hotels |
+| Volume-based | Discounts for quantity | B2B sales |
+| Value-based | Price reflects value delivered | Consulting |
+| Negotiated | Case-by-case pricing | Enterprise deals |
+| Auction | Bidding determines price | Art, advertising |
 
-| Job Type | Description | Example |
-|----------|-------------|---------|
-| Functional | Tasks to accomplish | "Help me organize files" |
-| Social | How to be perceived | "Make me look professional" |
-| Emotional | Feelings sought | "Give me peace of mind" |
+## Cost Structure
 
-### Value Proposition Canvas
+### Cost Categories
 
-**Customer Profile:**
-- Jobs: What they're trying to accomplish
-- Pains: Frustrations and obstacles
-- Gains: Desired outcomes and benefits
+| Category | Description | Examples |
+|----------|-------------|----------|
+| Fixed Costs | Don't vary with volume | Rent, salaries, equipment |
+| Variable Costs | Vary with production/sales | Materials, commissions |
+| Semi-Variable | Partially fixed, partially variable | Utilities, some labor |
 
-**Value Map:**
-- Products/Services: What you offer
-- Pain Relievers: How you address pains
-- Gain Creators: How you deliver gains
+### Cost Drivers
 
-## Customer Segment Analysis
-
-### Segmentation Approaches
-
-| Approach | Criteria | Use When |
-|----------|----------|----------|
-| Demographic | Age, income, location | B2C mass market |
-| Firmographic | Industry, size, revenue | B2B targeting |
-| Behavioral | Usage, loyalty, benefits | Product development |
-| Psychographic | Values, lifestyle, personality | Brand positioning |
-
-### Segment Prioritization Matrix
-
-Evaluate segments on:
-- **Size**: Total addressable market
-- **Growth**: Market growth rate
-- **Profitability**: Revenue potential
-- **Accessibility**: Ease of reaching
-- **Fit**: Alignment with capabilities
-
-## Channel Strategy
-
-| Stage | Purpose | Channels |
-|-------|---------|----------|
-| Awareness | Build recognition | Advertising, PR, content |
-| Evaluation | Enable comparison | Website, demos, trials |
-| Purchase | Facilitate buying | E-commerce, sales, partners |
-| Delivery | Provide value | Digital, physical, service |
-| After-Sales | Support and retain | Support, community, success |
+| Driver | Impact |
+|--------|--------|
+| Economies of Scale | Cost per unit decreases with volume |
+| Economies of Scope | Cost advantages from breadth |
+| Learning Curve | Costs decrease with experience |
+| Technology | Automation reducing labor costs |
+| Location | Geographic cost differences |
 
 ## Business Model Patterns
 
-| Pattern | Description | Examples |
-|---------|-------------|----------|
-| Platform | Connect multiple user groups | Uber, Airbnb, marketplaces |
-| Razor/Blade | Cheap product, expensive consumables | Printers, razors, Nespresso |
-| Freemium | Free core, paid upgrades | Spotify, LinkedIn, Dropbox |
-| Long Tail | Many niche products | Amazon, Netflix, iTunes |
-| Bait & Hook | Initial loss, ongoing profit | Telecom contracts |
+### Platform Business Models
 
-## Validation Approach
+Multi-sided platforms connecting distinct user groups who provide each other with network benefits.
 
-### Hypothesis Testing Priority
-1. **Desirability**: Do customers want this?
-2. **Feasibility**: Can we deliver it?
-3. **Viability**: Can we make money?
+| Element | Description |
+|---------|-------------|
+| Value Creation | Facilitation of interactions between groups |
+| Network Effects | Value increases with more users |
+| Pricing Strategy | Often subsidize one side to attract the other |
+| Critical Mass | Minimum users needed for viability |
 
-### Validation Methods
+### Subscription Models
 
-| Method | Best For | Investment |
-|--------|----------|------------|
-| Customer interviews | Problem validation | Low |
-| Landing page tests | Value proposition | Low |
-| Concierge MVP | Solution testing | Medium |
-| Wizard of Oz | Process validation | Medium |
-| Prototype testing | Product validation | Medium |
-| Pilot programs | Full model testing | High |
+Recurring revenue from ongoing access or service.
 
-## Financial Modeling
+| Element | Key Metrics |
+|---------|-------------|
+| Acquisition | CAC (Customer Acquisition Cost) |
+| Retention | Churn rate, renewal rate |
+| Expansion | Upsell, cross-sell revenue |
+| Economics | LTV:CAC ratio, payback period |
 
-### Unit Economics
-- **CAC**: Customer Acquisition Cost
-- **LTV**: Customer Lifetime Value
-- **LTV:CAC Ratio**: Target 3:1 minimum
-- **Payback Period**: Time to recover CAC
-- **Contribution Margin**: Revenue minus variable costs
+### Freemium Models
 
-### Break-Even Analysis
-- Fixed costs identification
-- Variable cost per unit
-- Break-even volume calculation
-- Sensitivity analysis
+Free basic offering with paid premium features.
+
+| Design Element | Consideration |
+|----------------|---------------|
+| Free Value | Enough to attract and engage users |
+| Premium Value | Compelling upgrade incentives |
+| Conversion Rate | Target 2-5% of users |
+| Feature Gating | Strategic feature limitation |
+
+## Business Model Validation
+
+### Hypothesis Testing
+
+| Hypothesis Type | Testing Approach |
+|-----------------|------------------|
+| Problem Hypothesis | Customer interviews, surveys |
+| Solution Hypothesis | Prototypes, MVPs |
+| Channel Hypothesis | Marketing experiments |
+| Revenue Hypothesis | Pricing tests, willingness-to-pay |
+
+### Validation Metrics
+
+| Stage | Key Metrics |
+|-------|-------------|
+| Problem-Solution Fit | Customer engagement, interest |
+| Product-Market Fit | Retention, NPS, organic growth |
+| Scale | Unit economics, growth rate |
+
+### Minimum Viable Product (MVP)
+
+| MVP Type | Use Case |
+|----------|----------|
+| Concierge MVP | Manual delivery to validate demand |
+| Wizard of Oz | Simulated automation |
+| Landing Page | Test interest before building |
+| Prototype | Functional subset for feedback |
+
+## Use Cases
+
+### Startup Business Model Design
+Design initial business model for new venture, including customer segments, value proposition, revenue model, and go-to-market strategy.
+
+### Business Model Innovation
+Transform existing business model through new revenue streams, channel strategies, or value propositions.
+
+### Digital Transformation
+Redesign traditional business model for digital delivery, including platform strategies and subscription models.
+
+### Market Expansion
+Adapt business model for new markets, segments, or geographies.
+
+## Deliverables
+
+- **Business Model Canvas**: One-page visual business model
+- **Value Proposition Canvas**: Detailed customer-value fit analysis
+- **Revenue Model Documentation**: Pricing strategy and revenue projections
+- **Financial Projections**: Unit economics, 3-5 year forecasts
+- **Go-to-Market Strategy**: Channel and launch planning
+- **Validation Plan**: Hypothesis testing and MVP approach
+
+## Best Practices
+
+1. **Start with customers** — Deeply understand segments before designing
+2. **Test assumptions** — Validate hypotheses before scaling
+3. **Focus on unit economics** — Ensure profitability at the unit level
+4. **Iterate rapidly** — Use feedback to refine the model
+5. **Consider all blocks** — Don't neglect partnerships or cost structure
+6. **Design for scale** — Build foundations for growth
 
 ## Using the Reference Files
 
 ### When to Read Each Reference
 
-**`/references/canvas-frameworks.md`** — Read when building Business Model Canvas, Lean Canvas, or Value Proposition Canvas.
+**`/references/canvas-frameworks.md`** — Read when developing Business Model Canvas or Value Proposition Canvas, with detailed guidance on each building block.
 
-**`/references/revenue-models.md`** — Read when designing pricing strategy, selecting revenue models, or analyzing monetization options.
+**`/references/revenue-models.md`** — Read when designing pricing strategy, revenue streams, or evaluating monetization options.
 
-**`/references/validation-methods.md`** — Read when planning hypothesis testing, designing experiments, or creating validation roadmaps.
+**`/references/validation-methods.md`** — Read when planning MVP development, hypothesis testing, or customer validation processes.

@@ -1,146 +1,210 @@
 ---
 name: "cfo-strategic-financial-leadership"
-description: "Execute strategic financial leadership functions for Chief Financial Officers. Use for: financial strategy development, capital allocation, investor relations, M&A strategy, financial planning and analysis, treasury management, risk management, and financial governance."
+description: "Execute comprehensive CFO functions including financial strategy, capital management, investor relations, and financial governance. Use for: financial planning and analysis, capital allocation, investor presentations, M&A financial analysis, financial reporting, treasury management, risk management, and audit committee preparation."
 ---
 
 # CFO Strategic Financial Leadership
 
-Provide comprehensive Chief Financial Officer capabilities including financial strategy, capital management, investor relations, and financial governance.
+Execute high-level financial strategy, capital management, and stakeholder communication functions.
 
 ## Overview
 
-This skill enables execution of high-level financial strategy and leadership functions typically performed by a CFO. Use this for developing financial plans, optimizing capital structure, managing investor communications, evaluating M&A opportunities, and establishing financial controls.
+This skill enables execution of Chief Financial Officer responsibilities: long-term financial planning, capital allocation decisions, investor relations management, M&A strategy development, risk management frameworks, and financial governance oversight. Apply sophisticated financial modeling, valuation methodologies, and strategic frameworks to deliver executive-level financial leadership.
 
-## CFO Role Framework
+## Core CFO Responsibilities
 
-| Domain | Key Responsibilities |
-|--------|---------------------|
-| Strategy | Financial strategy, capital allocation |
-| Planning | Budgeting, forecasting, analysis |
-| Treasury | Cash, debt, capital structure |
-| Reporting | Financial statements, investor relations |
-| Controls | Governance, compliance, risk |
-| Operations | Finance team, systems, processes |
+| Domain | Key Functions |
+|--------|---------------|
+| Strategy | Financial strategy, planning, business partnership |
+| Capital | Capital structure, allocation, treasury |
+| Reporting | Financial reporting, accounting, controls |
+| Investors | Investor relations, equity story, communications |
+| Risk | Enterprise risk, compliance, insurance |
+| Operations | FP&A, budgeting, operational finance |
 
-## Financial Strategy Framework
+## Financial Planning
 
-### Long-Range Financial Plan (3-5 Year)
+### Long-Range Financial Plan (LRFP)
 
 | Component | Content |
 |-----------|---------|
-| Revenue Model | Growth drivers, mix, assumptions |
-| Cost Structure | Fixed/variable, optimization |
-| Profitability | Margin targets, improvement levers |
-| Capital Needs | Investment requirements |
-| Funding Strategy | Debt/equity, sources |
-| Returns | Shareholder value creation |
+| Revenue Model | Projections by segment, product, geography |
+| Cost Structure | Fixed, variable, semi-variable costs |
+| Capital Plan | CapEx, R&D, M&A investments |
+| Working Capital | Cash conversion cycle optimization |
+| Financing | Debt, equity, cash flow funding |
+| Scenarios | Base, upside, downside cases |
 
-### Financial Scenario Planning
+### Annual Operating Plan (AOP)
 
-| Scenario | Assumptions | Response |
-|----------|-------------|----------|
-| Base Case | Expected conditions | Standard plan |
-| Upside | Favorable conditions | Investment acceleration |
-| Downside | Challenging conditions | Cost levers, preservation |
-| Stress | Severe disruption | Crisis response |
+| Element | Detail |
+|---------|--------|
+| Revenue Budget | Monthly/quarterly by segment |
+| Expense Budget | By department, category |
+| Headcount Plan | Hiring, reductions, timing |
+| Capital Budget | Project-level CapEx |
+| Cash Flow | Monthly cash projections |
+| KPIs | Operational and financial metrics |
 
-## Capital Allocation Framework
+### Planning Process
 
-### Allocation Priorities
+| Phase | Timeline | Activities |
+|-------|----------|------------|
+| Strategic Direction | Month 1 | Strategy alignment, targets |
+| Business Unit Plans | Months 2-3 | Bottom-up planning |
+| Consolidation | Month 4 | Roll-up, gap analysis |
+| Executive Review | Month 5 | Leadership alignment |
+| Board Approval | Month 6 | Final approval |
 
-| Priority | Description | Criteria |
-|----------|-------------|----------|
-| Core operations | Maintain business | Required for operation |
-| Growth investment | Fund expansion | Returns > hurdle rate |
-| M&A | Strategic acquisitions | Strategic fit + returns |
-| Shareholder returns | Dividends, buybacks | After growth needs |
-| Balance sheet | Debt reduction, cash | Risk management |
+## Capital Allocation
+
+### Capital Allocation Framework
+
+| Criterion | Assessment |
+|-----------|------------|
+| Strategic Alignment | Does it advance strategy? |
+| Return Profile | IRR, NPV, payback period |
+| Risk Assessment | Probability-weighted outcomes |
+| Opportunity Cost | Best use of capital? |
+| Execution Capability | Can we deliver? |
 
 ### Investment Evaluation
 
-| Metric | Formula | Target |
-|--------|---------|--------|
-| NPV | Present value of cash flows | > 0 |
-| IRR | Internal rate of return | > WACC + premium |
-| Payback | Time to recover investment | < threshold |
-| ROIC | Return on invested capital | > WACC |
+| Metric | Calculation | Target |
+|--------|-------------|--------|
+| IRR | Internal rate of return | > WACC + hurdle |
+| NPV | Net present value | > 0 |
+| Payback | Years to recover investment | < threshold |
+| ROIC | Return on invested capital | > cost of capital |
+
+### Capital Prioritization
+
+| Category | Typical Allocation |
+|----------|-------------------|
+| Maintenance CapEx | Required to sustain operations |
+| Growth CapEx | Expand capacity, enter markets |
+| Strategic Investments | M&A, new capabilities |
+| Shareholder Returns | Dividends, buybacks |
+| Balance Sheet | Debt reduction, liquidity |
 
 ## Investor Relations
 
-### Investor Communication Framework
+### Equity Story Components
 
-| Audience | Frequency | Content |
+| Element | Content |
+|---------|---------|
+| Investment Thesis | Why invest in this company |
+| Market Opportunity | TAM, growth, positioning |
+| Business Model | How we make money |
+| Competitive Advantage | Moat, differentiation |
+| Financial Performance | Track record, metrics |
+| Growth Strategy | How we'll grow |
+| Management Team | Leadership capabilities |
+| Financial Targets | Guidance, long-term model |
+
+### Investor Communications
+
+| Activity | Frequency | Purpose |
 |----------|-----------|---------|
-| Analysts | Quarterly | Earnings, guidance |
-| Institutional | Ongoing | Strategy, performance |
-| Retail | Quarterly | Accessible updates |
-| Rating Agencies | Annual + as needed | Credit metrics |
+| Earnings Call | Quarterly | Financial results |
+| Investor Day | Annual | Deep-dive strategy |
+| Conferences | Several/year | Industry visibility |
+| NDRs | As needed | Institutional outreach |
+| Annual Report | Annual | Comprehensive overview |
 
-### Equity Story Elements
-1. **Investment thesis**: Why invest in us
-2. **Market opportunity**: Size and growth
-3. **Competitive position**: Differentiation
-4. **Financial profile**: Performance and trajectory
-5. **Capital allocation**: Use of capital
-6. **Management team**: Leadership quality
+### Earnings Call Structure
 
-### Guidance Framework
+| Section | Content | Duration |
+|---------|---------|----------|
+| Introduction | Safe harbor, participants | 2 min |
+| CEO Remarks | Strategic highlights | 5-10 min |
+| CFO Remarks | Financial review | 10-15 min |
+| Guidance | Outlook | 2-3 min |
+| Q&A | Analyst questions | 20-30 min |
 
-| Element | Consideration |
-|---------|--------------|
-| Provide guidance? | Culture, peer practice, visibility |
-| Metrics guided | Revenue, earnings, other |
-| Range vs. point | Precision vs. flexibility |
-| Update cadence | Quarterly, as needed |
+## Financial Metrics
 
-## Financial Planning & Analysis
+### Key Financial Metrics
 
-### Planning Cycle
+| Category | Metrics |
+|----------|---------|
+| Profitability | Gross margin, EBITDA margin, net margin |
+| Returns | ROIC, ROE, ROA |
+| Growth | Revenue growth, EPS growth |
+| Efficiency | Asset turnover, working capital turns |
+| Leverage | Debt/EBITDA, interest coverage |
+| Liquidity | Current ratio, cash ratio |
 
-| Phase | Timing | Activities |
-|-------|--------|------------|
-| Strategic Planning | Q2-Q3 | 3-5 year plan |
-| Annual Budget | Q3-Q4 | Detailed next year |
-| Quarterly Forecast | Monthly | Rolling updates |
-| Monthly Close | Monthly | Actual vs. plan |
+### SaaS/Software Metrics
 
-### FP&A Reporting
+| Metric | Definition | Target |
+|--------|------------|--------|
+| ARR | Annual recurring revenue | Growth focus |
+| NRR | Net revenue retention | >100% |
+| CAC | Customer acquisition cost | Declining |
+| LTV | Customer lifetime value | >3x CAC |
+| Rule of 40 | Growth + profit margin | >40% |
 
-| Report | Frequency | Audience |
-|--------|-----------|----------|
-| Flash report | Weekly | Leadership |
-| Monthly close | Monthly | Management |
-| Board package | Monthly/Quarterly | Board |
-| Investor materials | Quarterly | External |
+## M&A Financial Analysis
 
-## Financial Controls & Governance
+### Valuation Methodologies
 
-### Control Framework
+| Method | Approach | Best For |
+|--------|----------|----------|
+| DCF | Discounted future cash flows | Intrinsic value |
+| Comparable Companies | Trading multiples | Market value |
+| Precedent Transactions | Deal multiples | M&A pricing |
+| LBO | Leveraged buyout returns | PE perspective |
 
-| Area | Controls |
-|------|----------|
-| Revenue | Recognition policies, cutoff |
-| Expenses | Approval authority, compliance |
-| Assets | Safeguarding, reconciliation |
-| Reporting | Accuracy, timeliness |
-| Compliance | SOX, audit support |
+### Deal Evaluation Framework
 
-### Risk Management
+| Factor | Analysis |
+|--------|----------|
+| Strategic Rationale | Why this target? |
+| Valuation | Fair value range |
+| Synergies | Revenue and cost synergies |
+| Integration | Complexity and timeline |
+| Financing | Funding sources |
+| Returns | IRR, accretion/dilution |
 
-| Risk Type | Management Approach |
-|-----------|-------------------|
-| Market risk | Hedging, diversification |
-| Credit risk | Customer assessment, limits |
-| Liquidity risk | Cash reserves, facilities |
-| Operational risk | Controls, insurance |
-| Compliance risk | Policies, monitoring |
+## Risk Management
+
+### Enterprise Risk Framework
+
+| Category | Examples |
+|----------|----------|
+| Strategic | Market shifts, competition, disruption |
+| Financial | Liquidity, credit, currency, rates |
+| Operational | Technology, supply chain, talent |
+| Compliance | Regulatory, legal, accounting |
+| Reputational | Brand, stakeholder perception |
+
+### Financial Risk Management
+
+| Risk | Mitigation |
+|------|------------|
+| Liquidity | Cash reserves, credit facilities |
+| Currency | Hedging, natural hedge |
+| Interest Rate | Fixed/floating mix, swaps |
+| Credit | Customer assessment, insurance |
+| Commodity | Hedging, contracts |
+
+## Key Deliverables
+
+| Deliverable | Content |
+|-------------|---------|
+| Long-Range Financial Plan | 3-5 year integrated model |
+| Capital Allocation Framework | Investment criteria and process |
+| Investor Presentation | Equity story and financials |
+| Board Financial Package | Performance and forecasts |
+| M&A Analysis | Target evaluation and modeling |
 
 ## Using the Reference Files
 
 ### When to Read Each Reference
 
-**`/references/financial-planning.md`** — Read when developing financial plans, budgets, forecasts, or conducting financial analysis.
+**`/references/financial-modeling.md`** — Read when building financial models, forecasts, or valuation analyses.
 
-**`/references/capital-treasury.md`** — Read when optimizing capital structure, managing treasury operations, or evaluating funding options.
+**`/references/investor-relations.md`** — Read when preparing investor presentations, earnings materials, or shareholder communications.
 
-**`/references/investor-relations.md`** — Read when preparing investor materials, earnings communications, or developing equity story.
+**`/references/capital-structure.md`** — Read when optimizing capital structure, evaluating financing options, or managing treasury operations.

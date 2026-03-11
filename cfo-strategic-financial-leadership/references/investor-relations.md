@@ -1,140 +1,144 @@
 # Investor Relations
 
-Investor communication and equity story development.
+Guidance on investor communications and engagement.
 
 ---
 
-## Equity Story
+## Equity Story Development
 
 ### Core Components
-1. **Investment Thesis**
-   - Why invest in this company?
-   - What makes us unique?
-   - What's the opportunity?
 
-2. **Market Opportunity**
-   - TAM, SAM, SOM
-   - Growth drivers
-   - Market position
+| Component | Content |
+|-----------|--------|
+| Investment Thesis | Why invest in this company |
+| Market Opportunity | TAM, growth drivers |
+| Business Model | How we create and capture value |
+| Competitive Advantage | Moat and differentiation |
+| Financial Performance | Track record and metrics |
+| Growth Strategy | How we'll grow |
+| Management Team | Leadership capabilities |
+| Financial Targets | Guidance and long-term model |
 
-3. **Business Model**
-   - How we make money
-   - Revenue mix
-   - Margin profile
+### Key Messages
 
-4. **Competitive Position**
-   - Differentiation
-   - Barriers to entry
-   - Market share trends
-
-5. **Financial Profile**
-   - Historical performance
-   - Growth trajectory
-   - Profitability trends
-
-6. **Capital Allocation**
-   - Investment priorities
-   - Return of capital
-   - M&A philosophy
+**Develop 3-5 key messages** that:
+- Differentiate from competitors
+- Address investor concerns
+- Support valuation
+- Are defensible and credible
 
 ---
 
-## Earnings Communication
+## Investor Presentation
 
-### Earnings Release Structure
-1. Headline results (vs. expectations)
-2. Key business highlights
-3. Financial summary tables
-4. Outlook/guidance (if provided)
-5. Safe harbor statement
+### Structure
 
-### Earnings Call Structure
-| Section | Time | Content |
-|---------|------|----------|
-| Opening | 2 min | Safe harbor, introduction |
-| CEO remarks | 10-15 min | Strategic overview |
-| CFO remarks | 10-15 min | Financial review |
-| Q&A | 30-45 min | Analyst questions |
-| Closing | 2 min | Summary, next events |
+| Section | Slides | Content |
+|---------|--------|--------|
+| Opening | 1-2 | Company overview, investment highlights |
+| Market | 2-3 | Market size, dynamics, positioning |
+| Business | 3-4 | Model, customers, products |
+| Strategy | 2-3 | Growth strategy, initiatives |
+| Financials | 3-5 | Performance, metrics, guidance |
+| Team | 1-2 | Leadership, capabilities |
+| Summary | 1 | Key takeaways, CTA |
 
-### Q&A Preparation
-- Anticipate top 20 questions
-- Prepare concise answers
-- Practice delivery
-- Define "no go" zones
-- Have backup materials ready
+### Design Principles
+
+| Principle | Application |
+|-----------|-------------|
+| Clarity | One message per slide |
+| Visual | Charts and graphics over text |
+| Consistent | Brand-aligned formatting |
+| Data-Rich | Credible, specific metrics |
+| Narrative | Tells cohesive story |
 
 ---
 
-## Guidance Framework
+## Earnings Process
 
-### Guidance Considerations
-| Factor | Consideration |
-|--------|---------------|
-| Visibility | Business predictability |
-| Peer practice | Industry norms |
-| Credibility | Track record of accuracy |
-| Flexibility | Managing expectations |
-| Risk | Downside protection |
+### Earnings Calendar
 
-### Guidance Formats
-| Format | Pros | Cons |
-|--------|------|------|
-| Point estimate | Clear | Less flexibility |
-| Range | Flexibility | Can seem imprecise |
-| Directional only | Maximum flexibility | Less useful |
-| No guidance | No commitment | Analyst frustration |
+| Day | Activity |
+|-----|----------|
+| -30 | Begin preparing materials |
+| -14 | Draft earnings release and script |
+| -7 | Legal and audit review |
+| -3 | Final board review |
+| -1 | Pre-brief key analysts (if policy allows) |
+| 0 | Earnings release and call |
+| +1 | Post-call follow-up |
 
-### Guidance Update Triggers
-- Material change in outlook
-- Quarter tracking significantly different
-- Major transaction announcement
-- Regulatory requirement
+### Earnings Call Script
+
+```
+## Earnings Call Script Q[X] [Year]
+
+**OPERATOR INTRODUCTION** (2 min)
+- Call logistics
+- Safe harbor statement
+- Participant introductions
+
+**CEO REMARKS** (5-10 min)
+- Quarter highlights
+- Strategic progress
+- Key initiatives
+- Outlook commentary
+
+**CFO REMARKS** (10-15 min)
+- Financial results detail
+- Segment performance
+- Balance sheet and cash flow
+- Guidance
+
+**Q&A GUIDANCE**
+- Anticipated questions
+- Key messages to reinforce
+- Topics to avoid/defer
+```
 
 ---
 
 ## Investor Targeting
 
 ### Investor Segmentation
-| Type | Characteristics |
-|------|----------------|
-| Long-only | Fundamental, long-term |
-| Hedge funds | More active, various strategies |
-| Index | Passive, market weight |
-| Retail | Individual investors |
 
-### Targeting Process
-1. Analyze current shareholder base
-2. Identify peer holders not holding you
-3. Understand investment criteria
-4. Prioritize targets
-5. Execute outreach program
-6. Track progress
+| Segment | Characteristics | Engagement |
+|---------|-----------------|------------|
+| Anchor Investors | Large, long-term holders | CEO/CFO attention |
+| Active Managers | Fundamental research | Regular engagement |
+| Index/Passive | Track benchmarks | Limited engagement |
+| Hedge Funds | Short-term, trading | Selective engagement |
+| Retail | Individual investors | Broad communication |
+
+### Targeting Strategy
+
+| Activity | Purpose |
+|----------|--------|
+| Ownership Analysis | Understand current base |
+| Gap Analysis | Identify underweight firms |
+| Peer Ownership | Find firms holding peers |
+| Targeting List | Prioritized prospect list |
+| Outreach Plan | Engagement calendar |
 
 ---
 
-## Investor Day
+## Disclosure Best Practices
 
-### Purpose
-- Deep dive on strategy
-- Introduce management team
-- Provide longer-term outlook
-- Build relationships
+### Reg FD Compliance
 
-### Typical Agenda
-| Time | Session |
-|------|----------|
-| 8:30 | Registration, breakfast |
-| 9:00 | CEO: Strategy overview |
-| 10:00 | Business unit deep dives |
-| 12:00 | Lunch with management |
-| 1:00 | CFO: Financial framework |
-| 2:00 | Q&A panel |
-| 3:00 | Closing, networking |
+| Practice | Application |
+|----------|-------------|
+| Broad Disclosure | Material info to all simultaneously |
+| No Selective Disclosure | Don't share non-public with select investors |
+| Safe Harbor | Include forward-looking statement disclaimers |
+| Quiet Period | Limit communications before earnings |
 
-### Success Metrics
-- Attendance (target vs. actual)
-- Analyst report coverage
-- Investor feedback
-- Stock performance (post-event)
-- Follow-up meeting requests
+### Non-GAAP Measures
+
+| Requirement | Application |
+|-------------|-------------|
+| Reconciliation | Always provide GAAP reconciliation |
+| Equal Prominence | GAAP and non-GAAP equally prominent |
+| Consistent Use | Same definitions over time |
+| Clear Labeling | Clearly identify as non-GAAP |

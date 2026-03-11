@@ -1,158 +1,133 @@
 # Canvas Frameworks
 
-Detailed guidance on Business Model Canvas, Lean Canvas, and Value Proposition Canvas.
+Detailed guidance on Business Model Canvas and Value Proposition Canvas.
 
 ---
 
-## Business Model Canvas
+## Business Model Canvas Deep Dive
 
 ### Customer Segments
-Define distinct groups of people or organizations you serve.
 
-**Segment Types:**
-- Mass Market: Broad, similar needs
-- Niche Market: Specialized, specific needs
-- Segmented: Similar but distinct groups
-- Diversified: Unrelated segments
-- Multi-Sided: Two+ interdependent groups
-
-**Questions to Answer:**
+**Key Questions**:
 - For whom are we creating value?
 - Who are our most important customers?
-- What are their characteristics and behaviors?
+- What are the different customer archetypes?
+
+**Segment Prioritization Criteria**:
+| Criterion | Assessment |
+|-----------|------------|
+| Market Size | Total addressable market |
+| Accessibility | Ease of reaching segment |
+| Profitability | Revenue potential per customer |
+| Strategic Fit | Alignment with capabilities |
+| Growth Potential | Future market expansion |
 
 ### Value Propositions
-Describe the bundle of products/services that create value.
 
-**Value Elements:**
-- Newness: Novel solutions
-- Performance: Improved performance
-- Customization: Tailored solutions
-- Getting the Job Done: Helping accomplish tasks
-- Design: Superior aesthetics
-- Brand/Status: Prestige association
-- Price: Lower cost
-- Cost Reduction: Help reduce costs
-- Risk Reduction: Minimize risks
-- Accessibility: Make available
-- Convenience: Easier to use
+**Key Questions**:
+- What value do we deliver to the customer?
+- Which customer problems are we solving?
+- Which customer needs are we satisfying?
+- What bundles of products/services do we offer?
+
+**Value Proposition Elements**:
+| Element | Description |
+|---------|-------------|
+| Products | Physical goods offered |
+| Services | Intangible offerings |
+| Experiences | Emotional/experiential value |
+| Outcomes | Results delivered |
 
 ### Channels
-Describe how you reach and communicate with customer segments.
 
-**Channel Phases:**
-1. Awareness: How do customers learn about us?
-2. Evaluation: How do they evaluate our value proposition?
-3. Purchase: How do they purchase?
-4. Delivery: How do we deliver value?
-5. After-Sales: How do we provide support?
+**Channel Phases**:
+| Phase | Purpose |
+|-------|--------|
+| Awareness | How do customers learn about us? |
+| Evaluation | How do we help customers evaluate? |
+| Purchase | How do customers buy? |
+| Delivery | How do we deliver value? |
+| After Sales | How do we provide support? |
 
-**Channel Types:**
-- Direct: Sales force, web sales
-- Indirect: Partner stores, wholesaler
-- Owned: Own stores, own website
-- Partner: Partner channels
+**Channel Types**:
+| Type | Description | Examples |
+|------|-------------|----------|
+| Own Direct | Owned by company, direct | Website, sales team |
+| Own Indirect | Owned, through intermediaries | Company stores |
+| Partner Direct | Partner-owned, direct | Affiliate marketing |
+| Partner Indirect | Partner-owned, indirect | Distributors, retail |
 
 ### Customer Relationships
-Describe relationship types established with customer segments.
 
-**Relationship Types:**
-- Personal Assistance: Human interaction
-- Dedicated Personal Assistance: Specific representative
-- Self-Service: No direct relationship
-- Automated Services: Automated personalization
-- Communities: User communities
-- Co-Creation: Customer involvement in value creation
+**Relationship Types**:
+| Type | Description | Automation Level |
+|------|-------------|------------------|
+| Personal Assistance | Human interaction | Low |
+| Dedicated Assistance | Assigned relationship manager | Low |
+| Self-Service | Customer does it themselves | High |
+| Automated | Technology-enabled service | High |
+| Communities | User-to-user connections | Medium |
+| Co-creation | Customer involvement in creation | Medium |
 
 ### Revenue Streams
-Describe how you capture value from each customer segment.
 
-**Revenue Types:**
-- Asset Sale: Selling ownership rights
-- Usage Fee: Pay per use
-- Subscription: Recurring access fees
-- Lending/Renting/Leasing: Temporary access
-- Licensing: Permission to use IP
-- Brokerage: Intermediary fees
-- Advertising: Fees for advertising
+**Revenue Types**:
+| Type | Transaction | Recurring |
+|------|-------------|----------|
+| Asset Sale | One-time purchase | No |
+| Usage Fee | Per-use payment | Variable |
+| Subscription | Regular payment | Yes |
+| Lending/Renting | Temporary access | Variable |
+| Licensing | Permission to use | Variable |
+| Brokerage | Transaction fee | Variable |
+| Advertising | Attention monetization | Variable |
 
 ### Key Resources
-Describe most important assets required to make model work.
 
-**Resource Categories:**
-- Physical: Facilities, equipment, inventory
-- Intellectual: Patents, copyrights, data
-- Human: People and expertise
-- Financial: Cash, credit, equity
+**Resource Categories**:
+| Category | Examples |
+|----------|----------|
+| Physical | Facilities, equipment, inventory |
+| Intellectual | IP, patents, brand, data |
+| Human | Expertise, skills, relationships |
+| Financial | Cash, credit, investment |
 
 ### Key Activities
-Describe most important things company must do.
 
-**Activity Categories:**
-- Production: Design, make, deliver
-- Problem Solving: New solutions for individual customers
-- Platform/Network: Platform management, service provisioning
+**Activity Categories**:
+| Category | Examples |
+|----------|----------|
+| Production | Manufacturing, development |
+| Problem Solving | Consulting, customization |
+| Platform/Network | Platform maintenance, matching |
+| Supply Chain | Sourcing, logistics |
+| Marketing/Sales | Acquisition, retention |
 
 ### Key Partnerships
-Describe network of suppliers and partners.
 
-**Partnership Types:**
-- Strategic Alliances: Non-competitors
-- Coopetition: Strategic partnerships with competitors
-- Joint Ventures: New business development
-- Buyer-Supplier: Reliable supplies
+**Partnership Types**:
+| Type | Purpose |
+|------|--------|
+| Strategic Alliances | Non-competitor partnerships |
+| Coopetition | Competitor partnerships |
+| Joint Ventures | New business creation |
+| Buyer-Supplier | Reliable supply relationships |
 
-**Partnership Motivations:**
-- Optimization and economy of scale
-- Reduction of risk and uncertainty
-- Acquisition of resources and activities
+**Partnership Motivations**:
+- Optimization and scale
+- Risk and uncertainty reduction
+- Acquisition of resources/activities
+- Market access and distribution
 
 ### Cost Structure
-Describe all costs incurred to operate business model.
 
-**Cost Characteristics:**
-- Cost-Driven: Minimize costs wherever possible
-- Value-Driven: Focus on value creation
-- Fixed Costs: Same regardless of volume
-- Variable Costs: Vary with volume
-- Economies of Scale: Cost advantages from size
-- Economies of Scope: Cost advantages from range
-
----
-
-## Lean Canvas
-
-Adaptation of Business Model Canvas for startups.
-
-### Key Differences from BMC
-| BMC Component | Lean Canvas Component |
-|---------------|----------------------|
-| Key Partners | Problem |
-| Key Activities | Solution |
-| Key Resources | Key Metrics |
-| Customer Relationships | Unfair Advantage |
-
-### Lean Canvas Components
-
-**Problem (Top 3)**
-- List top 3 problems
-- List existing alternatives
-- Identify customer segments affected
-
-**Solution (Top 3 Features)**
-- List top 3 features that address problems
-- Keep it minimal and focused
-- Can evolve with learning
-
-**Key Metrics**
-- Identify key numbers that tell how business is doing
-- Focus on actionable metrics
-- Avoid vanity metrics
-
-**Unfair Advantage**
-- Something that cannot easily be copied or bought
-- May not exist initially
-- Examples: insider info, expert endorsements, team
+**Cost Characteristics**:
+| Characteristic | Description |
+|----------------|-------------|
+| Cost-Driven | Minimize costs wherever possible |
+| Value-Driven | Focus on value creation, less cost-sensitive |
+| Fixed Costs | Don't change with volume |
+| Variable Costs | Scale with volume |
 
 ---
 
@@ -160,46 +135,43 @@ Adaptation of Business Model Canvas for startups.
 
 ### Customer Profile
 
-**Customer Jobs:**
-- Functional jobs: Tasks to accomplish
-- Social jobs: How to be perceived
-- Emotional jobs: Feelings sought
-- Supporting jobs: In relation to other jobs
+**Customer Jobs**:
+| Job Type | Description |
+|----------|-------------|
+| Functional | Tasks customers want to accomplish |
+| Social | How customers want to be perceived |
+| Emotional | Feelings customers seek |
+| Supporting | Jobs related to purchasing/consuming |
 
-**Pains:**
-- Undesired outcomes
-- Obstacles and risks
-- Frustrations with current solutions
+**Pains**:
+| Pain Type | Description |
+|-----------|-------------|
+| Undesired Outcomes | Things that go wrong |
+| Obstacles | Things preventing job completion |
+| Risks | Potential negative outcomes |
 
-**Gains:**
-- Required outcomes (expected)
-- Expected outcomes (standard)
-- Desired outcomes (beyond expectations)
-- Unexpected outcomes (delighters)
+**Gains**:
+| Gain Type | Description |
+|-----------|-------------|
+| Required | Minimum expectations |
+| Expected | Standard expectations |
+| Desired | Beyond expectations |
+| Unexpected | Beyond imagination |
 
 ### Value Map
 
-**Products & Services:**
-- List all products/services the value prop builds on
-- Tangible products
-- Intangible services
-- Digital products
-- Financial products
+**Pain Relievers**:
+- How does your product/service reduce or eliminate customer pains?
+- Prioritize by severity of pain and effectiveness of relief
 
-**Pain Relievers:**
-- How products/services alleviate customer pains
-- Eliminate or reduce negative emotions
-- End undesired situations
-- Remove obstacles
+**Gain Creators**:
+- How does your product/service create customer gains?
+- Prioritize by relevance and magnitude of gain
 
-**Gain Creators:**
-- How products/services create customer gains
-- Produce functional utility
-- Create social gains
-- Generate positive emotions
-- Exceed expectations
+### Achieving Fit
 
-### Fit Assessment
-- Problem-Solution Fit: Evidence problems are real
-- Product-Market Fit: Evidence solution solves problems
-- Business Model Fit: Evidence model is profitable
+| Fit Level | Description |
+|-----------|-------------|
+| Problem-Solution Fit | Evidence that customers have the jobs/pains/gains you're addressing |
+| Product-Market Fit | Evidence that your value proposition resonates in the market |
+| Business Model Fit | Evidence of a scalable, profitable business model |
