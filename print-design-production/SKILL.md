@@ -1,6 +1,6 @@
 ---
 name: print-design-production
-description: Print design and production encompasses the complete workflow of creating visual materials intended for physical printing. Unlike digital design, print requires understanding of physical materials, color reproduction, and manufacturing processes.
+description: "Print design and production encompasses the complete workflow of creating visual materials intended for physical printing. Unlike digital design, print requires understanding of physical materials, color reproduction, and manufacturing processes."
 ---
 
 # Print Design & Production

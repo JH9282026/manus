@@ -1,6 +1,6 @@
 ---
 name: illustration-digital-art
-description: Illustration and digital art represent the creative foundation of visual communication, combining artistic expression with purposeful design to convey ideas, emotions, and narratives.
+description: "Illustration and digital art represent the creative foundation of visual communication, combining artistic expression with purposeful design to convey ideas, emotions, and narratives."
 ---
 
 # Illustration & Digital Art
