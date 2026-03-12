@@ -1,6 +1,6 @@
 ---
 name: public-speaking-presentation-skills
-description: Master public speaking and presentation delivery across all formats. Create compelling speeches, design impactful slides, optimize delivery techniques, manage presentation anxiety, and engage audiences effectively. Use for: speech writing, presentation coaching, slide design, virtual presentation optimization, TED-style talks, board presentations, sales pitches, Q&A preparation, stage fright management, and impromptu speaking development.
+description: "Master public speaking and presentation delivery across all formats. Create compelling speeches, design impactful slides, optimize delivery techniques, manage presentation anxiety, and engage audiences effectively. Use for: speech writing, presentation coaching, slide design, virtual presentation optimization, TED-style talks, board presentations, sales pitches, Q&A preparation, stage fright management, and impromptu speaking development."
 ---
 
 # Public Speaking & Presentation Skills
