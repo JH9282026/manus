@@ -208,3 +208,13 @@ This skill enables execution of Chief Financial Officer responsibilities: long-t
 **`/references/investor-relations.md`** — Read when preparing investor presentations, earnings materials, or shareholder communications.
 
 **`/references/capital-structure.md`** — Read when optimizing capital structure, evaluating financing options, or managing treasury operations.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Capital Structure](references/capital-structure.md)
+- [Capital Treasury](references/capital-treasury.md)
+- [Financial Modeling](references/financial-modeling.md)
+- [Financial Planning](references/financial-planning.md)
+- [Investor Relations](references/investor-relations.md)

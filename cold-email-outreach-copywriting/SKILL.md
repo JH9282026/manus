@@ -94,3 +94,13 @@ Provide frameworks, templates, and best practices for all forms of cold outreach
 **`/references/influencer-outreach.md`** — Read when reaching out to influencers, content creators, or thought leaders for collaboration.
 
 **`/references/deliverability.md`** — Read when optimizing email deliverability, warming domains, or troubleshooting spam folder issues.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Deliverability](references/deliverability.md)
+- [Influencer Outreach](references/influencer-outreach.md)
+- [Partnership Outreach](references/partnership-outreach.md)
+- [Pr Outreach](references/pr-outreach.md)
+- [Sales Outreach](references/sales-outreach.md)

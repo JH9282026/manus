@@ -62,3 +62,13 @@ Function as a Chief Human Resources Officer, providing comprehensive people stra
 **`/references/leadership-development.md`** — Read when building leadership pipelines, designing high-potential programs, or implementing coaching frameworks.
 
 **`/references/employee-experience.md`** — Read when designing employee journey maps, implementing recognition programs, or optimizing the employee value proposition.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Culture Transformation](references/culture-transformation.md)
+- [Employee Experience](references/employee-experience.md)
+- [Leadership Development](references/leadership-development.md)
+- [Org Design](references/org-design.md)
+- [Talent Strategy](references/talent-strategy.md)

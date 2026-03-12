@@ -55,3 +55,10 @@ LBO (floor):          |██████████████|
 **`/references/dcf-comps-methodology.md`** — Read when building DCF models, selecting comparable companies, calculating trading multiples, or analyzing precedent transactions.
 
 **`/references/lbo-merger-models.md`** — Read when building LBO models for private equity analysis or merger models for strategic M&A accretion/dilution assessment.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Dcf Comps Methodology](references/dcf-comps-methodology.md)
+- [Lbo Merger Models](references/lbo-merger-models.md)

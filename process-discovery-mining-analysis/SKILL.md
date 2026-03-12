@@ -355,3 +355,27 @@ Process mining is a family of techniques that use event log data to discover, mo
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
 
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Best Practices For Process Discovery And Analysis](references/best-practices-for-process-discovery-and-analysis.md)
+- [Bottleneck Identification Methods](references/bottleneck-identification-methods.md)
+- [Collaborative Process Discovery](references/collaborative-process-discovery.md)
+- [Common Process Analysis Mistakes](references/common-process-analysis-mistakes.md)
+- [Conclusion](references/conclusion.md)
+- [Data Collection For Process Analysis](references/data-collection-for-process-analysis.md)
+- [Detailed Content](references/detailed-content.md)
+- [From Discovery To Improvement](references/from-discovery-to-improvement.md)
+- [Process Analysis Techniques](references/process-analysis-techniques.md)
+- [Process Analytics And Reporting](references/process-analytics-and-reporting.md)
+- [Process Benchmarking](references/process-benchmarking.md)
+- [Process Discovery Techniques](references/process-discovery-techniques.md)
+- [Process Maturity Assessment](references/process-maturity-assessment.md)
+- [Process Mining](references/process-mining.md)
+- [Process Performance Measurement](references/process-performance-measurement.md)
+- [Process Simulation And Modeling](references/process-simulation-and-modeling.md)
+- [Tools And Resources](references/tools-and-resources.md)
+- [Using The Reference Files](references/using-the-reference-files.md)
+- [What If Scenario Analysis](references/what-if-scenario-analysis.md)
+- [Why Process Discovery Matters](references/why-process-discovery-matters.md)

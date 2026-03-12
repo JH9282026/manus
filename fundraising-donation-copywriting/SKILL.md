@@ -64,3 +64,10 @@ Provide frameworks for every fundraising communication format — from annual ap
 **`/references/storytelling-and-appeals.md`** — Read when writing emotional stories for fundraising, crafting appeal letters, or developing the case for support.
 
 **`/references/campaign-channels-and-cultivation.md`** — Read when designing multi-channel fundraising campaigns, email sequences, major gift cultivation, or donor stewardship programs.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Campaign Channels And Cultivation](references/campaign-channels-and-cultivation.md)
+- [Storytelling And Appeals](references/storytelling-and-appeals.md)

@@ -359,3 +359,34 @@ When repurposing horizontal content for short-form:
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
 
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Algorithm Optimization](references/algorithm-optimization.md)
+- [Analytics And Metrics](references/analytics-and-metrics.md)
+- [Best Practices](references/best-practices.md)
+- [Call To Action In Short Videos](references/call-to-action-in-short-videos.md)
+- [Captions And Text Overlays](references/captions-and-text-overlays.md)
+- [Common Mistakes](references/common-mistakes.md)
+- [Conclusion](references/conclusion.md)
+- [Content Formats](references/content-formats.md)
+- [Detailed Content](references/detailed-content.md)
+- [Editing Techniques For Short Form](references/editing-techniques-for-short-form.md)
+- [Hashtag Strategy](references/hashtag-strategy.md)
+- [Hook Formulas And Patterns](references/hook-formulas-and-patterns.md)
+- [Pacing And Rhythm](references/pacing-and-rhythm.md)
+- [Platform Specific Strategies](references/platform-specific-strategies.md)
+- [Repurposing Content Across Platforms](references/repurposing-content-across-platforms.md)
+- [Scripting For Short Form 15 60 Seconds](references/scripting-for-short-form-15-60-seconds.md)
+- [Series And Content Batching](references/series-and-content-batching.md)
+- [Short Form Video Fundamentals](references/short-form-video-fundamentals.md)
+- [Storytelling In 60 Seconds Or Less](references/storytelling-in-60-seconds-or-less.md)
+- [The 3 Second Hook Rule](references/the-3-second-hook-rule.md)
+- [Tools And Apps](references/tools-and-apps.md)
+- [Transitions And Effects](references/transitions-and-effects.md)
+- [Trending Sounds And Music](references/trending-sounds-and-music.md)
+- [Using The Reference Files](references/using-the-reference-files.md)
+- [Vertical Video Optimization](references/vertical-video-optimization.md)
+- [Viral Content Principles](references/viral-content-principles.md)
+- [Why Short Form Video Dominates](references/why-short-form-video-dominates.md)

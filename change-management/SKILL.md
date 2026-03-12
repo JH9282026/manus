@@ -93,3 +93,13 @@ Track adoption through leading and lagging indicators:
 **`/references/implementation-guide.md`** — Read when building detailed change plans, designing training programs, or planning go-live activities.
 
 **`/references/metrics-measurement.md`** — Read when establishing change metrics, building dashboards, or conducting change health assessments.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Change Frameworks](references/change-frameworks.md)
+- [Culture Change](references/culture-change.md)
+- [Implementation Guide](references/implementation-guide.md)
+- [Metrics Measurement](references/metrics-measurement.md)
+- [Resistance Management](references/resistance-management.md)

@@ -38,3 +38,12 @@ Choose your approach based on your specific needs:
 **`/references/testing-validation.md`** — Read when you need detailed information about accessibility testing tools, manual testing, and validation procedures.
 
 **`/references/common-patterns.md`** — Read when you need detailed information about accessible component patterns and real-world solutions.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Common Patterns](references/common-patterns.md)
+- [Implementation Techniques](references/implementation-techniques.md)
+- [Testing Validation](references/testing-validation.md)
+- [Wcag Standards](references/wcag-standards.md)

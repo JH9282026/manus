@@ -43,3 +43,10 @@ This skill integrates clinical operations, regulatory compliance, financial mana
 **`/references/revenue-cycle-quality.md`** — Read when optimizing revenue cycle, improving HCAHPS, or designing population health programs.
 
 **`/references/compliance-accreditation.md`** — Read when preparing for Joint Commission, building HIPAA compliance, or developing staffing models.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Compliance Accreditation](references/compliance-accreditation.md)
+- [Revenue Cycle Quality](references/revenue-cycle-quality.md)

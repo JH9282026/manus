@@ -63,3 +63,10 @@ Design evidence-based nutrition programs integrating macronutrient optimization,
 **`/references/macronutrient-planning.md`** — Read when calculating calorie targets, designing macronutrient ratios, planning meals, or optimizing nutrient timing.
 
 **`/references/dietary-frameworks.md`** — Read when selecting dietary approaches, designing therapeutic diets, planning sports nutrition, or addressing specific health conditions.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Dietary Frameworks](references/dietary-frameworks.md)
+- [Macronutrient Planning](references/macronutrient-planning.md)

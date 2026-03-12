@@ -57,3 +57,10 @@ Cover the complete logo design process from research and conceptualization throu
 **`/references/logo-techniques.md`** — Read when executing logo design work, choosing typography, applying color theory, or creating logo variations.
 
 **`/references/brand-identity-systems.md`** — Read when building complete brand identity systems, creating brand guidelines, or designing brand collateral.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Brand Identity Systems](references/brand-identity-systems.md)
+- [Logo Techniques](references/logo-techniques.md)

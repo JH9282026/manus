@@ -54,3 +54,11 @@ This skill integrates creative content production with analytical performance tr
 **`/references/content-planning.md`** — Read when developing editorial calendars or content pillar strategies.
 
 **`/references/analytics-metrics.md`** — Read for performance measurement frameworks and reporting templates.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Analytics Metrics](references/analytics-metrics.md)
+- [Content Planning](references/content-planning.md)
+- [Platform Strategies](references/platform-strategies.md)

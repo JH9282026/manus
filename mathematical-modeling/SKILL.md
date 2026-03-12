@@ -60,3 +60,10 @@ Create, validate, and apply mathematical models across scientific, engineering, 
 **`/references/modeling-techniques.md`** — Read when formulating models using regression, differential equations, time series, or statistical methods.
 
 **`/references/optimization-simulation.md`** — Read when solving optimization problems, designing simulations, or conducting Monte Carlo analysis.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Modeling Techniques](references/modeling-techniques.md)
+- [Optimization Simulation](references/optimization-simulation.md)

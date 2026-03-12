@@ -47,3 +47,10 @@ Apply mobile-first design methodology to create fast, accessible web experiences
 **`/references/responsive-patterns.md`** — Read when implementing responsive layouts, CSS grid/flexbox patterns, or adaptive components.
 
 **`/references/mobile-ux-performance.md`** — Read when optimizing mobile user experience, form design, navigation patterns, or performance metrics.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Mobile Ux Performance](references/mobile-ux-performance.md)
+- [Responsive Patterns](references/responsive-patterns.md)

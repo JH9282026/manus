@@ -37,3 +37,10 @@ This skill transforms patent data, trademark registrations, trade secrets, and c
 **`/references/patent-analysis-frameworks.md`** — Read for landscape analysis, FTO, competitive intelligence, or white-space identification.
 
 **`/references/ip-monetization-protection.md`** — Read for IP valuation, licensing strategy, M&A due diligence, or portfolio optimization.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Ip Monetization Protection](references/ip-monetization-protection.md)
+- [Patent Analysis Frameworks](references/patent-analysis-frameworks.md)

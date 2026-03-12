@@ -49,3 +49,10 @@ Create platform-appropriate mobile app designs that leverage native iOS (Human I
 **`/references/ios-design-guidelines.md`** — Read when designing for iOS, implementing HIG patterns, or creating iOS-specific components.
 
 **`/references/android-design-guidelines.md`** — Read when designing for Android, implementing Material Design, or creating Android-specific components.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Android Design Guidelines](references/android-design-guidelines.md)
+- [Ios Design Guidelines](references/ios-design-guidelines.md)

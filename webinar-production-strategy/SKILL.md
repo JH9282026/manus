@@ -358,3 +358,39 @@ Commit to the craft of webinar production and strategy, and you'll develop one o
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
 
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Advanced Webinar Formats](references/advanced-webinar-formats.md)
+- [Audio Quality For Webinars](references/audio-quality-for-webinars.md)
+- [Best Practices](references/best-practices.md)
+- [Camera And Lighting Setup](references/camera-and-lighting-setup.md)
+- [Co Presenters And Panelists](references/co-presenters-and-panelists.md)
+- [Common Mistakes](references/common-mistakes.md)
+- [Conclusion](references/conclusion.md)
+- [Conversion Optimization](references/conversion-optimization.md)
+- [Detailed Content](references/detailed-content.md)
+- [Email Sequences For Webinars](references/email-sequences-for-webinars.md)
+- [Engagement Tactics](references/engagement-tactics.md)
+- [Handling Q A Sessions](references/handling-q-a-sessions.md)
+- [International And Global Webinars](references/international-and-global-webinars.md)
+- [Live Vs Automated Webinars](references/live-vs-automated-webinars.md)
+- [Presentation Design For Webinars](references/presentation-design-for-webinars.md)
+- [Repurposing Webinar Content](references/repurposing-webinar-content.md)
+- [Screen Sharing And Demos](references/screen-sharing-and-demos.md)
+- [Technical Setup And Platforms](references/technical-setup-and-platforms.md)
+- [Tools And Platforms](references/tools-and-platforms.md)
+- [Topic Selection And Positioning](references/topic-selection-and-positioning.md)
+- [Types Of Webinars](references/types-of-webinars.md)
+- [Using The Reference Files](references/using-the-reference-files.md)
+- [Webinar Analytics And Metrics](references/webinar-analytics-and-metrics.md)
+- [Webinar Follow Up And Replay Strategy](references/webinar-follow-up-and-replay-strategy.md)
+- [Webinar Presentation Skills](references/webinar-presentation-skills.md)
+- [Webinar Promotion And Registration](references/webinar-promotion-and-registration.md)
+- [Webinar Series Strategy](references/webinar-series-strategy.md)
+- [Webinar Strategy And Planning](references/webinar-strategy-and-planning.md)
+- [Webinar Structure And Flow](references/webinar-structure-and-flow.md)
+- [Webinar Team Roles And Responsibilities](references/webinar-team-roles-and-responsibilities.md)
+- [Webinar Technology Deep Dive](references/webinar-technology-deep-dive.md)
+- [Why Webinars Work](references/why-webinars-work.md)

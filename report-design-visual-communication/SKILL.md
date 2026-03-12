@@ -38,3 +38,12 @@ Choose your approach based on your specific needs:
 **`/references/typography-color.md`** — Read when you need detailed information about typeface selection, color systems, and readability optimization.
 
 **`/references/templates-examples.md`** — Read when you need detailed information about report templates and real-world examples.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Data Visualization](references/data-visualization.md)
+- [Layout Principles](references/layout-principles.md)
+- [Templates Examples](references/templates-examples.md)
+- [Typography Color](references/typography-color.md)

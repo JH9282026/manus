@@ -66,3 +66,10 @@ Use sparingly and accurately:
 **`/references/genre-templates.md`** — Read when writing descriptions for specific genres (romance, thriller, mystery, fantasy, non-fiction) with proven formulas and examples.
 
 **`/references/amazon-optimization.md`** — Read when optimizing for Amazon search, formatting with HTML, or crafting keyword-rich descriptions.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Amazon Optimization](references/amazon-optimization.md)
+- [Genre Templates](references/genre-templates.md)

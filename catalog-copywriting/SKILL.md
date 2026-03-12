@@ -272,3 +272,12 @@ See Premium Series on page 56 →
 **`/references/product-description-templates.md`** — Read when writing product descriptions across categories, with templates and examples for different product types.
 
 **`/references/catalog-structure.md`** — Read when planning catalog organization, pagination, and navigation elements.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Catalog Structure](references/catalog-structure.md)
+- [Product Description Templates](references/product-description-templates.md)
+- [Product Templates](references/product-templates.md)
+- [Style Consistency](references/style-consistency.md)

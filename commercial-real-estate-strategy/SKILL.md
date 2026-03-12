@@ -77,3 +77,13 @@ For every lease decision, model:
 **`/references/asset-management.md`** — Read when creating asset business plans, budgeting capital improvements, or managing property operations.
 
 **`/references/development-analysis.md`** — Read when evaluating development/redevelopment feasibility, structuring deals, or assessing construction risk.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Asset Management](references/asset-management.md)
+- [Development Analysis](references/development-analysis.md)
+- [Leasing Strategy](references/leasing-strategy.md)
+- [Portfolio Strategy](references/portfolio-strategy.md)
+- [Property Types](references/property-types.md)

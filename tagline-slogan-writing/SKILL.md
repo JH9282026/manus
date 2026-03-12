@@ -354,3 +354,25 @@ Select and prepare final tagline for launch.
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
 
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Best Practices Summary](references/best-practices-summary.md)
+- [Brainstorming Techniques For Taglines](references/brainstorming-techniques-for-taglines.md)
+- [Characteristics Of Great Taglines](references/characteristics-of-great-taglines.md)
+- [Common Mistakes And How To Avoid Them](references/common-mistakes-and-how-to-avoid-them.md)
+- [Conclusion](references/conclusion.md)
+- [Detailed Content](references/detailed-content.md)
+- [Difference Between Taglines Slogans And Mottos](references/difference-between-taglines-slogans-and-mottos.md)
+- [Evolving And Updating Taglines](references/evolving-and-updating-taglines.md)
+- [Famous Tagline Examples And Analysis](references/famous-tagline-examples-and-analysis.md)
+- [Industry Specific Tagline Approaches](references/industry-specific-tagline-approaches.md)
+- [Tagline Types And Categories](references/tagline-types-and-categories.md)
+- [Tagline Vs Brand Positioning](references/tagline-vs-brand-positioning.md)
+- [Templates And Frameworks](references/templates-and-frameworks.md)
+- [Testing And Validation](references/testing-and-validation.md)
+- [The Tagline Creation Process](references/the-tagline-creation-process.md)
+- [Trademark Considerations](references/trademark-considerations.md)
+- [Using The Reference Files](references/using-the-reference-files.md)
+- [Why Taglines Matter](references/why-taglines-matter.md)

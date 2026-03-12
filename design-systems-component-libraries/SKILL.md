@@ -67,3 +67,10 @@ For each component, document:
 **`/references/building-component-libraries.md`** — Read when creating new components, defining component APIs, or implementing atomic design patterns in code.
 
 **`/references/governance-and-scaling.md`** — Read when establishing contribution processes, managing versioning, rolling out the design system across teams, or handling internationalization.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Building Component Libraries](references/building-component-libraries.md)
+- [Governance And Scaling](references/governance-and-scaling.md)

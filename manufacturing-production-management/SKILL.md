@@ -53,3 +53,10 @@ Provide frameworks for production planning, lean manufacturing implementation, q
 **`/references/lean-six-sigma.md`** — Read when implementing lean manufacturing, running Six Sigma projects, setting up Kanban systems, or conducting value stream mapping.
 
 **`/references/production-operations.md`** — Read when planning production schedules, optimizing equipment performance, managing capacity, or implementing TPM.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Lean Six Sigma](references/lean-six-sigma.md)
+- [Production Operations](references/production-operations.md)

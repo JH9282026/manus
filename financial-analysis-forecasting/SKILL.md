@@ -65,3 +65,10 @@ Provide frameworks for financial statement analysis, ratio computation, trend id
 **`/references/financial-modeling-techniques.md`** — Read when building financial models, constructing three-statement models, or developing scenario and sensitivity analyses.
 
 **`/references/analysis-and-presentation.md`** — Read when interpreting financial results, benchmarking against peers, or preparing financial presentations for stakeholders.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Analysis And Presentation](references/analysis-and-presentation.md)
+- [Financial Modeling Techniques](references/financial-modeling-techniques.md)

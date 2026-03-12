@@ -78,3 +78,12 @@ Serve as the critical link between business strategy and technology execution, a
 **`/references/security-governance.md`** — Read for cybersecurity frameworks and compliance.
 
 **`/references/engineering-excellence.md`** — Read for engineering practices and team building.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Architecture Design](references/architecture-design.md)
+- [Engineering Excellence](references/engineering-excellence.md)
+- [Security Governance](references/security-governance.md)
+- [Technology Strategy](references/technology-strategy.md)

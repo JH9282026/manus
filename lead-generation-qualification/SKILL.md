@@ -65,3 +65,10 @@ Set qualification threshold at 70+ for pipeline inclusion.
 **`/references/prospecting-frameworks.md`** — Read when building ICP definitions, sourcing prospect lists, or designing data enrichment workflows.
 
 **`/references/qualification-scoring.md`** — Read when setting up scoring models, defining qualification thresholds, or creating tiered prioritization systems.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Prospecting Frameworks](references/prospecting-frameworks.md)
+- [Qualification Scoring](references/qualification-scoring.md)

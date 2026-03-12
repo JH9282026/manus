@@ -54,3 +54,10 @@ Provide frameworks for end-to-end event management covering strategic planning, 
 **`/references/logistics-execution.md`** — Read when managing venue selection, vendor contracts, run-of-show planning, or on-site event execution.
 
 **`/references/hybrid-virtual-events.md`** — Read when planning virtual or hybrid events, selecting event technology platforms, or designing remote attendee experiences.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Hybrid Virtual Events](references/hybrid-virtual-events.md)
+- [Logistics Execution](references/logistics-execution.md)

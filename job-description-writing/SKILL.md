@@ -36,3 +36,10 @@ This skill covers title optimization, role summaries, responsibility frameworks,
 **`/references/job-description-structure.md`** — Read for any section writing, responsibilities, or requirements.
 
 **`/references/legal-compliance-optimization.md`** — Read for EEO/ADA compliance, inclusive language, job board optimization, or compensation.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Job Description Structure](references/job-description-structure.md)
+- [Legal Compliance Optimization](references/legal-compliance-optimization.md)

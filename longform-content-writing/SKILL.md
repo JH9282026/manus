@@ -58,3 +58,10 @@ Develop comprehensive written content exceeding 2,000 words that explores topics
 **`/references/content-formats.md`** — Read when writing specific formats (white papers, ebooks, reports) for structure templates, section requirements, and format-specific best practices.
 
 **`/references/writing-process.md`** — Read when executing the research, outlining, writing, or editing phases for detailed techniques and quality standards.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Content Formats](references/content-formats.md)
+- [Writing Process](references/writing-process.md)

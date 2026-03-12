@@ -94,3 +94,11 @@ Apply encodings in order of perceptual accuracy:
 **`/references/chart-types-and-encoding.md`** — Read when selecting specific chart types, configuring visual encodings, or designing individual visualizations for specific data relationships.
 
 **`/references/platform-implementation.md`** — Read when implementing dashboards on specific platforms (Tableau, Power BI, Looker, D3.js) or optimizing performance and deployment.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Chart Types And Encoding](references/chart-types-and-encoding.md)
+- [Dashboard Design Process](references/dashboard-design-process.md)
+- [Platform Implementation](references/platform-implementation.md)

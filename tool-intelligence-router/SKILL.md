@@ -38,3 +38,12 @@ Choose your approach based on your specific needs:
 **`/references/integration-patterns.md`** — Read when you need detailed information about API orchestration, fallback strategies, and error handling.
 
 **`/references/optimization-strategies.md`** — Read when you need detailed information about performance tuning and cost optimization.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Integration Patterns](references/integration-patterns.md)
+- [Optimization Strategies](references/optimization-strategies.md)
+- [Routing Algorithms](references/routing-algorithms.md)
+- [Tool Catalog](references/tool-catalog.md)

@@ -62,3 +62,10 @@ Translate economic findings into actionable strategic implications.
 **`/references/macro-analysis-methods.md`** — Read when performing GDP analysis, inflation forecasting, interest rate modeling, or recession probability assessment.
 
 **`/references/sectoral-policy-analysis.md`** — Read when conducting industry-specific economic analysis, trade assessment, or evaluating policy impacts on business.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Macro Analysis Methods](references/macro-analysis-methods.md)
+- [Sectoral Policy Analysis](references/sectoral-policy-analysis.md)

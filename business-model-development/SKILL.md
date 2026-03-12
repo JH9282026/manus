@@ -238,3 +238,11 @@ Adapt business model for new markets, segments, or geographies.
 **`/references/revenue-models.md`** — Read when designing pricing strategy, revenue streams, or evaluating monetization options.
 
 **`/references/validation-methods.md`** — Read when planning MVP development, hypothesis testing, or customer validation processes.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Canvas Frameworks](references/canvas-frameworks.md)
+- [Revenue Models](references/revenue-models.md)
+- [Validation Methods](references/validation-methods.md)

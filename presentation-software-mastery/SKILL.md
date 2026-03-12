@@ -356,3 +356,21 @@ The goal is not to use every feature, but to know which features exist so you ca
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Advanced Techniques Across All Platforms](references/advanced-techniques-across-all-platforms.md)
+- [Apple Keynote](references/apple-keynote.md)
+- [Choosing The Right Software](references/choosing-the-right-software.md)
+- [Common Software Related Mistakes To Avoid](references/common-software-related-mistakes-to-avoid.md)
+- [Conclusion](references/conclusion.md)
+- [Cross Platform Considerations And File Compatibility](references/cross-platform-considerations-and-file-compatibility.md)
+- [Detailed Content](references/detailed-content.md)
+- [Google Slides](references/google-slides.md)
+- [Importing And Exporting Between Platforms](references/importing-and-exporting-between-platforms.md)
+- [Microsoft Powerpoint](references/microsoft-powerpoint.md)
+- [Productivity Tips And Workflow Optimization](references/productivity-tips-and-workflow-optimization.md)
+- [Resources And Learning Materials](references/resources-and-learning-materials.md)
+- [Using The Reference Files](references/using-the-reference-files.md)

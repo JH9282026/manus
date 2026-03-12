@@ -359,3 +359,10 @@ For optimal results, execute these preparatory workflows if available:
 - File validation tools ensuring deliverable integrity
 - Cross-platform testing for digital templates (Microsoft Office, Google Workspace, Apple iWork)
 - Print proof simulation for CMYK accuracy verification
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Applications](references/applications.md)
+- [Visual System](references/visual-system.md)

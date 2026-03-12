@@ -355,3 +355,31 @@ The workflow automation landscape continues to evolve with AI-enhanced automatio
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
 
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Advanced Automation Patterns](references/advanced-automation-patterns.md)
+- [Api Integration For Workflows](references/api-integration-for-workflows.md)
+- [Automation Roi And Business Case](references/automation-roi-and-business-case.md)
+- [Benefits Of Workflow Automation](references/benefits-of-workflow-automation.md)
+- [Building Vs Buying Automation Solutions](references/building-vs-buying-automation-solutions.md)
+- [Common Automation Mistakes To Avoid](references/common-automation-mistakes-to-avoid.md)
+- [Data Synchronization And Transformation](references/data-synchronization-and-transformation.md)
+- [Detailed Content](references/detailed-content.md)
+- [Error Handling And Monitoring](references/error-handling-and-monitoring.md)
+- [Future Of Workflow Automation](references/future-of-workflow-automation.md)
+- [Integration Patterns](references/integration-patterns.md)
+- [No Code Low Code Workflow Builders](references/no-code-low-code-workflow-builders.md)
+- [Rpa Robotic Process Automation Basics](references/rpa-robotic-process-automation-basics.md)
+- [Security Considerations For Automation](references/security-considerations-for-automation.md)
+- [Summary](references/summary.md)
+- [Tools And Resources](references/tools-and-resources.md)
+- [Trigger Action Automation Patterns](references/trigger-action-automation-patterns.md)
+- [Using The Reference Files](references/using-the-reference-files.md)
+- [When Not To Automate Workflows](references/when-not-to-automate-workflows.md)
+- [When To Automate Workflows Automation Candidates](references/when-to-automate-workflows-automation-candidates.md)
+- [Workflow Automation Best Practices](references/workflow-automation-best-practices.md)
+- [Workflow Automation Governance](references/workflow-automation-governance.md)
+- [Workflow Automation Platforms](references/workflow-automation-platforms.md)
+- [Workflow Orchestration](references/workflow-orchestration.md)

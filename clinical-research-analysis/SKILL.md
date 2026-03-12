@@ -71,3 +71,12 @@ Provide systematic evaluation and synthesis of clinical research data including 
 **`/references/safety-analysis.md`** — Read when analyzing adverse events, detecting safety signals, or preparing pharmacovigilance reports.
 
 **`/references/regulatory-standards.md`** — Read when preparing regulatory submissions, following ICH guidelines, or ensuring compliance with FDA/EMA requirements.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Meta Analysis](references/meta-analysis.md)
+- [Regulatory Standards](references/regulatory-standards.md)
+- [Safety Analysis](references/safety-analysis.md)
+- [Statistical Methods](references/statistical-methods.md)

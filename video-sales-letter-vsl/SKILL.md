@@ -357,3 +357,35 @@ Transform objections into reasons to buy:
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
 
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Best Practices For Vsl Creation](references/best-practices-for-vsl-creation.md)
+- [Building Credibility And Authority](references/building-credibility-and-authority.md)
+- [Call To Action Strategies](references/call-to-action-strategies.md)
+- [Common Vsl Mistakes](references/common-vsl-mistakes.md)
+- [Conclusion](references/conclusion.md)
+- [Detailed Content](references/detailed-content.md)
+- [Music And Sound Design](references/music-and-sound-design.md)
+- [On Screen Text And Graphics](references/on-screen-text-and-graphics.md)
+- [Opening Hooks For Vsls](references/opening-hooks-for-vsls.md)
+- [Overcoming Objections](references/overcoming-objections.md)
+- [Presenter Vs Voiceover Vsls](references/presenter-vs-voiceover-vsls.md)
+- [Presenting The Solution](references/presenting-the-solution.md)
+- [Problem Agitation And Amplification](references/problem-agitation-and-amplification.md)
+- [Scarcity And Urgency Tactics](references/scarcity-and-urgency-tactics.md)
+- [Storytelling In Vsls](references/storytelling-in-vsls.md)
+- [Testing And Optimization](references/testing-and-optimization.md)
+- [The Offer And Pricing Presentation](references/the-offer-and-pricing-presentation.md)
+- [The Perfect Vsl Script Outline](references/the-perfect-vsl-script-outline.md)
+- [Tools And Resources](references/tools-and-resources.md)
+- [Types Of Vsls](references/types-of-vsls.md)
+- [Using The Reference Files](references/using-the-reference-files.md)
+- [Visual Elements And B Roll](references/visual-elements-and-b-roll.md)
+- [Vsl Funnel Integration](references/vsl-funnel-integration.md)
+- [Vsl Length Considerations](references/vsl-length-considerations.md)
+- [Vsl Production Tips](references/vsl-production-tips.md)
+- [Vsl Structure And Framework](references/vsl-structure-and-framework.md)
+- [Vsl Vs Traditional Sales Pages](references/vsl-vs-traditional-sales-pages.md)
+- [Why Vsls Work](references/why-vsls-work.md)

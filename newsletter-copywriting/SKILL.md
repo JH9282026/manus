@@ -61,3 +61,10 @@ Design and write email newsletters covering content strategy, subject line optim
 **`/references/content-strategy.md`** — Read when planning newsletter programs, developing content calendars, building subscriber growth strategies, or designing content formats.
 
 **`/references/writing-techniques.md`** — Read when writing newsletter copy, optimizing subject lines, structuring email content, or improving engagement.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Content Strategy](references/content-strategy.md)
+- [Writing Techniques](references/writing-techniques.md)
