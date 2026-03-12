@@ -1,6 +1,6 @@
 ---
 name: website-copywriting
-description: Website copywriting is the strategic craft of writing persuasive, engaging, and user-focused content for websites.
+description: "Website copywriting is the strategic craft of writing persuasive, engaging, and user-focused content for websites."
 ---
 
 # Website Copywriting
@@ -17,1323 +17,306 @@ This guide provides comprehensive frameworks, techniques, and best practices for
 
 ## Why Website Copy Matters
 
-### First Impressions
 
-Visitors form opinions about your website within 50 milliseconds. Your headline and above-the-fold content determine whether they stay or bounce. Studies show:
-- 55% of visitors spend fewer than 15 seconds on a page
-- Users read only 20-28% of website text
-- The average attention span online is 8 seconds
+## Using the Reference Files
 
-Your copy must immediately communicate value and relevance.
+Detailed content has been organized into reference files for on-demand loading:
 
-### Conversions
 
-Website copy directly impacts conversion rates. Small changes in headlines, CTAs, or value propositions can significantly increase:
-- Sign-ups and lead generation
-- Sales and revenue
-- Engagement and time on site
-- Customer trust and loyalty
+**`/references/first-impressions.md`** — First Impressions
 
-### SEO Benefits
+**`/references/conversions.md`** — Conversions
 
-Well-written copy improves search engine visibility through:
-- Natural keyword integration
-- Increased time on page and lower bounce rates
-- Higher quality content signals
-- Better user engagement metrics
+**`/references/seo-benefits.md`** — SEO Benefits
 
-### Brand Building
+**`/references/brand-building.md`** — Brand Building
 
-Consistent, well-crafted website copy:
-- Establishes brand voice and personality
-- Differentiates from competitors
-- Builds trust and credibility
-- Creates emotional connections with visitors
+**`/references/types-of-website-pages.md`** — Types of Website Pages
 
----
+**`/references/homepage.md`** — Homepage
 
-## Types of Website Pages
+**`/references/about-page.md`** — About Page
 
-### Homepage
+**`/references/servicesproduct-pages.md`** — Services/Product Pages
 
-The front door to your digital presence. Must communicate who you are, what you offer, and why visitors should care—all within seconds.
+**`/references/landing-pages.md`** — Landing Pages
 
-### About Page
+**`/references/contact-page.md`** — Contact Page
 
-Tells your brand story, introduces your team, and builds trust through transparency and authenticity.
+**`/references/blogresources.md`** — Blog/Resources
 
-### Services/Product Pages
+**`/references/faq-page.md`** — FAQ Page
 
-Detail what you offer, explain benefits, address objections, and guide visitors toward purchase decisions.
+**`/references/pricing-page.md`** — Pricing Page
 
-### Landing Pages
+**`/references/testimonialscase-studies-page.md`** — Testimonials/Case Studies Page
 
-Focused pages designed for specific campaigns or audiences with a single conversion goal.
+**`/references/website-copywriting-fundamentals.md`** — Website Copywriting Fundamentals
 
-### Contact Page
+**`/references/clarity-and-conciseness.md`** — Clarity and Conciseness
 
-Facilitates communication and reduces friction for prospects ready to reach out.
+**`/references/user-focused-messaging.md`** — User-Focused Messaging
 
-### Blog/Resources
+**`/references/scannable-content.md`** — Scannable Content
 
-Provides valuable content that attracts visitors, establishes expertise, and supports SEO.
+**`/references/hierarchy-and-structure.md`** — Hierarchy and Structure
 
-### FAQ Page
+**`/references/calls-to-action.md`** — Calls-to-Action
 
-Answers common questions, reduces support burden, and addresses objections proactively.
+**`/references/homepage-copywriting.md`** — Homepage Copywriting
 
-### Pricing Page
+**`/references/hero-section-and-headline.md`** — Hero Section and Headline
 
-Presents pricing options clearly, justifies value, and helps visitors choose the right option.
+**`/references/value-proposition.md`** — Value Proposition
 
-### Testimonials/Case Studies Page
+**`/references/key-benefits.md`** — Key Benefits
 
-Provides social proof through customer success stories and reviews.
+**`/references/social-proof.md`** — Social Proof
 
----
+**`/references/clear-navigation.md`** — Clear Navigation
 
-## Website Copywriting Fundamentals
+**`/references/multiple-ctas.md`** — Multiple CTAs
 
-### Clarity and Conciseness
+**`/references/about-page-copywriting.md`** — About Page Copywriting
 
-Write with crystal clarity. Avoid jargon, complex sentences, and unnecessary words.
+**`/references/brand-story.md`** — Brand Story
 
-**Before:** "We leverage cutting-edge technological solutions to optimize and streamline your operational workflows."
+**`/references/mission-and-values.md`** — Mission and Values
 
-**After:** "We help you work faster with smart automation tools."
+**`/references/team-introduction.md`** — Team Introduction
 
-**Guidelines:**
-- Use simple words (use instead of utilize, help instead of facilitate)
-- Keep sentences under 20 words
-- One idea per paragraph
-- Eliminate filler words (very, really, just, that)
+**`/references/building-trust-and-credibility.md`** — Building Trust and Credibility
 
-### User-Focused Messaging
+**`/references/humanizing-the-brand.md`** — Humanizing the Brand
 
-Shift from "we" language to "you" language.
+**`/references/serviceproduct-page-copywriting.md`** — Service/Product Page Copywriting
 
-**Company-focused:** "We offer comprehensive marketing services."
+**`/references/feature-vs-benefit-writing.md`** — Feature vs. Benefit Writing
 
-**User-focused:** "Grow your business with marketing that actually works."
+**`/references/problem-solution-framework.md`** — Problem-Solution Framework
 
-The ratio should be approximately 3:1 (three "you" statements for every "we" statement).
+**`/references/detailed-descriptions.md`** — Detailed Descriptions
 
-### Scannable Content
+**`/references/use-cases.md`** — Use Cases
 
-Structure content for scanning:
-- Use descriptive headings and subheadings
-- Keep paragraphs short (2-4 sentences)
-- Use bullet points and numbered lists
-- Bold key phrases
-- Include visual breaks
+**`/references/pricing-information.md`** — Pricing Information
 
-### Hierarchy and Structure
+**`/references/ctas-and-next-steps.md`** — CTAs and Next Steps
 
-Organize information by importance:
-1. Most important information first
-2. Supporting details second
-3. Additional context third
-4. Fine print and details last
+**`/references/landing-page-copywriting.md`** — Landing Page Copywriting
 
-### Calls-to-Action
+**`/references/single-focus-and-goal.md`** — Single Focus and Goal
 
-Every page needs clear direction. Tell visitors exactly what to do next:
-- Be specific: "Download Your Free Guide" vs. "Submit"
-- Create urgency: "Start Your Free Trial Today"
-- Reduce friction: "No credit card required"
+**`/references/compelling-headlines.md`** — Compelling Headlines
 
----
+**`/references/benefit-driven-copy.md`** — Benefit-Driven Copy
 
-## Homepage Copywriting
+**`/references/social-proof-and-testimonials.md`** — Social Proof and Testimonials
 
-### Hero Section and Headline
+**`/references/urgency-and-scarcity.md`** — Urgency and Scarcity
 
-The hero section is your most valuable real estate. It must answer three questions within seconds:
-1. What do you do?
-2. Who is it for?
-3. Why should I care?
+**`/references/form-optimization.md`** — Form Optimization
 
-**Headline Formulas:**
-- [Benefit] + [Timeframe]: "Grow your email list 10x in 30 days"
-- [Action] + [Outcome]: "Build websites that convert visitors into customers"
-- [Eliminate problem] + [without pain point]: "Get in shape without spending hours at the gym"
-- [Target audience] + [transformation]: "For marketers who want results, not excuses"
-- [Curiosity + benefit]: "The email strategy that generated $2M for our clients"
+**`/references/landing-page-template-structure.md`** — Landing Page Template Structure
 
-**Examples from Top Brands:**
-- Slack: "Where work happens"
-- Stripe: "Payments infrastructure for the internet"
-- Mailchimp: "Turn Emails into Revenue"
-- Shopify: "If you can dream it, you can sell it"
-- Notion: "Your wiki, docs, & projects. Together."
-- Zoom: "One platform to connect"
-- HubSpot: "Grow better with HubSpot"
+**`/references/writing-effective-headlines.md`** — Writing Effective Headlines
 
-**Hero Section Components:**
-1. **Primary headline** (5-12 words): The main benefit or transformation
-2. **Subheadline** (15-25 words): Expand on how you deliver the benefit
-3. **Primary CTA**: The main action you want visitors to take
-4. **Supporting visual**: Image, video, or animation that reinforces the message
-5. **Trust indicator**: Quick proof element (customer logos, ratings, statistics)
+**`/references/headline-formulas.md`** — Headline Formulas
 
-### Value Proposition
+**`/references/clarity-vs-cleverness.md`** — Clarity vs. Cleverness
 
-Your subheadline should expand on the headline with specific benefits:
-- What makes you different?
-- What will customers achieve?
-- Why should they choose you?
+**`/references/benefit-focused-headlines.md`** — Benefit-Focused Headlines
 
-**Template:** "[Product/Service] helps [target audience] [achieve benefit] by [unique mechanism] so they can [ultimate outcome]."
+**`/references/ab-testing-headlines.md`** — A/B Testing Headlines
 
-### Key Benefits
+**`/references/crafting-compelling-ctas.md`** — Crafting Compelling CTAs
 
-Highlight 3-4 primary benefits below the fold:
-- Use icons or imagery for visual appeal
-- Lead with the benefit, not the feature
-- Keep descriptions brief (1-2 sentences)
+**`/references/action-oriented-language.md`** — Action-Oriented Language
 
-**Feature vs. Benefit:**
-- Feature: "256-bit encryption"
-- Benefit: "Your data stays safe and private"
+**`/references/value-focused-ctas.md`** — Value-Focused CTAs
 
-### Social Proof
+**`/references/button-copy-best-practices.md`** — Button Copy Best Practices
 
-Include trust indicators:
-- Customer logos: "Trusted by 10,000+ companies"
-- Statistics: "2 million users worldwide"
-- Press mentions: "As seen in Forbes, TechCrunch"
-- Star ratings: "4.9/5 stars from 500+ reviews"
+**`/references/cta-placement.md`** — CTA Placement
 
-### Clear Navigation
+**`/references/multiple-ctas-strategy.md`** — Multiple CTAs Strategy
 
-Navigation copy matters:
-- Use clear, descriptive labels
-- Limit main navigation to 5-7 items
-- Place important pages in order of priority
-- Consider user intent when labeling
+**`/references/writing-for-different-audiences.md`** — Writing for Different Audiences
 
-### Multiple CTAs
+**`/references/b2b-vs-b2c.md`** — B2B vs. B2C
 
-Homepage should include multiple CTAs for different visitor types:
-- Primary CTA: "Start Free Trial" (for ready buyers)
-- Secondary CTA: "Watch Demo" (for researchers)
-- Tertiary CTA: "Learn More" (for early-stage visitors)
+**`/references/industry-specific-language.md`** — Industry-Specific Language
 
----
+**`/references/persona-based-messaging.md`** — Persona-Based Messaging
 
-## About Page Copywriting
+**`/references/tone-and-voice-adaptation.md`** — Tone and Voice Adaptation
 
-### Brand Story
+**`/references/seo-copywriting-for-websites.md`** — SEO Copywriting for Websites
 
-Tell your origin story in a compelling way:
-- What problem did you set out to solve?
-- What motivated the founders?
-- What challenges did you overcome?
-- What drives you today?
+**`/references/keyword-research-and-integration.md`** — Keyword Research and Integration
 
-**Structure:**
-1. The problem you noticed
-2. The moment of inspiration
-3. The journey to solution
-4. Where you are today
-5. Where you're heading
+**`/references/meta-titles-and-descriptions.md`** — Meta Titles and Descriptions
 
-### Mission and Values
+**`/references/header-tags-h1-h2-h3.md`** — Header Tags (H1, H2, H3)
 
-Articulate your purpose clearly:
-- **Mission:** What you do and why it matters
-- **Vision:** Where you're headed
-- **Values:** What principles guide you
+**`/references/internal-linking.md`** — Internal Linking
 
-**Example:**
-"Our mission is to make professional design accessible to everyone. We believe great design shouldn't require a degree or expensive software."
+**`/references/content-optimization.md`** — Content Optimization
 
-### Team Introduction
+**`/references/microcopy-and-ux-writing.md`** — Microcopy and UX Writing
 
-Humanize your brand through team profiles:
-- Include photos (professional but approachable)
-- Share relevant expertise and background
-- Add personal touches (hobbies, fun facts)
-- Connect to why they care about the mission
+**`/references/button-labels.md`** — Button Labels
 
-### Building Trust and Credibility
+**`/references/form-fields-and-error-messages.md`** — Form Fields and Error Messages
 
-Include credibility indicators:
-- Years in business
-- Certifications and awards
-- Industry partnerships
-- Media features
-- Team credentials
+**`/references/navigation-labels.md`** — Navigation Labels
 
-### Humanizing the Brand
+**`/references/tooltips-and-help-text.md`** — Tooltips and Help Text
 
-Make your company relatable:
-- Share behind-the-scenes glimpses
-- Include company culture highlights
-- Show personality through writing style
-- Use real photos, not stock images
+**`/references/404-pages.md`** — 404 Pages
 
----
+**`/references/confirmation-messages.md`** — Confirmation Messages
 
-## Service/Product Page Copywriting
+**`/references/empty-states.md`** — Empty States
 
-### Feature vs. Benefit Writing
+**`/references/mobile-first-copywriting.md`** — Mobile-First Copywriting
 
-Every feature should connect to a benefit:
+**`/references/brevity-for-mobile.md`** — Brevity for Mobile
 
-| Feature | Benefit |
-|---------|---------|
-| 24/7 support | Get help whenever you need it |
-| Cloud-based | Access your work from anywhere |
-| AI-powered | Save hours on repetitive tasks |
-| Mobile app | Manage your business on the go |
+**`/references/thumb-friendly-ctas.md`** — Thumb-Friendly CTAs
 
-**Template:** "[Feature] so you can [benefit] which means [ultimate outcome]."
+**`/references/scannable-mobile-content.md`** — Scannable Mobile Content
 
-### Problem-Solution Framework
+**`/references/progressive-disclosure.md`** — Progressive Disclosure
 
-Structure pages around customer problems:
+**`/references/trust-and-credibility-elements.md`** — Trust and Credibility Elements
 
-1. **Acknowledge the problem:** "Tired of spending hours on manual data entry?"
-2. **Agitate:** "Every hour spent on repetitive tasks is time stolen from growing your business."
-3. **Present solution:** "Our automation tools handle the tedious work for you."
-4. **Show benefits:** "Save 10+ hours weekly and focus on what matters."
+**`/references/social-proof.md`** — Social Proof
 
-### Detailed Descriptions
+**`/references/testimonials-and-reviews.md`** — Testimonials and Reviews
 
-Provide comprehensive information:
-- What the product/service includes
-- How it works (step-by-step)
-- Who it's best for
-- What results to expect
-- What's not included
+**`/references/trust-badges-and-certifications.md`** — Trust Badges and Certifications
 
-### Use Cases
+**`/references/security-messaging.md`** — Security Messaging
 
-Help visitors see themselves using your product:
-- "Perfect for freelancers managing multiple clients"
-- "Ideal for marketing teams tracking campaign performance"
-- "Built for e-commerce stores processing high volume"
+**`/references/guarantees-and-policies.md`** — Guarantees and Policies
 
-### Pricing Information
+**`/references/website-copy-structure.md`** — Website Copy Structure
 
-Present pricing clearly:
-- Lead with value, not price
-- Explain what's included at each tier
-- Highlight most popular option
-- Address "why this price?" proactively
+**`/references/inverted-pyramid.md`** — Inverted Pyramid
 
-### CTAs and Next Steps
+**`/references/f-pattern-and-z-pattern.md`** — F-Pattern and Z-Pattern
 
-Guide visitors toward action:
-- "Get Started Free"
-- "Book a Demo"
-- "Talk to Sales"
-- "Download Pricing Guide"
+**`/references/above-the-fold-content.md`** — Above the Fold Content
 
-Include supporting actions for those not ready: "Have questions? Chat with us"
+**`/references/chunking-and-white-space.md`** — Chunking and White Space
 
----
+**`/references/conversion-optimization.md`** — Conversion Optimization
 
-## Landing Page Copywriting
+**`/references/value-proposition-clarity.md`** — Value Proposition Clarity
 
-### Single Focus and Goal
+**`/references/friction-reduction.md`** — Friction Reduction
 
-Landing pages serve one purpose. Remove:
-- Navigation menus (or minimize)
-- Competing CTAs
-- Unrelated content
-- External links
+**`/references/objection-handling.md`** — Objection Handling
 
-**The One-Goal Rule:**
-Before writing, define your single conversion goal:
-- Lead generation (email capture)
-- Product sale
-- Free trial sign-up
-- Webinar registration
-- Demo request
-- Download (ebook, guide, template)
+**`/references/urgency-and-scarcity.md`** — Urgency and Scarcity
 
-Every element on the page should support this one goal.
+**`/references/ab-testing-copy.md`** — A/B Testing Copy
 
-### Compelling Headlines
+**`/references/accessibility-in-website-copy.md`** — Accessibility in Website Copy
 
-Landing page headlines must be specific and benefit-driven:
+**`/references/plain-language.md`** — Plain Language
 
-**Formulas:**
-- Question headline: "Want to double your conversion rate?"
-- How-to headline: "How to build a 6-figure business in 12 months"
-- Number headline: "7 proven strategies to generate more leads"
-- Direct benefit: "Get more customers without spending more on ads"
-- Problem-solution: "Stop losing customers to slow page load times"
-- Testimonial headline: "'This tool saved us 40 hours per week' - Sarah, Marketing Director"
-- News/announcement: "Introducing the fastest way to build landing pages"
+**`/references/alt-text-for-images.md`** — Alt Text for Images
 
-**Landing Page Headline Checklist:**
-- [ ] Addresses target audience directly
-- [ ] Promises a specific benefit
-- [ ] Creates curiosity or urgency
-- [ ] Matches ad or email that brought them here
-- [ ] Can be understood in under 5 seconds
+**`/references/link-text-best-practices.md`** — Link Text Best Practices
 
-### Benefit-Driven Copy
+**`/references/readability.md`** — Readability
 
-Structure body copy around benefits:
-1. Main benefit (headline)
-2. Supporting benefits (3-4 key points)
-3. How it works (process)
-4. Proof (testimonials, case studies)
-5. CTA (clear action)
+**`/references/website-copy-audit.md`** — Website Copy Audit
 
-### Social Proof and Testimonials
+**`/references/evaluating-existing-copy.md`** — Evaluating Existing Copy
 
-Include relevant proof elements:
-- Customer testimonials with photos and details
-- Case study snippets with specific results
-- Trust badges and certifications
-- Usage statistics
+**`/references/identifying-gaps.md`** — Identifying Gaps
 
-### Urgency and Scarcity
+**`/references/consistency-check.md`** — Consistency Check
 
-Create motivation to act now (ethically):
-- **Time-based:** "Offer ends Friday at midnight"
-- **Quantity-based:** "Only 10 spots remaining"
-- **Bonus-based:** "Sign up today and get a free consultation"
+**`/references/performance-analysis.md`** — Performance Analysis
 
-### Form Optimization
+**`/references/common-website-copywriting-mistakes.md`** — Common Website Copywriting Mistakes
 
-Reduce form friction:
-- Ask only essential questions
-- Use clear field labels
-- Include helpful placeholder text
-- Explain why you need information
-- Show security indicators
+**`/references/1-writing-for-yourself-not-your-audience.md`** — 1. Writing for Yourself, Not Your Audience
 
-**Form Copy Best Practices:**
+**`/references/2-burying-the-value-proposition.md`** — 2. Burying the Value Proposition
 
-1. **Headline above form:** "Get instant access" or "Start your free trial"
-2. **Field labels:** Clear, specific labels (not just "Name" but "Your Full Name")
-3. **Button copy:** Action-oriented and benefit-focused ("Get My Free Guide" not "Submit")
-4. **Privacy reassurance:** "We respect your privacy. Unsubscribe anytime."
-5. **Social proof near form:** "Join 10,000+ subscribers" or "Trusted by Fortune 500 companies"
+**`/references/3-using-jargon-and-buzzwords.md`** — 3. Using Jargon and Buzzwords
 
-**Field Reduction Guidelines:**
-- Every additional field reduces conversions by approximately 5-10%
-- For lead gen: Name + Email is often sufficient
-- For sales: Only request what's necessary for the next step
-- Use progressive profiling to gather more information over time
+**`/references/4-weak-or-missing-ctas.md`** — 4. Weak or Missing CTAs
 
-### Landing Page Template Structure
+**`/references/5-walls-of-text.md`** — 5. Walls of Text
 
-**Above the Fold:**
-1. Headline (main benefit)
-2. Subheadline (supporting detail)
-3. Hero image or video
-4. Primary CTA
-5. Trust indicator
+**`/references/6-feature-dumping-without-benefits.md`** — 6. Feature Dumping Without Benefits
 
-**Below the Fold:**
-1. Problem agitation (2-3 sentences)
-2. Solution introduction
-3. Key benefits (3-4 with icons)
-4. Social proof (testimonials, logos)
-5. How it works (3-step process)
-6. Features with benefits
-7. Additional testimonials/case study
-8. FAQ section
-9. Final CTA with urgency
-10. Guarantee/risk reversal
+**`/references/7-generic-templated-copy.md`** — 7. Generic, Templated Copy
 
----
+**`/references/8-ignoring-mobile-users.md`** — 8. Ignoring Mobile Users
 
-## Writing Effective Headlines
+**`/references/9-no-social-proof.md`** — 9. No Social Proof
 
-### Headline Formulas
+**`/references/10-inconsistent-voice.md`** — 10. Inconsistent Voice
 
-**The 4 U's:** Headlines should be:
-- **Useful:** Offer value
-- **Urgent:** Create motivation to read now
-- **Unique:** Stand out from competitors
-- **Ultra-specific:** Include concrete details
+**`/references/11-neglecting-seo.md`** — 11. Neglecting SEO
 
-**Proven Formulas:**
-1. How to [achieve desired outcome] without [common pain point]
-2. [Number] ways to [achieve benefit] in [timeframe]
-3. The secret to [achieving outcome] that [experts/competitors] don't want you to know
-4. Why [common belief] is wrong (and what to do instead)
-5. [Achieve benefit] like [aspirational comparison]
+**`/references/12-forgetting-about-accessibility.md`** — 12. Forgetting About Accessibility
 
-### Clarity vs. Cleverness
+**`/references/13-overcomplicating-navigation.md`** — 13. Overcomplicating Navigation
 
-Choose clarity over cleverness:
+**`/references/14-not-testing.md`** — 14. Not Testing
 
-**Clever but unclear:** "We speak fluent growth"
-**Clear and compelling:** "Grow your revenue 3x with proven marketing"
+**`/references/15-outdated-content.md`** — 15. Outdated Content
 
-Save wordplay for supporting copy, not headlines.
+**`/references/best-practices-for-website-copywriting.md`** — Best Practices for Website Copywriting
 
-### Benefit-Focused Headlines
+**`/references/1-start-with-research.md`** — 1. Start with Research
 
-Lead with what readers get:
+**`/references/2-lead-with-benefits.md`** — 2. Lead with Benefits
 
-**Feature-focused:** "Advanced Analytics Platform"
-**Benefit-focused:** "See exactly what's driving your sales"
+**`/references/3-write-for-scanners.md`** — 3. Write for Scanners
 
-### A/B Testing Headlines
+**`/references/4-be-specific.md`** — 4. Be Specific
 
-Test different headline approaches:
-- Specific numbers vs. general benefits
-- Questions vs. statements
-- Emotional vs. logical appeals
-- Short vs. long headlines
+**`/references/5-create-urgency.md`** — 5. Create Urgency
 
-Track: Click-through rates, time on page, conversion rates
+**`/references/6-build-trust.md`** — 6. Build Trust
 
-**Headline Testing Framework:**
+**`/references/7-optimize-for-seo.md`** — 7. Optimize for SEO
 
-1. **Control:** Your current headline
-2. **Variation A:** Different angle (feature vs. benefit)
-3. **Variation B:** Different format (question vs. statement)
-4. **Variation C:** Different specificity (numbers vs. vague)
+**`/references/8-write-mobile-first.md`** — 8. Write Mobile-First
 
-**Sample Headline Test:**
-- Control: "Marketing Automation Software"
-- Variation A: "Automate Your Marketing and Save 20 Hours a Week"
-- Variation B: "What If You Could Double Your Leads Without Doubling Your Work?"
-- Variation C: "The #1 Marketing Platform Used by 50,000+ Businesses"
+**`/references/9-test-everything.md`** — 9. Test Everything
 
-Run tests until you reach statistical significance (usually 95% confidence level with sufficient sample size).
+**`/references/10-keep-it-fresh.md`** — 10. Keep It Fresh
 
----
+**`/references/11-maintain-voice-consistency.md`** — 11. Maintain Voice Consistency
 
-## Crafting Compelling CTAs
+**`/references/12-focus-on-one-goal-per-page.md`** — 12. Focus on One Goal Per Page
 
-### Action-Oriented Language
+**`/references/13-address-objections.md`** — 13. Address Objections
 
-Start CTAs with strong verbs:
-- **Strong:** Get, Start, Claim, Discover, Join, Build
-- **Weak:** Submit, Click here, Continue, Next
+**`/references/14-use-active-voice.md`** — 14. Use Active Voice
 
-### Value-Focused CTAs
+**`/references/15-edit-ruthlessly.md`** — 15. Edit Ruthlessly
 
-Communicate what users get:
+**`/references/tools-and-resources.md`** — Tools and Resources
 
-| Generic CTA | Value-Focused CTA |
-|-------------|-------------------|
-| Submit | Get My Free Guide |
-| Sign Up | Start Growing Today |
-| Download | Claim Your Toolkit |
-| Register | Save My Spot |
-| Buy Now | Start Saving Money |
+**`/references/copywriting-tools.md`** — Copywriting Tools
 
-### Button Copy Best Practices
+**`/references/research-tools.md`** — Research Tools
 
-- Use first person: "Start My Free Trial" vs. "Start Your Free Trial"
-- Be specific: "Download PDF" vs. "Download"
-- Add benefit: "Get Instant Access" vs. "Access"
-- Include urgency when appropriate: "Claim Your Spot Now"
+**`/references/testing-tools.md`** — Testing Tools
 
-### CTA Placement
+**`/references/learning-resources.md`** — Learning Resources
 
-Strategic positioning:
-- Above the fold (always)
-- After key benefit sections
-- Following testimonials
-- At page bottom
-- Fixed/sticky buttons for long pages
+**`/references/templates-and-frameworks.md`** — Templates and Frameworks
 
-### Multiple CTAs Strategy
-
-Match CTAs to buyer journey stages:
-- **Awareness:** "Learn More," "Download Guide"
-- **Consideration:** "Watch Demo," "See Pricing"
-- **Decision:** "Start Free Trial," "Get Started"
-
----
-
-## Writing for Different Audiences
-
-### B2B vs. B2C
-
-| Aspect | B2B | B2C |
-|--------|-----|-----|
-| Decision-makers | Multiple stakeholders | Individual |
-| Buying cycle | Longer, more complex | Often shorter |
-| Focus | ROI, efficiency, scale | Personal benefit, emotion |
-| Tone | Professional, data-driven | Conversational, relatable |
-| Content depth | Detailed, technical | Accessible, scannable |
-
-### Industry-Specific Language
-
-Adapt terminology for your audience:
-- Healthcare: Compliance, HIPAA, patient outcomes
-- Finance: ROI, compliance, fiduciary
-- Tech: Scalability, integration, uptime
-- Marketing: Conversion, engagement, attribution
-
-### Persona-Based Messaging
-
-Write for specific personas:
-
-**Example Personas:**
-- "Startup Sarah": Fast-paced, budget-conscious, wants quick wins
-- "Enterprise Eric": Risk-averse, needs stakeholder buy-in, values security
-- "Small Business Sam": Time-starved, wears multiple hats, values simplicity
-
-### Tone and Voice Adaptation
-
-Adjust voice based on:
-- Industry expectations
-- Target demographic
-- Brand personality
-- Page purpose
-
-**Voice Adaptation Examples:**
-
-**For a SaaS product targeting startups:**
-"Stop wrestling with spreadsheets. Our platform gives you real-time insights so you can make decisions that actually move the needle."
-
-**For an enterprise software targeting Fortune 500:**
-"Streamline operations across your organization with enterprise-grade security, compliance, and scalability built in."
-
-**For a consumer fitness app:**
-"Get fit on your schedule. Quick workouts, personalized plans, and all the motivation you need to crush your goals."
-
-**For a financial services firm:**
-"Trust your investments to a team with 40 years of experience. Our clients have averaged 12% annual returns through every market condition."
-
-**Voice Characteristics to Define:**
-1. **Formal vs. Casual:** Professional language vs. conversational tone
-2. **Serious vs. Playful:** Straightforward vs. humor and personality
-3. **Technical vs. Accessible:** Industry terms vs. plain language
-4. **Authoritative vs. Friendly:** Expert positioning vs. peer relationship
-5. **Urgent vs. Patient:** Time-sensitive messaging vs. educational approach
-
----
-
-## SEO Copywriting for Websites
-
-### Keyword Research and Integration
-
-Research before writing:
-- Primary keyword (main topic)
-- Secondary keywords (related terms)
-- Long-tail keywords (specific phrases)
-- LSI keywords (semantic variations)
-
-**Integration Guidelines:**
-- Include primary keyword in H1
-- Use keywords naturally in first paragraph
-- Include in subheadings where appropriate
-- Avoid keyword stuffing (2-3% density maximum)
-
-### Meta Titles and Descriptions
-
-**Meta Title (50-60 characters):**
-- Include primary keyword near beginning
-- Add brand name (if space)
-- Make it compelling
-
-**Meta Description (150-160 characters):**
-- Summarize page value
-- Include primary keyword
-- Add call-to-action
-- Create curiosity
-
-**Example:**
-Title: "Email Marketing Software | Grow Your List 10x | [Brand]"
-Description: "Send beautiful emails that convert. Our email marketing platform helps 50,000+ businesses grow their lists and boost sales. Start your free trial today."
-
-### Header Tags (H1, H2, H3)
-
-- **H1:** One per page, includes primary keyword
-- **H2:** Major sections, include secondary keywords
-- **H3-H6:** Subsections, natural keyword inclusion
-
-### Internal Linking
-
-Link strategically:
-- Use descriptive anchor text
-- Link to relevant pages
-- Create topic clusters
-- Support navigation
-
-### Content Optimization
-
-Optimize for readability:
-- Short paragraphs (2-4 sentences)
-- Bullet points and lists
-- Visual elements
-- Clear headings
-
-**SEO Content Checklist:**
-- [ ] Primary keyword in title tag and H1
-- [ ] Primary keyword in first 100 words
-- [ ] Secondary keywords in H2 headers
-- [ ] Meta description with keyword and CTA
-- [ ] Alt text on all images
-- [ ] Internal links to related pages (2-5 per page)
-- [ ] External links to authoritative sources (where appropriate)
-- [ ] URL contains primary keyword
-- [ ] Content length appropriate for topic (typically 1,000+ words for competitive terms)
-- [ ] Mobile-friendly formatting
-
-**Content Length Guidelines by Page Type:**
-- Homepage: 500-1,000 words
-- Product/Service pages: 1,000-2,000 words
-- Landing pages: 500-1,500 words (depending on offer complexity)
-- Blog posts: 1,500-3,000 words for competitive keywords
-- About page: 500-1,500 words
-
-**Writing for Featured Snippets:**
-- Use question-based headers (What is, How to, Why does)
-- Provide concise answers directly below the question (40-60 words)
-- Use numbered lists for process-based queries
-- Include tables for comparison queries
-
----
-
-## Microcopy and UX Writing
-
-### Button Labels
-
-Write buttons that set expectations:
-- "Add to Cart" (clear action)
-- "Send Message" (specific outcome)
-- "Create Account" (what happens next)
-
-### Form Fields and Error Messages
-
-**Field Labels:**
-- Clear, specific labels
-- Helpful placeholder text
-- Required field indicators
-
-**Error Messages:**
-- **Bad:** "Error: Invalid input"
-- **Good:** "Please enter a valid email address (e.g., name@company.com)"
-
-### Navigation Labels
-
-Use familiar, descriptive terms:
-- "Products" not "Solutions Portfolio"
-- "Contact" not "Connect With Us"
-- "About" not "Our Story"
-
-### Tooltips and Help Text
-
-Provide context where needed:
-- Explain why information is needed
-- Clarify confusing fields
-- Offer examples
-
-### 404 Pages
-
-Turn errors into opportunities:
-- Acknowledge the error with personality
-- Suggest helpful alternatives
-- Include search functionality
-- Link to popular pages
-
-**404 Page Copy Examples:**
-
-**Friendly approach:** "Oops! This page went on vacation. Let's get you back on track: [Search] [Homepage] [Popular Pages]"
-
-**Humorous approach:** "Well, this is awkward. The page you're looking for doesn't exist. Here's a picture of a puppy to make you feel better. [Search] [Homepage]"
-
-**Helpful approach:** "Page not found. You might have followed an old link or typed the address incorrectly. Try searching for what you need, or visit our homepage."
-
-**On-brand approach (tech company):** "Error 404: Page not found. Don't worry, even the best algorithms miss sometimes. Let us help you find what you're looking for."
-
-### Confirmation Messages
-
-Write confirmation messages that reassure and guide:
-
-**Email subscription:** "You're in! Check your inbox for a confirmation email. (Check spam if you don't see it in a few minutes.)"
-
-**Purchase:** "Order confirmed! You'll receive a confirmation email shortly. Order #12345. Questions? Contact support@company.com"
-
-**Form submission:** "Thanks for reaching out! We'll get back to you within 24 hours."
-
-### Empty States
-
-Guide users when no content is available:
-
-**No search results:** "No results for 'xyz'. Try different keywords or browse our popular categories."
-
-**Empty shopping cart:** "Your cart is empty. Ready to start shopping? Browse our bestsellers."
-
-**No notifications:** "All caught up! No new notifications. Check back later."
-
----
-
-## Mobile-First Copywriting
-
-### Brevity for Mobile
-
-Mobile screens demand concise copy:
-- Cut word count by 50% from desktop
-- Front-load key information
-- One idea per screen
-- Eliminate non-essential content
-
-### Thumb-Friendly CTAs
-
-Design buttons for mobile use:
-- Minimum 44px tap target
-- Centered or right-aligned (thumb reach)
-- Clear visual contrast
-- Adequate spacing
-
-### Scannable Mobile Content
-
-Structure for mobile scanning:
-- Short paragraphs (1-2 sentences)
-- Clear headings every 2-3 paragraphs
-- Bulleted lists
-- Bold key points
-
-### Progressive Disclosure
-
-Reveal information gradually:
-- Show essential content first
-- Use expandable sections for details
-- Accordion menus for FAQs
-- "Read more" links for additional content
-
-**Mobile Copy Examples:**
-
-**Desktop headline:** "Discover how our comprehensive marketing automation platform helps growing businesses streamline their workflows, increase conversions, and scale their operations"
-
-**Mobile headline:** "Marketing Automation That Scales With You"
-
-**Desktop CTA:** "Start Your Free 14-Day Trial Today - No Credit Card Required"
-
-**Mobile CTA:** "Start Free Trial"
-
-**Mobile Writing Rules:**
-1. Cut word count by 40-50% from desktop versions
-2. Front-load key information in every sentence
-3. Use active voice exclusively
-4. Eliminate adjectives and adverbs where possible
-5. Prefer single-syllable words when available
-
----
-
-## Trust and Credibility Elements
-
-### Social Proof
-
-Include proof elements:
-- Customer count: "Join 50,000+ happy customers"
-- Usage statistics: "2 million projects created"
-- Growth metrics: "Growing 200% year over year"
-
-### Testimonials and Reviews
-
-Effective testimonial elements:
-- Specific results: "Increased revenue by 47%"
-- Full name and photo
-- Company and title (B2B)
-- Relevant to target audience
-
-**Testimonial Format Examples:**
-
-**Results-focused:**
-"Since implementing [Product], our conversion rate jumped from 2.1% to 4.7%—a 124% increase. It paid for itself in the first month."
-— Sarah Chen, Marketing Director at TechCorp
-
-**Story-focused:**
-"We were drowning in spreadsheets before [Product]. Now our team saves 15+ hours per week on reporting alone. I can't imagine going back."
-— Michael Rivera, Operations Manager
-
-**Problem-solution:**
-"We tried three other tools before finding [Product]. Nothing else could handle our complex workflows. Finally, a solution that actually works."
-— Jennifer Walsh, VP of Sales
-
-**Testimonial Request Questions:**
-1. What problem were you trying to solve before using our product?
-2. What specific results have you achieved?
-3. How would you describe your experience in one sentence?
-4. What would you tell someone considering our product?
-
-### Trust Badges and Certifications
-
-Display relevant credentials:
-- Security badges (SSL, PCI compliance)
-- Industry certifications
-- Awards and recognition
-- Partnership logos
-
-### Security Messaging
-
-Reassure about safety:
-- "Your data is protected with bank-level security"
-- "We never share your information"
-- "100% secure checkout"
-
-### Guarantees and Policies
-
-Reduce purchase risk:
-- Money-back guarantees
-- Free trial periods
-- Easy cancellation policies
-- Clear return policies
-
-**Guarantee Copy Examples:**
-
-**Risk-free guarantee:**
-"Try it free for 30 days. If you're not completely satisfied, we'll refund every penny—no questions asked."
-
-**Results guarantee:**
-"If you don't see measurable improvement in your conversion rate within 60 days, we'll work with you until you do—or give you a full refund."
-
-**Simplicity guarantee:**
-"Cancel anytime with one click. No contracts, no commitments, no awkward phone calls."
-
-**Service guarantee:**
-"We respond to every support request within 2 hours during business hours. Period."
-
-**Trust Copy Placement:**
-- Near CTAs and pricing
-- Below testimonials
-- In footer (privacy, terms)
-- At checkout
-
----
-
-## Website Copy Structure
-
-### Inverted Pyramid
-
-Structure content like journalism:
-1. Most important information first
-2. Supporting details second
-3. Background information third
-4. Additional context last
-
-### F-Pattern and Z-Pattern
-
-**F-Pattern (text-heavy pages):**
-Users scan in an F-shape:
-- Strong first line
-- Important info on left
-- Break up long paragraphs
-
-**Z-Pattern (visual pages):**
-Users scan in a Z-shape:
-- Logo/headline top left
-- CTA or key element top right
-- Supporting content bottom left
-- Primary CTA bottom right
-
-### Above the Fold Content
-
-Include above the fold:
-- Clear headline
-- Value proposition
-- Primary CTA
-- Key visual or hero image
-
-### Chunking and White Space
-
-Break up content:
-- Group related information
-- Use generous white space
-- Include visual breaks
-- Limit paragraph length
-
----
-
-## Conversion Optimization
-
-### Value Proposition Clarity
-
-Test and refine your value proposition:
-- Can visitors understand what you do in 5 seconds?
-- Is the benefit clear and specific?
-- Does it differentiate from competitors?
-
-### Friction Reduction
-
-Remove barriers to conversion:
-- Simplify forms
-- Reduce required fields
-- Eliminate unnecessary steps
-- Provide guest checkout options
-
-### Objection Handling
-
-Address concerns proactively:
-- "No credit card required"
-- "Cancel anytime"
-- "Takes less than 2 minutes"
-- "100% money-back guarantee"
-
-### Urgency and Scarcity
-
-Create motivation to act (ethically):
-- Limited-time offers
-- Limited availability
-- Exclusive access
-- Countdown timers
-
-### A/B Testing Copy
-
-Test systematically:
-- Headlines (one element at a time)
-- CTA copy and placement
-- Value proposition wording
-- Social proof presentation
-
-**What to Test (Priority Order):**
-1. **Headlines:** Highest impact, test first
-2. **CTAs:** Button copy and placement
-3. **Value proposition:** Subheadlines and benefit statements
-4. **Social proof:** Type and placement of testimonials
-5. **Form copy:** Field labels and button text
-6. **Microcopy:** Error messages, tooltips, confirmation text
-
-**Testing Best Practices:**
-- Test one element at a time
-- Run tests for sufficient duration (minimum 2 weeks)
-- Aim for 95% statistical significance
-- Document all test results
-- Implement winners and iterate
-
-**Sample A/B Test Documentation:**
-
-| Test Name | Control | Variation | Metric | Result | Winner |
-|-----------|---------|-----------|--------|--------|--------|
-| Homepage Headline | "Grow Your Business" | "Double Your Revenue in 90 Days" | Signups | +23% | Variation |
-| CTA Button | "Sign Up" | "Start Free Trial" | Clicks | +17% | Variation |
-| Pricing Page | Features first | Benefits first | Conversions | +8% | Variation |
-
----
-
-## Accessibility in Website Copy
-
-### Plain Language
-
-Write for all reading levels:
-- Use common words
-- Define technical terms
-- Keep sentences simple
-- Avoid idioms and jargon
-
-### Alt Text for Images
-
-Write descriptive alt text:
-- Describe the image content
-- Include relevant keywords naturally
-- Keep under 125 characters
-- Indicate image function (logo, button, etc.)
-
-### Link Text Best Practices
-
-Write descriptive links:
-- **Bad:** "Click here"
-- **Good:** "Download our pricing guide"
-
-### Readability
-
-Aim for Grade 8 reading level or lower:
-- Use readability tools (Hemingway, Grammarly)
-- Short sentences and paragraphs
-- Active voice
-- Familiar vocabulary
-
----
-
-## Website Copy Audit
-
-### Evaluating Existing Copy
-
-Audit checklist:
-- Is the value proposition clear?
-- Does copy speak to the target audience?
-- Are CTAs compelling and visible?
-- Is content scannable?
-- Are there trust indicators?
-
-**Page-by-Page Audit Framework:**
-
-**Homepage Audit:**
-- [ ] Clear headline that communicates value
-- [ ] Subheadline that supports headline
-- [ ] Primary CTA above the fold
-- [ ] Trust indicators visible
-- [ ] Clear navigation
-- [ ] Mobile-optimized content
-
-**Product/Service Page Audit:**
-- [ ] Benefits-focused copy (not just features)
-- [ ] Problem-solution structure
-- [ ] Specific outcomes and results
-- [ ] Social proof relevant to offering
-- [ ] Clear pricing (or next step)
-- [ ] Multiple CTAs throughout
-
-**Landing Page Audit:**
-- [ ] Single conversion goal
-- [ ] Headline matches traffic source
-- [ ] Benefit-driven body copy
-- [ ] Minimal distractions (no nav)
-- [ ] Strong social proof
-- [ ] Urgency elements
-
-### Identifying Gaps
-
-Look for missing elements:
-- Social proof
-- Clear CTAs
-- Benefit statements
-- Objection handling
-- Trust indicators
-
-**Gap Analysis Questions:**
-1. What questions might visitors have that aren't answered?
-2. What objections might prevent conversion?
-3. Where might visitors get confused or lost?
-4. What proof points are missing?
-5. Where are CTAs unclear or missing?
-
-### Consistency Check
-
-Ensure consistency across:
-- Brand voice and tone
-- Messaging and positioning
-- CTA language
-- Formatting and structure
-
-**Consistency Checklist:**
-- [ ] Same terminology used throughout site
-- [ ] Voice and tone consistent across pages
-- [ ] CTAs use similar language and style
-- [ ] Value proposition consistent but adapted
-- [ ] Formatting (bullets, headers) consistent
-- [ ] Legal language accurate and updated
-
-### Performance Analysis
-
-Review metrics:
-- Page bounce rates
-- Time on page
-- Conversion rates
-- Exit pages
-- User flow
-
-**Key Metrics to Track:**
-
-| Metric | Good | Needs Work | Critical |
-|--------|------|------------|----------|
-| Bounce Rate | <40% | 40-60% | >60% |
-| Time on Page | >2 min | 1-2 min | <1 min |
-| Conversion Rate | >3% | 1-3% | <1% |
-| Pages/Session | >3 | 2-3 | <2 |
-
-**Heatmap Analysis:**
-- Are visitors reading your headlines?
-- Where do they stop scrolling?
-- What elements get clicked?
-- Are CTAs being missed?
-
----
-
-## Common Website Copywriting Mistakes
-
-### 1. Writing for Yourself, Not Your Audience
-
-Focus on customer needs, not your achievements.
-
-### 2. Burying the Value Proposition
-
-Lead with benefits, don't make visitors hunt for them.
-
-### 3. Using Jargon and Buzzwords
-
-Write in plain language your grandmother would understand.
-
-### 4. Weak or Missing CTAs
-
-Every page needs clear next steps.
-
-### 5. Walls of Text
-
-Break up content for scanning.
-
-### 6. Feature Dumping Without Benefits
-
-Connect features to customer outcomes.
-
-### 7. Generic, Templated Copy
-
-Avoid phrases like "Welcome to our website" or "We pride ourselves on..."
-
-### 8. Ignoring Mobile Users
-
-Write for mobile screens first.
-
-### 9. No Social Proof
-
-Include testimonials, reviews, and trust indicators.
-
-### 10. Inconsistent Voice
-
-Maintain consistent tone across all pages.
-
-### 11. Neglecting SEO
-
-Optimize for search without sacrificing readability.
-
-### 12. Forgetting About Accessibility
-
-Write for all users, including those with disabilities.
-
-### 13. Overcomplicating Navigation
-
-Use clear, simple navigation labels.
-
-### 14. Not Testing
-
-Continuously test and optimize copy performance.
-
-### 15. Outdated Content
-
-Keep content current and relevant.
-
----
-
-## Best Practices for Website Copywriting
-
-### 1. Start with Research
-
-Understand your audience, competitors, and unique value before writing.
-
-### 2. Lead with Benefits
-
-Always answer "What's in it for me?" for the reader.
-
-### 3. Write for Scanners
-
-Use headings, bullets, bold text, and short paragraphs.
-
-### 4. Be Specific
-
-Replace vague claims with concrete details and numbers.
-
-### 5. Create Urgency
-
-Give visitors reasons to act now, not later.
-
-### 6. Build Trust
-
-Include social proof, guarantees, and credibility indicators.
-
-### 7. Optimize for SEO
-
-Research and naturally integrate relevant keywords.
-
-### 8. Write Mobile-First
-
-Prioritize brevity and scannability for mobile users.
-
-### 9. Test Everything
-
-Use A/B testing to optimize headlines, CTAs, and value propositions.
-
-### 10. Keep It Fresh
-
-Regularly update content to maintain relevance and accuracy.
-
-### 11. Maintain Voice Consistency
-
-Develop and follow brand voice guidelines across all pages.
-
-### 12. Focus on One Goal Per Page
-
-Especially for landing pages, maintain single conversion focus.
-
-### 13. Address Objections
-
-Proactively handle concerns and reduce friction.
-
-### 14. Use Active Voice
-
-Write with energy and directness.
-
-### 15. Edit Ruthlessly
-
-Cut unnecessary words and simplify complex sentences.
-
----
-
-## Tools and Resources
-
-### Copywriting Tools
-
-- **Hemingway Editor:** Readability analysis
-- **Grammarly:** Grammar and style checking
-- **CoSchedule Headline Analyzer:** Headline optimization
-- **Copy.ai:** AI-assisted copywriting
-- **Jasper:** AI content generation
-- **SurferSEO:** SEO content optimization
-
-### Research Tools
-
-- **AnswerThePublic:** Question research
-- **Google Keyword Planner:** Keyword research
-- **Ahrefs/SEMrush:** Competitor analysis
-- **Hotjar:** User behavior analysis
-- **Google Analytics:** Performance tracking
-
-### Testing Tools
-
-- **Google Optimize:** A/B testing
-- **Optimizely:** Experimentation platform
-- **VWO:** Conversion optimization
-- **Unbounce:** Landing page testing
-- **Crazy Egg:** Heatmaps and recordings
-
-### Learning Resources
-
-**Books:**
-- *Everybody Writes* by Ann Handley
-- *Don't Make Me Think* by Steve Krug
-- *Made to Stick* by Chip & Dan Heath
-- *Influence* by Robert Cialdini
-- *The Copywriter's Handbook* by Robert Bly
-
-**Online Resources:**
-- Copyblogger (blog)
-- Copyhackers (courses and blog)
-- Nielsen Norman Group (UX writing)
-- Conversion XL (conversion optimization)
-
-### Templates and Frameworks
-
-- Homepage wireframe with copy blocks
-- Product page copy template
-- Landing page framework
-- CTA library
-- Headline swipe file
-
----
-
-## Conclusion
-
-Website copywriting is both an art and a science. It requires understanding human psychology, user behavior, and business goals while maintaining clear, compelling communication. The most effective website copy:
-
-- **Speaks directly to the target audience** in their language
-- **Leads with benefits** that address real needs
-- **Guides visitors** toward clear next steps
-- **Builds trust** through proof and transparency
-- **Optimizes for both humans and search engines**
-
-Remember that website copy is never "finished." The best copywriters continuously test, measure, and refine their work based on data and user feedback. Start with research, write with empathy, and always keep your reader's needs at the center of every word you write.
-
-Every page on your website is an opportunity to connect with visitors and move them closer to becoming customers. Make each word count.
-
----
-
-*This guide is part of the Manus.im copywriting skills library. For related topics, see: Landing Page Design & Conversion, Newsletter Copywriting, and SEO Copywriting.*
+**`/references/conclusion.md`** — Conclusion

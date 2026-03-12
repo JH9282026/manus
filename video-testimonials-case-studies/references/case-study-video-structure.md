@@ -1,0 +1,1 @@
+## Case Study Video Structure

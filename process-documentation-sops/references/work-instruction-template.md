@@ -1,0 +1,3 @@
+### Work Instruction Template
+
+```markdown

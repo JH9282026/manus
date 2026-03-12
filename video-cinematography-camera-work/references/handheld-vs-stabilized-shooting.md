@@ -1,0 +1,1 @@
+## Handheld vs Stabilized Shooting

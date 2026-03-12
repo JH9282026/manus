@@ -1,0 +1,2 @@
+### API Endpoint Template
+```markdown

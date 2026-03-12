@@ -1,0 +1,12 @@
+### Front Panel Template
+
+```
+[BRAND NAME]
+
+[PRODUCT NAME/VARIETY]
+[KEY CLAIM OR BENEFIT - 5-10 words]
+
+[SIZE/QUANTITY]
+
+[CERTIFICATION ICONS]
+```

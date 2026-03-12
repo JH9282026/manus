@@ -1,0 +1,1 @@
+## Thumbnail and Title Optimization
