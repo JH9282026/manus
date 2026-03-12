@@ -356,4 +356,3 @@ The goal is not to use every feature, but to know which features exist so you ca
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
-

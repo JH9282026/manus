@@ -355,4 +355,3 @@ Start with the fundamentals, measure obsessively, and iterate consistently. Vide
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
-
