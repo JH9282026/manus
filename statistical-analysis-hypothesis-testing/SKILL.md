@@ -1,6 +1,6 @@
 ---
 name: statistical-analysis-hypothesis-testing
-description: Statistical Analysis & Hypothesis Testing is a rigorous quantitative analysis skill that applies statistical methodologies to datasets to extract meaningful insights, test research hypotheses, and support data-driven decision making.
+description: "Statistical Analysis & Hypothesis Testing is a rigorous quantitative analysis skill that applies statistical methodologies to datasets to extract meaningful insights, test research hypotheses, and support data-driven decision making."
 ---
 
 ---
@@ -9,6 +9,11 @@ description: Performs rigorous statistical analysis on datasets including descri
 ---
 
 # Statistical Analysis & Hypothesis Testing
+
+
+## Overview
+
+This section provides an overview of the skill.
 
 ## Skill Description and Purpose
 

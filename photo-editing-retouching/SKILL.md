@@ -1,9 +1,14 @@
 ---
 name: photo-editing-retouching
-description: Photo editing and retouching are essential skills for photographers, graphic designers, and creative professionals who work with visual imagery.
+description: "Photo editing and retouching are essential skills for photographers, graphic designers, and creative professionals who work with visual imagery."
 ---
 
 # Photo Editing & Retouching
+
+
+## Overview
+
+This section provides an overview of the skill.
 
 Photo editing and retouching are essential skills for photographers, graphic designers, and creative professionals who work with visual imagery. From basic corrections to advanced manipulation, mastering these techniques enables you to transform ordinary photographs into compelling visual stories that communicate effectively and captivate audiences.
 

@@ -1,6 +1,6 @@
 ---
 name: video-production-editing
-description: Video Production & Editing is a comprehensive multimedia skill that orchestrates the entire video creation lifecycle—from initial concept development through final distribution.
+description: "Video Production & Editing is a comprehensive multimedia skill that orchestrates the entire video creation lifecycle—from initial concept development through final distribution."
 ---
 
 ---
@@ -9,6 +9,11 @@ description: End-to-end video creation capability encompassing pre-production pl
 ---
 
 # Video Production & Editing
+
+
+## Overview
+
+This section provides an overview of the skill.
 
 ## Skill Description and Purpose
 

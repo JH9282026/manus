@@ -1,6 +1,6 @@
 ---
 name: brand-identity-development
-description: The Brand Identity Development & Creation skill enables autonomous construction of complete, cohesive brand identity systems from initial strategy through final deliverable production.
+description: "The Brand Identity Development & Creation skill enables autonomous construction of complete, cohesive brand identity systems from initial strategy through final deliverable production."
 ---
 
 ---
@@ -9,6 +9,11 @@ description: A comprehensive brand identity creation skill that autonomously dev
 ---
 
 # Brand Identity Development & Creation
+
+
+## Overview
+
+This section provides an overview of the skill.
 
 ## 1. Skill Description and Purpose
 

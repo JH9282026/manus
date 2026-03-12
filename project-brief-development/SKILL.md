@@ -1,6 +1,6 @@
 ---
 name: project-brief-development
-description: The Project Brief Development & Documentation skill enables autonomous creation of comprehensive, stakeholder-ready project briefs that serve as the foundational governance document for any initiative.
+description: "The Project Brief Development & Documentation skill enables autonomous creation of comprehensive, stakeholder-ready project briefs that serve as the foundational governance document for any initiative."
 ---
 
 ---
@@ -9,6 +9,11 @@ description: A universal, comprehensive skill for creating detailed project brie
 ---
 
 # Project Brief Development & Documentation
+
+
+## Overview
+
+This section provides an overview of the skill.
 
 ## 1. Skill Description and Purpose
 

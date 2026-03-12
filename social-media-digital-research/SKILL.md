@@ -1,6 +1,6 @@
 ---
 name: social-media-digital-research
-description: Social Media & Digital Research is a systematic approach to gathering, analyzing, and interpreting data from social platforms, online communities, and digital channels to understand public opinion, consumer behavior, brand perception, emerging trends, and network dynamics.
+description: "Social Media & Digital Research is a systematic approach to gathering, analyzing, and interpreting data from social platforms, online communities, and digital channels to understand public opinion, consumer behavior, brand perception, emerging trends, and network dynamics."
 ---
 
 ---
@@ -9,6 +9,11 @@ description: Comprehensive methodology for social listening, sentiment analysis,
 ---
 
 # Social Media & Digital Research
+
+
+## Overview
+
+This section provides an overview of the skill.
 
 ## Skill Description and Purpose
 

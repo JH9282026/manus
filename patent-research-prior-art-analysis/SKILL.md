@@ -1,6 +1,6 @@
 ---
 name: patent-research-prior-art-analysis
-description: Patent Research & Prior Art Analysis is a specialized intellectual property research skill that systematically searches, analyzes, and interprets patent documentation and related prior art to inform innovation strategy, patentability assessments, and freedom-to-operate evaluations.
+description: "Patent Research & Prior Art Analysis is a specialized intellectual property research skill that systematically searches, analyzes, and interprets patent documentation and related prior art to inform innovation strategy, patentability assessments, and freedom-to-operate evaluations."
 ---
 
 ---
@@ -9,6 +9,11 @@ description: Conducts comprehensive patent landscape analysis and prior art sear
 ---
 
 # Patent Research & Prior Art Analysis
+
+
+## Overview
+
+This section provides an overview of the skill.
 
 ## Skill Description and Purpose
 

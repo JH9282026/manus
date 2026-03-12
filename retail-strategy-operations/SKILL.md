@@ -1,6 +1,6 @@
 ---
 name: retail-strategy-operations
-description: The Retail Strategy & Operations skill provides comprehensive capabilities for analyzing, planning, and optimizing retail business operations across physical stores, omnichannel environments, and supporting functions.
+description: "The Retail Strategy & Operations skill provides comprehensive capabilities for analyzing, planning, and optimizing retail business operations across physical stores, omnichannel environments, and supporting functions."
 ---
 
 ---
@@ -9,6 +9,11 @@ description: Expert skill for optimizing brick-and-mortar and omnichannel retail
 ---
 
 # Retail Strategy & Operations
+
+
+## Overview
+
+This section provides an overview of the skill.
 
 ## 1. Skill Description and Purpose
 

@@ -1,6 +1,6 @@
 ---
 name: web-scraping-data-extraction
-description: The Web Scraping & Data Extraction skill is an advanced, autonomous data acquisition capability designed to programmatically collect, process, and structure information from any publicly accessible web source.
+description: "The Web Scraping & Data Extraction skill is an advanced, autonomous data acquisition capability designed to programmatically collect, process, and structure information from any publicly accessible web source."
 ---
 
 ---
@@ -9,6 +9,11 @@ description: A comprehensive, production-grade web scraping skill capable of ext
 ---
 
 # Web Scraping & Data Extraction Skill
+
+
+## Overview
+
+This section provides an overview of the skill.
 
 ## 1. Skill Description and Purpose
 

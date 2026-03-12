@@ -1,6 +1,6 @@
 ---
 name: public-relations-corporate-communications
-description: The Public Relations & Corporate Communications skill empowers AI agents to deliver comprehensive PR strategy, media relations, crisis communications, and stakeholder engagement capabilities.
+description: "The Public Relations & Corporate Communications skill empowers AI agents to deliver comprehensive PR strategy, media relations, crisis communications, and stakeholder engagement capabilities."
 ---
 
 ---
@@ -9,6 +9,11 @@ description: Comprehensive public relations and communications strategy skill en
 ---
 
 # Public Relations & Corporate Communications
+
+
+## Overview
+
+This section provides an overview of the skill.
 
 ## Skill Description and Purpose
 

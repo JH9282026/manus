@@ -1,9 +1,14 @@
 ---
 name: publication-design-editorial
-description: Publication design, also known as editorial design, is the art and practice of designing printed and digital publications including magazines, books, newspapers, brochures, and reports.
+description: "Publication design, also known as editorial design, is the art and practice of designing printed and digital publications including magazines, books, newspapers, brochures, and reports."
 ---
 
 # Publication Design (Editorial Design)
+
+
+## Overview
+
+This section provides an overview of the skill.
 
 Publication design, also known as editorial design, is the art and practice of designing printed and digital publications including magazines, books, newspapers, brochures, and reports. This discipline combines typography, imagery, and layout to create engaging, readable, and visually compelling content that guides readers through information in a structured and aesthetically pleasing manner.
 

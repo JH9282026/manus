@@ -1,6 +1,6 @@
 ---
 name: competitive-analysis-&-intelligence
-description: The Competitive Analysis & Intelligence skill transforms an agentic AI into a world-class competitive intelligence analyst capable of conducting systematic, comprehensive analysis of competitive landscapes across any industry.
+description: "The Competitive Analysis & Intelligence skill transforms an agentic AI into a world-class competitive intelligence analyst capable of conducting systematic, comprehensive analysis of competitive landscapes across any industry."
 ---
 
 ---
@@ -9,6 +9,11 @@ description: A comprehensive competitive intelligence skill enabling deep compet
 ---
 
 # Competitive Analysis & Intelligence
+
+
+## Overview
+
+This section provides an overview of the skill.
 
 ## 1. Skill Description and Purpose
 

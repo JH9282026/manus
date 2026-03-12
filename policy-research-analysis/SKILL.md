@@ -1,6 +1,6 @@
 ---
 name: policy-research-analysis
-description: Policy Research & Analysis is a rigorous analytical discipline focused on understanding, evaluating, and forecasting government policies, legislative developments, regulatory frameworks, and their impacts on organizations, industries, and society.
+description: "Policy Research & Analysis is a rigorous analytical discipline focused on understanding, evaluating, and forecasting government policies, legislative developments, regulatory frameworks, and their impacts on organizations, industries, and society."
 ---
 
 ---
@@ -9,6 +9,11 @@ description: Systematic methodology for analyzing government policies, legislati
 ---
 
 # Policy Research & Analysis
+
+
+## Overview
+
+This section provides an overview of the skill.
 
 ## Skill Description and Purpose
 

@@ -1,6 +1,6 @@
 ---
 name: web-design-development
-description: Web Design & Development is a comprehensive digital creation skill that bridges aesthetic design principles with technical implementation to produce functional, accessible, and engaging web experiences.
+description: "Web Design & Development is a comprehensive digital creation skill that bridges aesthetic design principles with technical implementation to produce functional, accessible, and engaging web experiences."
 ---
 
 ---
@@ -9,6 +9,11 @@ description: Integrated skill for creating user-centered digital experiences thr
 ---
 
 # Web Design & Development
+
+
+## Overview
+
+This section provides an overview of the skill.
 
 ## Skill Description and Purpose
 

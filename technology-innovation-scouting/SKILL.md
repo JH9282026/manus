@@ -1,6 +1,6 @@
 ---
 name: technology-innovation-scouting
-description: Technology & Innovation Scouting is a systematic intelligence-gathering capability designed to identify, evaluate, and track emerging technologies, innovative companies, and disruptive developments that may create opportunities or threats for organizations.
+description: "Technology & Innovation Scouting is a systematic intelligence-gathering capability designed to identify, evaluate, and track emerging technologies, innovative companies, and disruptive developments that may create opportunities or threats for organizations."
 ---
 
 ---
@@ -9,6 +9,11 @@ description: Systematic methodology for identifying emerging technologies, asses
 ---
 
 # Technology & Innovation Scouting
+
+
+## Overview
+
+This section provides an overview of the skill.
 
 ## Skill Description and Purpose
 

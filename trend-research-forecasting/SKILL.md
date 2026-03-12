@@ -1,6 +1,6 @@
 ---
 name: trend-research-forecasting
-description: Trend Research & Forecasting is a strategic intelligence capability that systematically identifies, analyzes, and projects emerging patterns, developments, and discontinuities that may significantly impact industries, markets, technologies, or societies.
+description: "Trend Research & Forecasting is a strategic intelligence capability that systematically identifies, analyzes, and projects emerging patterns, developments, and discontinuities that may significantly impact industries, markets, technologies, or societies."
 ---
 
 ---
@@ -9,6 +9,11 @@ description: Systematic methodologies for identifying emerging trends, conductin
 ---
 
 # Trend Research & Forecasting
+
+
+## Overview
+
+This section provides an overview of the skill.
 
 ## Skill Description and Purpose
 

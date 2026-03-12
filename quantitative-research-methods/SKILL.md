@@ -1,6 +1,6 @@
 ---
 name: quantitative-research-methods
-description: Quantitative Research Methods provide a systematic framework for collecting, analyzing, and interpreting numerical data to test hypotheses, measure variables, identify patterns, and make statistically valid inferences about populations.
+description: "Quantitative Research Methods provide a systematic framework for collecting, analyzing, and interpreting numerical data to test hypotheses, measure variables, identify patterns, and make statistically valid inferences about populations."
 ---
 
 ---
@@ -9,6 +9,11 @@ description: Rigorous statistical approaches for survey design, sampling, data c
 ---
 
 # Quantitative Research Methods
+
+
+## Overview
+
+This section provides an overview of the skill.
 
 ## Skill Description and Purpose
 
