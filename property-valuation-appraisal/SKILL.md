@@ -1,14 +1,13 @@
 ---
 name: property-valuation-appraisal
-description: The Property Valuation & Appraisal skill enables comprehensive real estate valuation using professional appraisal methodologies including the income approach (direct capitalization and discounted cash flow), sales comparison approach, and cost approach.
----
-
----
-name: Property Valuation & Appraisal
-description: Professional real estate valuation capabilities including income capitalization, sales comparison, and cost approaches following USPAP and IVS standards.
+description: "The Property Valuation & Appraisal skill enables comprehensive real estate valuation using professional appraisal methodologies including the income approach (direct capitalization and discounted cash flow), sales comparison approach, and cost approach."
 ---
 
 # Property Valuation & Appraisal
+
+## Overview
+
+This skill provides comprehensive guidance and best practices for this domain.
 
 ## Skill Description and Purpose
 

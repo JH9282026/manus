@@ -1,14 +1,13 @@
 ---
 name: product-requirements-documentation
-description: Product Requirements Documentation is a structured analytical and creative skill that transforms business objectives, user needs, and market opportunities into comprehensive, actionable product specifications.
----
-
----
-name: Product Requirements Documentation
-description: Systematic creation, validation, and management of comprehensive product requirements documents (PRDs) that translate business objectives into actionable technical specifications for development teams.
+description: "Product Requirements Documentation is a structured analytical and creative skill that transforms business objectives, user needs, and market opportunities into comprehensive, actionable product specifications."
 ---
 
 # Product Requirements Documentation
+
+## Overview
+
+This skill provides comprehensive guidance and best practices for this domain.
 
 ## 1. Skill Description and Purpose
 

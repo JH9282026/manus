@@ -1,14 +1,13 @@
 ---
 name: strategic-planning-roadmapping
-description: Strategic Planning & Roadmapping is a foundational business capability that transforms organizational vision into executable action plans. This skill enables the systematic analysis of an organization's current state, desired future state, and the strategic initiatives required to bridge that gap.
----
-
----
-name: Strategic Planning & Roadmapping
-description: Develops comprehensive strategic plans and visual roadmaps that align organizational goals with actionable initiatives, timelines, and resource allocations for sustainable competitive advantage.
+description: "Strategic Planning & Roadmapping is a foundational business capability that transforms organizational vision into executable action plans. This skill enables the systematic analysis of an organization's current state, desired future state, and the strategic initiatives required to bridge that gap."
 ---
 
 # Strategic Planning & Roadmapping
+
+## Overview
+
+This skill provides comprehensive guidance and best practices for this domain.
 
 ## 1. Skill Description and Purpose
 

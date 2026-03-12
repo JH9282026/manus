@@ -1,14 +1,13 @@
 ---
 name: project-planning-execution
-description: The Project Planning & Execution skill enables AI agents to manage the complete project lifecycle from initiation through closure using industry-standard methodologies.
----
-
----
-name: Project Planning & Execution
-description: Comprehensive project management skill enabling AI agents to initiate, plan, execute, monitor, and close projects following structured methodologies including PMBOK and PRINCE2 to deliver outcomes on time, within budget, and to quality standards.
+description: "The Project Planning & Execution skill enables AI agents to manage the complete project lifecycle from initiation through closure using industry-standard methodologies."
 ---
 
 # Project Planning & Execution
+
+## Overview
+
+This skill provides comprehensive guidance and best practices for this domain.
 
 ## 1. Skill Description and Purpose
 

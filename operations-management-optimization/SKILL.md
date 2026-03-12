@@ -1,14 +1,13 @@
 ---
 name: operations-management-optimization
-description: The Operations Management & Optimization skill empowers AI agents to systematically analyze, redesign, and continuously improve operational processes across the organization.
----
-
----
-name: Operations Management & Optimization
-description: Strategic operations skill enabling AI agents to analyze, design, and optimize business processes, resource allocation, capacity planning, and operational workflows to maximize efficiency, reduce costs, and improve organizational performance.
+description: "The Operations Management & Optimization skill empowers AI agents to systematically analyze, redesign, and continuously improve operational processes across the organization."
 ---
 
 # Operations Management & Optimization
+
+## Overview
+
+This skill provides comprehensive guidance and best practices for this domain.
 
 ## 1. Skill Description and Purpose
 

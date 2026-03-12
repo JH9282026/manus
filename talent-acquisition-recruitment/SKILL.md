@@ -1,14 +1,13 @@
 ---
 name: talent-acquisition-recruitment
-description: The Talent Acquisition & Recruitment skill empowers AI agents to execute comprehensive hiring workflows from job requisition to candidate onboarding.
----
-
----
-name: Talent Acquisition & Recruitment
-description: End-to-end recruitment skill enabling AI agents to source, screen, assess, and hire top talent through strategic sourcing, structured interviews, and data-driven hiring decisions while ensuring diversity and compliance.
+description: "The Talent Acquisition & Recruitment skill empowers AI agents to execute comprehensive hiring workflows from job requisition to candidate onboarding."
 ---
 
 # Talent Acquisition & Recruitment
+
+## Overview
+
+This skill provides comprehensive guidance and best practices for this domain.
 
 ## 1. Skill Description and Purpose
 

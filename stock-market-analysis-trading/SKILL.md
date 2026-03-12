@@ -1,12 +1,13 @@
 ---
 name: stock-market-analysis-trading
-description: This skill enables autonomous execution of sophisticated stock market analysis and trading strategy development across multiple analytical dimensions.
+description: "This skill enables autonomous execution of sophisticated stock market analysis and trading strategy development across multiple analytical dimensions."
 ---
 
----
-name: Stock Market Analysis & Trading
-description: Comprehensive equity market analysis combining fundamental research, technical chart analysis, macroeconomic indicators, and risk-managed trading strategies for informed investment decisions.
----
+# Stock Market Analysis Trading
+
+## Overview
+
+This skill provides comprehensive guidance and best practices for this domain.
 
 ## Skill Description and Purpose
 

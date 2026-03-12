@@ -1,14 +1,13 @@
 ---
 name: voice-of-customer-research
-description: Voice of Customer Research is a multi-dimensional analytical skill designed to systematically capture, analyze, interpret, and synthesize customer feedback from diverse sources to create actionable insights that improve customer experience, product development, and business strategy.
----
-
----
-name: Voice of Customer Research
-description: Comprehensive customer feedback analysis skill for capturing, analyzing, and synthesizing customer insights across multiple channels to drive customer-centric decision making and experience improvement.
+description: "Voice of Customer Research is a multi-dimensional analytical skill designed to systematically capture, analyze, interpret, and synthesize customer feedback from diverse sources to create actionable insights that improve customer experience, product development, and business strategy."
 ---
 
 # Voice of Customer (VOC) Research Skill
+
+## Overview
+
+This skill provides comprehensive guidance and best practices for this domain.
 
 ## Skill Description and Purpose
 

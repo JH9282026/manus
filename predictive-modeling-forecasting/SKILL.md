@@ -1,14 +1,13 @@
 ---
 name: predictive-modeling-forecasting
-description: Predictive Modeling & Forecasting is an advanced analytical capability that leverages historical data, statistical methods, and machine learning algorithms to predict future outcomes and trends.
----
-
----
-name: Predictive Modeling & Forecasting
-description: Develops statistical and machine learning models to predict future outcomes, identify trends, and generate accurate forecasts that enable data-driven decision-making across business domains.
+description: "Predictive Modeling & Forecasting is an advanced analytical capability that leverages historical data, statistical methods, and machine learning algorithms to predict future outcomes and trends."
 ---
 
 # Predictive Modeling & Forecasting
+
+## Overview
+
+This skill provides comprehensive guidance and best practices for this domain.
 
 ## 1. Skill Description and Purpose
 

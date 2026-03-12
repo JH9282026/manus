@@ -1,14 +1,13 @@
 ---
 name: risk-management-enterprise-risk
-description: The Risk Management & Enterprise Risk skill empowers AI agents to deliver comprehensive enterprise risk management (ERM) capabilities, from risk identification and assessment through mitigation strategy development and ongoing risk monitoring.
----
-
----
-name: Risk Management & Enterprise Risk
-description: Comprehensive enterprise risk management skill enabling risk assessment, mitigation strategy development, compliance management, and business continuity planning to protect organizational value and enable informed risk-taking.
+description: "The Risk Management & Enterprise Risk skill empowers AI agents to deliver comprehensive enterprise risk management (ERM) capabilities, from risk identification and assessment through mitigation strategy development and ongoing risk monitoring."
 ---
 
 # Risk Management & Enterprise Risk
+
+## Overview
+
+This skill provides comprehensive guidance and best practices for this domain.
 
 ## Skill Description and Purpose
 

@@ -1,14 +1,13 @@
 ---
 name: supply-chain-management
-description: The Supply Chain Management skill enables AI agents to orchestrate the complete flow of goods and information from suppliers through manufacturing and distribution to end customers.
----
-
----
-name: Supply Chain Management
-description: End-to-end supply chain skill enabling AI agents to optimize procurement, logistics, inventory management, supplier relationships, and demand planning to ensure efficient flow of goods while minimizing costs and risks.
+description: "The Supply Chain Management skill enables AI agents to orchestrate the complete flow of goods and information from suppliers through manufacturing and distribution to end customers."
 ---
 
 # Supply Chain Management
+
+## Overview
+
+This skill provides comprehensive guidance and best practices for this domain.
 
 ## 1. Skill Description and Purpose
 

@@ -1,109 +1,14 @@
 ---
 name: sales-copywriting
-description: Sales Copywriting is the strategic craft of writing persuasive content specifically designed to drive conversions, generate leads, and close sales.
+description: "Sales Copywriting is the strategic craft of writing persuasive content specifically designed to drive conversions, generate leads, and close sales."
 ---
 
----
-name: Sales Copywriting
-description: Craft high-converting sales copy for landing pages, sales letters, product descriptions, and direct response marketing materials using proven persuasion frameworks and psychological triggers.
----
+# Sales Copywriting
 
-## 1. Skill Description and Purpose
 
-Sales Copywriting is the strategic craft of writing persuasive content specifically designed to drive conversions, generate leads, and close sales. This skill transforms product features and benefits into compelling narratives that motivate prospects to take immediate action—whether purchasing a product, signing up for a service, or requesting more information.
+## Overview
 
-**Why This Skill is Valuable:**
-- Direct revenue impact through optimized conversion rates
-- Reduces customer acquisition costs by improving messaging efficiency
-- Builds trust and overcomes objections through strategic narrative construction
-- Creates scalable assets that continue selling 24/7 without human intervention
-- Differentiates brands in crowded markets through unique positioning
-
-**When to Deploy This Skill:**
-- Creating long-form sales letters for high-ticket offers
-- Writing landing page copy for lead generation campaigns
-- Developing product descriptions for e-commerce platforms
-- Crafting video sales letter (VSL) scripts
-- Building squeeze page and opt-in funnel copy
-- Writing direct mail pieces and catalog copy
-- Developing webinar registration and replay pages
-
-This skill combines psychological persuasion principles, market research synthesis, and strategic copywriting frameworks to produce copy that resonates with target audiences at an emotional level while providing logical justification for purchasing decisions.
-
----
-
-## 2. Required Inputs/Parameters
-
-| Parameter | Required | Format | Description |
-|-----------|----------|--------|-------------|
-| `product_service_details` | Yes | Object | Comprehensive information including features, benefits, pricing, guarantees, and unique mechanisms |
-| `target_audience_profile` | Yes | Object | Demographics, psychographics, pain points, desires, objections, and buying behavior |
-| `offer_structure` | Yes | Object | Primary offer, bonuses, pricing tiers, scarcity elements, and call-to-action specifics |
-| `brand_voice_guidelines` | Yes | String/Object | Tone, vocabulary restrictions, personality attributes, and brand positioning |
-| `copy_format` | Yes | Enum | Options: `long_form_sales_letter`, `landing_page`, `product_description`, `vsl_script`, `squeeze_page` |
-| `competitor_analysis` | Recommended | Array | Competing offers, their positioning, pricing, and messaging angles |
-| `testimonials_proof` | Recommended | Array | Customer testimonials, case studies, statistics, and credibility indicators |
-| `word_count_target` | Optional | Integer | Desired length; defaults vary by format (500-5000+ words) |
-| `primary_framework` | Optional | Enum | Preferred copywriting formula: `AIDA`, `PAS`, `BAB`, `PPPP`, `star_story_solution` |
-| `urgency_elements` | Optional | Object | Deadlines, limited quantities, time-sensitive bonuses |
-
-**Input Quality Standards:**
-- Product details should include the "unique mechanism" that differentiates the offer
-- Audience profiles must include actual customer language and vocabulary
-- Testimonials should be specific with measurable results when possible
-
----
-
-## 3. Expected Outputs/Deliverables
-
-**Primary Deliverable:** Complete sales copy package formatted for the specified medium
-
-**Output Components:**
-
-| Component | Description |
-|-----------|-------------|
-| `headline_variations` | 5-10 headline options using different angles (benefit, curiosity, news, fear) |
-| `subheadline` | Supporting headline that expands on the main promise |
-| `lead_section` | Opening 200-500 words designed to capture attention and establish relevance |
-| `body_copy` | Core persuasive content including problem agitation, solution presentation, benefit stacking, and objection handling |
-| `proof_section` | Strategically placed testimonials, statistics, and credibility elements |
-| `offer_presentation` | Clear articulation of what's included, value stacking, and pricing justification |
-| `call_to_action` | Primary and secondary CTAs with urgency triggers |
-| `risk_reversal` | Guarantee language and objection preemption |
-| `ps_section` | Post-script elements reinforcing key benefits or urgency (for letters) |
-
-**Quality Standards:**
-- Flesch-Kincaid readability score appropriate for target audience (typically 6th-8th grade)
-- Clear visual hierarchy with strategic use of subheadings, bullets, and emphasis
-- Seamless transitions creating a "slippery slide" reading experience
-- Emotional triggers balanced with logical proof points
-- Compliance with advertising regulations (FTC guidelines, platform policies)
-
----
-
-## 4. Example Use Cases
-
-### Use Case 1: SaaS Product Launch Landing Page
-**Context:** B2B software company launching project management tool for remote teams
-**Inputs:** Feature list, competitor comparison, beta tester testimonials, $49/month pricing
-**Output:** 2,500-word landing page with headline matrix, feature-benefit translations, social proof integration, and tiered CTA strategy (free trial vs. paid)
-
-### Use Case 2: High-Ticket Coaching Program Sales Letter
-**Context:** Business coach selling $5,000 12-week program
-**Inputs:** Transformation methodology, success stories with revenue numbers, guarantee terms, payment plan options
-**Output:** 5,000+ word long-form sales letter using Star-Story-Solution framework, extensive testimonial integration, value stacking section showing $25,000+ worth, and urgency-driven close with enrollment deadline
-
-### Use Case 3: E-commerce Product Description Optimization
-**Context:** Premium skincare brand writing descriptions for anti-aging serum
-**Inputs:** Ingredient science, clinical study results, before/after photos, luxury brand voice
-**Output:** 600-word product description with sensory language, scientific credibility, emotional transformation narrative, and cross-sell suggestions
-
-### Use Case 4: Webinar Registration Page
-**Context:** Financial advisor promoting retirement planning masterclass
-**Inputs:** Webinar content outline, speaker credentials, attendee benefits, limited seats messaging
-**Output:** 1,200-word registration page with curiosity-driven headline, bullet-point value promises, speaker credibility section, and scarcity-based registration CTA
-
----
+This skill provides comprehensive guidance and best practices for this domain.
 
 ## 5. Prerequisites or Dependencies
 

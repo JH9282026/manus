@@ -1,14 +1,13 @@
 ---
 name: system-architecture-design
-description: System Architecture Design is an advanced technical skill that creates comprehensive architectural blueprints for software systems.
----
-
----
-name: System Architecture Design
-description: Comprehensive design and documentation of software system architectures, including component design, integration patterns, scalability planning, and technical decision documentation for complex distributed systems.
+description: "System Architecture Design is an advanced technical skill that creates comprehensive architectural blueprints for software systems."
 ---
 
 # System Architecture Design
+
+## Overview
+
+This skill provides comprehensive guidance and best practices for this domain.
 
 ## 1. Skill Description and Purpose
 

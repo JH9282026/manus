@@ -1,12 +1,13 @@
 ---
 name: running-injury-assessment-treatment
-description: This skill provides comprehensive running injury assessment, treatment guidance, and return-to-running protocols for the most prevalent overuse injuries affecting distance runners.
+description: "This skill provides comprehensive running injury assessment, treatment guidance, and return-to-running protocols for the most prevalent overuse injuries affecting distance runners."
 ---
 
----
-name: Running Injury Assessment & Treatment
-description: Systematic running injury identification, evidence-based treatment protocols, rehabilitation exercises, and graduated return-to-running programs for common overuse injuries affecting distance runners.
----
+# Running Injury Assessment Treatment
+
+## Overview
+
+This skill provides comprehensive guidance and best practices for this domain.
 
 ## Skill Description and Purpose
 

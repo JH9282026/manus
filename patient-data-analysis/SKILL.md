@@ -1,14 +1,13 @@
 ---
 name: patient-data-analysis
-description: Patient Data Analysis is a sophisticated capability for extracting actionable insights from diverse patient health information sources, including electronic health records, claims databases, patient registries, wearable device data, and patient-reported outcomes.
----
-
----
-name: Patient Data Analysis
-description: Advanced analytical processing of patient health records, clinical outcomes data, and population health metrics to derive insights supporting clinical decision-making, quality improvement, and healthcare operations optimization.
+description: "Patient Data Analysis is a sophisticated capability for extracting actionable insights from diverse patient health information sources, including electronic health records, claims databases, patient registries, wearable device data, and patient-reported outcomes."
 ---
 
 # Patient Data Analysis
+
+## Overview
+
+This skill provides comprehensive guidance and best practices for this domain.
 
 ## 1. Skill Description and Purpose
 

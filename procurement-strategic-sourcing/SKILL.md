@@ -1,14 +1,13 @@
 ---
 name: procurement-strategic-sourcing
-description: The Procurement & Strategic Sourcing skill empowers AI agents to deliver comprehensive procurement strategy, vendor management, and strategic sourcing capabilities.
----
-
----
-name: Procurement & Strategic Sourcing
-description: Comprehensive procurement strategy skill enabling vendor management, contract negotiation, cost optimization, and supply chain excellence to maximize value while managing risk across the organization's external spend.
+description: "The Procurement & Strategic Sourcing skill empowers AI agents to deliver comprehensive procurement strategy, vendor management, and strategic sourcing capabilities."
 ---
 
 # Procurement & Strategic Sourcing
+
+## Overview
+
+This skill provides comprehensive guidance and best practices for this domain.
 
 ## Skill Description and Purpose
 

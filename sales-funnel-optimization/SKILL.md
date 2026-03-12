@@ -1,14 +1,13 @@
 ---
 name: sales-funnel-optimization
-description: Sales Funnel Optimization is a systematic capability for analyzing, measuring, and improving the efficiency of customer acquisition and conversion processes.
----
-
----
-name: Sales Funnel Optimization
-description: Analyzes and optimizes the entire customer acquisition journey from awareness to conversion, identifying bottlenecks, improving conversion rates, and maximizing revenue efficiency at each funnel stage.
+description: "Sales Funnel Optimization is a systematic capability for analyzing, measuring, and improving the efficiency of customer acquisition and conversion processes."
 ---
 
 # Sales Funnel Optimization
+
+## Overview
+
+This skill provides comprehensive guidance and best practices for this domain.
 
 ## 1. Skill Description and Purpose
 

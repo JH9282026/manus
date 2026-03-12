@@ -1,14 +1,13 @@
 ---
 name: pricing-research
-description: Pricing Research is a sophisticated analytical skill designed to systematically investigate price-related questions including customer price sensitivity, competitive pricing dynamics, optimal price points, value perception, and pricing strategy effectiveness.
----
-
----
-name: Pricing Research
-description: Advanced pricing analytics skill for conducting price sensitivity analysis, competitive pricing intelligence, willingness-to-pay studies, and pricing strategy optimization through rigorous quantitative and qualitative methodologies.
+description: "Pricing Research is a sophisticated analytical skill designed to systematically investigate price-related questions including customer price sensitivity, competitive pricing dynamics, optimal price points, value perception, and pricing strategy effectiveness."
 ---
 
 # Pricing Research Skill
+
+## Overview
+
+This skill provides comprehensive guidance and best practices for this domain.
 
 ## Skill Description and Purpose
 

@@ -1,12 +1,13 @@
 ---
 name: private-pilot-ground-school-course
-description: This skill delivers complete private pilot ground school curriculum development aligned with FAA requirements, preparing student pilots for the FAA Private Pilot Knowledge Test (PAR) and providing foundational knowledge for flight training.
+description: "This skill delivers complete private pilot ground school curriculum development aligned with FAA requirements, preparing student pilots for the FAA Private Pilot Knowledge Test (PAR) and providing foundational knowledge for flight training."
 ---
 
----
-name: Private Pilot Ground School Course Development
-description: Comprehensive private pilot ground school curriculum design covering FAA knowledge test preparation, aerodynamics, weather theory, navigation, regulations, aircraft systems, and flight planning for aspiring pilots.
----
+# Private Pilot Ground School Course
+
+## Overview
+
+This skill provides comprehensive guidance and best practices for this domain.
 
 ## Skill Description and Purpose
 

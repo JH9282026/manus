@@ -1,14 +1,13 @@
 ---
 name: scientific-research-methodology
-description: Scientific Research Methodology is a foundational capability for implementing rigorous scientific inquiry processes across all research domains.
----
-
----
-name: Scientific Research Methodology
-description: Comprehensive framework for designing, conducting, and evaluating scientific research across disciplines, ensuring methodological rigor, reproducibility, and adherence to established scientific standards.
+description: "Scientific Research Methodology is a foundational capability for implementing rigorous scientific inquiry processes across all research domains."
 ---
 
 # Scientific Research Methodology
+
+## Overview
+
+This skill provides comprehensive guidance and best practices for this domain.
 
 ## 1. Skill Description and Purpose
 

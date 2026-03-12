@@ -1,14 +1,13 @@
 ---
 name: user-research-ux-research
-description: User Research & UX Research is a systematic approach to understanding users, their behaviors, motivations, pain points, and needs through various qualitative and quantitative methods.
----
-
----
-name: User Research & UX Research
-description: Comprehensive methodology for understanding user behavior, needs, and experiences to inform product design and optimization decisions.
+description: "User Research & UX Research is a systematic approach to understanding users, their behaviors, motivations, pain points, and needs through various qualitative and quantitative methods."
 ---
 
 # User Research & UX Research
+
+## Overview
+
+This skill provides comprehensive guidance and best practices for this domain.
 
 ## Skill Description and Purpose
 

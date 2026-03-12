@@ -1,14 +1,13 @@
 ---
 name: personal-finance-wealth-management
-description: The Personal Finance & Wealth Management skill empowers AI agents to deliver comprehensive financial guidance, analysis, and strategic planning across all dimensions of personal financial health.
----
-
----
-name: Personal Finance & Wealth Management
-description: Comprehensive financial planning skill enabling autonomous analysis, optimization, and strategic management of personal finances including budgeting, investments, retirement planning, tax optimization, and wealth building strategies.
+description: "The Personal Finance & Wealth Management skill empowers AI agents to deliver comprehensive financial guidance, analysis, and strategic planning across all dimensions of personal financial health."
 ---
 
 # Personal Finance & Wealth Management
+
+## Overview
+
+This skill provides comprehensive guidance and best practices for this domain.
 
 ## Skill Description and Purpose
 

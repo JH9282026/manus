@@ -1,14 +1,13 @@
 ---
 name: research-paper-analysis
-description: Research Paper Analysis is an advanced capability for systematically dissecting, evaluating, and synthesizing scientific publications across disciplines.
----
-
----
-name: Research Paper Analysis
-description: Critical evaluation and comprehensive analysis of scientific publications including methodology assessment, statistical validity, reproducibility verification, and synthesis of findings within broader research contexts.
+description: "Research Paper Analysis is an advanced capability for systematically dissecting, evaluating, and synthesizing scientific publications across disciplines."
 ---
 
 # Research Paper Analysis
+
+## Overview
+
+This skill provides comprehensive guidance and best practices for this domain.
 
 ## 1. Skill Description and Purpose
 

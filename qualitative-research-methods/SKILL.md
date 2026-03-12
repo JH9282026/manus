@@ -1,14 +1,13 @@
 ---
 name: qualitative-research-methods
-description: Qualitative Research Methods encompass a suite of systematic approaches designed to explore, understand, and interpret complex social phenomena, human experiences, behaviors, and meanings.
----
-
----
-name: Qualitative Research Methods
-description: Systematic approaches for gathering rich, contextual data through interviews, focus groups, ethnography, and interpretive analysis techniques.
+description: "Qualitative Research Methods encompass a suite of systematic approaches designed to explore, understand, and interpret complex social phenomena, human experiences, behaviors, and meanings."
 ---
 
 # Qualitative Research Methods
+
+## Overview
+
+This skill provides comprehensive guidance and best practices for this domain.
 
 ## Skill Description and Purpose
 

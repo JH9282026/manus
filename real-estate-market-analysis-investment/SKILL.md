@@ -1,14 +1,13 @@
 ---
 name: real-estate-market-analysis-investment
-description: The Real Estate Market Analysis & Investment skill enables comprehensive evaluation of real estate markets, property investment opportunities, and investment strategy development.
----
-
----
-name: Real Estate Market Analysis & Investment
-description: Comprehensive real estate market evaluation, property investment analysis, and investment strategy capabilities for real estate investment decision-making.
+description: "The Real Estate Market Analysis & Investment skill enables comprehensive evaluation of real estate markets, property investment opportunities, and investment strategy development."
 ---
 
 # Real Estate Market Analysis & Investment
+
+## Overview
+
+This skill provides comprehensive guidance and best practices for this domain.
 
 ## Skill Description and Purpose
 

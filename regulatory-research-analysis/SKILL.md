@@ -1,14 +1,13 @@
 ---
 name: regulatory-research-analysis
-description: Regulatory Research & Analysis is a comprehensive investigative skill designed to monitor, interpret, and synthesize regulatory developments across complex multi-jurisdictional environments.
----
-
----
-name: Regulatory Research & Analysis
-description: Systematic research, monitoring, and analysis of regulatory developments, proposed rules, enforcement trends, and compliance requirements across jurisdictions to support strategic planning and policy advocacy.
+description: "Regulatory Research & Analysis is a comprehensive investigative skill designed to monitor, interpret, and synthesize regulatory developments across complex multi-jurisdictional environments."
 ---
 
 # Regulatory Research & Analysis
+
+## Overview
+
+This skill provides comprehensive guidance and best practices for this domain.
 
 ## 1. Skill Description and Purpose
 

@@ -1,14 +1,13 @@
 ---
 name: renewable-energy-project-development
-description: The Renewable Energy Project Development skill enables comprehensive development and analysis of renewable energy projects including solar photovoltaic, wind (onshore and offshore), and hydroelectric facilities.
----
-
----
-name: Renewable Energy Project Development
-description: End-to-end renewable energy project development capabilities including solar, wind, and hydro projects, project finance, PPAs, regulatory incentives, and grid integration.
+description: "The Renewable Energy Project Development skill enables comprehensive development and analysis of renewable energy projects including solar photovoltaic, wind (onshore and offshore), and hydroelectric facilities."
 ---
 
 # Renewable Energy Project Development
+
+## Overview
+
+This skill provides comprehensive guidance and best practices for this domain.
 
 ## Skill Description and Purpose
 

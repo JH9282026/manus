@@ -1,14 +1,13 @@
 ---
 name: oil-gas-industry-analysis
-description: The Oil & Gas Industry Analysis skill enables comprehensive analysis across the entire oil and gas value chain including upstream exploration and production (E&P), midstream transportation and storage, and downstream refining and marketing.
----
-
----
-name: Oil & Gas Industry Analysis
-description: Comprehensive oil and gas industry analysis covering upstream E&P, midstream infrastructure, downstream refining, reserves evaluation, production economics, and energy transition.
+description: "The Oil & Gas Industry Analysis skill enables comprehensive analysis across the entire oil and gas value chain including upstream exploration and production (E&P), midstream transportation and storage, and downstream refining and marketing."
 ---
 
 # Oil & Gas Industry Analysis
+
+## Overview
+
+This skill provides comprehensive guidance and best practices for this domain.
 
 ## Skill Description and Purpose
 
