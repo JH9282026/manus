@@ -93,3 +93,12 @@ This skill synthesizes brand heritage, market positioning, consumer psychology, 
 **`/references/marketing-strategy.md`** — Read when assessing campaigns and channels. Contains channel strategies, messaging frameworks, and campaign analysis.
 
 **`/references/regional-strategy.md`** — Read when adapting for specific markets. Covers regional positioning variations and cultural considerations.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Brand Positioning](references/brand-positioning.md)
+- [Consumer Segments](references/consumer-segments.md)
+- [Marketing Strategy](references/marketing-strategy.md)
+- [Regional Strategy](references/regional-strategy.md)

@@ -79,3 +79,10 @@ This skill transforms comparative data into strategic insights by systematically
 **`/references/methodology.md`** — Read when designing benchmarking studies, selecting data sources, or establishing normalization procedures.
 
 **`/references/industry-benchmarks.md`** — Read when accessing industry-specific KPI targets, percentile distributions, or best-in-class performance standards.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Industry Benchmarks](references/industry-benchmarks.md)
+- [Methodology](references/methodology.md)

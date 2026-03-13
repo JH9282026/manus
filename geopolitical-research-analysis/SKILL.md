@@ -51,3 +51,10 @@ This skill provides frameworks for analyzing geopolitical landscapes including c
 **`/references/country-risk-frameworks.md`** — Read when conducting country risk profiles, assessing political stability, evaluating bilateral relations, or benchmarking risk across jurisdictions.
 
 **`/references/scenario-planning-methods.md`** — Read when building geopolitical scenarios, stress-testing supply chains, analyzing sanctions exposure, or developing long-term strategic forecasts.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Country Risk Frameworks](references/country-risk-frameworks.md)
+- [Scenario Planning Methods](references/scenario-planning-methods.md)

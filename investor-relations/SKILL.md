@@ -34,3 +34,10 @@ This skill covers earnings communications, investor presentations, shareholder a
 **`/references/earnings-communications.md`** — Read for releases, call scripts, Q&A prep, or investor decks.
 
 **`/references/shareholder-strategy.md`** — Read for ownership analysis, activist response, analyst relations, or IR metrics.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Earnings Communications](references/earnings-communications.md)
+- [Shareholder Strategy](references/shareholder-strategy.md)

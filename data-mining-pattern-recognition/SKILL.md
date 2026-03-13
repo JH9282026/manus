@@ -89,3 +89,10 @@ Transform vast quantities of raw data into actionable knowledge by identifying r
 **`/references/clustering-segmentation.md`** — Read when performing cluster analysis, profiling segments, or validating cluster quality.
 
 **`/references/association-anomaly-text-mining.md`** — Read when mining association rules, detecting anomalies/fraud, performing text mining, or applying dimensionality reduction techniques.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Association Anomaly Text Mining](references/association-anomaly-text-mining.md)
+- [Clustering Segmentation](references/clustering-segmentation.md)

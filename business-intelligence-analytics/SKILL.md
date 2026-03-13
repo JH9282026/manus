@@ -129,3 +129,11 @@ This skill enables end-to-end business intelligence capabilities from strategy t
 **`/references/dashboard-design.md`** — Read when designing dashboards, creating visualization standards, or building executive reports.
 
 **`/references/analytics-governance.md`** — Read when establishing data governance, defining access controls, or creating analytics policies.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Analytics Governance](references/analytics-governance.md)
+- [Dashboard Design](references/dashboard-design.md)
+- [Platform Implementation](references/platform-implementation.md)

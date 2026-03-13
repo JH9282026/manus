@@ -48,3 +48,10 @@ This skill covers infographic types, design principles, layout patterns, color t
 **`/references/infographic-types-principles.md`** — Read for type selection, design principles, color theory, or typography.
 
 **`/references/data-visualization-production.md`** — Read for chart best practices, platform dimensions, file formats, or production checklists.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Data Visualization Production](references/data-visualization-production.md)
+- [Infographic Types Principles](references/infographic-types-principles.md)

@@ -65,3 +65,10 @@ This skill provides detailed powertrain analysis (ICE, hybrid, BEV), chassis and
 **`/references/powertrain-specs.md`** — Read when analyzing engine configurations, electric motor systems, transmission specifications, or battery technology details.
 
 **`/references/safety-adas.md`** — Read when evaluating crash test results, active safety features, or comparing ADAS capabilities across manufacturers.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Powertrain Specs](references/powertrain-specs.md)
+- [Safety Adas](references/safety-adas.md)

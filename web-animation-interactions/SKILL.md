@@ -38,3 +38,12 @@ Choose your approach based on your specific needs:
 **`/references/interaction-patterns.md`** — Read when you need detailed information about micro-interactions, scroll effects, and gesture-based animations.
 
 **`/references/performance-optimization.md`** — Read when you need detailed information about GPU acceleration, will-change, and performance best practices.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Css Animations](references/css-animations.md)
+- [Interaction Patterns](references/interaction-patterns.md)
+- [Javascript Animation](references/javascript-animation.md)
+- [Performance Optimization](references/performance-optimization.md)

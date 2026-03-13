@@ -72,3 +72,10 @@ Provide frameworks for designing experiments from simple A/B tests to complex fa
 **`/references/design-methods.md`** — Read when planning specific experiment designs: factorial, blocking, response surface, or when calculating sample sizes and power.
 
 **`/references/statistical-analysis.md`** — Read when analyzing experimental data, interpreting results, checking assumptions, or selecting appropriate statistical tests.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Design Methods](references/design-methods.md)
+- [Statistical Analysis](references/statistical-analysis.md)

@@ -91,3 +91,11 @@ Use the CX Impact Matrix to prioritize improvements:
 **`/references/voc-measurement-analytics.md`** — Read when designing VoC programs, selecting CX metrics, building measurement frameworks, or calculating CX ROI.
 
 **`/references/cx-improvement-implementation.md`** — Read when prioritizing CX improvements, designing experience interventions, or building organizational CX capabilities.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Cx Improvement Implementation](references/cx-improvement-implementation.md)
+- [Journey Mapping Blueprinting](references/journey-mapping-blueprinting.md)
+- [Voc Measurement Analytics](references/voc-measurement-analytics.md)

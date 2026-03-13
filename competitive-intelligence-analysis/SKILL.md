@@ -66,3 +66,11 @@ This skill reduces uncertainty in competitive environments by providing evidence
 **`/references/analysis-frameworks.md`** — Read when synthesizing intelligence into strategic assessments.
 
 **`/references/deliverable-templates.md`** — Read when creating battlecards, reports, or dashboards.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Analysis Frameworks](references/analysis-frameworks.md)
+- [Collection Methods](references/collection-methods.md)
+- [Deliverable Templates](references/deliverable-templates.md)

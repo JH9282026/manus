@@ -98,3 +98,13 @@ Control for legitimate pay factors to isolate unexplained gaps:
 **`/references/equity-programs.md`** — Read when designing stock option, RSU, or ESPP programs or evaluating equity compensation strategies.
 
 **`/references/benefits-analysis.md`** — Read when evaluating benefits competitiveness, analyzing costs, or redesigning benefits programs.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Benefits Analysis](references/benefits-analysis.md)
+- [Equity Programs](references/equity-programs.md)
+- [Incentive Design](references/incentive-design.md)
+- [Market Analysis](references/market-analysis.md)
+- [Pay Equity](references/pay-equity.md)

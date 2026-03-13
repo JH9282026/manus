@@ -38,3 +38,12 @@ Choose your approach based on your specific needs:
 **`/references/mobile-commerce.md`** — Read when you need detailed information about responsive design and mobile-first ecommerce patterns.
 
 **`/references/trust-conversion.md`** — Read when you need detailed information about trust signals, social proof, and persuasion techniques.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Checkout Optimization](references/checkout-optimization.md)
+- [Mobile Commerce](references/mobile-commerce.md)
+- [Product Pages](references/product-pages.md)
+- [Trust Conversion](references/trust-conversion.md)

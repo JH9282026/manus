@@ -50,3 +50,10 @@ Identify → Research → Cultivate → Solicit → Thank → Report → Renew/U
 **`/references/grant-development.md`** — Read when writing grant proposals, managing grant compliance, developing corporate sponsorship packages, or conducting prospect research.
 
 **`/references/donor-campaigns.md`** — Read when planning annual fund appeals, major donor cultivation, capital campaigns, crowdfunding, event fundraising, or donor stewardship programs.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Donor Campaigns](references/donor-campaigns.md)
+- [Grant Development](references/grant-development.md)

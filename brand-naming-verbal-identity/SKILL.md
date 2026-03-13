@@ -68,3 +68,10 @@ From strongest to weakest protection:
 **`/references/naming-process.md`** — Read when conducting naming projects, generating name candidates, or testing names with audiences.
 
 **`/references/verbal-system.md`** — Read when developing taglines, creating nomenclature systems, or building complete verbal identity frameworks.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Naming Process](references/naming-process.md)
+- [Verbal System](references/verbal-system.md)

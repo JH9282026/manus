@@ -86,3 +86,10 @@ This skill covers brand guidelines creation, governance frameworks, brand manage
 **`/references/guidelines-templates.md`** — Read when creating brand guideline documents, specifying logo rules, or documenting visual identity standards.
 
 **`/references/governance-audit.md`** — Read when establishing brand governance frameworks, conducting brand audits, or managing global brand consistency.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Governance Audit](references/governance-audit.md)
+- [Guidelines Templates](references/guidelines-templates.md)

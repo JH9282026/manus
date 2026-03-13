@@ -92,3 +92,14 @@ Read when optimizing for specific platform requirements, character limits, and i
 
 ### `/references/keyword-strategy.md`
 Read when conducting keyword research, prioritization, and seasonal optimization.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Android Optimization](references/android-optimization.md)
+- [Ios Optimization](references/ios-optimization.md)
+- [Keyword Research](references/keyword-research.md)
+- [Keyword Strategy](references/keyword-strategy.md)
+- [Localization](references/localization.md)
+- [Platform Guidelines](references/platform-guidelines.md)

@@ -59,3 +59,10 @@ Analyze industry dynamics, market size, growth trajectories, competitive landsca
 **`/references/market-sizing.md`** — Read when calculating market size, analyzing industry trends, conducting PESTEL analysis, or evaluating market entry opportunities.
 
 **`/references/competitive-analysis.md`** — Read when mapping competitive landscapes, benchmarking competitors, analyzing consumer behavior, or conducting segmentation research.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Competitive Analysis](references/competitive-analysis.md)
+- [Market Sizing](references/market-sizing.md)

@@ -105,3 +105,13 @@ Read when performing statistical analysis, calculating sample sizes, or interpre
 
 ### `/references/multivariate-testing.md`
 Read when designing experiments with multiple factors or variants.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Ab Test Fundamentals](references/ab-test-fundamentals.md)
+- [Advanced Methods](references/advanced-methods.md)
+- [Multivariate Testing](references/multivariate-testing.md)
+- [Statistical Analysis](references/statistical-analysis.md)
+- [Statistical Methods](references/statistical-methods.md)

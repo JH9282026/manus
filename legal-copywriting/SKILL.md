@@ -63,3 +63,10 @@ This skill provides legal copywriting guidance, not legal advice. All documents 
 **`/references/terms-privacy-templates.md`** — Read when drafting Terms of Service, Privacy Policies, or Cookie Policies with section-by-section guidance and regulatory mapping.
 
 **`/references/legal-writing-principles.md`** — Read when applying plain-language techniques, structuring legal documents, writing EULAs, disclaimers, or refund policies.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Legal Writing Principles](references/legal-writing-principles.md)
+- [Terms Privacy Templates](references/terms-privacy-templates.md)

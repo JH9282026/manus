@@ -36,3 +36,10 @@ A structured 7-phase workflow ensuring infographics are created efficiently and 
 **`/references/discovery-design-phases.md`** — Read for kickoff, research, content strategy, wireframing, or design execution.
 
 **`/references/review-delivery-phases.md`** — Read for review management, finalization, QA, or client handoff.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Discovery Design Phases](references/discovery-design-phases.md)
+- [Review Delivery Phases](references/review-delivery-phases.md)

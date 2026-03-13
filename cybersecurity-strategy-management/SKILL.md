@@ -81,3 +81,11 @@ Enable organizations to protect critical assets, achieve regulatory compliance, 
 **`/references/threat-incident-management.md`** — Read when building threat management programs, designing incident response plans, developing SOC operations, or conducting security assessments.
 
 **`/references/compliance-cloud-security.md`** — Read when addressing GDPR, HIPAA, SOC 2, PCI-DSS compliance, implementing cloud security, or designing zero trust architecture.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Compliance Cloud Security](references/compliance-cloud-security.md)
+- [Security Frameworks Implementation](references/security-frameworks-implementation.md)
+- [Threat Incident Management](references/threat-incident-management.md)

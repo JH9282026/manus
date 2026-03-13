@@ -124,3 +124,13 @@ Map every conversation path:
 **`/references/error-handling.md`** — Read when designing fallback flows, escalation paths, or handling edge cases.
 
 **`/references/templates.md`** — Read when needing ready-to-use conversation templates, training phrase examples, or persona worksheets.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Bot Types](references/bot-types.md)
+- [Conversation Design](references/conversation-design.md)
+- [Error Handling](references/error-handling.md)
+- [Templates](references/templates.md)
+- [Voice Writing](references/voice-writing.md)

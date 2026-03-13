@@ -52,3 +52,10 @@ This skill provides frameworks for applying design principles to solve visual co
 **`/references/design-principles-systems.md`** — Read when developing brand identities, selecting palettes, choosing typography, or building style guides.
 
 **`/references/production-specifications.md`** — Read when preparing print files, optimizing for digital platforms, or creating deliverable specs.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Design Principles Systems](references/design-principles-systems.md)
+- [Production Specifications](references/production-specifications.md)

@@ -359,3 +359,34 @@ End-of-training assessment to evaluate learning achievement.
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
 
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Adapting Training To Different Contexts](references/adapting-training-to-different-contexts.md)
+- [Adult Learning Principles Andragogy](references/adult-learning-principles-andragogy.md)
+- [Common Mistakes In Training Presentations](references/common-mistakes-in-training-presentations.md)
+- [Detailed Content](references/detailed-content.md)
+- [Differences Between Training Presentations And Other Types](references/differences-between-training-presentations-and-other-types.md)
+- [Engagement Strategies For Training](references/engagement-strategies-for-training.md)
+- [Feedback And Evaluation Methods](references/feedback-and-evaluation-methods.md)
+- [Follow Up And Reinforcement Strategies](references/follow-up-and-reinforcement-strategies.md)
+- [Handling Difficult Participants And Challenging Situations](references/handling-difficult-participants-and-challenging-situations.md)
+- [Hands On Practice And Skill Development](references/hands-on-practice-and-skill-development.md)
+- [Interactive Presentation Techniques](references/interactive-presentation-techniques.md)
+- [Knowledge Checks And Assessments](references/knowledge-checks-and-assessments.md)
+- [Learning Objectives And Outcomes](references/learning-objectives-and-outcomes.md)
+- [Managing Different Learning Styles](references/managing-different-learning-styles.md)
+- [Measuring Training Effectiveness](references/measuring-training-effectiveness.md)
+- [Pacing And Timing In Training Sessions](references/pacing-and-timing-in-training-sessions.md)
+- [Participant Materials](references/participant-materials.md)
+- [Summary](references/summary.md)
+- [Tools And Resources For Trainers](references/tools-and-resources-for-trainers.md)
+- [Training Delivery Excellence](references/training-delivery-excellence.md)
+- [Training Presentation Design Best Practices](references/training-presentation-design-best-practices.md)
+- [Training Presentation Structures And Frameworks](references/training-presentation-structures-and-frameworks.md)
+- [Training Session Planning Checklist](references/training-session-planning-checklist.md)
+- [Using The Reference Files](references/using-the-reference-files.md)
+- [Virtual Training And Online Workshops](references/virtual-training-and-online-workshops.md)
+- [Visual Aids And Materials For Training](references/visual-aids-and-materials-for-training.md)
+- [Workshop Design And Facilitation](references/workshop-design-and-facilitation.md)

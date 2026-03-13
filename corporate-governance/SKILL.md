@@ -63,3 +63,11 @@ Ensure organizations maintain robust governance structures that satisfy regulato
 **`/references/committee-governance.md`** — Read for committee charters, responsibilities, and best practices.
 
 **`/references/regulatory-compliance.md`** — Read for SEC, NYSE/NASDAQ, and state law requirements.
+
+## Reference Files
+
+This skill includes the following detailed reference materials:
+
+- [Board Administration](references/board-administration.md)
+- [Committee Governance](references/committee-governance.md)
+- [Regulatory Compliance](references/regulatory-compliance.md)
