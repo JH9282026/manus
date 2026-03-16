@@ -1,0 +1,3 @@
+# Jwt Patterns
+
+Detailed implementation guide...

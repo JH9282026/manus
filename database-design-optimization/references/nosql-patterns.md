@@ -1,0 +1,3 @@
+# Nosql Patterns
+
+Comprehensive guide...

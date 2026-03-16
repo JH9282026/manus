@@ -1,0 +1,3 @@
+# API Security Patterns
+
+Security implementation for APIs...
