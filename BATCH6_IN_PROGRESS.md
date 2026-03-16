@@ -1,0 +1,3 @@
+# Batch 6 Creation In Progress
+
+Creating 9 AI & ML skills...
