@@ -460,33 +460,19 @@ DOOH advertising must navigate evolving privacy regulations:
 
 ## Learning Resources
 
-### Industry Organizations
+### Industry Organizations and Publications
 
 - **OAAA (Out of Home Advertising Association of America)**: Industry association providing research, standards, and advocacy
 - **IAB (Interactive Advertising Bureau)**: Digital advertising standards, including DOOH guidelines
-- **WOO (World Out of Home Organization)**: Global OOH industry association
 - **Geopath**: Audience measurement and insights for OOH advertising
+- **AdExchanger and The Drum**: Industry news and analysis of programmatic DOOH
 
-### Publications and Research
+### Platforms and Training
 
-- **OAAA Industry Reports**: Regular research on OOH trends, spending, and effectiveness
-- **Geopath Insights**: Audience measurement data and industry analysis
-- **AdExchanger DOOH Coverage**: News and analysis of programmatic DOOH
-- **The Drum OOH Section**: Industry news and case studies
-
-### Platforms and Tools
-
-- **Vistar Media**: Programmatic DOOH platform and resources
-- **Hivestack**: pDOOH platform with educational content
-- **Broadsign**: DOOH content management and analytics
+- **Vistar Media, Hivestack, Broadsign**: Leading pDOOH platforms with educational resources
 - **The Trade Desk**: DSP with DOOH capabilities and learning resources
-
-### Courses and Training
-
 - **IAB Digital Out-of-Home Certification**: Industry-recognized DOOH training
 - **OAAA Educational Programs**: Workshops and webinars on OOH advertising
-- **LinkedIn Learning Digital Advertising Courses**: Include DOOH modules
-- **Platform-Specific Training**: DSPs and SSPs offer training on their platforms
 
 ## Related Skills
 
@@ -503,9 +489,7 @@ DOOH advertising must navigate evolving privacy regulations:
 
 Digital Out-of-Home advertising has evolved from simple digital billboards into a sophisticated, data-driven marketing channel that combines the broad reach and impact of traditional outdoor advertising with the targeting, flexibility, and measurement capabilities of digital media. The rise of programmatic DOOH has made the medium more accessible, efficient, and effective than ever before.
 
-Success in DOOH advertising requires understanding the diverse formats and technologies, leveraging programmatic buying for precision and scale, creating compelling creative optimized for the medium, and implementing comprehensive measurement to demonstrate impact. As DOOH continues to evolve with emerging technologies like AI, AR, and advanced sensors, the opportunities for innovative, effective campaigns will only expand.
-
-For marketers seeking to reach audiences in the physical world with the sophistication of digital advertising, DOOH offers a powerful solution. By integrating DOOH into omnichannel strategies, brands can create cohesive experiences that drive awareness, consideration, and action across the customer journey. The brands that master DOOH advertising will be well-positioned to capture attention and drive results in an increasingly fragmented media landscape.
+Success in DOOH advertising requires understanding the diverse formats and technologies, leveraging programmatic buying for precision and scale, creating compelling creative optimized for the medium, and implementing comprehensive measurement to demonstrate impact. As DOOH continues to evolve with emerging technologies like AI, AR, and advanced sensors, the opportunities for innovative campaigns will only expand. By integrating DOOH into omnichannel strategies, brands can create cohesive experiences that drive awareness, consideration, and action across the customer journey.
 
 ## References
 
