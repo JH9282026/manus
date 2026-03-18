@@ -384,52 +384,7 @@ Svelte is a radical new approach to building user interfaces. Unlike traditional
 
 ## Stores for State Management
 
-### Store Types
-
-**Writable Store**
-```javascript
-// stores.js
-import { writable } from 'svelte/store';
-
-export const count = writable(0);
-export const user = writable(null);
-```
-
-**Readable Store**
-```javascript
-import { readable } from 'svelte/store';
-
-export const time = readable(new Date(), (set) => {
-  const interval = setInterval(() => {
-    set(new Date());
-  }, 1000);
-  
-  return () => clearInterval(interval);
-});
-```
-
-**Derived Store**
-```javascript
-import { derived } from 'svelte/store';
-import { count } from './stores';
-
-export const doubled = derived(count, $count => $count * 2);
-```
-
-**Using Stores in Components**
-```svelte
-<script>
-  import { count, user } from './stores';
-  
-  // Auto-subscription with $ prefix
-  // Automatically unsubscribes on component destroy
-</script>
-
-<p>Count: {$count}</p>
-<button on:click={() => $count += 1}>Increment</button>
-<button on:click={() => count.set(0)}>Reset</button>
-<button on:click={() => count.update(n => n + 1)}>Update</button>
-```
+Svelte provides three store types: `writable` (read/write), `readable` (read-only with setup logic), and `derived` (computed from other stores). Use the `$` prefix for auto-subscription in components (automatically unsubscribes on destroy). Stores support `.set()`, `.update()`, and `.subscribe()` methods. Create custom stores by wrapping built-in stores with additional methods.
 
 ## Styling Approaches
 
