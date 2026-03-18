@@ -500,226 +500,27 @@ export const doubled = derived(count, $count => $count * 2);
 
 ## Animations and Transitions
 
-### Built-in Transitions
-
-**Transition Directives**
-```svelte
-<script>
-  import { fade, fly, slide, scale } from 'svelte/transition';
-  let visible = true;
-</script>
-
-{#if visible}
-  <div transition:fade>Fades in and out</div>
-  <div transition:fly={{ y: 200, duration: 500 }}>Flies in and out</div>
-  <div transition:slide>Slides in and out</div>
-  <div transition:scale>Scales in and out</div>
-{/if}
-```
-
-**Separate In/Out Transitions**
-```svelte
-<script>
-  import { fade, fly } from 'svelte/transition';
-</script>
-
-{#if visible}
-  <div in:fly={{ y: 200 }} out:fade>
-    Different in/out transitions
-  </div>
-{/if}
-```
-
-### Animations
-
-**Animate Directive**
-```svelte
-<script>
-  import { flip } from 'svelte/animate';
-  import { quintOut } from 'svelte/easing';
-  
-  let items = [1, 2, 3, 4, 5];
-  
-  function shuffle() {
-    items = items.sort(() => Math.random() - 0.5);
-  }
-</script>
-
-<button on:click={shuffle}>Shuffle</button>
-
-{#each items as item (item)}
-  <div animate:flip={{ duration: 500, easing: quintOut }}>
-    {item}
-  </div>
-{/each}
-```
+Svelte provides built-in transition and animation directives for smooth UI effects. Use `transition:`, `in:`, and `out:` directives with built-in transitions like `fade`, `fly`, `slide`, and `scale`. The `animate:` directive (e.g., `animate:flip`) handles list reordering animations. All transitions are highly performant and customizable with duration, delay, and easing options.
 
 ## SvelteKit Overview
 
-### When to Use SvelteKit
-
-**SvelteKit Benefits**
-- File-based routing
-- Server-side rendering (SSR)
-- Static site generation (SSG)
-- API routes
-- Code splitting
-- Preloading
-- Deployment adapters
-
-**Project Structure**
-```
-src/
-├── routes/              # File-based routing
-│   ├── +page.svelte    # Home page
-│   ├── about/
-│   │   └── +page.svelte
-│   └── blog/
-│       ├── +page.svelte
-│       └── [slug]/
-│           └── +page.svelte
-├── lib/                 # Reusable components
-└── app.html            # HTML template
-```
-
-### Routing Basics
-
-**Page Routes**
-- `src/routes/+page.svelte` → `/`
-- `src/routes/about/+page.svelte` → `/about`
-- `src/routes/blog/[slug]/+page.svelte` → `/blog/:slug`
-
-**Loading Data**
-```javascript
-// +page.js or +page.server.js
-export async function load({ params, fetch }) {
-  const response = await fetch(`/api/posts/${params.slug}`);
-  const post = await response.json();
-  
-  return {
-    post
-  };
-}
-```
+SvelteKit is the official full-stack framework for Svelte, providing file-based routing, SSR, SSG, API routes, and deployment adapters. Routes are defined by file structure in `src/routes/` with `+page.svelte` files. Use `+page.js` or `+page.server.js` for data loading with the `load` function. Dynamic routes use `[param]` syntax. SvelteKit supports layouts (`+layout.svelte`), form actions, and various deployment targets via adapters.
 
 ## Performance Optimization
 
-### Bundle Size Optimization
-
-**Automatic Optimizations**
-- Dead code elimination
-- Component-level code splitting
-- CSS scoping without runtime
-- No virtual DOM overhead
-
-**Manual Optimizations**
-- Lazy load components with dynamic imports
-- Use stores for shared state (avoid prop drilling)
-- Minimize reactive statements
-- Use `{#key}` blocks to force re-renders only when needed
-
-### Rendering Performance
-
-**Keyed Each Blocks**
-```svelte
-<!-- Without key - slower updates -->
-{#each items as item}
-  <Item {item} />
-{/each}
-
-<!-- With key - efficient updates -->
-{#each items as item (item.id)}
-  <Item {item} />
-{/each}
-```
-
-**Immutable Data**
-```svelte
-<script>
-  // Prefer immutable updates
-  function addItem() {
-    items = [...items, newItem];  // Good
-    // items.push(newItem);        // Won't trigger reactivity
-  }
-</script>
-```
+Svelte's compiler provides automatic optimizations including dead code elimination, component-level code splitting, and CSS scoping without runtime overhead. For manual optimization, use keyed `{#each}` blocks for efficient list updates, prefer immutable data patterns for reactivity, lazy load components with dynamic imports, and use stores for shared state to avoid prop drilling.
 
 ## TypeScript Support
 
-### TypeScript in Svelte
-
-**Component with TypeScript**
-```svelte
-<script lang="ts">
-  interface User {
-    id: number;
-    name: string;
-    email: string;
-  }
-  
-  export let user: User;
-  
-  let count: number = 0;
-  
-  function increment(): void {
-    count += 1;
-  }
-</script>
-
-<p>{user.name}</p>
-<button on:click={increment}>Count: {count}</button>
-```
-
-**Typed Stores**
-```typescript
-import { writable, type Writable } from 'svelte/store';
-
-interface User {
-  id: number;
-  name: string;
-}
-
-export const user: Writable<User | null> = writable(null);
-```
+Svelte has excellent TypeScript support. Use `<script lang="ts">` to enable TypeScript in components. Define interfaces for props, type stores with `Writable<T>`, and type event dispatchers. SvelteKit projects can be initialized with TypeScript support, providing full type safety across routes, load functions, and form actions.
 
 ## Testing Strategy
 
-### Testing Approaches
-
-**Unit Testing (Vitest)**
-- Test component logic
-- Test store behavior
-- Test utility functions
-
-**Component Testing (@testing-library/svelte)**
-- Test component rendering
-- Test user interactions
-- Test component integration
-
-**E2E Testing (Playwright)**
-- Test complete user flows
-- Test routing and navigation
-- Test form submissions
+Test Svelte applications with Vitest for unit testing (component logic, stores, utilities), @testing-library/svelte for component testing (rendering, interactions, integration), and Playwright for E2E testing (user flows, routing, form submissions). SvelteKit projects can be initialized with testing setup included.
 
 ## Deployment
 
-### Build and Deploy
-
-**Vite + Svelte (SPA)**
-```bash
-npm run build
-# Deploy dist/ folder to static hosting
-```
-
-**SvelteKit Adapters**
-
-| Adapter | Platform | Use Case |
-|---------|----------|----------|
-| adapter-static | Netlify, Vercel, GitHub Pages | Static sites (SSG) |
-| adapter-node | Node.js servers, Docker | Server-side rendering |
-| adapter-vercel | Vercel | Serverless + edge |
-| adapter-netlify | Netlify | Serverless functions |
-| adapter-cloudflare | Cloudflare Workers | Edge computing |
+For Vite + Svelte SPAs, run `npm run build` and deploy the `dist/` folder to static hosting. SvelteKit uses adapters for different platforms: `adapter-static` for static sites (Netlify, Vercel, GitHub Pages), `adapter-node` for Node.js servers, `adapter-vercel` for Vercel serverless, `adapter-netlify` for Netlify functions, and `adapter-cloudflare` for Cloudflare Workers. Configure adapters in `svelte.config.js`.
 
 ## Using the Reference Files
 
