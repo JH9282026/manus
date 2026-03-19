@@ -1,191 +1,458 @@
 ---
 name: interaction-design
-description: "Design intuitive, engaging user interactions for digital products through systematic application of interaction design principles, patterns, prototyping methodologies, and usability testing. Use for creating interaction flows, selecting and implementing design patterns, building prototypes (low to high fidelity), conducting usability tests, designing microinteractions, optimizing user control and feedback mechanisms, ensuring accessibility in interactions, and establishing interaction design systems for products and teams."
+description: "Design interactive behaviors, animations, transitions, and micro-interactions that enhance user experience. Use for: defining interactions, animation specs, hover states, transitions, micro-interactions, and creating delightful user experiences."
 ---
 
 # Interaction Design
 
-Create engaging, intuitive user experiences through systematic interaction design principles, patterns, prototyping, and testing.
+## Description
 
-## Overview
+Interaction Design defines how users interact with the interface through animations, transitions, micro-interactions, and feedback systems. Good interaction design makes interfaces feel responsive, intuitive, and delightful.
 
-Interaction design focuses on creating meaningful relationships between users and digital products through carefully crafted behaviors, feedback mechanisms, and interaction patterns. This skill provides frameworks for applying core interaction principles, selecting appropriate patterns, prototyping at various fidelity levels, and validating designs through usability testing. It covers the complete interaction design process from conceptualization through validation, emphasizing user-centricity, consistency, and accessibility.
+## When to Use
 
-## Core Interaction Design Principles
+- After component design is complete
+- Defining transition behaviors
+- Creating loading and feedback patterns
+- Adding polish and delight
+- Documenting interactive behaviors for development
 
-Seven fundamental principles guide all interaction design decisions:
+---
 
-| Principle | Definition | Application Example |
-|-----------|------------|---------------------|
-| **User-Centricity** | Design based on user needs, not assumptions | Google Docs AI suggests changes rather than auto-applying them, giving users control |
-| **Consistency** | Predictable patterns across touchpoints | Google Workspace maintains shared visual language and behaviors across all apps |
-| **Hierarchy** | Structure information to guide attention | AI summaries appear at top of content, prioritizing most important information first |
-| **Context** | Adapt to user's situation and environment | Google Maps changes interface for driving vs. walking, prioritizing relevant information |
-| **User Control** | Provide freedom and easy error recovery | Undo/cancel options, "emergency exits" for all critical actions |
-| **Accessibility** | Usable by widest possible audience | Sufficient color contrast, keyboard navigation, screen reader support |
-| **Usability** | Easy to learn, efficient, memorable | Core tasks completable without training or documentation |
+## Instructions for AI Agents
 
-### Principle Application Strategy
+### Step 1: Identify Interaction Points
 
-**For new features:**
-1. Start with user-centricity — validate the need through research
-2. Apply consistency — reuse existing patterns where possible
-3. Establish hierarchy — determine information priority
-4. Consider context — identify usage scenarios and constraints
-5. Ensure user control — add undo/cancel for all actions
-6. Verify accessibility — test with assistive technologies
-7. Validate usability — test with representative users
+**Categories of interactions:**
 
-**For AI-powered products:**
-- Suggest actions rather than executing automatically
-- Clearly structure AI outputs to avoid overwhelming users
-- Provide transparency about AI decision-making
-- Allow users to override or refine AI suggestions
+```markdown
+## Interaction Inventory
 
-## Interaction Pattern Selection
+### State Changes
+- Button states (hover, active, disabled)
+- Input focus states
+- Toggle/switch animations
+- Checkbox/radio selection
 
-Choose patterns based on user goals and context:
+### Navigation
+- Page transitions
+- Modal open/close
+- Drawer slide in/out
+- Tab switching
 
-| User Goal | Recommended Pattern | When to Use |
-|-----------|---------------------|-------------|
-| Navigate hierarchy | Breadcrumbs, tree navigation | Deep content structures (3+ levels) |
-| Complete multi-step process | Wizard, stepper, progress indicator | Onboarding, checkout, complex forms |
-| Provide input | Forms, inline editing, natural language | Data entry, content creation |
-| Discover content | Cards, infinite scroll, filters | Content-heavy applications, feeds |
-| Take quick action | Floating action button, quick actions menu | Mobile apps, frequent tasks |
-| Receive feedback | Toast notifications, inline validation | Confirmations, errors, status updates |
-| Explore options | Tabs, accordions, progressive disclosure | Organizing related content |
-| Manipulate objects | Drag-and-drop, gestures, direct manipulation | Visual editors, dashboards |
+### Feedback
+- Form validation
+- Success/error messages
+- Loading indicators
+- Progress feedback
 
-### Pattern Combination Guidelines
+### Data
+- List item add/remove
+- Drag and drop
+- Sort/filter transitions
+- Infinite scroll loading
 
-- **Don't mix competing patterns** — Use either tabs OR accordions for content organization, not both
-- **Layer patterns hierarchically** — Breadcrumbs for navigation + tabs for content organization works well
-- **Consider mobile constraints** — Hover states don't work on touch devices; use tap-and-hold or alternative patterns
-- **Test pattern recognition** — Users should understand the pattern without instruction
+### Delight
+- Hover effects
+- Scroll-based animations
+- Celebration moments
+- Empty state animations
+```
 
-## Prototyping Strategy
+### Step 2: Define Animation Principles
 
-Match prototype fidelity to your validation goals:
+**Animation values:**
 
-### Fidelity Selection Matrix
+```markdown
+## Animation System
 
-| Stage | Fidelity Level | Prototype Type | Purpose | Time Investment |
-|-------|----------------|----------------|---------|------------------|
-| **Concept validation** | Low | Paper sketches, wireframes | Test core flows and structure | 1-4 hours |
-| **Flow validation** | Low-Mid | Clickable wireframes | Validate navigation and information architecture | 4-8 hours |
-| **Interaction validation** | Mid | Interactive wireframes | Test specific interaction patterns | 1-2 days |
-| **Visual validation** | Mid-High | Styled prototypes | Validate visual design and branding | 2-3 days |
-| **Usability validation** | High | Functional prototypes | Test complete user experience | 3-5 days |
-| **Stakeholder presentation** | High | Polished prototypes | Communicate vision and secure buy-in | 3-5 days |
-| **Developer handoff** | High | Functional prototypes with specs | Provide implementation reference | 5+ days |
+### Timing (Duration)
 
-### Prototype Type Selection
+| Type | Duration | Use Case |
+|------|----------|----------|
+| Instant | 0ms | State toggles (on/off) |
+| Fast | 100-150ms | Hovers, button feedback |
+| Normal | 200-300ms | Modals, panels, most transitions |
+| Slow | 400-500ms | Complex animations, page transitions |
+| Deliberate | 500ms+ | Celebrations, attention-grabbing |
 
-**Horizontal prototypes** — Broad interactivity across many features with limited depth
-- Use when: Demonstrating overall product vision, stakeholder presentations
-- Advantage: Shows complete user journey
-- Limitation: Shallow interaction depth
+### Easing Functions
 
-**Vertical prototypes** — Deep interactivity within few key features
-- Use when: Testing complex interactions, validating technical feasibility
-- Advantage: Realistic interaction behavior
-- Limitation: Limited feature coverage
+| Easing | CSS | Use Case |
+|--------|-----|----------|
+| Ease-out | `cubic-bezier(0, 0, 0.2, 1)` | Elements entering (modals appearing) |
+| Ease-in | `cubic-bezier(0.4, 0, 1, 1)` | Elements exiting (modals closing) |
+| Ease-in-out | `cubic-bezier(0.4, 0, 0.2, 1)` | Elements moving on screen |
+| Spring | `cubic-bezier(0.175, 0.885, 0.32, 1.275)` | Playful, bouncy effects |
 
-**Hybrid approach** (recommended for most projects):
-1. Start with horizontal low-fidelity prototype for overall flow
-2. Create vertical high-fidelity prototypes for complex interactions
-3. Combine insights to build final product
+### Principles
+1. **Purposeful**: Every animation serves a function
+2. **Fast**: Never block the user (200-300ms typical)
+3. **Natural**: Use physics-based easing
+4. **Consistent**: Same animation for same action
+5. **Reducible**: Respect reduced motion preferences
+```
 
-### Prototyping Best Practices
+### Step 3: Component Interactions
 
-- **Start low, go high** — Begin with low-fidelity for rapid iteration, increase fidelity as design solidifies
-- **Test early, test often** — 5 users can reveal 85% of usability issues
-- **Match fidelity to audience** — Stakeholders often need higher fidelity than development teams
-- **Prototype only what you need to learn** — Don't build complete flows if testing one interaction
-- **Use real content when possible** — Lorem ipsum hides content design issues
-- **Include error states** — Test how users recover from mistakes
+**Interaction specifications:**
 
-## Microinteractions and Feedback
+```markdown
+## Button Interactions
 
-Microinteractions provide crucial feedback and enhance perceived responsiveness:
+### Hover
+- Duration: 150ms
+- Easing: ease-out
+- Changes: Background color shift, subtle scale (1.02)
 
-### Essential Microinteraction Types
+### Active (Press)
+- Duration: 50ms
+- Changes: Scale down (0.98), darker background
 
-| Interaction Type | Purpose | Implementation Guidelines |
-|------------------|---------|---------------------------|
-| **Button states** | Confirm interaction registered | Hover (desktop), pressed, disabled, loading states |
-| **Loading indicators** | Manage expectations during waits | <1s: none needed; 1-5s: spinner; 5s+: progress bar with estimate |
-| **Transitions** | Maintain spatial context | 200-300ms for most transitions; faster feels jarring, slower feels sluggish |
-| **Validation feedback** | Guide correct input | Inline validation as user types (for errors) or on blur (for success) |
-| **Success confirmations** | Acknowledge completion | Toast notifications (3-5s), checkmark animations, state changes |
-| **Error messages** | Enable recovery | Specific, actionable, near the error source |
-| **Skeleton screens** | Reduce perceived wait time | Show content structure while loading actual data |
+### Focus
+- Duration: 0ms (instant)
+- Changes: Focus ring appears
 
-### Feedback Timing Guidelines
+### Loading
+- Spinner replaces text
+- Button width maintained
+- Disabled during loading
 
-- **Immediate (<100ms)** — Direct manipulation (drag, scroll, type)
-- **Responsive (100-300ms)** — Button clicks, navigation, simple actions
-- **Acknowledged (300ms-1s)** — Form submissions, saves, simple processing
-- **Progress indicated (1s+)** — Complex operations, uploads, searches
+---
 
-## Accessibility in Interaction Design
+## Input Interactions
 
-Build accessibility into interactions from the start:
+### Focus
+- Duration: 150ms
+- Border color transition
+- Label floats up (if using floating labels)
+- Ring/glow appears
 
-### Critical Accessibility Requirements
+### Validation
+- Error: Shake animation (subtle, 2-3 shakes)
+- Success: Brief green border flash
+- Message slides down: 200ms
 
-| Requirement | Implementation | Testing Method |
-|-------------|----------------|----------------|
-| **Keyboard navigation** | All interactive elements accessible via Tab, Enter, Space, Arrow keys | Navigate entire interface without mouse |
-| **Focus indicators** | Visible focus state on all interactive elements (3:1 contrast minimum) | Tab through interface, verify visible focus |
-| **Screen reader support** | Proper ARIA labels, roles, and live regions | Test with NVDA (Windows) or VoiceOver (Mac/iOS) |
-| **Color contrast** | 4.5:1 for normal text, 3:1 for large text and UI components | Use WebAIM Contrast Checker |
-| **Touch targets** | Minimum 44×44px for mobile, 24×24px for desktop | Test on actual devices |
-| **Motion sensitivity** | Respect prefers-reduced-motion setting | Disable animations when user preference set |
-| **Error identification** | Don't rely on color alone; use icons and text | View interface in grayscale |
+---
 
-### Accessibility Testing Workflow
+## Modal Interactions
 
-1. **Automated testing** — Run axe DevTools or WAVE on prototypes
-2. **Keyboard testing** — Navigate without mouse, verify all functionality accessible
-3. **Screen reader testing** — Test with NVDA/VoiceOver, verify logical reading order
-4. **Contrast testing** — Check all text and interactive elements meet WCAG AA standards
-5. **User testing** — Include users with disabilities in usability testing
+### Open
+- Backdrop: Fade in 200ms, ease-out
+- Modal: Scale from 0.95 to 1, fade in, 200ms
+- Entry: Slightly from bottom (10-20px)
 
-## Emerging Interaction Paradigms
+### Close
+- Duration: 150ms
+- Modal: Fade out, scale to 0.95
+- Backdrop: Fade out after modal starts
 
-### Multimodal Interfaces
+---
 
-Combine voice, touch, gesture, and traditional inputs:
+## List Interactions
 
-- **Design for mode switching** — Users should easily transition between input methods
-- **Provide redundancy** — Critical actions available through multiple modalities
-- **Consider context** — Voice works poorly in noisy environments; touch works poorly with gloves
-- **Maintain consistency** — Same action should produce same result regardless of input method
+### Add Item
+- New item: Slide down + fade in, 200ms
+- Push existing items down smoothly
 
-### AI-Augmented Interactions
+### Remove Item
+- Item: Slide left + fade out, 200ms
+- Or: Collapse height smoothly
 
-- **Suggestion over automation** — Let users review and approve AI actions
-- **Explainability** — Show why AI made specific recommendations
-- **Graceful degradation** — Provide manual alternatives when AI fails
-- **Progressive disclosure** — Don't overwhelm with all AI capabilities at once
+### Reorder (Drag)
+- Dragged item: Subtle shadow, scale 1.02
+- Drop zones highlight
+- Items shift to make room (200ms)
+```
 
-### Immersive Environments (VR/AR)
+### Step 4: Feedback Patterns
 
-- **Spatial navigation** — Design for 3D space, not 2D screens
-- **Depth perception** — Use depth cues for hierarchy and focus
-- **Comfort considerations** — Avoid rapid movements that cause motion sickness
-- **Physical constraints** — Consider user's physical space and movement limitations
+**User feedback interactions:**
 
-## Using the Reference Files
+```markdown
+## Loading States
 
-### When to Read Each Reference
+### Button Loading
+```
+[  Button  ] -> [◌ Loading...] -> [✓ Done!] -> [  Button  ]
+     0ms           100ms          2000ms         3000ms
+```
 
-**`/references/design-principles.md`** — Read when establishing interaction design foundations for a new product, making principle-based design decisions, resolving design conflicts, or training team members on interaction design fundamentals. Contains deep dives into each principle with application frameworks and decision trees.
+### Skeleton Loading
+- Pulsing gradient animation
+- 1.5s cycle, ease-in-out
+- Match content layout shape
 
-**`/references/interaction-patterns.md`** — Read when selecting patterns for specific user tasks, designing navigation systems, creating input mechanisms, or building pattern libraries. Provides comprehensive pattern catalog with usage guidelines, variations, accessibility considerations, and anti-patterns to avoid.
+### Progress Bar
+- Smooth width transition
+- Determinate: Based on actual progress
+- Indeterminate: Infinite animation
 
-**`/references/prototyping-tools.md`** — Read when choosing prototyping tools for your workflow, setting up prototyping processes, or evaluating tool capabilities for specific project needs. Covers tool comparisons, feature matrices, integration capabilities, and workflow recommendations for different team structures.
+---
 
-**`/references/usability-testing.md`** — Read when planning usability tests, recruiting participants, facilitating test sessions, analyzing results, or establishing continuous testing practices. Includes test protocols, participant screening criteria, facilitation techniques, analysis frameworks, and reporting templates.
+## Notifications/Toasts
+
+### Appear
+- Slide in from edge (top/bottom)
+- Duration: 200ms, ease-out
+- Auto-dismiss: 3-5 seconds
+
+### Progress Timer
+- Optional progress bar showing time remaining
+- Pause on hover
+
+### Dismiss
+- Swipe away OR fade out
+- Duration: 150ms
+
+---
+
+## Validation Feedback
+
+### Real-time Validation
+- Debounce input: 300-500ms
+- Show indicator while validating
+- Animate state change (border color)
+
+### Submit Validation
+- Scroll to first error
+- Shake invalid field (subtle)
+- Focus first invalid input
+```
+
+### Step 5: Accessibility Considerations
+
+```markdown
+## Motion Accessibility
+
+### Reduced Motion
+```css
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+```
+
+### Guidelines
+- Provide static alternatives
+- No flashing content (seizure risk)
+- Allow animation disabling in settings
+- Essential animations can remain (with caution)
+
+### What to Keep (Reduced Motion)
+- Opacity changes (subtle)
+- Color changes
+- Essential state indicators
+
+### What to Remove
+- Position animations
+- Scale transforms
+- Complex sequences
+- Decorative motion
+```
+
+---
+
+## Example Input/Output
+
+### Example Input
+
+```markdown
+**Project**: TaskFlow
+**Focus**: Task completion interaction
+**Personality**: Professional but satisfying
+```
+
+### Example Output
+
+```markdown
+## Task Completion Interaction
+
+### Interaction Flow
+
+```
+Task Uncompleted:       User Clicks:         Completed State:
+┌────────────────┐    ┌────────────────┐    ┌────────────────┐
+│ ○ Task name    │    │ ✓ Task name    │    │ ✓ Task name    │
+│   Due today   │ →  │   Due today   │ →  │   Completed   │
+└────────────────┘    └────────────────┘    └────────────────┘
+                        (0-150ms)           (150-300ms)
+```
+
+### Checkbox Animation
+
+**Phase 1: Click Response (0-100ms)**
+- Checkbox scales down to 0.9 (press feedback)
+- Background starts transitioning to Success-500
+
+**Phase 2: Check Mark (100-250ms)**
+- Checkbox scales back to 1.0 (spring easing)
+- Checkmark draws in (SVG path animation)
+- Path animation: left-to-right stroke
+
+**Phase 3: Text Treatment (150-300ms)**
+- Task text: Strikethrough animates left-to-right
+- Text color: Fades to Gray-400
+- Subtle opacity reduction on entire row
+
+**Phase 4: List Update (300-500ms)**
+- If "hide completed" is on:
+  - Row collapses (height 0, opacity 0)
+  - Items below slide up smoothly
+- If showing completed:
+  - Row moves to completed section (if sorted)
+
+### CSS Implementation
+
+```css
+/* Checkbox */
+.checkbox {
+  transition: transform 100ms ease-out,
+              background 150ms ease-out;
+}
+.checkbox:active {
+  transform: scale(0.9);
+}
+.checkbox.checked {
+  background: var(--success-500);
+}
+
+/* Checkmark */
+.checkmark {
+  stroke-dasharray: 20;
+  stroke-dashoffset: 20;
+  transition: stroke-dashoffset 150ms ease-out;
+}
+.checkbox.checked .checkmark {
+  stroke-dashoffset: 0;
+}
+
+/* Task text */
+.task-text {
+  position: relative;
+  transition: color 200ms ease-out;
+}
+.task-text::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 0;
+  height: 2px;
+  background: var(--gray-400);
+  transition: width 200ms ease-out 100ms;
+}
+.task.completed .task-text {
+  color: var(--gray-400);
+}
+.task.completed .task-text::after {
+  width: 100%;
+}
+
+/* Row collapse */
+.task.removing {
+  animation: collapseRow 300ms ease-out forwards;
+}
+@keyframes collapseRow {
+  to {
+    height: 0;
+    opacity: 0;
+    padding: 0;
+    margin: 0;
+  }
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .checkbox, .checkmark, .task-text, .task-text::after {
+    transition: none;
+  }
+  .task.removing {
+    animation: none;
+    display: none;
+  }
+}
+```
+
+### Sound/Haptics (Optional)
+
+| Platform | Feedback |
+|----------|----------|
+| iOS | Light haptic tap on completion |
+| Android | Subtle vibration (if enabled) |
+| Web | Optional subtle sound effect |
+
+### Delight Addition (Achievement)
+
+For milestone completions (all daily tasks done):
+- Subtle confetti burst from checkbox
+- "All done!" toast notification
+- Small celebration animation
+```
+
+---
+
+## Prompts Library
+
+### Interaction Specification
+```
+Define the interaction for [COMPONENT/ACTION]:
+
+1. Trigger: What initiates it
+2. Animation: What changes and how
+3. Timing: Duration and easing
+4. Feedback: How user knows it worked
+5. Edge cases: Loading, error states
+6. Accessibility: Reduced motion alternative
+```
+
+### Animation Audit
+```
+Review these interactions for [PROJECT]:
+
+1. Are all durations under 400ms for UI responses?
+2. Is easing appropriate (ease-out for entrances)?
+3. Is there feedback for every user action?
+4. Do animations serve a purpose?
+5. Is reduced motion supported?
+```
+
+---
+
+## Resources
+
+### Animation Libraries
+- Framer Motion (React)
+- GSAP (JavaScript)
+- CSS Animations/Transitions
+- Lottie (complex animations)
+
+### References
+- Material Motion: https://m2.material.io/design/motion/
+- iOS Motion: https://developer.apple.com/design/human-interface-guidelines/motion
+
+---
+
+## Success Criteria
+
+### Minimum Requirements
+- [ ] All interactive elements have feedback
+- [ ] Loading states defined
+- [ ] Transitions feel smooth
+- [ ] Reduced motion supported
+
+### Quality Indicators
+- [ ] Animations feel natural and purposeful
+- [ ] No jarring or sudden changes
+- [ ] Consistent timing throughout
+- [ ] Delightful without being distracting
+
+---
+
+## Related Skills
+
+- **Previous**: `component_design.md` - Components to animate
+- **Related**: `mobile_app_design.md` - Platform-specific interactions
+- **Next**: `design_review.md` - Include interactions in review
