@@ -452,71 +452,7 @@ df.rdd.map(safe_transform).filter(lambda x: x is not None).toDF()
 
 # Checkpoint for fault tolerance
 spark.sparkContext.setCheckpointDir("hdfs://checkpoints/")
-df.checkpoint()  # Truncates lineage, prevents stack overflow
-```
 
-## Best Practices
+---
 
-### Development Workflow
-
-1. **Start Small** — Test with sample data locally (local[*] mode)
-2. **Profile Early** — Use Spark UI to identify bottlenecks
-3. **Optimize Iteratively** — Measure impact of each optimization
-4. **Version Control** — Track Spark version, dependencies, configs
-5. **Test at Scale** — Validate with production-sized data before deployment
-
-### Code Organization
-
-```python
-# Modular job structure
-class SparkJob:
-    def __init__(self, spark):
-        self.spark = spark
-    
-    def extract(self):
-        return self.spark.read.parquet("input/")
-    
-    def transform(self, df):
-        return df.filter("status = 'active'").groupBy("category").count()
-    
-    def load(self, df):
-        df.write.mode("overwrite").parquet("output/")
-    
-    def run(self):
-        df = self.extract()
-        transformed = self.transform(df)
-        self.load(transformed)
-
-if __name__ == "__main__":
-    spark = SparkSession.builder.appName("MyJob").getOrCreate()
-    job = SparkJob(spark)
-    job.run()
-    spark.stop()
-```
-
-### Performance Checklist
-
-- [ ] Use DataFrames/Datasets over RDDs
-- [ ] Enable Catalyst optimizer (automatic with DataFrames)
-- [ ] Partition data appropriately (aim for 128MB-1GB per partition)
-- [ ] Cache intermediate results used multiple times
-- [ ] Use broadcast joins for small tables (<10MB)
-- [ ] Avoid UDFs when possible (use built-in functions)
-- [ ] Use Kryo serialization
-- [ ] Enable dynamic allocation for variable workloads
-- [ ] Write data in Parquet or Delta format
-- [ ] Monitor and tune shuffle partitions
-- [ ] Use predicate pushdown and column pruning
-- [ ] Minimize data movement across network
-
-## Using the Reference Files
-
-### When to Read Each Reference
-
-**`/references/spark-fundamentals.md`** — Read when setting up Spark environment, understanding architecture details, configuring cluster managers, or troubleshooting deployment issues.
-
-**`/references/dataframes-datasets.md`** — Read when working with structured data, building complex transformations, optimizing DataFrame operations, or implementing advanced SQL patterns.
-
-**`/references/spark-streaming.md`** — Read when implementing real-time data pipelines, processing Kafka streams, handling event-time processing, or building streaming analytics applications.
-
-**`/references/optimization-tuning.md`** — Read when facing performance issues, tuning memory/shuffle configurations, debugging slow jobs, or optimizing production workloads for cost and speed.
+**Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.

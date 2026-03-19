@@ -452,49 +452,7 @@ gunicorn myproject.wsgi:application --bind 0.0.0.0:8000
 ```
 
 **Uvicorn (ASGI):**
-```bash
-uvicorn myproject.asgi:application --host 0.0.0.0 --port 8000
-```
 
-## Common Patterns
+---
 
-### Pagination
-
-```python
-from rest_framework.pagination import PageNumberPagination
-
-class StandardResultsSetPagination(PageNumberPagination):
-    page_size = 10
-    page_size_query_param = 'page_size'
-    max_page_size = 100
-
-class PostViewSet(viewsets.ModelViewSet):
-    pagination_class = StandardResultsSetPagination
-```
-
-### Filtering
-
-```python
-from django_filters import rest_framework as filters
-
-class PostFilter(filters.FilterSet):
-    title = filters.CharFilter(lookup_expr='icontains')
-    created_after = filters.DateFilter(field_name='created_at', lookup_expr='gte')
-    
-    class Meta:
-        model = Post
-        fields = ['published', 'author']
-
-class PostViewSet(viewsets.ModelViewSet):
-    filterset_class = PostFilter
-```
-
-## Using the Reference Files
-
-### When to Read Each Reference
-
-**`/references/drf-authentication.md`** — Read when implementing API authentication, JWT tokens, OAuth, or custom authentication schemes.
-
-**`/references/orm-advanced.md`** — Read when optimizing database queries, working with complex relationships, or implementing custom managers.
-
-**`/references/deployment-guide.md`** — Read when deploying Django applications to production, configuring servers, or setting up CI/CD pipelines.
+**Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.

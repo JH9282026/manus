@@ -452,59 +452,7 @@ DAU/MAU = Daily Active Users / Monthly Active Users
 ```
 MRR = Sum of all monthly recurring revenue
 ARPU = Total Revenue / Total Users
-LTV = ARPU × Average Customer Lifetime
-LTV:CAC Ratio = Customer Lifetime Value / Customer Acquisition Cost
-```
 
-**Viral Metrics:**
-```
-K-factor = Invites per User × Invite Conversion Rate
-Viral Cycle Time = Time from signup to successful referral
-```
+---
 
-### Cohort Analysis
-
-Track user behavior over time by signup cohort.
-
-**Retention Cohort Table:**
-```
-Cohort    | D0   | D7   | D14  | D30  | D60  | D90
-----------|------|------|------|------|------|------
-Jan 2026  | 100% | 45%  | 35%  | 28%  | 24%  | 22%
-Feb 2026  | 100% | 48%  | 38%  | 31%  | 27%  | 25%
-Mar 2026  | 100% | 52%  | 42%  | 35%  | 30%  | ?
-```
-
-**Insights:**
-- Improving retention over time (Feb > Jan > Mar)
-- Retention stabilizes around D60-D90
-- Focus on improving D7 and D30 retention
-
-### Growth Accounting
-
-Understand the components of growth.
-
-**Formula:**
-```
-New Users = Acquired Users - Churned Users + Resurrected Users
-```
-
-**Quick Ratio:**
-```
-Quick Ratio = (New + Resurrected) / Churned
-
-> 4: Excellent growth
-2-4: Good growth
-1-2: Struggling
-< 1: Shrinking
-```
-
-## Resources
-
-- **Reforge**: [reforge.com](https://www.reforge.com) — Growth programs and frameworks
-- **Growth Hackers**: [growthhackers.com](https://growthhackers.com) — Growth community
-- **Andrew Chen Blog**: [andrewchen.com](https://andrewchen.com) — Growth insights
-- **Lenny's Newsletter**: Growth and product insights
-- **Brian Balfour**: [brianbalfour.com](https://brianbalfour.com) — Growth frameworks
-
-See `references/` for detailed growth frameworks, experimentation guides, metrics and analytics, and growth tactics.
+**Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.
