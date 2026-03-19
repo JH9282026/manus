@@ -1,0 +1,613 @@
+{
+  "total_skills": 605,
+  "skills_fixed": 101,
+  "skills_compliant": 504,
+  "fixes": [
+    {
+      "skill": "affiliate-marketing-advanced",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "ai-ethics",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "amazon-advertising-api",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "amazon-dsp-programmatic",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "amazon-sponsored-brands",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "amazon-sponsored-products",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "angular-framework",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "brand-strategy",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "competitive-analysis-&-intelligence",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "content",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "conversion-optimization",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "drone-aerial-videography",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "el-toro-ip-targeting",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "email-marketing",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "explainable-ai",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "feature-engineering",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "git-version-control",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "google-ads-api-automation",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "google-ads-performance-max",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "google-ads-shopping-video",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "growth-hacking",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "illustration-digital-art",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "influencer-marketing",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "instagram-ads-integration",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "keras-neural-networks",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "lifecycle-marketing",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "linkedin-ads-campaign-management",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "linkedin-ads-targeting-creatives",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "meta-ads-campaign-api",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "meta-ads-targeting-audiences",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "microsoft-ads-api-integration",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "microsoft-ads-audience-network",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "microsoft-ads-search-campaigns",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "model-optimization",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "npm-package-management",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "oil-gas-industry-analysis",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "operations-management-optimization",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "packaging-design",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "patent-research-prior-art-analysis",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "patient-data-analysis",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "personal-finance-wealth-management",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "photo-editing-retouching",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "podcast-production",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "policy-research-analysis",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "predictive-modeling-forecasting",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "pricing-research",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "print-design-production",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "private-pilot-ground-school-course",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "procurement-strategic-sourcing",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "product-requirements-documentation",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "project-brief-development",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "project-planning-execution",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "property-valuation-appraisal",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "public-relations-corporate-communications",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "publication-design-editorial",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "qualitative-research-methods",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "quantitative-research-methods",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "quora-ads-campaign-management",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "quora-ads-conversion-tracking",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "radio-ad-copywriting",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "real-estate-market-analysis-investment",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "reddit-ads-api-automation",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "regulatory-research-analysis",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "renewable-energy-project-development",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "research-paper-analysis",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "retail-strategy-operations",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "risk-management-enterprise-risk",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "running-injury-assessment-treatment",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "sales-copywriting",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "sales-funnel-optimization",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "scientific-research-methodology",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "seo-copywriting-optimization",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "snapchat-ads-ar-creative",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "snapchat-ads-campaign-management",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "social-media-digital-research",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "spotify-ads-audio-podcast",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "statistical-analysis-hypothesis-testing",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "stock-market-analysis-trading",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "strategic-planning-roadmapping",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "supply-chain-management",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "system-architecture-design",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "talent-acquisition-recruitment",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "technical-research-feasibility-analysis",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "technology-innovation-scouting",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "technology-saas-business-strategy",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "tiktok-ads-api-management",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "trend-research-forecasting",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "typescript-development",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "ui-ux-design-user-experience",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "user-research-ux-research",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "video-accessibility-inclusive-design",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "video-production-editing",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "voice-of-customer-research",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "vue-framework",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "web-application-design",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "web-design-development",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "web-scraping-data-extraction",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "webpack-bundling",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "x-ads-analytics-optimization",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "x-ads-campaign-management",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    },
+    {
+      "skill": "youtube-ads-google-api",
+      "fixes": [
+        "Created references/ folder"
+      ]
+    }
+  ]
+}
