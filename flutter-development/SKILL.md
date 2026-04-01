@@ -430,12 +430,3 @@ flutter build web --release
 - Test on real devices
 - Use DevTools for debugging and profiling
 
-## Using the Reference Files
-
-**`/references/widget-catalog.md`** — Read when looking for specific widgets, understanding widget properties, or implementing common UI patterns.
-
-**`/references/state-management-guide.md`** — Read when choosing a state management solution, implementing Provider/Riverpod/BLoC, or managing complex state.
-
-**`/references/performance-optimization.md`** — Read when optimizing app performance, reducing jank, or profiling with DevTools.
-
-**`/references/troubleshooting.md`** — Read when encountering build errors, runtime issues, or platform-specific problems.

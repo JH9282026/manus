@@ -102,17 +102,6 @@ This section tells Manus WHEN to load each reference file.
 
 ---
 
-## Reference Files Format
-
-Each reference file is plain Markdown. No frontmatter needed. Just content.
-
-```markdown
-# Topic Name
-
-Brief intro paragraph.
-
----
-
 ## Section One
 
 Detailed content here. This is where the depth lives.
@@ -172,15 +161,6 @@ This skill provides frameworks, templates, and best practices for cold email out
 2. **One CTA per email** — don't give multiple options
 3. **Keep it short** — under 150 words for cold emails
 4. **Subject lines matter** — test 5-10 variations
-
-## Using the Reference Files
-
-**`/references/cold-email-templates.md`** — Read when writing any initial outreach email or when you need proven templates to start from.
-
-**`/references/follow-up-sequences.md`** — Read when designing multi-email sequences or when a prospect hasn't replied.
-```
-
----
 
 ## Prompt for Abacus
 
