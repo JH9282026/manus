@@ -494,6 +494,13 @@ Progress through stages of CS sophistication:
 **Industry Resources:**
 - Customer Success Association, Gainsight Pulse Conference, ChurnZero Resources, SaaS Metrics and Benchmarks
 
+## Using the Reference Files
+
+- [./references/success-frameworks.md](./references/success-frameworks.md) — Detailed onboarding playbooks, lifecycle management frameworks, and customer journey mapping strategies
+- [./references/health-scoring.md](./references/health-scoring.md) — Comprehensive health scoring models, risk mitigation strategies, and churn prediction frameworks
+- [./references/expansion-strategies.md](./references/expansion-strategies.md) — Detailed expansion playbooks, upsell/cross-sell tactics, and revenue optimization strategies
+- [./references/cs-operations.md](./references/cs-operations.md) — Operational frameworks, automation strategies, and CS technology stack optimization
+
 ---
 
 **Note:** Additional content has been moved to `SKILL_EXTRA.md` to maintain the 500-line limit.

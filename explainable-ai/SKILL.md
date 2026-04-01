@@ -492,7 +492,11 @@ plt.figure(figsize=(10, 6))
 3. **Advanced**: Counterfactuals, custom methods
 4. **Expert**: Quality metrics, production deployment
 
-See `references/` for method comparisons, case studies, and implementation guides.
+## Using the Reference Files
+
+- [./references/method-comparisons.md](./references/method-comparisons.md) — Comprehensive comparison of XAI methods, their strengths, weaknesses, and use cases
+- [./references/case-studies.md](./references/case-studies.md) — Real-world applications of explainable AI across different domains and industries
+- [./references/implementation-guides.md](./references/implementation-guides.md) — Step-by-step guides for implementing XAI techniques in production systems
 
 ---
 
