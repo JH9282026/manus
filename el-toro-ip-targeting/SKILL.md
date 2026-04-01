@@ -1,209 +1,92 @@
 ---
-description: "el-toro-ip-targeting skill"
+name: el-toro-ip-targeting
+description: Plan and execute El Toro IP targeting campaigns that deliver display, video, and OTT ads to specific households and businesses using patented address-to-IP matching. Use for cookie-free digital advertising, household-level targeting from CRM or mailing lists, political campaign voter outreach, IP+ demographic audience building, venue replay retargeting, digital canvassing, matchback attribution analysis, and bridging offline direct-mail data with online ad delivery.
 ---
 
-# Manus Skill Format Template
+# El Toro IP Targeting
 
-Use this template in Abacus to generate skills that work with Manus out of the box. Copy the structure exactly — Manus is strict about the format.
-
----
-
-## How Manus Skills Work
-
-A skill is a directory containing a required `SKILL.md` file and optional reference files. Manus uses a three-level loading system:
-
-1. **Metadata** (always loaded, ~100 words) — the YAML frontmatter in SKILL.md
-2. **SKILL.md body** (loaded when skill triggers) — must be under 500 lines
-3. **Reference files** (loaded on demand) — detailed content in `references/` subdirectory
-
-The `description` field in the frontmatter is the **primary trigger mechanism**. Manus reads it to decide when to activate the skill. The body of SKILL.md only loads after the skill triggers.
-
----
-
-## Directory Structure
-
-```
-skill-name/
-├── SKILL.md              (REQUIRED — main skill file)
-└── references/           (OPTIONAL — detailed content loaded on demand)
-    ├── topic-one.md
-    ├── topic-two.md
-    └── topic-three.md
-```
-
-Other optional directories (only if needed):
-- `scripts/` — executable Python or Bash scripts for repetitive tasks
-- `templates/` — output assets like HTML templates, icons, fonts
-
-**Do NOT include**: README.md, CHANGELOG.md, or other docs. Skills are for AI agents, not humans.
-
----
-
-## SKILL.md Format
-
-The file has two parts: YAML frontmatter and Markdown body.
-
-### Part 1: YAML Frontmatter (REQUIRED)
-
-```yaml
----
-name: your-skill-name
-description: Clear description of what the skill does AND when to use it. This is the trigger — Manus reads this to decide if the skill is relevant. Be comprehensive. Example format - "Do X, Y, and Z. Use for: scenario A, scenario B, scenario C."
----
-```
-
-**Rules for frontmatter:**
-- `name` — lowercase, hyphenated, no spaces (e.g., `ad-creation`, `private-pilot-ground-school`)
-- `description` — must include WHAT the skill does AND WHEN to use it. This is the most important field. Be thorough but concise. Think of it as the skill's elevator pitch that helps Manus match it to user requests.
-
-### Part 2: Markdown Body (REQUIRED)
-
-```markdown
-# Skill Name
-
-One-line summary of what this skill does.
+Design and manage precision digital advertising campaigns using El Toro's patented IP targeting technology to reach specific households and businesses without cookies.
 
 ## Overview
 
-Brief overview paragraph. What does this skill provide? What can it do?
+El Toro's platform matches physical addresses to IP addresses using a patented algorithm, enabling one-to-one ad delivery at the household or building level. This skill covers campaign strategy, audience segmentation, product selection, creative requirements, and performance measurement across El Toro's full product suite.
 
-## [Core Section — e.g., Quick Start, Framework Selection, Process]
+## Product Selection Guide
 
-The main instructional content. Use tables for selection guides, comparisons, or specs.
-Use imperative/infinitive form ("Use this when..." not "This is used when...").
+| Product | Best For | Input Required | Cookie-Free |
+|---------|----------|----------------|-------------|
+| IP Targeting | Known addresses from CRM/mailing lists | Physical address list | Yes |
+| IP+ Targeting | Demographic audiences without an address list | Demographic/psychographic criteria | Yes |
+| Digital Canvassing | Geo-targeted saturation of a neighborhood | Geographic boundary definition | Yes |
+| Digital New Movers | Reaching recent movers during purchase window | Target geography + timing | Yes |
+| Venue Replay | Retargeting visitors of a physical location | Venue location + date range | Yes |
+| Programmatic Direct Mail | Converting web visitors into mail recipients | Website pixel data | N/A |
 
-### Subsection
+## Campaign Setup Workflow
 
-Content here. Keep it actionable and concise.
+1. **Define the objective** — awareness, consideration, or conversion
+2. **Select product type** — match to audience data available (see table above)
+3. **Prepare audience data** — clean address lists (IP Targeting) or define demographic filters (IP+)
+4. **Choose creative formats** — display banners (300×250, 728×90, 160×600), pre-roll video, OTT/CTV
+5. **Set flight dates and budget** — minimum campaign spend varies by product
+6. **Launch and monitor** — use El Toro dashboard for impression delivery and pacing
+7. **Run MatchBack Analysis** — post-campaign attribution connecting impressions to conversions
 
-## [Additional Sections as needed]
+## IP Targeting vs. Traditional Digital Targeting
 
-More content. Remember: only include information Manus doesn't already know.
-Challenge every paragraph: "Does this justify its token cost?"
+| Dimension | El Toro IP Targeting | Cookie-Based Targeting | Geo-Fencing |
+|-----------|---------------------|----------------------|-------------|
+| Accuracy | Household/building level | Probabilistic | Radius-based |
+| Privacy compliance | No cookies or device IDs | Requires consent | Device ID dependent |
+| Data source | Physical addresses | Browser behavior | GPS/location signals |
+| Cross-device reach | All devices on IP | Single browser/device | Mobile only |
+| Attribution | MatchBack Analysis | Pixel-based | Visit attribution |
+
+## Key Best Practices
+
+1. **Clean your address list** — remove duplicates, standardize formatting, verify deliverability before upload
+2. **Use IP+ for prospecting** — when no first-party list exists, build demographic audiences with IP+ targeting
+3. **Layer Venue Replay for retargeting** — capture foot traffic at events, stores, or competitor locations
+4. **Request MatchBack Analysis** — El Toro provides free post-campaign attribution; always use it
+5. **Refresh creative every 30 days** — prevent ad fatigue across display and video formats
+6. **Combine with direct mail** — use IP Targeting to digitally reinforce physical mailers for 2-3× lift
+7. **Minimum list size** — aim for 5,000+ addresses for statistically meaningful campaign results
+
+## Creative Specifications
+
+| Format | Sizes / Specs | Notes |
+|--------|--------------|-------|
+| Display banners | 300×250, 728×90, 160×600, 320×50 | Static or HTML5; max 150KB |
+| Pre-roll video | 15s or 30s; MP4; 1920×1080 | Companion banner recommended |
+| OTT/CTV | 15s or 30s; non-skippable | Full-screen living room delivery |
+| Native | Headline + image + description | Platform-dependent specs |
+
+## Audience Segmentation Strategy
+
+- **Customer reactivation** — upload lapsed customer addresses for win-back campaigns
+- **Conquest targeting** — target competitor customer lists (purchased or compiled)
+- **Voter outreach** — upload voter file segments for political campaigns
+- **Lookalike expansion** — use IP+ to find demographics matching best customers
+- **Event-based** — Venue Replay attendees of trade shows, open houses, or retail locations
+
+## Performance Metrics
+
+| Metric | What It Measures | Benchmark Range |
+|--------|-----------------|----------------|
+| Impression delivery rate | % of target IPs receiving ads | 85-95% |
+| CTR (display) | Click-through rate on banners | 0.08-0.15% |
+| CTR (video) | Click-through on video ads | 0.15-0.40% |
+| VCR (video completion) | % watching full video | 70-85% |
+| MatchBack conversion rate | Offline conversions attributed | Campaign-dependent |
 
 ## Using the Reference Files
 
 ### When to Read Each Reference
 
-**`/references/topic-one.md`** — Read when [specific trigger condition].
+**`/references/ip-targeting-fundamentals.md`** — Read when setting up a first IP Targeting or IP+ campaign, or when explaining how El Toro's patented matching algorithm works to a client.
 
-**`/references/topic-two.md`** — Read when [specific trigger condition].
+**`/references/campaign-setup-strategies.md`** — Read when planning campaign structure, flight scheduling, budget allocation, or choosing between El Toro product types.
 
-This section tells Manus WHEN to load each reference file.
-```
+**`/references/audience-segmentation.md`** — Read when building audience lists, cleaning address data, defining IP+ demographic filters, or creating Venue Replay audiences.
 
-**Rules for the body:**
-- Keep under 500 lines total
-- Use imperative/infinitive form throughout
-- Reference files with relative paths: `/references/filename.md`
-- Include tables for comparisons, selection guides, specs
-- Only add information Manus doesn't already have — it's already smart
-- Move detailed/lengthy content to reference files, keep SKILL.md as the overview and navigation layer
-
----
-
-## Section One
-
-Detailed content here. This is where the depth lives.
-Can be longer than SKILL.md since it's only loaded when needed.
-
-## Section Two
-
-More detailed content.
-```
-
-**Rules for reference files:**
-- Plain Markdown, no YAML frontmatter
-- Can be longer than SKILL.md (they're loaded on demand)
-- Each file should cover one coherent topic
-- Don't duplicate content between SKILL.md and references
-- SKILL.md summarizes; references go deep
-
----
-
-## Complete Example: A Simple Skill
-
-### Directory Structure
-```
-email-outreach/
-├── SKILL.md
-└── references/
-    ├── cold-email-templates.md
-    └── follow-up-sequences.md
-```
-
-### SKILL.md
-```markdown
----
-name: email-outreach
-description: Create high-converting cold email campaigns and follow-up sequences for B2B outreach. Use for writing cold emails, designing drip sequences, crafting subject lines, personalizing outreach at scale, and optimizing reply rates.
----
-
-# Email Outreach
-
-Create effective cold email campaigns and automated follow-up sequences for B2B sales outreach.
-
-## Overview
-
-This skill provides frameworks, templates, and best practices for cold email outreach including initial contact emails, multi-touch follow-up sequences, subject line optimization, and personalization strategies.
-
-## Quick Start: Email Type Selection
-
-| Scenario | Template Type | Reference |
-|----------|--------------|-----------|
-| First contact, cold lead | Cold intro email | `/references/cold-email-templates.md` |
-| No reply after 3 days | Follow-up sequence | `/references/follow-up-sequences.md` |
-| Warm intro via referral | Warm referral email | `/references/cold-email-templates.md` |
-
-## Core Principles
-
-1. **Personalize the first line** — reference something specific about the recipient
-2. **One CTA per email** — don't give multiple options
-3. **Keep it short** — under 150 words for cold emails
-4. **Subject lines matter** — test 5-10 variations
-
-## Prompt for Abacus
-
-Copy and paste this into Abacus when generating a skill:
-
-```
-Generate a Manus-compatible skill following this exact format:
-
-1. Create a SKILL.md file with:
-   - YAML frontmatter containing `name` (lowercase-hyphenated) and `description` (comprehensive — what it does AND when to use it)
-   - Markdown body under 500 lines with overview, core instructional content, and a "Using the Reference Files" section
-   - Use imperative/infinitive form throughout
-   - Use tables for comparisons and selection guides
-   - Only include information an advanced AI wouldn't already know
-   - Reference detailed content with relative paths like `/references/filename.md`
-
-2. Create reference files in a `references/` directory:
-   - Plain Markdown, no frontmatter
-   - One coherent topic per file
-   - This is where detailed/lengthy content lives
-   - Don't duplicate content from SKILL.md
-
-3. Do NOT include README.md, CHANGELOG.md, or other auxiliary files.
-
-4. The skill directory structure should be:
-   skill-name/
-   ├── SKILL.md
-   └── references/
-       ├── topic-one.md
-       └── topic-two.md
-
-The skill topic is: [DESCRIBE YOUR SKILL HERE]
-```
-
----
-
-## Deploying to Manus
-
-Once Abacus generates the files:
-
-1. Send me the SKILL.md and all reference files
-2. I'll place them in `/home/ubuntu/skills/your-skill-name/`
-3. I'll validate and activate the skill
-4. It's ready to use immediately
-
-Alternatively, if you have multiple skills, send them all and I'll batch deploy them.
+**`/references/performance-measurement.md`** — Read when analyzing campaign results, setting up MatchBack Analysis, interpreting attribution reports, or optimizing mid-flight.

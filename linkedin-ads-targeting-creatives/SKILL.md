@@ -1,209 +1,105 @@
 ---
-description: "linkedin-ads-targeting-creatives skill"
+name: linkedin-ads-targeting-creatives
+description: Build and optimize LinkedIn advertising campaigns with B2B targeting strategies and creative best practices using Campaign Manager and the LinkedIn Marketing API. Use for LinkedIn Sponsored Content, Message Ads, Dynamic Ads, Thought Leader Ads, B2B audience targeting by job title, company, seniority, and industry, LinkedIn ad creative design, Lead Gen Forms, Account-Based Marketing on LinkedIn, and LinkedIn Conversions API integration.
 ---
 
-# Manus Skill Format Template
+# LinkedIn Ads Targeting & Creatives
 
-Use this template in Abacus to generate skills that work with Manus out of the box. Copy the structure exactly — Manus is strict about the format.
-
----
-
-## How Manus Skills Work
-
-A skill is a directory containing a required `SKILL.md` file and optional reference files. Manus uses a three-level loading system:
-
-1. **Metadata** (always loaded, ~100 words) — the YAML frontmatter in SKILL.md
-2. **SKILL.md body** (loaded when skill triggers) — must be under 500 lines
-3. **Reference files** (loaded on demand) — detailed content in `references/` subdirectory
-
-The `description` field in the frontmatter is the **primary trigger mechanism**. Manus reads it to decide when to activate the skill. The body of SKILL.md only loads after the skill triggers.
-
----
-
-## Directory Structure
-
-```
-skill-name/
-├── SKILL.md              (REQUIRED — main skill file)
-└── references/           (OPTIONAL — detailed content loaded on demand)
-    ├── topic-one.md
-    ├── topic-two.md
-    └── topic-three.md
-```
-
-Other optional directories (only if needed):
-- `scripts/` — executable Python or Bash scripts for repetitive tasks
-- `templates/` — output assets like HTML templates, icons, fonts
-
-**Do NOT include**: README.md, CHANGELOG.md, or other docs. Skills are for AI agents, not humans.
-
----
-
-## SKILL.md Format
-
-The file has two parts: YAML frontmatter and Markdown body.
-
-### Part 1: YAML Frontmatter (REQUIRED)
-
-```yaml
----
-name: your-skill-name
-description: Clear description of what the skill does AND when to use it. This is the trigger — Manus reads this to decide if the skill is relevant. Be comprehensive. Example format - "Do X, Y, and Z. Use for: scenario A, scenario B, scenario C."
----
-```
-
-**Rules for frontmatter:**
-- `name` — lowercase, hyphenated, no spaces (e.g., `ad-creation`, `private-pilot-ground-school`)
-- `description` — must include WHAT the skill does AND WHEN to use it. This is the most important field. Be thorough but concise. Think of it as the skill's elevator pitch that helps Manus match it to user requests.
-
-### Part 2: Markdown Body (REQUIRED)
-
-```markdown
-# Skill Name
-
-One-line summary of what this skill does.
+Design high-performing LinkedIn ad campaigns with precise B2B targeting and optimized creative formats.
 
 ## Overview
 
-Brief overview paragraph. What does this skill provide? What can it do?
+LinkedIn is the primary platform for B2B advertising, offering unmatched professional targeting by job title, company, seniority, industry, and skills. This skill covers campaign structure, targeting strategy, ad format selection, creative best practices, Lead Gen Forms, and performance optimization through Campaign Manager and the LinkedIn Marketing API.
 
-## [Core Section — e.g., Quick Start, Framework Selection, Process]
+## Ad Format Selection Guide
 
-The main instructional content. Use tables for selection guides, comparisons, or specs.
-Use imperative/infinitive form ("Use this when..." not "This is used when...").
+| Format | Placement | Best For | Avg CTR | Creative Specs |
+|--------|-----------|----------|---------|----------------|
+| Single Image Ad | Feed | Brand awareness, thought leadership | 0.4-0.6% | 1200×628px; <150 char intro |
+| Video Ad | Feed | Product demos, testimonials | 0.3-0.5% | MP4; 7-15s optimal; <200MB |
+| Carousel Ad | Feed | Multi-feature showcase, storytelling | 0.4-0.6% | 2-10 cards; 1080×1080px each |
+| Document Ad | Feed | Gated content, whitepapers | 0.5-0.8% | PDF/PPT; up to 10 pages |
+| Thought Leader Ad | Feed | Employee advocacy, authenticity | 0.8-1.5% | Boost employee's organic post |
+| Message Ad | Messaging | Direct outreach, event invites | 30-50% open rate | <500 char body; 1 CTA |
+| Conversation Ad | Messaging | Multi-path nurture flows | 35-55% open rate | Decision tree; 2-5 CTAs |
+| Lead Gen Form Ad | Feed/Messaging | Lead capture without landing page | 10-15% form fill | Up to 12 fields; pre-filled |
+| Dynamic Ad | Right rail | Personalized follower/content ads | 0.02-0.05% | Auto-generated from profile |
+| Event Ad | Feed | Event promotion and RSVPs | 0.3-0.5% | Linked to LinkedIn Event |
 
-### Subsection
+## B2B Targeting Strategy
 
-Content here. Keep it actionable and concise.
+### Primary Targeting Facets
 
-## [Additional Sections as needed]
+| Facet | Examples | Best For |
+|-------|----------|----------|
+| Job Title | VP Marketing, CTO, Procurement Director | Reaching specific decision-makers |
+| Job Function | Marketing, Engineering, Finance | Broad departmental targeting |
+| Seniority | C-Suite, VP, Director, Manager | Filtering by authority level |
+| Company Name | Target account lists (ABM) | Account-based marketing |
+| Company Size | 1-10, 11-50, 51-200, 201-500, 500+ | SMB vs enterprise segmentation |
+| Industry | Technology, Financial Services, Healthcare | Vertical-specific campaigns |
+| Skills | Python, Salesforce, Project Management | Reaching practitioners |
+| Member Groups | Industry-specific LinkedIn Groups | Interest-based targeting |
 
-More content. Remember: only include information Manus doesn't already know.
-Challenge every paragraph: "Does this justify its token cost?"
+### Targeting Rules of Thumb
+
+1. **Start with 50,000-500,000 audience size** — too small limits delivery; too large wastes spend
+2. **Layer max 2-3 targeting facets** — over-layering shrinks audience and raises CPM
+3. **Use Matched Audiences for ABM** — upload company lists for account-based targeting
+4. **Exclude current customers** — upload customer list as exclusion audience
+5. **Use Qualified Lead Optimization** — sync CRM data via Conversions API for lead quality signals
+
+## Campaign Budget and Bidding
+
+| Objective | Recommended Bid Strategy | Min Daily Budget | Expected CPC |
+|-----------|-------------------------|-----------------|-------------|
+| Brand Awareness | Maximum Delivery | $10/day | N/A (CPM: $8-15) |
+| Website Visits | Max Delivery or Manual CPC | $10/day | $3-8 |
+| Engagement | Maximum Delivery | $10/day | $1-3 per engagement |
+| Lead Generation | Max Delivery or Cost Cap | $10/day | $15-60 per lead |
+| Conversions | Target Cost or Max Delivery | $10/day | $30-100 per conversion |
+
+## Creative Best Practices
+
+1. **Lead with a clear value proposition** — state the benefit in the first line of ad copy
+2. **Use Thought Leader Ads** — boost employee posts for 2-3× higher engagement vs brand posts
+3. **Test short-form video (7-15s)** — designed natively for LinkedIn, not repurposed from other platforms
+4. **Personalize ad copy** — include industry or role-specific language; personalized ads reduce CPL 20-33%
+5. **Strong CTA alignment** — match CTA to funnel stage (Learn More → top; Request Demo → bottom)
+6. **Rotate creatives every 4-6 weeks** — personalized ads fatigue faster (~30 days)
+7. **Use Document Ads for gated content** — higher engagement than external landing page links
+8. **Keep intro text under 150 characters** — truncation kills CTR on mobile
+
+## Lead Gen Forms Configuration
+
+| Field Type | Examples | Notes |
+|-----------|----------|-------|
+| Pre-filled (recommended) | Name, email, job title, company | Auto-populated from profile; high accuracy |
+| Custom questions | Budget range, timeline, use case | Up to 3 custom questions; keep minimal |
+| Hidden fields | UTM source, campaign ID | Dynamic URL tracking parameters supported |
+| Consent checkbox | Privacy policy, marketing opt-in | Required for GDPR compliance |
+
+## LinkedIn Marketing API Quick Reference
+
+| Endpoint | Method | Purpose |
+|----------|--------|--------|
+| `/adAccounts` | GET | List ad accounts |
+| `/adCampaignGroups` | POST | Create campaign group |
+| `/adCampaigns` | POST | Create campaign with targeting |
+| `/adCreatives` | POST | Upload creative assets |
+| `/adAnalytics` | GET | Pull performance metrics |
+| `/conversions` | POST | Send conversion events via CAPI |
 
 ## Using the Reference Files
 
 ### When to Read Each Reference
 
-**`/references/topic-one.md`** — Read when [specific trigger condition].
+**`/references/audience-targeting-strategies.md`** — Read when building audience segments, configuring Matched Audiences for ABM, or setting up Qualified Lead Optimization.
 
-**`/references/topic-two.md`** — Read when [specific trigger condition].
+**`/references/creative-best-practices.md`** — Read when designing ad creative, writing copy, selecting imagery, or planning A/B tests across formats.
 
-This section tells Manus WHEN to load each reference file.
-```
+**`/references/ad-format-specifications.md`** — Read when checking exact pixel dimensions, file size limits, character counts, or format requirements for any LinkedIn ad type.
 
-**Rules for the body:**
-- Keep under 500 lines total
-- Use imperative/infinitive form throughout
-- Reference files with relative paths: `/references/filename.md`
-- Include tables for comparisons, selection guides, specs
-- Only add information Manus doesn't already have — it's already smart
-- Move detailed/lengthy content to reference files, keep SKILL.md as the overview and navigation layer
+**`/references/campaign-manager-optimization.md`** — Read when optimizing bids, adjusting budgets, analyzing delivery pacing, or troubleshooting underperforming campaigns.
 
----
-
-## Section One
-
-Detailed content here. This is where the depth lives.
-Can be longer than SKILL.md since it's only loaded when needed.
-
-## Section Two
-
-More detailed content.
-```
-
-**Rules for reference files:**
-- Plain Markdown, no YAML frontmatter
-- Can be longer than SKILL.md (they're loaded on demand)
-- Each file should cover one coherent topic
-- Don't duplicate content between SKILL.md and references
-- SKILL.md summarizes; references go deep
-
----
-
-## Complete Example: A Simple Skill
-
-### Directory Structure
-```
-email-outreach/
-├── SKILL.md
-└── references/
-    ├── cold-email-templates.md
-    └── follow-up-sequences.md
-```
-
-### SKILL.md
-```markdown
----
-name: email-outreach
-description: Create high-converting cold email campaigns and follow-up sequences for B2B outreach. Use for writing cold emails, designing drip sequences, crafting subject lines, personalizing outreach at scale, and optimizing reply rates.
----
-
-# Email Outreach
-
-Create effective cold email campaigns and automated follow-up sequences for B2B sales outreach.
-
-## Overview
-
-This skill provides frameworks, templates, and best practices for cold email outreach including initial contact emails, multi-touch follow-up sequences, subject line optimization, and personalization strategies.
-
-## Quick Start: Email Type Selection
-
-| Scenario | Template Type | Reference |
-|----------|--------------|-----------|
-| First contact, cold lead | Cold intro email | `/references/cold-email-templates.md` |
-| No reply after 3 days | Follow-up sequence | `/references/follow-up-sequences.md` |
-| Warm intro via referral | Warm referral email | `/references/cold-email-templates.md` |
-
-## Core Principles
-
-1. **Personalize the first line** — reference something specific about the recipient
-2. **One CTA per email** — don't give multiple options
-3. **Keep it short** — under 150 words for cold emails
-4. **Subject lines matter** — test 5-10 variations
-
-## Prompt for Abacus
-
-Copy and paste this into Abacus when generating a skill:
-
-```
-Generate a Manus-compatible skill following this exact format:
-
-1. Create a SKILL.md file with:
-   - YAML frontmatter containing `name` (lowercase-hyphenated) and `description` (comprehensive — what it does AND when to use it)
-   - Markdown body under 500 lines with overview, core instructional content, and a "Using the Reference Files" section
-   - Use imperative/infinitive form throughout
-   - Use tables for comparisons and selection guides
-   - Only include information an advanced AI wouldn't already know
-   - Reference detailed content with relative paths like `/references/filename.md`
-
-2. Create reference files in a `references/` directory:
-   - Plain Markdown, no frontmatter
-   - One coherent topic per file
-   - This is where detailed/lengthy content lives
-   - Don't duplicate content from SKILL.md
-
-3. Do NOT include README.md, CHANGELOG.md, or other auxiliary files.
-
-4. The skill directory structure should be:
-   skill-name/
-   ├── SKILL.md
-   └── references/
-       ├── topic-one.md
-       └── topic-two.md
-
-The skill topic is: [DESCRIBE YOUR SKILL HERE]
-```
-
----
-
-## Deploying to Manus
-
-Once Abacus generates the files:
-
-1. Send me the SKILL.md and all reference files
-2. I'll place them in `/home/ubuntu/skills/your-skill-name/`
-3. I'll validate and activate the skill
-4. It's ready to use immediately
-
-Alternatively, if you have multiple skills, send them all and I'll batch deploy them.
+**`/references/performance-measurement-analytics.md`** — Read when pulling analytics via the API, building dashboards, measuring conversion attribution, or evaluating campaign ROI.

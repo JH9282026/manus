@@ -1,209 +1,140 @@
 ---
-description: "x-ads-analytics-optimization skill"
+name: x-ads-analytics-optimization
+description: Analyze and optimize X (formerly Twitter) advertising campaigns using the X Ads API, covering campaign analytics, performance metrics, audience insights, and optimization strategies. Use for X Ads API analytics integration, Twitter ad campaign reporting, X ads performance optimization, X conversion tracking setup, X promoted tweets management, X audience analytics, X ads bid optimization, and X ads A/B testing frameworks.
 ---
 
-# Manus Skill Format Template
+# X Ads Analytics & Optimization
 
-Use this template in Abacus to generate skills that work with Manus out of the box. Copy the structure exactly — Manus is strict about the format.
-
----
-
-## How Manus Skills Work
-
-A skill is a directory containing a required `SKILL.md` file and optional reference files. Manus uses a three-level loading system:
-
-1. **Metadata** (always loaded, ~100 words) — the YAML frontmatter in SKILL.md
-2. **SKILL.md body** (loaded when skill triggers) — must be under 500 lines
-3. **Reference files** (loaded on demand) — detailed content in `references/` subdirectory
-
-The `description` field in the frontmatter is the **primary trigger mechanism**. Manus reads it to decide when to activate the skill. The body of SKILL.md only loads after the skill triggers.
-
----
-
-## Directory Structure
-
-```
-skill-name/
-├── SKILL.md              (REQUIRED — main skill file)
-└── references/           (OPTIONAL — detailed content loaded on demand)
-    ├── topic-one.md
-    ├── topic-two.md
-    └── topic-three.md
-```
-
-Other optional directories (only if needed):
-- `scripts/` — executable Python or Bash scripts for repetitive tasks
-- `templates/` — output assets like HTML templates, icons, fonts
-
-**Do NOT include**: README.md, CHANGELOG.md, or other docs. Skills are for AI agents, not humans.
-
----
-
-## SKILL.md Format
-
-The file has two parts: YAML frontmatter and Markdown body.
-
-### Part 1: YAML Frontmatter (REQUIRED)
-
-```yaml
----
-name: your-skill-name
-description: Clear description of what the skill does AND when to use it. This is the trigger — Manus reads this to decide if the skill is relevant. Be comprehensive. Example format - "Do X, Y, and Z. Use for: scenario A, scenario B, scenario C."
----
-```
-
-**Rules for frontmatter:**
-- `name` — lowercase, hyphenated, no spaces (e.g., `ad-creation`, `private-pilot-ground-school`)
-- `description` — must include WHAT the skill does AND WHEN to use it. This is the most important field. Be thorough but concise. Think of it as the skill's elevator pitch that helps Manus match it to user requests.
-
-### Part 2: Markdown Body (REQUIRED)
-
-```markdown
-# Skill Name
-
-One-line summary of what this skill does.
+Analyze performance and optimize X (formerly Twitter) advertising campaigns using the X Ads API.
 
 ## Overview
 
-Brief overview paragraph. What does this skill provide? What can it do?
+The X Ads API provides programmatic access to create, manage, and analyze advertising campaigns on the X platform. This skill focuses on the analytics and optimization layer: pulling performance data, interpreting metrics, optimizing bids and targeting, A/B testing, and implementing conversion tracking for measurable results.
 
-## [Core Section — e.g., Quick Start, Framework Selection, Process]
+## X Ads API Access Tiers
 
-The main instructional content. Use tables for selection guides, comparisons, or specs.
-Use imperative/infinitive form ("Use this when..." not "This is used when...").
+| Tier | Monthly Cost | Ads API Access | Rate Limits |
+|------|-------------|---------------|-------------|
+| Free | $0 | No | 500 posts/month; minimal read |
+| Basic | $200 | Limited | Higher request rates |
+| Pro | $5,000 | Full | Robust rate limits |
+| Enterprise | $42,000+ | Full + priority | Custom limits |
 
-### Subsection
+**Ads API access requires an approved Ads API developer application** with an active ad account.
 
-Content here. Keep it actionable and concise.
+## Campaign Structure
 
-## [Additional Sections as needed]
+```
+Funding Instrument (payment method)
+└── Campaign (objective, budget, status)
+    └── Line Item (targeting, bid, placement, creative type)
+        └── Promoted Tweet / Creative (the ad content)
+```
 
-More content. Remember: only include information Manus doesn't already know.
-Challenge every paragraph: "Does this justify its token cost?"
+## Core Analytics Endpoints
+
+| Endpoint | Method | Purpose |
+|----------|--------|--------|
+| `/stats/accounts/{id}` | GET | Account-level metrics |
+| `/stats/campaigns/{id}` | GET | Campaign performance |
+| `/stats/line_items/{id}` | GET | Line item (ad group) metrics |
+| `/stats/promoted_tweets/{id}` | GET | Individual ad metrics |
+| Async analytics | POST+GET | Segmented/bulk analytics jobs |
+
+### Analytics Request Best Practices
+
+1. **Always include `start_time` and `end_time`** — required for all stats requests
+2. **Use `HOUR` granularity** — allows flexible aggregation; roll up to daily/weekly as needed
+3. **Request `ALL_ON_TWITTER` placement** — ensures data for all placements is captured
+4. **Avoid pulling data older than 7 days** — fresher data is more reliable and faster to retrieve
+5. **Use async endpoints for segmented data** — synchronous endpoints don't support breakdowns
+
+## Key Performance Metrics
+
+| Metric | Definition | Good Benchmark |
+|--------|-----------|----------------|
+| Impressions | Times ad shown | Volume indicator |
+| Engagements | Likes, retweets, replies, clicks | 1-3% engagement rate |
+| Link clicks | Clicks to external URL | 0.5-1.5% CTR |
+| CPE | Cost per engagement | $0.30-1.50 |
+| CPC | Cost per link click | $0.50-3.00 |
+| CPM | Cost per 1,000 impressions | $5-12 |
+| Video views | 3s+ video views | 15-30% view rate |
+| CPCV | Cost per completed video view | $0.02-0.08 |
+| Conversion rate | Conversions / clicks | 1-3% |
+| ROAS | Revenue / ad spend | 3-5× target |
+
+## Campaign Objectives and Optimization
+
+| Objective | Optimize For | Bid Type | Key Metric |
+|-----------|-------------|----------|------------|
+| Reach | Max impressions | CPM / Auto | CPM, Reach |
+| Engagements | Max engagements | CPE / Auto | Engagement rate, CPE |
+| Traffic | Link clicks | CPC / Auto | CTR, CPC |
+| Video Views | Video views | CPV / Auto | View rate, CPCV |
+| App Installs | Installs | CPI / Target CPA | CPI, Install rate |
+| Conversions | Website conversions | CPA / Auto | Conversion rate, ROAS |
+| Followers | New followers | CPF / Auto | Cost per follower |
+
+## Conversion Tracking Setup
+
+### X Pixel Implementation
+1. **Install base pixel** on all website pages via `<script>` tag
+2. **Configure event codes** for key actions (Purchase, AddToCart, Lead, SignUp)
+3. **Verify pixel fires** using X Pixel Helper browser extension
+4. **Create website tags** in Ads Manager to associate events with campaigns
+
+### Conversions API (Server-Side)
+1. **Generate Events API Key** in X Ads Manager
+2. **Send events server-to-server** with hashed user data (email, phone)
+3. **Include click ID** (`twclid`) for attribution matching
+4. **Deduplicate** browser pixel + server events using `event_id`
+
+## Optimization Strategies
+
+### Bid Optimization
+| Scenario | Action |
+|----------|--------|
+| Underspending with good results | Increase bid 10-20% to win more auctions |
+| Overspending with poor results | Switch to manual bid with cap |
+| Good CTR but low conversions | Check landing page; tighten audience |
+| High CPM, low reach | Broaden targeting or increase bid |
+| Strong results, want to scale | Increase budget 20% every 3-4 days |
+
+### Audience Optimization
+1. **Use Tailored Audiences** — upload CRM lists for retargeting (hashed email/device IDs)
+2. **Follower Lookalikes** — target users similar to your followers or competitors' followers
+3. **Conversation targeting** — reach users discussing specific topics (unique to X)
+4. **Keyword targeting** — target based on recent tweets and searches
+5. **Event targeting** — real-time targeting around live events and trends
+
+### Creative Optimization
+1. **Test 3-5 tweet variations per line item** — X auto-optimizes to best performer
+2. **Use conversational copy** — questions and polls drive 2-3× engagement
+3. **Include media always** — tweets with video get 10× engagement; images get 3×
+4. **Keep copy concise** — 70-100 characters optimal; leave room for engagement
+5. **Test Trend Takeover** — premium placement for major launches/events
+
+## A/B Testing Framework
+
+| Element | How to Test | Duration |
+|---------|------------|----------|
+| Creative | Multiple promoted tweets in one line item | 7-14 days |
+| Audience | Separate line items with different targeting | 7-14 days |
+| Bid strategy | Auto vs manual bid in parallel line items | 5-7 days |
+| Objective | Separate campaigns with different objectives | 14-21 days |
+| Landing page | Same ad, different destination URLs | 7-14 days |
 
 ## Using the Reference Files
 
 ### When to Read Each Reference
 
-**`/references/topic-one.md`** — Read when [specific trigger condition].
+**`/references/01-x-ads-fundamentals.md`** — Read when setting up X Ads API access, understanding the campaign structure, or reviewing available ad formats.
 
-**`/references/topic-two.md`** — Read when [specific trigger condition].
+**`/references/02-x-ads-key-metrics-kpis.md`** — Read when defining measurement frameworks, selecting KPIs for campaign goals, or benchmarking performance.
 
-This section tells Manus WHEN to load each reference file.
-```
+**`/references/03-x-ads-optimization-strategies.md`** — Read when optimizing underperforming campaigns, implementing bid adjustments, or refining audience targeting.
 
-**Rules for the body:**
-- Keep under 500 lines total
-- Use imperative/infinitive form throughout
-- Reference files with relative paths: `/references/filename.md`
-- Include tables for comparisons, selection guides, specs
-- Only add information Manus doesn't already have — it's already smart
-- Move detailed/lengthy content to reference files, keep SKILL.md as the overview and navigation layer
+**`/references/04-x-ads-analytics-tools.md`** — Read when integrating X analytics with external tools, building dashboards, or implementing automated reporting.
 
----
-
-## Section One
-
-Detailed content here. This is where the depth lives.
-Can be longer than SKILL.md since it's only loaded when needed.
-
-## Section Two
-
-More detailed content.
-```
-
-**Rules for reference files:**
-- Plain Markdown, no YAML frontmatter
-- Can be longer than SKILL.md (they're loaded on demand)
-- Each file should cover one coherent topic
-- Don't duplicate content between SKILL.md and references
-- SKILL.md summarizes; references go deep
-
----
-
-## Complete Example: A Simple Skill
-
-### Directory Structure
-```
-email-outreach/
-├── SKILL.md
-└── references/
-    ├── cold-email-templates.md
-    └── follow-up-sequences.md
-```
-
-### SKILL.md
-```markdown
----
-name: email-outreach
-description: Create high-converting cold email campaigns and follow-up sequences for B2B outreach. Use for writing cold emails, designing drip sequences, crafting subject lines, personalizing outreach at scale, and optimizing reply rates.
----
-
-# Email Outreach
-
-Create effective cold email campaigns and automated follow-up sequences for B2B sales outreach.
-
-## Overview
-
-This skill provides frameworks, templates, and best practices for cold email outreach including initial contact emails, multi-touch follow-up sequences, subject line optimization, and personalization strategies.
-
-## Quick Start: Email Type Selection
-
-| Scenario | Template Type | Reference |
-|----------|--------------|-----------|
-| First contact, cold lead | Cold intro email | `/references/cold-email-templates.md` |
-| No reply after 3 days | Follow-up sequence | `/references/follow-up-sequences.md` |
-| Warm intro via referral | Warm referral email | `/references/cold-email-templates.md` |
-
-## Core Principles
-
-1. **Personalize the first line** — reference something specific about the recipient
-2. **One CTA per email** — don't give multiple options
-3. **Keep it short** — under 150 words for cold emails
-4. **Subject lines matter** — test 5-10 variations
-
-## Prompt for Abacus
-
-Copy and paste this into Abacus when generating a skill:
-
-```
-Generate a Manus-compatible skill following this exact format:
-
-1. Create a SKILL.md file with:
-   - YAML frontmatter containing `name` (lowercase-hyphenated) and `description` (comprehensive — what it does AND when to use it)
-   - Markdown body under 500 lines with overview, core instructional content, and a "Using the Reference Files" section
-   - Use imperative/infinitive form throughout
-   - Use tables for comparisons and selection guides
-   - Only include information an advanced AI wouldn't already know
-   - Reference detailed content with relative paths like `/references/filename.md`
-
-2. Create reference files in a `references/` directory:
-   - Plain Markdown, no frontmatter
-   - One coherent topic per file
-   - This is where detailed/lengthy content lives
-   - Don't duplicate content from SKILL.md
-
-3. Do NOT include README.md, CHANGELOG.md, or other auxiliary files.
-
-4. The skill directory structure should be:
-   skill-name/
-   ├── SKILL.md
-   └── references/
-       ├── topic-one.md
-       └── topic-two.md
-
-The skill topic is: [DESCRIBE YOUR SKILL HERE]
-```
-
----
-
-## Deploying to Manus
-
-Once Abacus generates the files:
-
-1. Send me the SKILL.md and all reference files
-2. I'll place them in `/home/ubuntu/skills/your-skill-name/`
-3. I'll validate and activate the skill
-4. It's ready to use immediately
-
-Alternatively, if you have multiple skills, send them all and I'll batch deploy them.
+**`/references/05-x-ads-advanced-strategies.md`** — Read when implementing advanced tactics like event targeting, trend exploitation, or multi-platform attribution.

@@ -1,209 +1,146 @@
 ---
-description: "meta-ads-campaign-api skill"
+name: meta-ads-campaign-api
+description: Create, manage, and automate Meta (Facebook/Instagram) advertising campaigns programmatically through the Meta Marketing API, covering the full campaign lifecycle from creation to reporting. Use for programmatic ad creation at scale, Meta Ads API integration, campaign structure automation, Advantage+ campaign setup, Ads Insights API reporting, budget and bid management via API, bulk ad operations, and Meta Business SDK implementation.
 ---
 
-# Manus Skill Format Template
+# Meta Ads Campaign API
 
-Use this template in Abacus to generate skills that work with Manus out of the box. Copy the structure exactly — Manus is strict about the format.
-
----
-
-## How Manus Skills Work
-
-A skill is a directory containing a required `SKILL.md` file and optional reference files. Manus uses a three-level loading system:
-
-1. **Metadata** (always loaded, ~100 words) — the YAML frontmatter in SKILL.md
-2. **SKILL.md body** (loaded when skill triggers) — must be under 500 lines
-3. **Reference files** (loaded on demand) — detailed content in `references/` subdirectory
-
-The `description` field in the frontmatter is the **primary trigger mechanism**. Manus reads it to decide when to activate the skill. The body of SKILL.md only loads after the skill triggers.
-
----
-
-## Directory Structure
-
-```
-skill-name/
-├── SKILL.md              (REQUIRED — main skill file)
-└── references/           (OPTIONAL — detailed content loaded on demand)
-    ├── topic-one.md
-    ├── topic-two.md
-    └── topic-three.md
-```
-
-Other optional directories (only if needed):
-- `scripts/` — executable Python or Bash scripts for repetitive tasks
-- `templates/` — output assets like HTML templates, icons, fonts
-
-**Do NOT include**: README.md, CHANGELOG.md, or other docs. Skills are for AI agents, not humans.
-
----
-
-## SKILL.md Format
-
-The file has two parts: YAML frontmatter and Markdown body.
-
-### Part 1: YAML Frontmatter (REQUIRED)
-
-```yaml
----
-name: your-skill-name
-description: Clear description of what the skill does AND when to use it. This is the trigger — Manus reads this to decide if the skill is relevant. Be comprehensive. Example format - "Do X, Y, and Z. Use for: scenario A, scenario B, scenario C."
----
-```
-
-**Rules for frontmatter:**
-- `name` — lowercase, hyphenated, no spaces (e.g., `ad-creation`, `private-pilot-ground-school`)
-- `description` — must include WHAT the skill does AND WHEN to use it. This is the most important field. Be thorough but concise. Think of it as the skill's elevator pitch that helps Manus match it to user requests.
-
-### Part 2: Markdown Body (REQUIRED)
-
-```markdown
-# Skill Name
-
-One-line summary of what this skill does.
+Programmatically create, manage, and optimize Meta advertising campaigns across Facebook and Instagram using the Marketing API.
 
 ## Overview
 
-Brief overview paragraph. What does this skill provide? What can it do?
+The Meta Marketing API enables full programmatic control over the ad campaign hierarchy: Campaign → Ad Set → Ad. This skill covers API setup, campaign CRUD operations, the Advantage+ unified structure, Insights API for reporting, and automation best practices. All operations require an access token with `ads_management` permission.
 
-## [Core Section — e.g., Quick Start, Framework Selection, Process]
+## Campaign Object Hierarchy
 
-The main instructional content. Use tables for selection guides, comparisons, or specs.
-Use imperative/infinitive form ("Use this when..." not "This is used when...").
+```
+Ad Account (act_{id})
+├── Campaign (objective, budget, special_ad_categories)
+│   ├── Ad Set (targeting, placement, schedule, optimization)
+│   │   ├── Ad (creative + ad set binding)
+│   │   └── Ad (creative + ad set binding)
+│   └── Ad Set
+│       └── Ad
+└── Campaign
+    └── Ad Set
+        └── Ad
+```
 
-### Subsection
+## API Setup Checklist
 
-Content here. Keep it actionable and concise.
+| Step | Action | Endpoint/Location |
+|------|--------|-------------------|
+| 1 | Create Meta Developer account | developers.facebook.com |
+| 2 | Create app with "Business" use case | App Dashboard → Create App |
+| 3 | Add Marketing API product | App Dashboard → Add Product |
+| 4 | Generate System User token | Business Manager → System Users |
+| 5 | Grant ad account permissions | `ads_management`, `ads_read`, `business_management` |
+| 6 | Complete Business Verification | Required for Advanced Access |
+| 7 | Test connection | `GET /me/adaccounts` |
 
-## [Additional Sections as needed]
+## Core API Operations
 
-More content. Remember: only include information Manus doesn't already know.
-Challenge every paragraph: "Does this justify its token cost?"
+### Create Campaign
+```
+POST /act_{ad_account_id}/campaigns
+  name, objective, status, special_ad_categories,
+  buying_type (AUCTION|RESERVED)
+```
+
+**Objectives (ODAX):** `OUTCOME_AWARENESS`, `OUTCOME_TRAFFIC`, `OUTCOME_ENGAGEMENT`, `OUTCOME_LEADS`, `OUTCOME_APP_PROMOTION`, `OUTCOME_SALES`
+
+### Create Ad Set
+```
+POST /act_{ad_account_id}/adsets
+  campaign_id, name, optimization_goal, billing_event,
+  bid_strategy, daily_budget|lifetime_budget,
+  targeting, start_time, end_time,
+  promoted_object, attribution_spec
+```
+
+### Create Ad Creative
+```
+POST /act_{ad_account_id}/adcreatives
+  name, object_story_spec: {
+    page_id, link_data|video_data|photo_data
+  }
+```
+
+### Create Ad
+```
+POST /act_{ad_account_id}/ads
+  adset_id, creative: {creative_id}, name, status
+```
+
+## Advantage+ Unified Campaign Structure (2025)
+
+Starting May 2025, Meta unified Advantage+ Shopping (ASC) and Advantage+ App (AAC) campaigns into a single creation flow:
+
+| Aspect | Before (Legacy) | After (Unified) |
+|--------|-----------------|------------------|
+| Campaign creation | Separate ASC/AAC workflows | Single creation endpoint |
+| Advantage+ status | Explicit campaign type | Auto-determined by settings |
+| API version | v23.0 supports legacy | v24.0+ requires unified |
+| Migration deadline | — | v25.0 (Q1 2026) mandatory |
+
+**Key change:** Set `is_advantage_plus=true` and configure budget, audience, and placement — the system determines optimization automatically.
+
+## Insights API for Reporting
+
+```
+GET /{object_id}/insights
+  ?fields=impressions,reach,spend,clicks,actions,
+    cost_per_action_type,cpm,cpc,ctr,roas
+  &date_preset=last_30d
+  &breakdowns=age,gender,publisher_platform,platform_position
+  &time_increment=1  (daily)
+  &level=ad
+```
+
+### Available Breakdowns
+
+| Breakdown | Values | Use Case |
+|-----------|--------|----------|
+| `publisher_platform` | facebook, instagram, messenger, audience_network | Platform performance split |
+| `platform_position` | feed, story, reels, right_column, search | Placement optimization |
+| `age` | 18-24, 25-34, 35-44, etc. | Demographic analysis |
+| `device_platform` | mobile, desktop | Device targeting decisions |
+| `country` | ISO country codes | Geo performance analysis |
+
+## Rate Limits and Error Handling
+
+| Tier | Call Volume | How to Qualify |
+|------|-----------|----------------|
+| Development | 200 calls/hour | Default for new apps |
+| Standard | ~200 calls/hour/ad account | Verified Business + active spend |
+| Higher tiers | Request via support | Significant spend + API partner |
+
+**Rate limit strategy:**
+1. Check `x-business-use-case-usage` header on every response
+2. Implement exponential backoff on HTTP 429
+3. Batch read operations where possible (`?ids=id1,id2,id3`)
+4. Use async reports for large data pulls
+
+## Common Patterns
+
+| Pattern | Implementation |
+|---------|---------------|
+| Bulk campaign creation | Loop POST with unique names; batch ≤50 per request |
+| A/B testing | Create multiple ad sets under one campaign with different targeting |
+| Budget optimization | Use Campaign Budget Optimization (CBO) with `daily_budget` at campaign level |
+| Automated rules | `POST /act_{id}/adrules_library` for pause/scale based on KPIs |
+| Preserve social proof | Reuse `effective_object_story_id` from existing post |
 
 ## Using the Reference Files
 
 ### When to Read Each Reference
 
-**`/references/topic-one.md`** — Read when [specific trigger condition].
+**`/references/api-fundamentals-setup.md`** — Read when configuring API access for the first time, setting up authentication, or troubleshooting token issues.
 
-**`/references/topic-two.md`** — Read when [specific trigger condition].
+**`/references/campaign-structure-management.md`** — Read when designing campaign hierarchy, creating ad sets with complex targeting, or implementing Advantage+ campaigns.
 
-This section tells Manus WHEN to load each reference file.
-```
+**`/references/automation-workflows.md`** — Read when building automated campaign management, implementing rules-based optimization, or scaling bulk operations.
 
-**Rules for the body:**
-- Keep under 500 lines total
-- Use imperative/infinitive form throughout
-- Reference files with relative paths: `/references/filename.md`
-- Include tables for comparisons, selection guides, specs
-- Only add information Manus doesn't already have — it's already smart
-- Move detailed/lengthy content to reference files, keep SKILL.md as the overview and navigation layer
+**`/references/insights-reporting-api.md`** — Read when building reporting dashboards, pulling cross-platform breakdowns, or implementing async report jobs.
 
----
-
-## Section One
-
-Detailed content here. This is where the depth lives.
-Can be longer than SKILL.md since it's only loaded when needed.
-
-## Section Two
-
-More detailed content.
-```
-
-**Rules for reference files:**
-- Plain Markdown, no YAML frontmatter
-- Can be longer than SKILL.md (they're loaded on demand)
-- Each file should cover one coherent topic
-- Don't duplicate content between SKILL.md and references
-- SKILL.md summarizes; references go deep
-
----
-
-## Complete Example: A Simple Skill
-
-### Directory Structure
-```
-email-outreach/
-├── SKILL.md
-└── references/
-    ├── cold-email-templates.md
-    └── follow-up-sequences.md
-```
-
-### SKILL.md
-```markdown
----
-name: email-outreach
-description: Create high-converting cold email campaigns and follow-up sequences for B2B outreach. Use for writing cold emails, designing drip sequences, crafting subject lines, personalizing outreach at scale, and optimizing reply rates.
----
-
-# Email Outreach
-
-Create effective cold email campaigns and automated follow-up sequences for B2B sales outreach.
-
-## Overview
-
-This skill provides frameworks, templates, and best practices for cold email outreach including initial contact emails, multi-touch follow-up sequences, subject line optimization, and personalization strategies.
-
-## Quick Start: Email Type Selection
-
-| Scenario | Template Type | Reference |
-|----------|--------------|-----------|
-| First contact, cold lead | Cold intro email | `/references/cold-email-templates.md` |
-| No reply after 3 days | Follow-up sequence | `/references/follow-up-sequences.md` |
-| Warm intro via referral | Warm referral email | `/references/cold-email-templates.md` |
-
-## Core Principles
-
-1. **Personalize the first line** — reference something specific about the recipient
-2. **One CTA per email** — don't give multiple options
-3. **Keep it short** — under 150 words for cold emails
-4. **Subject lines matter** — test 5-10 variations
-
-## Prompt for Abacus
-
-Copy and paste this into Abacus when generating a skill:
-
-```
-Generate a Manus-compatible skill following this exact format:
-
-1. Create a SKILL.md file with:
-   - YAML frontmatter containing `name` (lowercase-hyphenated) and `description` (comprehensive — what it does AND when to use it)
-   - Markdown body under 500 lines with overview, core instructional content, and a "Using the Reference Files" section
-   - Use imperative/infinitive form throughout
-   - Use tables for comparisons and selection guides
-   - Only include information an advanced AI wouldn't already know
-   - Reference detailed content with relative paths like `/references/filename.md`
-
-2. Create reference files in a `references/` directory:
-   - Plain Markdown, no frontmatter
-   - One coherent topic per file
-   - This is where detailed/lengthy content lives
-   - Don't duplicate content from SKILL.md
-
-3. Do NOT include README.md, CHANGELOG.md, or other auxiliary files.
-
-4. The skill directory structure should be:
-   skill-name/
-   ├── SKILL.md
-   └── references/
-       ├── topic-one.md
-       └── topic-two.md
-
-The skill topic is: [DESCRIBE YOUR SKILL HERE]
-```
-
----
-
-## Deploying to Manus
-
-Once Abacus generates the files:
-
-1. Send me the SKILL.md and all reference files
-2. I'll place them in `/home/ubuntu/skills/your-skill-name/`
-3. I'll validate and activate the skill
-4. It's ready to use immediately
-
-Alternatively, if you have multiple skills, send them all and I'll batch deploy them.
+**`/references/best-practices-troubleshooting.md`** — Read when debugging API errors, handling rate limits, resolving creative rejections, or optimizing delivery.
