@@ -43,7 +43,7 @@ Choose your approach based on your specific needs:
 
 This skill includes the following detailed reference materials:
 
-- [Animation Principles](references/animation-principles.md)
-- [Design Styles](references/design-styles.md)
-- [Software Techniques](references/software-techniques.md)
-- [Workflow Optimization](references/workflow-optimization.md)
+- [Animation Principles](./references/animation-principles.md)
+- [Design Styles](./references/design-styles.md)
+- [Software Techniques](./references/software-techniques.md)
+- [Workflow Optimization](./references/workflow-optimization.md)

@@ -73,5 +73,5 @@ Provide frameworks for building holistic ESG programs covering environmental str
 
 This skill includes the following detailed reference materials:
 
-- [Environmental Strategy](references/environmental-strategy.md)
-- [Social Governance Strategy](references/social-governance-strategy.md)
+- [Environmental Strategy](./references/environmental-strategy.md)
+- [Social Governance Strategy](./references/social-governance-strategy.md)

@@ -64,5 +64,5 @@ Provide frameworks and techniques for every direct mail format — from sales le
 
 This skill includes the following detailed reference materials:
 
-- [Format Specific Copy](references/format-specific-copy.md)
-- [Offers And Testing](references/offers-and-testing.md)
+- [Format Specific Copy](./references/format-specific-copy.md)
+- [Offers And Testing](./references/offers-and-testing.md)

@@ -106,7 +106,7 @@ Create seamless onboarding experiences that drive time-to-value:
 - **Early Warning System:** Identify at-risk customers early (low engagement, missed milestones)
 - **Measure Time-to-Value:** Track how quickly customers achieve first meaningful outcome
 
-See [Success Frameworks](references/success-frameworks.md) for detailed onboarding playbooks and lifecycle management.
+See [Success Frameworks](./references/success-frameworks.md) for detailed onboarding playbooks and lifecycle management.
 
 ### Pillar 3: Engage (Continuous Relationship)
 
@@ -180,7 +180,7 @@ Develop multi-dimensional health scores to predict retention and expansion:
 - **Yellow (60-79):** At-risk, requires intervention
 - **Red (0-59):** High churn risk, urgent action needed
 
-See [Health Scoring](references/health-scoring.md) for detailed scoring models and risk mitigation strategies.
+See [Health Scoring](./references/health-scoring.md) for detailed scoring models and risk mitigation strategies.
 
 **Proactive Risk Management:**
 
@@ -228,7 +228,7 @@ Drive revenue growth through expansion and customer advocacy:
 - **Timing:** During onboarding, major initiatives, or strategic planning
 - **Example:** Custom integration development, dedicated training programs
 
-See [Expansion Strategies](references/expansion-strategies.md) for detailed expansion playbooks and revenue optimization.
+See [Expansion Strategies](./references/expansion-strategies.md) for detailed expansion playbooks and revenue optimization.
 
 **Customer Advocacy Programs:**
 
@@ -355,7 +355,7 @@ Optimize CS processes, data, and technology for scalability:
 - **Enablement:** Training programs, documentation, knowledge management
 - **Forecasting:** Renewal pipeline, expansion projections, capacity planning
 
-See [CS Operations](references/cs-operations.md) for detailed operational frameworks and automation strategies.
+See [CS Operations](./references/cs-operations.md) for detailed operational frameworks and automation strategies.
 
 ### Automation and Scalability
 
@@ -494,10 +494,6 @@ Progress through stages of CS sophistication:
 **Industry Resources:**
 - Customer Success Association, Gainsight Pulse Conference, ChurnZero Resources, SaaS Metrics and Benchmarks
 
-## Using the Reference Files
+---
 
-- [Cs Operations](./references/cs-operations.md): Cs Operations
-- [Expansion Strategies](./references/expansion-strategies.md): Expansion Strategies
-- [Health Scoring](./references/health-scoring.md): Health Scoring
-- [Success Frameworks](./references/success-frameworks.md): Success Frameworks
-
+**Note:** Additional content has been moved to `SKILL_EXTRA.md` to maintain the 500-line limit.

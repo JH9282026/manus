@@ -84,5 +84,5 @@ This skill transforms comparative data into strategic insights by systematically
 
 This skill includes the following detailed reference materials:
 
-- [Industry Benchmarks](references/industry-benchmarks.md)
-- [Methodology](references/methodology.md)
+- [Industry Benchmarks](./references/industry-benchmarks.md)
+- [Methodology](./references/methodology.md)

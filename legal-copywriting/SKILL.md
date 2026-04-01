@@ -68,5 +68,5 @@ This skill provides legal copywriting guidance, not legal advice. All documents 
 
 This skill includes the following detailed reference materials:
 
-- [Legal Writing Principles](references/legal-writing-principles.md)
-- [Terms Privacy Templates](references/terms-privacy-templates.md)
+- [Legal Writing Principles](./references/legal-writing-principles.md)
+- [Terms Privacy Templates](./references/terms-privacy-templates.md)

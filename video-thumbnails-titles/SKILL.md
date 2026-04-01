@@ -43,7 +43,7 @@ Choose your approach based on your specific needs:
 
 This skill includes the following detailed reference materials:
 
-- [Design Fundamentals](references/design-fundamentals.md)
-- [Platform Specs](references/platform-specs.md)
-- [Testing Optimization](references/testing-optimization.md)
-- [Title Formulas](references/title-formulas.md)
+- [Design Fundamentals](./references/design-fundamentals.md)
+- [Platform Specs](./references/platform-specs.md)
+- [Testing Optimization](./references/testing-optimization.md)
+- [Title Formulas](./references/title-formulas.md)

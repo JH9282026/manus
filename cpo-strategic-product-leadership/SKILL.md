@@ -71,6 +71,6 @@ Build product-led growth engines, transform from project to product mindset, acc
 
 This skill includes the following detailed reference materials:
 
-- [Go To Market](references/go-to-market.md)
-- [Product Strategy](references/product-strategy.md)
-- [Roadmap Development](references/roadmap-development.md)
+- [Go To Market](./references/go-to-market.md)
+- [Product Strategy](./references/product-strategy.md)
+- [Roadmap Development](./references/roadmap-development.md)

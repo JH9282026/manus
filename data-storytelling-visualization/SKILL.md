@@ -98,5 +98,5 @@ Transform raw numbers into meaningful stories by weaving together accurate data 
 
 This skill includes the following detailed reference materials:
 
-- [Narrative Frameworks Delivery](references/narrative-frameworks-delivery.md)
-- [Visualization Design Techniques](references/visualization-design-techniques.md)
+- [Narrative Frameworks Delivery](./references/narrative-frameworks-delivery.md)
+- [Visualization Design Techniques](./references/visualization-design-techniques.md)

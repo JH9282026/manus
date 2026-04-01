@@ -39,5 +39,5 @@ This skill monitors regulatory developments, interprets requirements, assesses c
 
 This skill includes the following detailed reference materials:
 
-- [Fda Regulatory Compliance](references/fda-regulatory-compliance.md)
-- [Hipaa Privacy Security](references/hipaa-privacy-security.md)
+- [Fda Regulatory Compliance](./references/fda-regulatory-compliance.md)
+- [Hipaa Privacy Security](./references/hipaa-privacy-security.md)

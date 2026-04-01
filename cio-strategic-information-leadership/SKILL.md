@@ -84,8 +84,8 @@ Apply TOGAF-based architecture across four domains:
 
 This skill includes the following detailed reference materials:
 
-- [Cloud Strategy](references/cloud-strategy.md)
-- [Digital Transformation](references/digital-transformation.md)
-- [Enterprise Architecture](references/enterprise-architecture.md)
-- [It Governance](references/it-governance.md)
-- [It Operations](references/it-operations.md)
+- [Cloud Strategy](./references/cloud-strategy.md)
+- [Digital Transformation](./references/digital-transformation.md)
+- [Enterprise Architecture](./references/enterprise-architecture.md)
+- [It Governance](./references/it-governance.md)
+- [It Operations](./references/it-operations.md)

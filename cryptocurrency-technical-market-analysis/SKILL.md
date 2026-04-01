@@ -75,6 +75,6 @@ Combine traditional chart analysis techniques with specialized tools for cryptoc
 
 This skill includes the following detailed reference materials:
 
-- [Crypto Indicators](references/crypto-indicators.md)
-- [Macro Integration](references/macro-integration.md)
-- [Traditional Indicators](references/traditional-indicators.md)
+- [Crypto Indicators](./references/crypto-indicators.md)
+- [Macro Integration](./references/macro-integration.md)
+- [Traditional Indicators](./references/traditional-indicators.md)

@@ -364,8 +364,8 @@ For optimal results, execute these preparatory workflows if available:
 
 This skill includes the following detailed reference materials:
 
-- [Applications](references/applications.md)
-- [Visual System](references/visual-system.md)
+- [Applications](./references/applications.md)
+- [Visual System](./references/visual-system.md)
 
 ## Using the Reference Files
 

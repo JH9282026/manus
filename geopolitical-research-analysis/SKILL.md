@@ -56,5 +56,5 @@ This skill provides frameworks for analyzing geopolitical landscapes including c
 
 This skill includes the following detailed reference materials:
 
-- [Country Risk Frameworks](references/country-risk-frameworks.md)
-- [Scenario Planning Methods](references/scenario-planning-methods.md)
+- [Country Risk Frameworks](./references/country-risk-frameworks.md)
+- [Scenario Planning Methods](./references/scenario-planning-methods.md)

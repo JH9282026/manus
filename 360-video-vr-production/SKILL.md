@@ -110,7 +110,7 @@ This skill covers the complete 360° video and VR production pipeline: camera sy
 
 This skill includes the following detailed reference materials:
 
-- [Camera Systems](references/camera-systems.md)
-- [Interactive Vr](references/interactive-vr.md)
-- [Spatial Audio Deep Dive](references/spatial-audio-deep-dive.md)
-- [Stitching Advanced](references/stitching-advanced.md)
+- [Camera Systems](./references/camera-systems.md)
+- [Interactive Vr](./references/interactive-vr.md)
+- [Spatial Audio Deep Dive](./references/spatial-audio-deep-dive.md)
+- [Stitching Advanced](./references/stitching-advanced.md)

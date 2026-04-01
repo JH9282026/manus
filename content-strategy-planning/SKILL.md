@@ -64,5 +64,5 @@ Transform scattered content efforts into coordinated campaigns that build brand 
 
 This skill includes the following detailed reference materials:
 
-- [Content Audit Methodology](references/content-audit-methodology.md)
-- [Distribution Amplification](references/distribution-amplification.md)
+- [Content Audit Methodology](./references/content-audit-methodology.md)
+- [Distribution Amplification](./references/distribution-amplification.md)

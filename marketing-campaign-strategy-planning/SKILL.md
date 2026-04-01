@@ -56,5 +56,5 @@ Design data-driven marketing campaigns from objective setting through execution 
 
 This skill includes the following detailed reference materials:
 
-- [Campaign Frameworks](references/campaign-frameworks.md)
-- [Measurement Optimization](references/measurement-optimization.md)
+- [Campaign Frameworks](./references/campaign-frameworks.md)
+- [Measurement Optimization](./references/measurement-optimization.md)

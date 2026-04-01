@@ -64,5 +64,5 @@ Cover the complete live streaming workflow from equipment selection and platform
 
 This skill includes the following detailed reference materials:
 
-- [Production Workflow](references/production-workflow.md)
-- [Technical Setup](references/technical-setup.md)
+- [Production Workflow](./references/production-workflow.md)
+- [Technical Setup](./references/technical-setup.md)

@@ -61,5 +61,5 @@ This skill provides compliance analysis, not legal advice. Findings should be re
 
 This skill includes the following detailed reference materials:
 
-- [Assessment Methodology](references/assessment-methodology.md)
-- [Regulatory Frameworks](references/regulatory-frameworks.md)
+- [Assessment Methodology](./references/assessment-methodology.md)
+- [Regulatory Frameworks](./references/regulatory-frameworks.md)

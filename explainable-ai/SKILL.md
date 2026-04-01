@@ -494,10 +494,6 @@ plt.figure(figsize=(10, 6))
 
 See `references/` for method comparisons, case studies, and implementation guides.
 
-## Using the Reference Files
+---
 
-- [Ethical Considerations](./references/ethical-considerations.md): Ethical Considerations
-- [Implementation Tools](./references/implementation-tools.md): Implementation Tools
-- [Interpretability Methods](./references/interpretability-methods.md): Interpretability Methods
-- [Model Transparency Techniques](./references/model-transparency-techniques.md): Model Transparency Techniques
-- [Xai Fundamentals Concepts](./references/xai-fundamentals-concepts.md): Xai Fundamentals Concepts
+**Note:** Additional content has been moved to `SKILL_EXTRA.md` to maintain the 500-line limit.

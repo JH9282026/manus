@@ -40,5 +40,5 @@ This skill covers pre-launch optimization, multi-channel distribution, outreach,
 
 This skill includes the following detailed reference materials:
 
-- [Distribution Channels](references/distribution-channels.md)
-- [Seo Measurement](references/seo-measurement.md)
+- [Distribution Channels](./references/distribution-channels.md)
+- [Seo Measurement](./references/seo-measurement.md)

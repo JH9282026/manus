@@ -97,9 +97,9 @@ Read when conducting keyword research, prioritization, and seasonal optimization
 
 This skill includes the following detailed reference materials:
 
-- [Android Optimization](references/android-optimization.md)
-- [Ios Optimization](references/ios-optimization.md)
-- [Keyword Research](references/keyword-research.md)
-- [Keyword Strategy](references/keyword-strategy.md)
-- [Localization](references/localization.md)
-- [Platform Guidelines](references/platform-guidelines.md)
+- [Android Optimization](./references/android-optimization.md)
+- [Ios Optimization](./references/ios-optimization.md)
+- [Keyword Research](./references/keyword-research.md)
+- [Keyword Strategy](./references/keyword-strategy.md)
+- [Localization](./references/localization.md)
+- [Platform Guidelines](./references/platform-guidelines.md)

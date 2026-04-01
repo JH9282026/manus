@@ -59,6 +59,6 @@ This skill covers the full spectrum of government affairs: lobbying strategy, le
 
 This skill includes the following detailed reference materials:
 
-- [Coalition Grassroots](references/coalition-grassroots.md)
-- [Legislative Engagement](references/legislative-engagement.md)
-- [Regulatory Advocacy](references/regulatory-advocacy.md)
+- [Coalition Grassroots](./references/coalition-grassroots.md)
+- [Legislative Engagement](./references/legislative-engagement.md)
+- [Regulatory Advocacy](./references/regulatory-advocacy.md)

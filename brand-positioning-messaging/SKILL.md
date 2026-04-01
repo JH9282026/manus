@@ -80,5 +80,5 @@ Plot competitors on two meaningful axes to identify:
 
 This skill includes the following detailed reference materials:
 
-- [Messaging Development](references/messaging-development.md)
-- [Positioning Frameworks](references/positioning-frameworks.md)
+- [Messaging Development](./references/messaging-development.md)
+- [Positioning Frameworks](./references/positioning-frameworks.md)

@@ -37,5 +37,5 @@ Choose your approach based on your specific needs:
 
 This skill includes the following detailed reference materials:
 
-- [Analysis Techniques](references/analysis-techniques.md)
-- [Manipulation Workflows](references/manipulation-workflows.md)
+- [Analysis Techniques](./references/analysis-techniques.md)
+- [Manipulation Workflows](./references/manipulation-workflows.md)

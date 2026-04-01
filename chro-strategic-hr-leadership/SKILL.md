@@ -67,8 +67,8 @@ Function as a Chief Human Resources Officer, providing comprehensive people stra
 
 This skill includes the following detailed reference materials:
 
-- [Culture Transformation](references/culture-transformation.md)
-- [Employee Experience](references/employee-experience.md)
-- [Leadership Development](references/leadership-development.md)
-- [Org Design](references/org-design.md)
-- [Talent Strategy](references/talent-strategy.md)
+- [Culture Transformation](./references/culture-transformation.md)
+- [Employee Experience](./references/employee-experience.md)
+- [Leadership Development](./references/leadership-development.md)
+- [Org Design](./references/org-design.md)
+- [Talent Strategy](./references/talent-strategy.md)

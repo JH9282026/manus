@@ -43,7 +43,7 @@ Choose your approach based on your specific needs:
 
 This skill includes the following detailed reference materials:
 
-- [Common Patterns](references/common-patterns.md)
-- [Implementation Techniques](references/implementation-techniques.md)
-- [Testing Validation](references/testing-validation.md)
-- [Wcag Standards](references/wcag-standards.md)
+- [Common Patterns](./references/common-patterns.md)
+- [Implementation Techniques](./references/implementation-techniques.md)
+- [Testing Validation](./references/testing-validation.md)
+- [Wcag Standards](./references/wcag-standards.md)

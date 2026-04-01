@@ -134,6 +134,6 @@ This skill enables end-to-end business intelligence capabilities from strategy t
 
 This skill includes the following detailed reference materials:
 
-- [Analytics Governance](references/analytics-governance.md)
-- [Dashboard Design](references/dashboard-design.md)
-- [Platform Implementation](references/platform-implementation.md)
+- [Analytics Governance](./references/analytics-governance.md)
+- [Dashboard Design](./references/dashboard-design.md)
+- [Platform Implementation](./references/platform-implementation.md)

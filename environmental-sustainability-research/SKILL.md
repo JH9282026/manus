@@ -64,5 +64,5 @@ Provide frameworks for comprehensive sustainability research covering greenhouse
 
 This skill includes the following detailed reference materials:
 
-- [Carbon Accounting Lca](references/carbon-accounting-lca.md)
-- [Esg Frameworks Reporting](references/esg-frameworks-reporting.md)
+- [Carbon Accounting Lca](./references/carbon-accounting-lca.md)
+- [Esg Frameworks Reporting](./references/esg-frameworks-reporting.md)

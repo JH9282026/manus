@@ -64,5 +64,5 @@ Provide comprehensive frameworks for nonprofit leadership covering board governa
 
 This skill includes the following detailed reference materials:
 
-- [Fundraising Programs](references/fundraising-programs.md)
-- [Governance Operations](references/governance-operations.md)
+- [Fundraising Programs](./references/fundraising-programs.md)
+- [Governance Operations](./references/governance-operations.md)

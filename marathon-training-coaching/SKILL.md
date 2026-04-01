@@ -65,5 +65,5 @@ Create structured training plans integrating periodization principles, heart rat
 
 This skill includes the following detailed reference materials:
 
-- [Race Nutrition Strategy](references/race-nutrition-strategy.md)
-- [Training Programs](references/training-programs.md)
+- [Race Nutrition Strategy](./references/race-nutrition-strategy.md)
+- [Training Programs](./references/training-programs.md)

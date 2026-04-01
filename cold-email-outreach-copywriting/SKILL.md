@@ -99,8 +99,8 @@ Provide frameworks, templates, and best practices for all forms of cold outreach
 
 This skill includes the following detailed reference materials:
 
-- [Deliverability](references/deliverability.md)
-- [Influencer Outreach](references/influencer-outreach.md)
-- [Partnership Outreach](references/partnership-outreach.md)
-- [Pr Outreach](references/pr-outreach.md)
-- [Sales Outreach](references/sales-outreach.md)
+- [Deliverability](./references/deliverability.md)
+- [Influencer Outreach](./references/influencer-outreach.md)
+- [Partnership Outreach](./references/partnership-outreach.md)
+- [Pr Outreach](./references/pr-outreach.md)
+- [Sales Outreach](./references/sales-outreach.md)

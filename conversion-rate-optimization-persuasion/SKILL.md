@@ -72,5 +72,5 @@ BECAUSE [reason based on evidence]
 
 This skill includes the following detailed reference materials:
 
-- [Persuasion Psychology](references/persuasion-psychology.md)
-- [Testing Methodology](references/testing-methodology.md)
+- [Persuasion Psychology](./references/persuasion-psychology.md)
+- [Testing Methodology](./references/testing-methodology.md)

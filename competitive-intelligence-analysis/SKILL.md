@@ -71,6 +71,6 @@ This skill reduces uncertainty in competitive environments by providing evidence
 
 This skill includes the following detailed reference materials:
 
-- [Analysis Frameworks](references/analysis-frameworks.md)
-- [Collection Methods](references/collection-methods.md)
-- [Deliverable Templates](references/deliverable-templates.md)
+- [Analysis Frameworks](./references/analysis-frameworks.md)
+- [Collection Methods](./references/collection-methods.md)
+- [Deliverable Templates](./references/deliverable-templates.md)

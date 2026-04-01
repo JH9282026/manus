@@ -69,6 +69,6 @@ Unlike product-focused marketing videos, corporate video builds brand equity, sh
 
 This skill includes the following detailed reference materials:
 
-- [Brand Storytelling](references/brand-storytelling.md)
-- [Corporate Video Types](references/corporate-video-types.md)
-- [Production Process](references/production-process.md)
+- [Brand Storytelling](./references/brand-storytelling.md)
+- [Corporate Video Types](./references/corporate-video-types.md)
+- [Production Process](./references/production-process.md)

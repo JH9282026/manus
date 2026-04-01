@@ -102,10 +102,10 @@ Read when synthesizing or comparing multiple source documents.
 
 This skill includes the following detailed reference materials:
 
-- [Academic Summaries](references/academic-summaries.md)
-- [Article Summaries](references/article-summaries.md)
-- [Executive Summaries](references/executive-summaries.md)
-- [Multi Document Synthesis](references/multi-document-synthesis.md)
-- [Multi Source](references/multi-source.md)
-- [Specialized Summaries](references/specialized-summaries.md)
-- [Summarization Methods](references/summarization-methods.md)
+- [Academic Summaries](./references/academic-summaries.md)
+- [Article Summaries](./references/article-summaries.md)
+- [Executive Summaries](./references/executive-summaries.md)
+- [Multi Document Synthesis](./references/multi-document-synthesis.md)
+- [Multi Source](./references/multi-source.md)
+- [Specialized Summaries](./references/specialized-summaries.md)
+- [Summarization Methods](./references/summarization-methods.md)

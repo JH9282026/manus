@@ -75,5 +75,5 @@ Assess and develop across five EQ domains:
 
 This skill includes the following detailed reference materials:
 
-- [Assessment Frameworks](references/assessment-frameworks.md)
-- [Development Planning](references/development-planning.md)
+- [Assessment Frameworks](./references/assessment-frameworks.md)
+- [Development Planning](./references/development-planning.md)

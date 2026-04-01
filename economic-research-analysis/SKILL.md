@@ -67,5 +67,5 @@ Translate economic findings into actionable strategic implications.
 
 This skill includes the following detailed reference materials:
 
-- [Macro Analysis Methods](references/macro-analysis-methods.md)
-- [Sectoral Policy Analysis](references/sectoral-policy-analysis.md)
+- [Macro Analysis Methods](./references/macro-analysis-methods.md)
+- [Sectoral Policy Analysis](./references/sectoral-policy-analysis.md)

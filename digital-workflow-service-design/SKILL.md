@@ -62,5 +62,5 @@ Combine process optimization with human-centered design to create digital workfl
 
 This skill includes the following detailed reference materials:
 
-- [Service Blueprinting](references/service-blueprinting.md)
-- [Workflow Automation](references/workflow-automation.md)
+- [Service Blueprinting](./references/service-blueprinting.md)
+- [Workflow Automation](./references/workflow-automation.md)

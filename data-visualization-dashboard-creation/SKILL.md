@@ -99,6 +99,6 @@ Apply encodings in order of perceptual accuracy:
 
 This skill includes the following detailed reference materials:
 
-- [Chart Types And Encoding](references/chart-types-and-encoding.md)
-- [Dashboard Design Process](references/dashboard-design-process.md)
-- [Platform Implementation](references/platform-implementation.md)
+- [Chart Types And Encoding](./references/chart-types-and-encoding.md)
+- [Dashboard Design Process](./references/dashboard-design-process.md)
+- [Platform Implementation](./references/platform-implementation.md)

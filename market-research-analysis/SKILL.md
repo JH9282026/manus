@@ -64,5 +64,5 @@ Analyze industry dynamics, market size, growth trajectories, competitive landsca
 
 This skill includes the following detailed reference materials:
 
-- [Competitive Analysis](references/competitive-analysis.md)
-- [Market Sizing](references/market-sizing.md)
+- [Competitive Analysis](./references/competitive-analysis.md)
+- [Market Sizing](./references/market-sizing.md)

@@ -43,7 +43,7 @@ Choose your approach based on your specific needs:
 
 This skill includes the following detailed reference materials:
 
-- [Integration Patterns](references/integration-patterns.md)
-- [Optimization Strategies](references/optimization-strategies.md)
-- [Routing Algorithms](references/routing-algorithms.md)
-- [Tool Catalog](references/tool-catalog.md)
+- [Integration Patterns](./references/integration-patterns.md)
+- [Optimization Strategies](./references/optimization-strategies.md)
+- [Routing Algorithms](./references/routing-algorithms.md)
+- [Tool Catalog](./references/tool-catalog.md)

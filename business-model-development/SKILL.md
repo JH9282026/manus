@@ -243,6 +243,6 @@ Adapt business model for new markets, segments, or geographies.
 
 This skill includes the following detailed reference materials:
 
-- [Canvas Frameworks](references/canvas-frameworks.md)
-- [Revenue Models](references/revenue-models.md)
-- [Validation Methods](references/validation-methods.md)
+- [Canvas Frameworks](./references/canvas-frameworks.md)
+- [Revenue Models](./references/revenue-models.md)
+- [Validation Methods](./references/validation-methods.md)

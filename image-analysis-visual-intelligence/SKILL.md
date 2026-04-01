@@ -48,5 +48,5 @@ JPEG, PNG, GIF, WebP, TIFF, BMP, HEIC, RAW, PDF, SVG
 
 This skill includes the following detailed reference materials:
 
-- [Extraction Composition](references/extraction-composition.md)
-- [Visual Perception](references/visual-perception.md)
+- [Extraction Composition](./references/extraction-composition.md)
+- [Visual Perception](./references/visual-perception.md)

@@ -55,5 +55,5 @@ Identify → Research → Cultivate → Solicit → Thank → Report → Renew/U
 
 This skill includes the following detailed reference materials:
 
-- [Donor Campaigns](references/donor-campaigns.md)
-- [Grant Development](references/grant-development.md)
+- [Donor Campaigns](./references/donor-campaigns.md)
+- [Grant Development](./references/grant-development.md)

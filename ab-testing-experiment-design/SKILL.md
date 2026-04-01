@@ -110,8 +110,8 @@ Read when designing experiments with multiple factors or variants.
 
 This skill includes the following detailed reference materials:
 
-- [Ab Test Fundamentals](references/ab-test-fundamentals.md)
-- [Advanced Methods](references/advanced-methods.md)
-- [Multivariate Testing](references/multivariate-testing.md)
-- [Statistical Analysis](references/statistical-analysis.md)
-- [Statistical Methods](references/statistical-methods.md)
+- [Ab Test Fundamentals](./references/ab-test-fundamentals.md)
+- [Advanced Methods](./references/advanced-methods.md)
+- [Multivariate Testing](./references/multivariate-testing.md)
+- [Statistical Analysis](./references/statistical-analysis.md)
+- [Statistical Methods](./references/statistical-methods.md)

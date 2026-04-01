@@ -62,5 +62,5 @@ Provide frameworks for modern performance management covering goal-setting metho
 
 This skill includes the following detailed reference materials:
 
-- [Feedback Calibration Pip](references/feedback-calibration-pip.md)
-- [Okr Goal Systems](references/okr-goal-systems.md)
+- [Feedback Calibration Pip](./references/feedback-calibration-pip.md)
+- [Okr Goal Systems](./references/okr-goal-systems.md)

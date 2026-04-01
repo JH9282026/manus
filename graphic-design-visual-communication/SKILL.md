@@ -57,5 +57,5 @@ This skill provides frameworks for applying design principles to solve visual co
 
 This skill includes the following detailed reference materials:
 
-- [Design Principles Systems](references/design-principles-systems.md)
-- [Production Specifications](references/production-specifications.md)
+- [Design Principles Systems](./references/design-principles-systems.md)
+- [Production Specifications](./references/production-specifications.md)

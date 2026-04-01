@@ -71,5 +71,5 @@ Use sparingly and accurately:
 
 This skill includes the following detailed reference materials:
 
-- [Amazon Optimization](references/amazon-optimization.md)
-- [Genre Templates](references/genre-templates.md)
+- [Amazon Optimization](./references/amazon-optimization.md)
+- [Genre Templates](./references/genre-templates.md)

@@ -63,5 +63,5 @@ Develop comprehensive written content exceeding 2,000 words that explores topics
 
 This skill includes the following detailed reference materials:
 
-- [Content Formats](references/content-formats.md)
-- [Writing Process](references/writing-process.md)
+- [Content Formats](./references/content-formats.md)
+- [Writing Process](./references/writing-process.md)

@@ -66,5 +66,5 @@ Design and write email newsletters covering content strategy, subject line optim
 
 This skill includes the following detailed reference materials:
 
-- [Content Strategy](references/content-strategy.md)
-- [Writing Techniques](references/writing-techniques.md)
+- [Content Strategy](./references/content-strategy.md)
+- [Writing Techniques](./references/writing-techniques.md)

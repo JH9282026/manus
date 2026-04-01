@@ -78,5 +78,5 @@ Billboard copy should contain seven words or fewer. At typical viewing distances
 
 This skill includes the following detailed reference materials:
 
-- [Creative Templates](references/creative-templates.md)
-- [Format Specs](references/format-specs.md)
+- [Creative Templates](./references/creative-templates.md)
+- [Format Specs](./references/format-specs.md)

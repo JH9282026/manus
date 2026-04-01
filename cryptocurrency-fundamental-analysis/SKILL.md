@@ -69,6 +69,6 @@ This skill addresses unique aspects of decentralized systems, token economics, a
 
 This skill includes the following detailed reference materials:
 
-- [Geopolitical Factors](references/geopolitical-factors.md)
-- [Macro Indicators](references/macro-indicators.md)
-- [Tokenomics Analysis](references/tokenomics-analysis.md)
+- [Geopolitical Factors](./references/geopolitical-factors.md)
+- [Macro Indicators](./references/macro-indicators.md)
+- [Tokenomics Analysis](./references/tokenomics-analysis.md)

@@ -98,7 +98,7 @@ This skill synthesizes brand heritage, market positioning, consumer psychology, 
 
 This skill includes the following detailed reference materials:
 
-- [Brand Positioning](references/brand-positioning.md)
-- [Consumer Segments](references/consumer-segments.md)
-- [Marketing Strategy](references/marketing-strategy.md)
-- [Regional Strategy](references/regional-strategy.md)
+- [Brand Positioning](./references/brand-positioning.md)
+- [Consumer Segments](./references/consumer-segments.md)
+- [Marketing Strategy](./references/marketing-strategy.md)
+- [Regional Strategy](./references/regional-strategy.md)

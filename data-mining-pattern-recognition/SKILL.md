@@ -94,5 +94,5 @@ Transform vast quantities of raw data into actionable knowledge by identifying r
 
 This skill includes the following detailed reference materials:
 
-- [Association Anomaly Text Mining](references/association-anomaly-text-mining.md)
-- [Clustering Segmentation](references/clustering-segmentation.md)
+- [Association Anomaly Text Mining](./references/association-anomaly-text-mining.md)
+- [Clustering Segmentation](./references/clustering-segmentation.md)

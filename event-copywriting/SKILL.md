@@ -58,5 +58,5 @@ Provide frameworks for every stage of event communication — from naming and br
 
 This skill includes the following detailed reference materials:
 
-- [Event Email Sequences](references/event-email-sequences.md)
-- [Event Types And Copy](references/event-types-and-copy.md)
+- [Event Email Sequences](./references/event-email-sequences.md)
+- [Event Types And Copy](./references/event-types-and-copy.md)

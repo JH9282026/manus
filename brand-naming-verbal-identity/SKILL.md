@@ -73,5 +73,5 @@ From strongest to weakest protection:
 
 This skill includes the following detailed reference materials:
 
-- [Naming Process](references/naming-process.md)
-- [Verbal System](references/verbal-system.md)
+- [Naming Process](./references/naming-process.md)
+- [Verbal System](./references/verbal-system.md)

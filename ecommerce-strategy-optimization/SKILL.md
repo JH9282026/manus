@@ -68,5 +68,5 @@ Provide frameworks for building and optimizing online retail businesses across t
 
 This skill includes the following detailed reference materials:
 
-- [Acquisition And Retention](references/acquisition-and-retention.md)
-- [Merchandising And Operations](references/merchandising-and-operations.md)
+- [Acquisition And Retention](./references/acquisition-and-retention.md)
+- [Merchandising And Operations](./references/merchandising-and-operations.md)

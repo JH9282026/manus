@@ -68,6 +68,6 @@ Ensure organizations maintain robust governance structures that satisfy regulato
 
 This skill includes the following detailed reference materials:
 
-- [Board Administration](references/board-administration.md)
-- [Committee Governance](references/committee-governance.md)
-- [Regulatory Compliance](references/regulatory-compliance.md)
+- [Board Administration](./references/board-administration.md)
+- [Committee Governance](./references/committee-governance.md)
+- [Regulatory Compliance](./references/regulatory-compliance.md)

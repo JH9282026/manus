@@ -103,8 +103,8 @@ Control for legitimate pay factors to isolate unexplained gaps:
 
 This skill includes the following detailed reference materials:
 
-- [Benefits Analysis](references/benefits-analysis.md)
-- [Equity Programs](references/equity-programs.md)
-- [Incentive Design](references/incentive-design.md)
-- [Market Analysis](references/market-analysis.md)
-- [Pay Equity](references/pay-equity.md)
+- [Benefits Analysis](./references/benefits-analysis.md)
+- [Equity Programs](./references/equity-programs.md)
+- [Incentive Design](./references/incentive-design.md)
+- [Market Analysis](./references/market-analysis.md)
+- [Pay Equity](./references/pay-equity.md)

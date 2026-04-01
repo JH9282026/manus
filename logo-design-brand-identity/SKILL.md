@@ -62,5 +62,5 @@ Cover the complete logo design process from research and conceptualization throu
 
 This skill includes the following detailed reference materials:
 
-- [Brand Identity Systems](references/brand-identity-systems.md)
-- [Logo Techniques](references/logo-techniques.md)
+- [Brand Identity Systems](./references/brand-identity-systems.md)
+- [Logo Techniques](./references/logo-techniques.md)

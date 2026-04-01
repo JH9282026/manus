@@ -129,8 +129,8 @@ Map every conversation path:
 
 This skill includes the following detailed reference materials:
 
-- [Bot Types](references/bot-types.md)
-- [Conversation Design](references/conversation-design.md)
-- [Error Handling](references/error-handling.md)
-- [Templates](references/templates.md)
-- [Voice Writing](references/voice-writing.md)
+- [Bot Types](./references/bot-types.md)
+- [Conversation Design](./references/conversation-design.md)
+- [Error Handling](./references/error-handling.md)
+- [Templates](./references/templates.md)
+- [Voice Writing](./references/voice-writing.md)

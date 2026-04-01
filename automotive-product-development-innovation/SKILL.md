@@ -70,5 +70,5 @@ Track how innovations flow from luxury to mass-market:
 
 This skill includes the following detailed reference materials:
 
-- [Development Frameworks](references/development-frameworks.md)
-- [Innovation Assessment](references/innovation-assessment.md)
+- [Development Frameworks](./references/development-frameworks.md)
+- [Innovation Assessment](./references/innovation-assessment.md)

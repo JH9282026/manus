@@ -59,5 +59,5 @@ Provide frameworks for end-to-end event management covering strategic planning, 
 
 This skill includes the following detailed reference materials:
 
-- [Hybrid Virtual Events](references/hybrid-virtual-events.md)
-- [Logistics Execution](references/logistics-execution.md)
+- [Hybrid Virtual Events](./references/hybrid-virtual-events.md)
+- [Logistics Execution](./references/logistics-execution.md)

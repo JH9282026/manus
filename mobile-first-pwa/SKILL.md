@@ -52,5 +52,5 @@ Apply mobile-first design methodology to create fast, accessible web experiences
 
 This skill includes the following detailed reference materials:
 
-- [Mobile Ux Performance](references/mobile-ux-performance.md)
-- [Responsive Patterns](references/responsive-patterns.md)
+- [Mobile Ux Performance](./references/mobile-ux-performance.md)
+- [Responsive Patterns](./references/responsive-patterns.md)

@@ -164,10 +164,10 @@ Define audiences through layered analysis:
 
 This skill includes the following detailed reference materials:
 
-- [Audience Research](references/audience-research.md)
-- [Brand Architecture](references/brand-architecture.md)
-- [Brand Foundations](references/brand-foundations.md)
-- [Brand Personality](references/brand-personality.md)
-- [Competitive Analysis](references/competitive-analysis.md)
-- [Positioning Frameworks](references/positioning-frameworks.md)
-- [Strategy Frameworks](references/strategy-frameworks.md)
+- [Audience Research](./references/audience-research.md)
+- [Brand Architecture](./references/brand-architecture.md)
+- [Brand Foundations](./references/brand-foundations.md)
+- [Brand Personality](./references/brand-personality.md)
+- [Competitive Analysis](./references/competitive-analysis.md)
+- [Positioning Frameworks](./references/positioning-frameworks.md)
+- [Strategy Frameworks](./references/strategy-frameworks.md)

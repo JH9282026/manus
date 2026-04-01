@@ -196,9 +196,9 @@ See `/references/equipment-setup.md` for detailed equipment recommendations by b
 
 This skill includes the following detailed reference materials:
 
-- [Distribution Growth](references/distribution-growth.md)
-- [Editing Workflow](references/editing-workflow.md)
-- [Equipment Setup](references/equipment-setup.md)
-- [Monetization](references/monetization.md)
-- [Production Techniques](references/production-techniques.md)
-- [Workflows Case Studies](references/workflows-case-studies.md)
+- [Distribution Growth](./references/distribution-growth.md)
+- [Editing Workflow](./references/editing-workflow.md)
+- [Equipment Setup](./references/equipment-setup.md)
+- [Monetization](./references/monetization.md)
+- [Production Techniques](./references/production-techniques.md)
+- [Workflows Case Studies](./references/workflows-case-studies.md)

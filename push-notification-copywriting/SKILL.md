@@ -376,7 +376,7 @@ Finding the right frequency is crucial. Too few notifications and you miss oppor
 ## Extended Content
 
 For additional detailed content, examples, and resources, see:
-- [Extended Content](references/detailed-content.md)
+- [Extended Content](./references/detailed-content.md)
 
 ## Using the Reference Files
 

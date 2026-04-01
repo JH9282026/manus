@@ -66,6 +66,6 @@ Demonstrate through concrete sensory details, actions, and dialogue.
 
 This skill includes the following detailed reference materials:
 
-- [Character Development](references/character-development.md)
-- [Prose Techniques](references/prose-techniques.md)
-- [Story Structures](references/story-structures.md)
+- [Character Development](./references/character-development.md)
+- [Prose Techniques](./references/prose-techniques.md)
+- [Story Structures](./references/story-structures.md)

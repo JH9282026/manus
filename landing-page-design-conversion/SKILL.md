@@ -47,5 +47,5 @@ This skill covers landing page types, hero section design, copywriting, form opt
 
 This skill includes the following detailed reference materials:
 
-- [Conversion Optimization](references/conversion-optimization.md)
-- [Landing Page Design](references/landing-page-design.md)
+- [Conversion Optimization](./references/conversion-optimization.md)
+- [Landing Page Design](./references/landing-page-design.md)

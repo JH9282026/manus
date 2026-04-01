@@ -239,9 +239,9 @@ This skill delivers Chief Growth Officer strategic capabilities: market expansio
 
 This skill includes the following detailed reference materials:
 
-- [Acquisition Frameworks](references/acquisition-frameworks.md)
-- [Acquisition Optimization](references/acquisition-optimization.md)
-- [Expansion Monetization](references/expansion-monetization.md)
-- [Growth Analytics](references/growth-analytics.md)
-- [Growth Experimentation](references/growth-experimentation.md)
-- [Revenue Optimization](references/revenue-optimization.md)
+- [Acquisition Frameworks](./references/acquisition-frameworks.md)
+- [Acquisition Optimization](./references/acquisition-optimization.md)
+- [Expansion Monetization](./references/expansion-monetization.md)
+- [Growth Analytics](./references/growth-analytics.md)
+- [Growth Experimentation](./references/growth-experimentation.md)
+- [Revenue Optimization](./references/revenue-optimization.md)

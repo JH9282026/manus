@@ -39,5 +39,5 @@ This skill covers earnings communications, investor presentations, shareholder a
 
 This skill includes the following detailed reference materials:
 
-- [Earnings Communications](references/earnings-communications.md)
-- [Shareholder Strategy](references/shareholder-strategy.md)
+- [Earnings Communications](./references/earnings-communications.md)
+- [Shareholder Strategy](./references/shareholder-strategy.md)

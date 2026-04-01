@@ -84,5 +84,5 @@ Score customers on three dimensions (1-5 scale each):
 
 This skill includes the following detailed reference materials:
 
-- [Persona Creation Templates](references/persona-creation-templates.md)
-- [Segmentation Methodologies](references/segmentation-methodologies.md)
+- [Persona Creation Templates](./references/persona-creation-templates.md)
+- [Segmentation Methodologies](./references/segmentation-methodologies.md)

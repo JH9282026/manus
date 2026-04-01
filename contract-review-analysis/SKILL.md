@@ -69,6 +69,6 @@ This skill provides analytical support but does not constitute legal advice. All
 
 This skill includes the following detailed reference materials:
 
-- [Commercial Contracts](references/commercial-contracts.md)
-- [Risk Assessment](references/risk-assessment.md)
-- [Technology Contracts](references/technology-contracts.md)
+- [Commercial Contracts](./references/commercial-contracts.md)
+- [Risk Assessment](./references/risk-assessment.md)
+- [Technology Contracts](./references/technology-contracts.md)

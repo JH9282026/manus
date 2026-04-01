@@ -64,5 +64,5 @@ Provide frameworks for every email campaign type — from welcome sequences and 
 
 This skill includes the following detailed reference materials:
 
-- [Campaign Sequences](references/campaign-sequences.md)
-- [Copywriting Techniques](references/copywriting-techniques.md)
+- [Campaign Sequences](./references/campaign-sequences.md)
+- [Copywriting Techniques](./references/copywriting-techniques.md)

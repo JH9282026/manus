@@ -77,5 +77,5 @@ Provide structured frameworks for comprehensive due diligence across financial, 
 
 This skill includes the following detailed reference materials:
 
-- [Financial Due Diligence](references/financial-due-diligence.md)
-- [Operational Commercial Dd](references/operational-commercial-dd.md)
+- [Financial Due Diligence](./references/financial-due-diligence.md)
+- [Operational Commercial Dd](./references/operational-commercial-dd.md)

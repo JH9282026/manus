@@ -70,5 +70,5 @@ This skill provides detailed powertrain analysis (ICE, hybrid, BEV), chassis and
 
 This skill includes the following detailed reference materials:
 
-- [Powertrain Specs](references/powertrain-specs.md)
-- [Safety Adas](references/safety-adas.md)
+- [Powertrain Specs](./references/powertrain-specs.md)
+- [Safety Adas](./references/safety-adas.md)

@@ -41,5 +41,5 @@ A structured 7-phase workflow ensuring infographics are created efficiently and 
 
 This skill includes the following detailed reference materials:
 
-- [Discovery Design Phases](references/discovery-design-phases.md)
-- [Review Delivery Phases](references/review-delivery-phases.md)
+- [Discovery Design Phases](./references/discovery-design-phases.md)
+- [Review Delivery Phases](./references/review-delivery-phases.md)

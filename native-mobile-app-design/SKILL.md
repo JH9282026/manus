@@ -54,5 +54,5 @@ Create platform-appropriate mobile app designs that leverage native iOS (Human I
 
 This skill includes the following detailed reference materials:
 
-- [Android Design Guidelines](references/android-design-guidelines.md)
-- [Ios Design Guidelines](references/ios-design-guidelines.md)
+- [Android Design Guidelines](./references/android-design-guidelines.md)
+- [Ios Design Guidelines](./references/ios-design-guidelines.md)

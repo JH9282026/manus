@@ -75,5 +75,5 @@ Provide frameworks for modern FP&A functions covering zero-based and driver-base
 
 This skill includes the following detailed reference materials:
 
-- [Budgeting Forecasting](references/budgeting-forecasting.md)
-- [Variance Reporting](references/variance-reporting.md)
+- [Budgeting Forecasting](./references/budgeting-forecasting.md)
+- [Variance Reporting](./references/variance-reporting.md)

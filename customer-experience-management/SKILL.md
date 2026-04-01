@@ -96,6 +96,6 @@ Use the CX Impact Matrix to prioritize improvements:
 
 This skill includes the following detailed reference materials:
 
-- [Cx Improvement Implementation](references/cx-improvement-implementation.md)
-- [Journey Mapping Blueprinting](references/journey-mapping-blueprinting.md)
-- [Voc Measurement Analytics](references/voc-measurement-analytics.md)
+- [Cx Improvement Implementation](./references/cx-improvement-implementation.md)
+- [Journey Mapping Blueprinting](./references/journey-mapping-blueprinting.md)
+- [Voc Measurement Analytics](./references/voc-measurement-analytics.md)

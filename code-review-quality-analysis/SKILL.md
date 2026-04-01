@@ -95,7 +95,7 @@ Structure every code review report as:
 
 This skill includes the following detailed reference materials:
 
-- [Audit Methodology](references/audit-methodology.md)
-- [Maintainability](references/maintainability.md)
-- [Performance Analysis](references/performance-analysis.md)
-- [Security Analysis](references/security-analysis.md)
+- [Audit Methodology](./references/audit-methodology.md)
+- [Maintainability](./references/maintainability.md)
+- [Performance Analysis](./references/performance-analysis.md)
+- [Security Analysis](./references/security-analysis.md)

@@ -92,6 +92,6 @@ This skill provides frameworks, architectures, and optimization strategies for c
 
 This skill includes the following detailed reference materials:
 
-- [Funnel Analytics Tools](references/funnel-analytics-tools.md)
-- [Funnel Copywriting Optimization](references/funnel-copywriting-optimization.md)
-- [Funnel Types Architectures](references/funnel-types-architectures.md)
+- [Funnel Analytics Tools](./references/funnel-analytics-tools.md)
+- [Funnel Copywriting Optimization](./references/funnel-copywriting-optimization.md)
+- [Funnel Types Architectures](./references/funnel-types-architectures.md)

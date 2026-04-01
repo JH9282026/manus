@@ -91,8 +91,8 @@ Read when identifying data sources for competitor research. Contains recommended
 
 This skill includes the following detailed reference materials:
 
-- [Competitor Profiling](references/competitor-profiling.md)
-- [Data Sources](references/data-sources.md)
-- [Frameworks](references/frameworks.md)
-- [Market Analysis](references/market-analysis.md)
-- [Strategic Frameworks](references/strategic-frameworks.md)
+- [Competitor Profiling](./references/competitor-profiling.md)
+- [Data Sources](./references/data-sources.md)
+- [Frameworks](./references/frameworks.md)
+- [Market Analysis](./references/market-analysis.md)
+- [Strategic Frameworks](./references/strategic-frameworks.md)

@@ -70,5 +70,5 @@ This skill provides frameworks for the complete grant lifecycle: prospect resear
 
 This skill includes the following detailed reference materials:
 
-- [Foundation Grants](references/foundation-grants.md)
-- [Government Grants](references/government-grants.md)
+- [Foundation Grants](./references/foundation-grants.md)
+- [Government Grants](./references/government-grants.md)

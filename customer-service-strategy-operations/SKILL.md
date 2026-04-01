@@ -85,5 +85,5 @@ Provide comprehensive service design, operational management, workforce optimiza
 
 This skill includes the following detailed reference materials:
 
-- [Quality Knowledge Management](references/quality-knowledge-management.md)
-- [Service Operations Management](references/service-operations-management.md)
+- [Quality Knowledge Management](./references/quality-knowledge-management.md)
+- [Service Operations Management](./references/service-operations-management.md)

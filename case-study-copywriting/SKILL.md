@@ -216,8 +216,8 @@ Case study copywriting combines storytelling techniques with data-driven evidenc
 
 This skill includes the following detailed reference materials:
 
-- [Industry Templates](references/industry-templates.md)
-- [Interview Guide](references/interview-guide.md)
-- [Interview Process](references/interview-process.md)
-- [Writing Guide](references/writing-guide.md)
-- [Writing Techniques](references/writing-techniques.md)
+- [Industry Templates](./references/industry-templates.md)
+- [Interview Guide](./references/interview-guide.md)
+- [Interview Process](./references/interview-process.md)
+- [Writing Guide](./references/writing-guide.md)
+- [Writing Techniques](./references/writing-techniques.md)

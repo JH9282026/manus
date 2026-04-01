@@ -87,6 +87,6 @@ Translate demographics into strategic implications for the specific use case.
 
 This skill includes the following detailed reference materials:
 
-- [Census Data Methods](references/census-data-methods.md)
-- [Generational Analysis](references/generational-analysis.md)
-- [Projection Techniques](references/projection-techniques.md)
+- [Census Data Methods](./references/census-data-methods.md)
+- [Generational Analysis](./references/generational-analysis.md)
+- [Projection Techniques](./references/projection-techniques.md)

@@ -148,67 +148,67 @@ UI/UX Design encompasses the creation of intuitive, accessible, and visually app
 
 ## 3. Information Architecture
 
-*See [detailed 3. information architecture](references/ui-ux-design-user-experience/3-information-architecture.md)*
+*See [detailed 3. information architecture](./references/3-information-architecture.md)*
 
 
 ## 4. Interaction Design
 
-*See [detailed 4. interaction design](references/ui-ux-design-user-experience/4-interaction-design.md)*
+*See [detailed 4. interaction design](./references/4-interaction-design.md)*
 
 
 ## 5. Visual Design for UI
 
-*See [detailed 5. visual design for ui](references/ui-ux-design-user-experience/5-visual-design-for-ui.md)*
+*See [detailed 5. visual design for ui](./references/5-visual-design-for-ui.md)*
 
 
 ## 6. UI Design Patterns
 
-*See [detailed 6. ui design patterns](references/ui-ux-design-user-experience/6-ui-design-patterns.md)*
+*See [detailed 6. ui design patterns](./references/6-ui-design-patterns.md)*
 
 
 ## 7. Responsive & Adaptive Design
 
-*See [detailed 7. responsive & adaptive design](references/ui-ux-design-user-experience/7-responsive--adaptive-design.md)*
+*See [detailed 7. responsive & adaptive design](./references/7-responsive--adaptive-design.md)*
 
 
 ## 8. Accessibility in UI/UX
 
-*See [detailed 8. accessibility in ui/ux](references/ui-ux-design-user-experience/8-accessibility-in-ui-ux.md)*
+*See [detailed 8. accessibility in ui/ux](./references/8-accessibility-in-ui-ux.md)*
 
 
 ## 9. Usability Principles
 
-*See [detailed 9. usability principles](references/ui-ux-design-user-experience/9-usability-principles.md)*
+*See [detailed 9. usability principles](./references/9-usability-principles.md)*
 
 
 ## 10. Design Systems & Component Libraries
 
-*See [detailed 10. design systems & component libraries](references/ui-ux-design-user-experience/10-design-systems--component-libraries.md)*
+*See [detailed 10. design systems & component libraries](./references/10-design-systems--component-libraries.md)*
 
 
 ## 11. UI/UX Design Tools
 
-*See [detailed 11. ui/ux design tools](references/ui-ux-design-user-experience/11-ui-ux-design-tools.md)*
+*See [detailed 11. ui/ux design tools](./references/11-ui-ux-design-tools.md)*
 
 
 ## 12. Mobile App UI/UX Design
 
-*See [detailed 12. mobile app ui/ux design](references/ui-ux-design-user-experience/12-mobile-app-ui-ux-design.md)*
+*See [detailed 12. mobile app ui/ux design](./references/12-mobile-app-ui-ux-design.md)*
 
 
 ## 13. Web App UI/UX Design
 
-*See [detailed 13. web app ui/ux design](references/ui-ux-design-user-experience/13-web-app-ui-ux-design.md)*
+*See [detailed 13. web app ui/ux design](./references/13-web-app-ui-ux-design.md)*
 
 
 ## 14. Design Handoff & Collaboration
 
-*See [detailed 14. design handoff & collaboration](references/ui-ux-design-user-experience/14-design-handoff--collaboration.md)*
+*See [detailed 14. design handoff & collaboration](./references/14-design-handoff--collaboration.md)*
 
 
 ## 15. UI/UX Best Practices
 
-*See [detailed 15. ui/ux best practices](references/ui-ux-design-user-experience/15-ui-ux-best-practices.md)*
+*See [detailed 15. ui/ux best practices](./references/15-ui-ux-best-practices.md)*
 
 
 UI/UX design is a multidisciplinary practice combining research, psychology, visual design, and technology to create meaningful user experiences. Success requires understanding users deeply, applying proven design principles, leveraging appropriate tools, and maintaining consistency through design systems. Accessibility and usability must be foundational, not afterthoughts. The best interfaces are invisible—they help users accomplish their goals effortlessly while delighting them along the way.

@@ -104,11 +104,11 @@ Read when performing green screen keying, masking, rotoscoping, or motion tracki
 
 This skill includes the following detailed reference materials:
 
-- [Audio Editing](references/audio-editing.md)
-- [Compositing Basics](references/compositing-basics.md)
-- [Cutting Techniques](references/cutting-techniques.md)
-- [Effects Compositing](references/effects-compositing.md)
-- [Multi Camera](references/multi-camera.md)
-- [Speed Time](references/speed-time.md)
-- [Storytelling](references/storytelling.md)
-- [Transition Techniques](references/transition-techniques.md)
+- [Audio Editing](./references/audio-editing.md)
+- [Compositing Basics](./references/compositing-basics.md)
+- [Cutting Techniques](./references/cutting-techniques.md)
+- [Effects Compositing](./references/effects-compositing.md)
+- [Multi Camera](./references/multi-camera.md)
+- [Speed Time](./references/speed-time.md)
+- [Storytelling](./references/storytelling.md)
+- [Transition Techniques](./references/transition-techniques.md)

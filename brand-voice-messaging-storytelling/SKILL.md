@@ -285,9 +285,9 @@ Apply consistent voice and messaging across:
 
 This skill includes the following detailed reference materials:
 
-- [Implementation Guidelines](references/implementation-guidelines.md)
-- [Messaging Frameworks](references/messaging-frameworks.md)
-- [Storytelling Techniques](references/storytelling-techniques.md)
-- [Taglines Pitches](references/taglines-pitches.md)
-- [Voice Development](references/voice-development.md)
-- [Voice Guidelines](references/voice-guidelines.md)
+- [Implementation Guidelines](./references/implementation-guidelines.md)
+- [Messaging Frameworks](./references/messaging-frameworks.md)
+- [Storytelling Techniques](./references/storytelling-techniques.md)
+- [Taglines Pitches](./references/taglines-pitches.md)
+- [Voice Development](./references/voice-development.md)
+- [Voice Guidelines](./references/voice-guidelines.md)

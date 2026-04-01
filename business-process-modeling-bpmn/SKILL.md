@@ -192,9 +192,9 @@ Business process modeling captures how work flows through an organization—acti
 
 This skill includes the following detailed reference materials:
 
-- [Bpmn Elements](references/bpmn-elements.md)
-- [Bpmn Notation](references/bpmn-notation.md)
-- [Modeling Best Practices](references/modeling-best-practices.md)
-- [Modeling Methodology](references/modeling-methodology.md)
-- [Process Analysis](references/process-analysis.md)
-- [Process Patterns](references/process-patterns.md)
+- [Bpmn Elements](./references/bpmn-elements.md)
+- [Bpmn Notation](./references/bpmn-notation.md)
+- [Modeling Best Practices](./references/modeling-best-practices.md)
+- [Modeling Methodology](./references/modeling-methodology.md)
+- [Process Analysis](./references/process-analysis.md)
+- [Process Patterns](./references/process-patterns.md)

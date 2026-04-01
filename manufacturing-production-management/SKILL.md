@@ -58,5 +58,5 @@ Provide frameworks for production planning, lean manufacturing implementation, q
 
 This skill includes the following detailed reference materials:
 
-- [Lean Six Sigma](references/lean-six-sigma.md)
-- [Production Operations](references/production-operations.md)
+- [Lean Six Sigma](./references/lean-six-sigma.md)
+- [Production Operations](./references/production-operations.md)

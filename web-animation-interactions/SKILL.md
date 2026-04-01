@@ -43,7 +43,7 @@ Choose your approach based on your specific needs:
 
 This skill includes the following detailed reference materials:
 
-- [Css Animations](references/css-animations.md)
-- [Interaction Patterns](references/interaction-patterns.md)
-- [Javascript Animation](references/javascript-animation.md)
-- [Performance Optimization](references/performance-optimization.md)
+- [Css Animations](./references/css-animations.md)
+- [Interaction Patterns](./references/interaction-patterns.md)
+- [Javascript Animation](./references/javascript-animation.md)
+- [Performance Optimization](./references/performance-optimization.md)

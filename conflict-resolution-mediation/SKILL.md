@@ -67,6 +67,6 @@ This skill integrates conflict theory, mediation methodologies, and communicatio
 
 This skill includes the following detailed reference materials:
 
-- [Communication Frameworks](references/communication-frameworks.md)
-- [De Escalation Toolkit](references/de-escalation-toolkit.md)
-- [Mediation Techniques](references/mediation-techniques.md)
+- [Communication Frameworks](./references/communication-frameworks.md)
+- [De Escalation Toolkit](./references/de-escalation-toolkit.md)
+- [Mediation Techniques](./references/mediation-techniques.md)

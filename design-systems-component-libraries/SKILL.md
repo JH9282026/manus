@@ -72,5 +72,5 @@ For each component, document:
 
 This skill includes the following detailed reference materials:
 
-- [Building Component Libraries](references/building-component-libraries.md)
-- [Governance And Scaling](references/governance-and-scaling.md)
+- [Building Component Libraries](./references/building-component-libraries.md)
+- [Governance And Scaling](./references/governance-and-scaling.md)

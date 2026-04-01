@@ -99,7 +99,7 @@ This skill provides market intelligence, competitive positioning assessment, and
 
 This skill includes the following detailed reference materials:
 
-- [Competitor Profiles](references/competitor-profiles.md)
-- [Innovation Trends](references/innovation-trends.md)
-- [Market Analysis](references/market-analysis.md)
-- [Porters Analysis](references/porters-analysis.md)
+- [Competitor Profiles](./references/competitor-profiles.md)
+- [Innovation Trends](./references/innovation-trends.md)
+- [Market Analysis](./references/market-analysis.md)
+- [Porters Analysis](./references/porters-analysis.md)

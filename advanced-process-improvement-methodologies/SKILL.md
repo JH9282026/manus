@@ -93,11 +93,11 @@ Read when applying statistical analysis, SPC, DOE, or hypothesis testing in Six 
 
 This skill includes the following detailed reference materials:
 
-- [Agile Improvement](references/agile-improvement.md)
-- [Change Management](references/change-management.md)
-- [Lean Methodology](references/lean-methodology.md)
-- [Lean Six Sigma](references/lean-six-sigma.md)
-- [Lean Tools](references/lean-tools.md)
-- [Six Sigma Analysis](references/six-sigma-analysis.md)
-- [Six Sigma](references/six-sigma.md)
-- [Toc Bpr](references/toc-bpr.md)
+- [Agile Improvement](./references/agile-improvement.md)
+- [Change Management](./references/change-management.md)
+- [Lean Methodology](./references/lean-methodology.md)
+- [Lean Six Sigma](./references/lean-six-sigma.md)
+- [Lean Tools](./references/lean-tools.md)
+- [Six Sigma Analysis](./references/six-sigma-analysis.md)
+- [Six Sigma](./references/six-sigma.md)
+- [Toc Bpr](./references/toc-bpr.md)

@@ -161,9 +161,9 @@ Techniques for confidence:
 
 This skill includes the following detailed reference materials:
 
-- [Audience Engagement](references/audience-engagement.md)
-- [Delivery Techniques](references/delivery-techniques.md)
-- [Qa Handling](references/qa-handling.md)
-- [Speech Structure Storytelling](references/speech-structure-storytelling.md)
-- [Virtual Presentations](references/virtual-presentations.md)
-- [Visual Design Slides](references/visual-design-slides.md)
+- [Audience Engagement](./references/audience-engagement.md)
+- [Delivery Techniques](./references/delivery-techniques.md)
+- [Qa Handling](./references/qa-handling.md)
+- [Speech Structure Storytelling](./references/speech-structure-storytelling.md)
+- [Virtual Presentations](./references/virtual-presentations.md)
+- [Visual Design Slides](./references/visual-design-slides.md)

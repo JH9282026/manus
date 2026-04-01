@@ -41,5 +41,5 @@ This skill covers title optimization, role summaries, responsibility frameworks,
 
 This skill includes the following detailed reference materials:
 
-- [Job Description Structure](references/job-description-structure.md)
-- [Legal Compliance Optimization](references/legal-compliance-optimization.md)
+- [Job Description Structure](./references/job-description-structure.md)
+- [Legal Compliance Optimization](./references/legal-compliance-optimization.md)

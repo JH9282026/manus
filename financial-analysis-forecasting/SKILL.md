@@ -70,5 +70,5 @@ Provide frameworks for financial statement analysis, ratio computation, trend id
 
 This skill includes the following detailed reference materials:
 
-- [Analysis And Presentation](references/analysis-and-presentation.md)
-- [Financial Modeling Techniques](references/financial-modeling-techniques.md)
+- [Analysis And Presentation](./references/analysis-and-presentation.md)
+- [Financial Modeling Techniques](./references/financial-modeling-techniques.md)

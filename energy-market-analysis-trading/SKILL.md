@@ -62,5 +62,5 @@ Provide frameworks for energy market analysis covering supply-demand fundamental
 
 This skill includes the following detailed reference materials:
 
-- [Oil Environmental Markets](references/oil-environmental-markets.md)
-- [Power Gas Markets](references/power-gas-markets.md)
+- [Oil Environmental Markets](./references/oil-environmental-markets.md)
+- [Power Gas Markets](./references/power-gas-markets.md)

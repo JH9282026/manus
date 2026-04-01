@@ -40,5 +40,5 @@ Each industry has distinct presentation norms for regulatory, credibility, and a
 
 This skill includes the following detailed reference materials:
 
-- [Industry Formats Part1](references/industry-formats-part1.md)
-- [Industry Formats Part2](references/industry-formats-part2.md)
+- [Industry Formats Part1](./references/industry-formats-part1.md)
+- [Industry Formats Part2](./references/industry-formats-part2.md)

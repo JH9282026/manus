@@ -248,57 +248,57 @@ The Web Content Accessibility Guidelines (WCAG) provide the international standa
 
 ## Audio Descriptions
 
-*See [detailed audio descriptions](references/video-accessibility-inclusive-design/audio-descriptions.md)*
+*See [detailed audio descriptions](./references/audio-descriptions.md)*
 
 
 ## Accessible Video Players
 
-*See [detailed accessible video players](references/video-accessibility-inclusive-design/accessible-video-players.md)*
+*See [detailed accessible video players](./references/accessible-video-players.md)*
 
 
 ## Inclusive Design Principles
 
-*See [detailed inclusive design principles](references/video-accessibility-inclusive-design/inclusive-design-principles.md)*
+*See [detailed inclusive design principles](./references/inclusive-design-principles.md)*
 
 
 ## Color Contrast and Visual Accessibility
 
-*See [detailed color contrast and visual accessibility](references/video-accessibility-inclusive-design/color-contrast-and-visual-accessibility.md)*
+*See [detailed color contrast and visual accessibility](./references/color-contrast-and-visual-accessibility.md)*
 
 
 ## Cognitive Accessibility
 
-*See [detailed cognitive accessibility](references/video-accessibility-inclusive-design/cognitive-accessibility.md)*
+*See [detailed cognitive accessibility](./references/cognitive-accessibility.md)*
 
 
 ## Testing Video Accessibility
 
-*See [detailed testing video accessibility](references/video-accessibility-inclusive-design/testing-video-accessibility.md)*
+*See [detailed testing video accessibility](./references/testing-video-accessibility.md)*
 
 
 ## Legal Requirements
 
-*See [detailed legal requirements](references/video-accessibility-inclusive-design/legal-requirements.md)*
+*See [detailed legal requirements](./references/legal-requirements.md)*
 
 
 ## Accessibility Workflow Integration
 
-*See [detailed accessibility workflow integration](references/video-accessibility-inclusive-design/accessibility-workflow-integration.md)*
+*See [detailed accessibility workflow integration](./references/accessibility-workflow-integration.md)*
 
 
 ## Best Practices Summary
 
-*See [detailed best practices summary](references/video-accessibility-inclusive-design/best-practices-summary.md)*
+*See [detailed best practices summary](./references/best-practices-summary.md)*
 
 
 ## Resources and Tools
 
-*See [detailed resources and tools](references/video-accessibility-inclusive-design/resources-and-tools.md)*
+*See [detailed resources and tools](./references/resources-and-tools.md)*
 
 
 ## Conclusion
 
-*See [detailed conclusion](references/video-accessibility-inclusive-design/conclusion.md)*
+*See [detailed conclusion](./references/conclusion.md)*
 
 ## Using the Reference Files
 

@@ -42,5 +42,5 @@ This skill transforms patent data, trademark registrations, trade secrets, and c
 
 This skill includes the following detailed reference materials:
 
-- [Ip Monetization Protection](references/ip-monetization-protection.md)
-- [Patent Analysis Frameworks](references/patent-analysis-frameworks.md)
+- [Ip Monetization Protection](./references/ip-monetization-protection.md)
+- [Patent Analysis Frameworks](./references/patent-analysis-frameworks.md)

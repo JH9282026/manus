@@ -43,7 +43,7 @@ Choose your approach based on your specific needs:
 
 This skill includes the following detailed reference materials:
 
-- [Data Visualization](references/data-visualization.md)
-- [Layout Principles](references/layout-principles.md)
-- [Templates Examples](references/templates-examples.md)
-- [Typography Color](references/typography-color.md)
+- [Data Visualization](./references/data-visualization.md)
+- [Layout Principles](./references/layout-principles.md)
+- [Templates Examples](./references/templates-examples.md)
+- [Typography Color](./references/typography-color.md)

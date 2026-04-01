@@ -43,7 +43,7 @@ Choose your approach based on your specific needs:
 
 This skill includes the following detailed reference materials:
 
-- [Checkout Optimization](references/checkout-optimization.md)
-- [Mobile Commerce](references/mobile-commerce.md)
-- [Product Pages](references/product-pages.md)
-- [Trust Conversion](references/trust-conversion.md)
+- [Checkout Optimization](./references/checkout-optimization.md)
+- [Mobile Commerce](./references/mobile-commerce.md)
+- [Product Pages](./references/product-pages.md)
+- [Trust Conversion](./references/trust-conversion.md)

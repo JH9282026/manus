@@ -85,8 +85,8 @@ Track these metrics at the executive level:
 
 This skill includes the following detailed reference materials:
 
-- [Brand Strategy](references/brand-strategy.md)
-- [Demand Generation](references/demand-generation.md)
-- [Go To Market](references/go-to-market.md)
-- [Marketing Analytics](references/marketing-analytics.md)
-- [Martech Strategy](references/martech-strategy.md)
+- [Brand Strategy](./references/brand-strategy.md)
+- [Demand Generation](./references/demand-generation.md)
+- [Go To Market](./references/go-to-market.md)
+- [Marketing Analytics](./references/marketing-analytics.md)
+- [Martech Strategy](./references/martech-strategy.md)

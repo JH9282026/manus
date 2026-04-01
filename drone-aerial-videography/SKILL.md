@@ -214,52 +214,52 @@ Drone regulations vary significantly by country. Key considerations:
 
 ## Flight Techniques and Safety
 
-*See [detailed flight techniques and safety](references/drone-aerial-videography/flight-techniques-and-safety.md)*
+*See [detailed flight techniques and safety](./references/flight-techniques-and-safety.md)*
 
 
 ## Aerial Cinematography Techniques
 
-*See [detailed aerial cinematography techniques](references/drone-aerial-videography/aerial-cinematography-techniques.md)*
+*See [detailed aerial cinematography techniques](./references/aerial-cinematography-techniques.md)*
 
 
 ## Camera Settings for Aerial Video
 
-*See [detailed camera settings for aerial video](references/drone-aerial-videography/camera-settings-for-aerial-video.md)*
+*See [detailed camera settings for aerial video](./references/camera-settings-for-aerial-video.md)*
 
 
 ## Editing Aerial Footage
 
-*See [detailed editing aerial footage](references/drone-aerial-videography/editing-aerial-footage.md)*
+*See [detailed editing aerial footage](./references/editing-aerial-footage.md)*
 
 
 ## Commercial Applications
 
-*See [detailed commercial applications](references/drone-aerial-videography/commercial-applications.md)*
+*See [detailed commercial applications](./references/commercial-applications.md)*
 
 
 ## Drone Business Considerations
 
-*See [detailed drone business considerations](references/drone-aerial-videography/drone-business-considerations.md)*
+*See [detailed drone business considerations](./references/drone-business-considerations.md)*
 
 
 ## Best Practices for Drone Videography
 
-*See [detailed best practices for drone videography](references/drone-aerial-videography/best-practices-for-drone-videography.md)*
+*See [detailed best practices for drone videography](./references/best-practices-for-drone-videography.md)*
 
 
 ## Troubleshooting Common Issues
 
-*See [detailed troubleshooting common issues](references/drone-aerial-videography/troubleshooting-common-issues.md)*
+*See [detailed troubleshooting common issues](./references/troubleshooting-common-issues.md)*
 
 
 ## Future of Drone Videography
 
-*See [detailed future of drone videography](references/drone-aerial-videography/future-of-drone-videography.md)*
+*See [detailed future of drone videography](./references/future-of-drone-videography.md)*
 
 
 ## Conclusion
 
-*See [detailed conclusion](references/drone-aerial-videography/conclusion.md)*
+*See [detailed conclusion](./references/conclusion.md)*
 
 ## Using the Reference Files
 

@@ -62,5 +62,5 @@ Apply proven negotiation frameworks and psychological principles to achieve opti
 
 This skill includes the following detailed reference materials:
 
-- [Negotiation Frameworks](references/negotiation-frameworks.md)
-- [Tactical Techniques](references/tactical-techniques.md)
+- [Negotiation Frameworks](./references/negotiation-frameworks.md)
+- [Tactical Techniques](./references/tactical-techniques.md)

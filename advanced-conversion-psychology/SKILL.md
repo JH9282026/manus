@@ -97,9 +97,9 @@ Read when crafting messaging and emotional appeals. Contains trigger psychology 
 
 This skill includes the following detailed reference materials:
 
-- [Behavioral Economics](references/behavioral-economics.md)
-- [Cialdini Principles](references/cialdini-principles.md)
-- [Cognitive Biases](references/cognitive-biases.md)
-- [Emotional Triggers](references/emotional-triggers.md)
-- [Neuromarketing](references/neuromarketing.md)
-- [Trust Credibility](references/trust-credibility.md)
+- [Behavioral Economics](./references/behavioral-economics.md)
+- [Cialdini Principles](./references/cialdini-principles.md)
+- [Cognitive Biases](./references/cognitive-biases.md)
+- [Emotional Triggers](./references/emotional-triggers.md)
+- [Neuromarketing](./references/neuromarketing.md)
+- [Trust Credibility](./references/trust-credibility.md)

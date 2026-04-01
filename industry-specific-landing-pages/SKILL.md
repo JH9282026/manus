@@ -40,5 +40,5 @@ Generic pages fail because they ignore industry-specific buyer behavior. This sk
 
 This skill includes the following detailed reference materials:
 
-- [Cross Industry Optimization](references/cross-industry-optimization.md)
-- [Industry Frameworks](references/industry-frameworks.md)
+- [Cross Industry Optimization](./references/cross-industry-optimization.md)
+- [Industry Frameworks](./references/industry-frameworks.md)

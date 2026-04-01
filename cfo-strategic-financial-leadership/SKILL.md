@@ -213,8 +213,8 @@ This skill enables execution of Chief Financial Officer responsibilities: long-t
 
 This skill includes the following detailed reference materials:
 
-- [Capital Structure](references/capital-structure.md)
-- [Capital Treasury](references/capital-treasury.md)
-- [Financial Modeling](references/financial-modeling.md)
-- [Financial Planning](references/financial-planning.md)
-- [Investor Relations](references/investor-relations.md)
+- [Capital Structure](./references/capital-structure.md)
+- [Capital Treasury](./references/capital-treasury.md)
+- [Financial Modeling](./references/financial-modeling.md)
+- [Financial Planning](./references/financial-planning.md)
+- [Investor Relations](./references/investor-relations.md)

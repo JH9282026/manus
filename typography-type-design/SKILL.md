@@ -43,7 +43,7 @@ Choose your approach based on your specific needs:
 
 This skill includes the following detailed reference materials:
 
-- [Advanced Techniques](references/advanced-techniques.md)
-- [Hierarchy Systems](references/hierarchy-systems.md)
-- [Typeface Selection](references/typeface-selection.md)
-- [Web Typography](references/web-typography.md)
+- [Advanced Techniques](./references/advanced-techniques.md)
+- [Hierarchy Systems](./references/hierarchy-systems.md)
+- [Typeface Selection](./references/typeface-selection.md)
+- [Web Typography](./references/web-typography.md)

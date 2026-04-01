@@ -91,5 +91,5 @@ This skill covers brand guidelines creation, governance frameworks, brand manage
 
 This skill includes the following detailed reference materials:
 
-- [Governance Audit](references/governance-audit.md)
-- [Guidelines Templates](references/guidelines-templates.md)
+- [Governance Audit](./references/governance-audit.md)
+- [Guidelines Templates](./references/guidelines-templates.md)

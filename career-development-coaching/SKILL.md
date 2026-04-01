@@ -245,8 +245,8 @@ This skill serves as a virtual career coach, providing end-to-end support for ca
 
 This skill includes the following detailed reference materials:
 
-- [Career Transitions](references/career-transitions.md)
-- [Interview Guide](references/interview-guide.md)
-- [Interview Techniques](references/interview-techniques.md)
-- [Resume Templates](references/resume-templates.md)
-- [Resume Writing](references/resume-writing.md)
+- [Career Transitions](./references/career-transitions.md)
+- [Interview Guide](./references/interview-guide.md)
+- [Interview Techniques](./references/interview-techniques.md)
+- [Resume Templates](./references/resume-templates.md)
+- [Resume Writing](./references/resume-writing.md)

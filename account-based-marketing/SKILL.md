@@ -96,7 +96,7 @@ Identify and profile all stakeholders involved in the purchase decision:
 - Tailor messaging to each persona's priorities and pain points
 - Coordinate touchpoints to avoid overwhelming or confusing the account
 
-See [Account Selection](references/account-selection.md) for detailed ICP development and targeting criteria.
+See [Account Selection](./references/account-selection.md) for detailed ICP development and targeting criteria.
 
 ### 4. Develop Personalized Content and Messaging
 
@@ -157,7 +157,7 @@ Coordinate touchpoints across multiple channels for consistent account experienc
 - **Proof of Concept** — Hands-on product evaluation
 - **Strategic Business Reviews** — Ongoing value demonstration for existing customers
 
-See [Orchestration & Execution](references/orchestration-execution.md) for detailed multi-channel tactics and campaign playbooks.
+See [Orchestration & Execution](./references/orchestration-execution.md) for detailed multi-channel tactics and campaign playbooks.
 
 ### 6. Deliver Connected Engagement
 
@@ -206,7 +206,7 @@ Track account-centric metrics that demonstrate business impact:
 - **ROI** — (Revenue - ABM Cost) / ABM Cost × 100%
 - **Customer Acquisition Cost (CAC)** — Total cost to acquire new ABM customers
 
-See [Measurement & Optimization](references/measurement-optimization.md) for comprehensive metrics frameworks and optimization strategies.
+See [Measurement & Optimization](./references/measurement-optimization.md) for comprehensive metrics frameworks and optimization strategies.
 
 ## ABM Technology Stack
 

@@ -413,7 +413,7 @@ Images transform slides from text-heavy documents into engaging visual experienc
 ## Extended Content
 
 For additional detailed content, examples, and resources, see:
-- [Extended Content](references/detailed-content.md)
+- [Extended Content](./references/detailed-content.md)
 
 ## Using the Reference Files
 

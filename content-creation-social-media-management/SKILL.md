@@ -59,6 +59,6 @@ This skill integrates creative content production with analytical performance tr
 
 This skill includes the following detailed reference materials:
 
-- [Analytics Metrics](references/analytics-metrics.md)
-- [Content Planning](references/content-planning.md)
-- [Platform Strategies](references/platform-strategies.md)
+- [Analytics Metrics](./references/analytics-metrics.md)
+- [Content Planning](./references/content-planning.md)
+- [Platform Strategies](./references/platform-strategies.md)

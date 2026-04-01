@@ -48,5 +48,5 @@ This skill integrates clinical operations, regulatory compliance, financial mana
 
 This skill includes the following detailed reference materials:
 
-- [Compliance Accreditation](references/compliance-accreditation.md)
-- [Revenue Cycle Quality](references/revenue-cycle-quality.md)
+- [Compliance Accreditation](./references/compliance-accreditation.md)
+- [Revenue Cycle Quality](./references/revenue-cycle-quality.md)

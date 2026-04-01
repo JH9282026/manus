@@ -69,5 +69,5 @@ Provide frameworks for every fundraising communication format — from annual ap
 
 This skill includes the following detailed reference materials:
 
-- [Campaign Channels And Cultivation](references/campaign-channels-and-cultivation.md)
-- [Storytelling And Appeals](references/storytelling-and-appeals.md)
+- [Campaign Channels And Cultivation](./references/campaign-channels-and-cultivation.md)
+- [Storytelling And Appeals](./references/storytelling-and-appeals.md)

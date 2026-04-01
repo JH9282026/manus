@@ -68,5 +68,5 @@ Design evidence-based nutrition programs integrating macronutrient optimization,
 
 This skill includes the following detailed reference materials:
 
-- [Dietary Frameworks](references/dietary-frameworks.md)
-- [Macronutrient Planning](references/macronutrient-planning.md)
+- [Dietary Frameworks](./references/dietary-frameworks.md)
+- [Macronutrient Planning](./references/macronutrient-planning.md)

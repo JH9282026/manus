@@ -47,5 +47,5 @@ This skill covers interactive design patterns, JavaScript visualization librarie
 
 This skill includes the following detailed reference materials:
 
-- [Interactivity Design](references/interactivity-design.md)
-- [Javascript Libraries Tools](references/javascript-libraries-tools.md)
+- [Interactivity Design](./references/interactivity-design.md)
+- [Javascript Libraries Tools](./references/javascript-libraries-tools.md)

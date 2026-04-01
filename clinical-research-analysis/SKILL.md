@@ -76,7 +76,7 @@ Provide systematic evaluation and synthesis of clinical research data including 
 
 This skill includes the following detailed reference materials:
 
-- [Meta Analysis](references/meta-analysis.md)
-- [Regulatory Standards](references/regulatory-standards.md)
-- [Safety Analysis](references/safety-analysis.md)
-- [Statistical Methods](references/statistical-methods.md)
+- [Meta Analysis](./references/meta-analysis.md)
+- [Regulatory Standards](./references/regulatory-standards.md)
+- [Safety Analysis](./references/safety-analysis.md)
+- [Statistical Methods](./references/statistical-methods.md)

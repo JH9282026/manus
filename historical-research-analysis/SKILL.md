@@ -46,5 +46,5 @@ This skill applies historical methodology — archival research, primary source 
 
 This skill includes the following detailed reference materials:
 
-- [Archival Sources](references/archival-sources.md)
-- [Historical Methods](references/historical-methods.md)
+- [Archival Sources](./references/archival-sources.md)
+- [Historical Methods](./references/historical-methods.md)

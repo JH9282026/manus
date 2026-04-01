@@ -63,5 +63,5 @@ Conduct structured literature reviews following established methodologies (PRISM
 
 This skill includes the following detailed reference materials:
 
-- [Evidence Evaluation](references/evidence-evaluation.md)
-- [Review Methodology](references/review-methodology.md)
+- [Evidence Evaluation](./references/evidence-evaluation.md)
+- [Review Methodology](./references/review-methodology.md)

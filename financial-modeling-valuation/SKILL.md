@@ -60,5 +60,5 @@ LBO (floor):          |██████████████|
 
 This skill includes the following detailed reference materials:
 
-- [Dcf Comps Methodology](references/dcf-comps-methodology.md)
-- [Lbo Merger Models](references/lbo-merger-models.md)
+- [Dcf Comps Methodology](./references/dcf-comps-methodology.md)
+- [Lbo Merger Models](./references/lbo-merger-models.md)

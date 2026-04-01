@@ -70,5 +70,5 @@ Set qualification threshold at 70+ for pipeline inclusion.
 
 This skill includes the following detailed reference materials:
 
-- [Prospecting Frameworks](references/prospecting-frameworks.md)
-- [Qualification Scoring](references/qualification-scoring.md)
+- [Prospecting Frameworks](./references/prospecting-frameworks.md)
+- [Qualification Scoring](./references/qualification-scoring.md)

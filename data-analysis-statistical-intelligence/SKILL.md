@@ -86,6 +86,6 @@ Encompass the complete data science lifecycle from initial exploration through a
 
 This skill includes the following detailed reference materials:
 
-- [Data Cleaning Visualization](references/data-cleaning-visualization.md)
-- [Ml Predictive Modeling](references/ml-predictive-modeling.md)
-- [Statistical Methods Testing](references/statistical-methods-testing.md)
+- [Data Cleaning Visualization](./references/data-cleaning-visualization.md)
+- [Ml Predictive Modeling](./references/ml-predictive-modeling.md)
+- [Statistical Methods Testing](./references/statistical-methods-testing.md)

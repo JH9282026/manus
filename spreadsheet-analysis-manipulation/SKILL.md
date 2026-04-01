@@ -43,7 +43,7 @@ Choose your approach based on your specific needs:
 
 This skill includes the following detailed reference materials:
 
-- [Advanced Formulas](references/advanced-formulas.md)
-- [Automation Scripting](references/automation-scripting.md)
-- [Data Visualization](references/data-visualization.md)
-- [Pivot Analysis](references/pivot-analysis.md)
+- [Advanced Formulas](./references/advanced-formulas.md)
+- [Automation Scripting](./references/automation-scripting.md)
+- [Data Visualization](./references/data-visualization.md)
+- [Pivot Analysis](./references/pivot-analysis.md)

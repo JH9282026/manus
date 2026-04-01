@@ -65,5 +65,5 @@ Create, validate, and apply mathematical models across scientific, engineering, 
 
 This skill includes the following detailed reference materials:
 
-- [Modeling Techniques](references/modeling-techniques.md)
-- [Optimization Simulation](references/optimization-simulation.md)
+- [Modeling Techniques](./references/modeling-techniques.md)
+- [Optimization Simulation](./references/optimization-simulation.md)

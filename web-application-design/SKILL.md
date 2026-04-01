@@ -216,87 +216,87 @@ Enterprise applications serve organizations with complex operational requirement
 
 ## Admin Panel Design
 
-*See [detailed admin panel design](references/web-application-design/admin-panel-design.md)*
+*See [detailed admin panel design](./references/admin-panel-design.md)*
 
 
 ## Web App Navigation Patterns
 
-*See [detailed web app navigation patterns](references/web-application-design/web-app-navigation-patterns.md)*
+*See [detailed web app navigation patterns](./references/web-app-navigation-patterns.md)*
 
 
 ## Web App Information Architecture
 
-*See [detailed web app information architecture](references/web-application-design/web-app-information-architecture.md)*
+*See [detailed web app information architecture](./references/web-app-information-architecture.md)*
 
 
 ## Web App Workflows and User Flows
 
-*See [detailed web app workflows and user flows](references/web-application-design/web-app-workflows-and-user-flows.md)*
+*See [detailed web app workflows and user flows](./references/web-app-workflows-and-user-flows.md)*
 
 
 ## Web App Onboarding
 
-*See [detailed web app onboarding](references/web-application-design/web-app-onboarding.md)*
+*See [detailed web app onboarding](./references/web-app-onboarding.md)*
 
 
 ## Web App Settings and Preferences
 
-*See [detailed web app settings and preferences](references/web-application-design/web-app-settings-and-preferences.md)*
+*See [detailed web app settings and preferences](./references/web-app-settings-and-preferences.md)*
 
 
 ## Web App Notifications and Alerts
 
-*See [detailed web app notifications and alerts](references/web-application-design/web-app-notifications-and-alerts.md)*
+*See [detailed web app notifications and alerts](./references/web-app-notifications-and-alerts.md)*
 
 
 ## Web App Search and Filtering
 
-*See [detailed web app search and filtering](references/web-application-design/web-app-search-and-filtering.md)*
+*See [detailed web app search and filtering](./references/web-app-search-and-filtering.md)*
 
 
 ## Web App Data Tables and Grids
 
-*See [detailed web app data tables and grids](references/web-application-design/web-app-data-tables-and-grids.md)*
+*See [detailed web app data tables and grids](./references/web-app-data-tables-and-grids.md)*
 
 
 ## Web App Forms and Validation
 
-*See [detailed web app forms and validation](references/web-application-design/web-app-forms-and-validation.md)*
+*See [detailed web app forms and validation](./references/web-app-forms-and-validation.md)*
 
 
 ## Web App States
 
-*See [detailed web app states](references/web-application-design/web-app-states.md)*
+*See [detailed web app states](./references/web-app-states.md)*
 
 
 ## Real-Time and Collaborative Features
 
-*See [detailed real-time and collaborative features](references/web-application-design/real-time-and-collaborative-features.md)*
+*See [detailed real-time and collaborative features](./references/real-time-and-collaborative-features.md)*
 
 
 ## Web App Design Patterns
 
-*See [detailed web app design patterns](references/web-application-design/web-app-design-patterns.md)*
+*See [detailed web app design patterns](./references/web-app-design-patterns.md)*
 
 
 ## Web App Design Tools and Workflow
 
-*See [detailed web app design tools and workflow](references/web-application-design/web-app-design-tools-and-workflow.md)*
+*See [detailed web app design tools and workflow](./references/web-app-design-tools-and-workflow.md)*
 
 
 ## Web App Best Practices
 
-*See [detailed web app best practices](references/web-application-design/web-app-best-practices.md)*
+*See [detailed web app best practices](./references/web-app-best-practices.md)*
 
 
 ## Common Web App Design Mistakes
 
-*See [detailed common web app design mistakes](references/web-application-design/common-web-app-design-mistakes.md)*
+*See [detailed common web app design mistakes](./references/common-web-app-design-mistakes.md)*
 
 
 ## Conclusion
 
-*See [detailed conclusion](references/web-application-design/conclusion.md)*
+*See [detailed conclusion](./references/conclusion.md)*
 
 ## Using the Reference Files
 

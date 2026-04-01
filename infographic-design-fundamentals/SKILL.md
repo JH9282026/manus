@@ -53,5 +53,5 @@ This skill covers infographic types, design principles, layout patterns, color t
 
 This skill includes the following detailed reference materials:
 
-- [Data Visualization Production](references/data-visualization-production.md)
-- [Infographic Types Principles](references/infographic-types-principles.md)
+- [Data Visualization Production](./references/data-visualization-production.md)
+- [Infographic Types Principles](./references/infographic-types-principles.md)

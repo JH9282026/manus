@@ -62,5 +62,5 @@ Implement mobile-first design strategies and PWA technologies including service 
 
 This skill includes the following detailed reference materials:
 
-- [Mobile First Design](references/mobile-first-design.md)
-- [Pwa Implementation](references/pwa-implementation.md)
+- [Mobile First Design](./references/mobile-first-design.md)
+- [Pwa Implementation](./references/pwa-implementation.md)

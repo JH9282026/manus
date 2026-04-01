@@ -212,9 +212,9 @@ This skill enables comprehensive execution of Chief Executive Officer strategic 
 
 This skill includes the following detailed reference materials:
 
-- [Board Governance](references/board-governance.md)
-- [Crisis Management](references/crisis-management.md)
-- [Governance Stakeholders](references/governance-stakeholders.md)
-- [Strategic Planning](references/strategic-planning.md)
-- [Strategy Frameworks](references/strategy-frameworks.md)
-- [Transformation Leadership](references/transformation-leadership.md)
+- [Board Governance](./references/board-governance.md)
+- [Crisis Management](./references/crisis-management.md)
+- [Governance Stakeholders](./references/governance-stakeholders.md)
+- [Strategic Planning](./references/strategic-planning.md)
+- [Strategy Frameworks](./references/strategy-frameworks.md)
+- [Transformation Leadership](./references/transformation-leadership.md)

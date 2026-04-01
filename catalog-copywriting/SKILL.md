@@ -277,7 +277,7 @@ See Premium Series on page 56 →
 
 This skill includes the following detailed reference materials:
 
-- [Catalog Structure](references/catalog-structure.md)
-- [Product Description Templates](references/product-description-templates.md)
-- [Product Templates](references/product-templates.md)
-- [Style Consistency](references/style-consistency.md)
+- [Catalog Structure](./references/catalog-structure.md)
+- [Product Description Templates](./references/product-description-templates.md)
+- [Product Templates](./references/product-templates.md)
+- [Style Consistency](./references/style-consistency.md)

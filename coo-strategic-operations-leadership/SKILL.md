@@ -82,6 +82,6 @@ Transform operational capabilities, achieve sustainable competitive advantage th
 
 This skill includes the following detailed reference materials:
 
-- [Operational Excellence](references/operational-excellence.md)
-- [Performance Management](references/performance-management.md)
-- [Process Optimization](references/process-optimization.md)
+- [Operational Excellence](./references/operational-excellence.md)
+- [Performance Management](./references/performance-management.md)
+- [Process Optimization](./references/process-optimization.md)

@@ -157,72 +157,72 @@ Choose words that sound good when spoken aloud. Consider:
 
 ## Theater of the Mind
 
-*See [detailed theater of the mind](references/radio-ad-copywriting/theater-of-the-mind.md)*
+*See [detailed theater of the mind](./references/theater-of-the-mind.md)*
 
 
 ## Radio Ad Structure
 
-*See [detailed radio ad structure](references/radio-ad-copywriting/radio-ad-structure.md)*
+*See [detailed radio ad structure](./references/radio-ad-structure.md)*
 
 
 ## Music and Sound Effects
 
-*See [detailed music and sound effects](references/radio-ad-copywriting/music-and-sound-effects.md)*
+*See [detailed music and sound effects](./references/music-and-sound-effects.md)*
 
 
 ## Jingles and Mnemonics
 
-*See [detailed jingles and mnemonics](references/radio-ad-copywriting/jingles-and-mnemonics.md)*
+*See [detailed jingles and mnemonics](./references/jingles-and-mnemonics.md)*
 
 
 ## Voice Talent and Delivery
 
-*See [detailed voice talent and delivery](references/radio-ad-copywriting/voice-talent-and-delivery.md)*
+*See [detailed voice talent and delivery](./references/voice-talent-and-delivery.md)*
 
 
 ## Local vs. National Radio
 
-*See [detailed local vs. national radio](references/radio-ad-copywriting/local-vs-national-radio.md)*
+*See [detailed local vs. national radio](./references/local-vs-national-radio.md)*
 
 
 ## Daypart Considerations
 
-*See [detailed daypart considerations](references/radio-ad-copywriting/daypart-considerations.md)*
+*See [detailed daypart considerations](./references/daypart-considerations.md)*
 
 
 ## Different Radio Formats
 
-*See [detailed different radio formats](references/radio-ad-copywriting/different-radio-formats.md)*
+*See [detailed different radio formats](./references/different-radio-formats.md)*
 
 
 ## Testing and Optimization
 
-*See [detailed testing and optimization](references/radio-ad-copywriting/testing-and-optimization.md)*
+*See [detailed testing and optimization](./references/testing-and-optimization.md)*
 
 
 ## Production Considerations
 
-*See [detailed production considerations](references/radio-ad-copywriting/production-considerations.md)*
+*See [detailed production considerations](./references/production-considerations.md)*
 
 
 ## Common Mistakes to Avoid
 
-*See [detailed common mistakes to avoid](references/radio-ad-copywriting/common-mistakes-to-avoid.md)*
+*See [detailed common mistakes to avoid](./references/common-mistakes-to-avoid.md)*
 
 
 ## Best Practices Summary
 
-*See [detailed best practices summary](references/radio-ad-copywriting/best-practices-summary.md)*
+*See [detailed best practices summary](./references/best-practices-summary.md)*
 
 
 ## Radio Ad Templates
 
-*See [detailed radio ad templates](references/radio-ad-copywriting/radio-ad-templates.md)*
+*See [detailed radio ad templates](./references/radio-ad-templates.md)*
 
 
 ## Radio Advertising Resources
 
-*See [detailed radio advertising resources](references/radio-ad-copywriting/radio-advertising-resources.md)*
+*See [detailed radio advertising resources](./references/radio-advertising-resources.md)*
 
 
 Radio advertising, in its second century, remains a vibrant and effective medium for reaching audiences. The fundamentals of radio copywriting—capturing attention, creating mental imagery, delivering clear messages, and driving action—are timeless principles that transcend technological change.

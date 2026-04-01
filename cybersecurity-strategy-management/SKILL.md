@@ -86,6 +86,6 @@ Enable organizations to protect critical assets, achieve regulatory compliance, 
 
 This skill includes the following detailed reference materials:
 
-- [Compliance Cloud Security](references/compliance-cloud-security.md)
-- [Security Frameworks Implementation](references/security-frameworks-implementation.md)
-- [Threat Incident Management](references/threat-incident-management.md)
+- [Compliance Cloud Security](./references/compliance-cloud-security.md)
+- [Security Frameworks Implementation](./references/security-frameworks-implementation.md)
+- [Threat Incident Management](./references/threat-incident-management.md)

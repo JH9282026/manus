@@ -77,5 +77,5 @@ Provide frameworks for designing experiments from simple A/B tests to complex fa
 
 This skill includes the following detailed reference materials:
 
-- [Design Methods](references/design-methods.md)
-- [Statistical Analysis](references/statistical-analysis.md)
+- [Design Methods](./references/design-methods.md)
+- [Statistical Analysis](./references/statistical-analysis.md)
