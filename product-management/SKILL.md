@@ -1,6 +1,6 @@
 ---
 name: product-management
-description: ""Lead product development using frameworks like Lean Startup, Agile, Design Thinking, and Jobs-to-be-Done. Use for: defining product strategy, prioritizing features, conducting user research, creating product roadmaps, managing stakeholders, making data-driven decisions, balancing customer needs with business goals, and delivering successful products from ideation to launch.""
+description: 'Lead product development using frameworks like Lean Startup, Agile, Design Thinking, and Jobs-to-be-Done. Use for: defining product strategy, prioritizing features, conducting user research, creating product roadmaps, managing stakeholders, making data-driven decisions, balancing customer needs with business goals, and delivering successful products from ideation to launch.'
 ---
 
 # Product Management

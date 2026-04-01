@@ -1,6 +1,6 @@
 ---
 name: product-roadmapping
-description: ""Create and manage product roadmaps using prioritization frameworks like RICE, MoSCoW, and Value vs. Effort. Use for: strategic planning, feature prioritization, stakeholder alignment, release planning, communicating product vision, balancing short-term and long-term goals, managing resources effectively, and ensuring development efforts focus on highest-value initiatives.""
+description: 'Create and manage product roadmaps using prioritization frameworks like RICE, MoSCoW, and Value vs. Effort. Use for: strategic planning, feature prioritization, stakeholder alignment, release planning, communicating product vision, balancing short-term and long-term goals, managing resources effectively, and ensuring development efforts focus on highest-value initiatives.'
 ---
 
 # Product Roadmapping

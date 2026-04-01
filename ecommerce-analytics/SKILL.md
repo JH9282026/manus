@@ -1,6 +1,6 @@
 ---
 name: ecommerce-analytics
-description: ""Track and optimize e-commerce performance using conversion metrics, customer analytics, and data-driven insights. Use for: measuring conversion rates, analyzing customer lifetime value, reducing cart abandonment, optimizing average order value, tracking retention metrics, implementing A/B tests, analyzing funnel performance, and making data-driven decisions to improve online store profitability.""
+description: 'Track and optimize e-commerce performance using conversion metrics, customer analytics, and data-driven insights. Use for: measuring conversion rates, analyzing customer lifetime value, reducing cart abandonment, optimizing average order value, tracking retention metrics, implementing A/B tests, analyzing funnel performance, and making data-driven decisions to improve online store profitability.'
 ---
 
 # E-Commerce Analytics

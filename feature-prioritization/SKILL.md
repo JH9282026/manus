@@ -1,6 +1,6 @@
 ---
 name: feature-prioritization
-description: ""Prioritize product features using frameworks like RICE, MoSCoW, Kano Model, ICE, and Opportunity Scoring. Use for: evaluating feature requests, making objective prioritization decisions, balancing stakeholder needs, maximizing ROI, understanding customer satisfaction drivers, managing product backlogs, and ensuring development resources focus on highest-impact work.""
+description: 'Prioritize product features using frameworks like RICE, MoSCoW, Kano Model, ICE, and Opportunity Scoring. Use for: evaluating feature requests, making objective prioritization decisions, balancing stakeholder needs, maximizing ROI, understanding customer satisfaction drivers, managing product backlogs, and ensuring development resources focus on highest-impact work.'
 ---
 
 # Feature Prioritization
