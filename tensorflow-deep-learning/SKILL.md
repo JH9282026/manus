@@ -466,6 +466,11 @@ tuner.search(train_dataset, validation_data=val_dataset)
 
 See `references/` for detailed guides on advanced techniques, architecture patterns, and deployment strategies.
 
+## Using the Reference Files
+
+- [./references/advanced-architectures.md](./references/advanced-architectures.md): Advanced Architectures
+- [./references/generative-models.md](./references/generative-models.md): Generative Models
+
 ## References
 
 - [Advanced Architectures](references/advanced-architectures.md)

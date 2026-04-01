@@ -414,6 +414,14 @@ Evaluate against our personas:
 - **Next**: `user_flows.md` - Map journeys for each persona
 - **Next**: `information_architecture.md` - Structure content for personas
 
+## Using the Reference Files
+
+- [./references/best_practices.md](./references/best_practices.md): Best Practices
+- [./references/fundamentals.md](./references/fundamentals.md): Fundamentals
+- [./references/methodologies_and_frameworks.md](./references/methodologies_and_frameworks.md): Methodologies And Frameworks
+- [./references/real_world_examples.md](./references/real_world_examples.md): Real World Examples
+- [./references/tools_and_techniques.md](./references/tools_and_techniques.md): Tools And Techniques
+
 ## References
 
 - [Best Practices](references/best_practices.md)

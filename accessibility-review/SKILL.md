@@ -426,6 +426,13 @@ Accessibility Review ensures designs meet WCAG guidelines and are usable by peop
 - **Related**: `design_review.md` - Include accessibility in review
 - **Next**: `design_iteration.md` - Fix accessibility issues
 
+## Using the Reference Files
+
+- [./references/accessibility-audit-process.md](./references/accessibility-audit-process.md): Accessibility Audit Process
+- [./references/aria-best-practices.md](./references/aria-best-practices.md): Aria Best Practices
+- [./references/assistive-technology-testing.md](./references/assistive-technology-testing.md): Assistive Technology Testing
+- [./references/wcag-compliance-standards.md](./references/wcag-compliance-standards.md): Wcag Compliance Standards
+
 ## References
 
 - [Accessibility Audit Process](references/accessibility-audit-process.md)

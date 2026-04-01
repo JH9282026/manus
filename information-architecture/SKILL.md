@@ -400,6 +400,12 @@ For [CONTENT TYPE], define the information hierarchy:
 - **Next**: `wireframing.md` - Apply IA to screen layouts
 - **Related**: `layout_grids.md` - Grid structure for navigation
 
+## Using the Reference Files
+
+- [./references/content-strategy-ia.md](./references/content-strategy-ia.md): Content Strategy Ia
+- [./references/ia-principles-methods.md](./references/ia-principles-methods.md): Ia Principles Methods
+- [./references/site-mapping-flows.md](./references/site-mapping-flows.md): Site Mapping Flows
+
 ## References
 
 - [Content Strategy Ia](references/content-strategy-ia.md)

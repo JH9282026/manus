@@ -482,6 +482,12 @@ Print design and production requires mastery of technical specifications, materi
 
 The transition from screen to print demands attention to detail at every stage—from initial color mode selection through final finishing specifications. Investing time in proper prepress preparation and proofing prevents costly errors and ensures the final printed piece matches your creative vision.
 
+## Using the Reference Files
+
+- [./references/print-design-fundamentals.md](./references/print-design-fundamentals.md): Print Design Fundamentals
+- [./references/print-file-preparation.md](./references/print-file-preparation.md): Print File Preparation
+- [./references/print-finishing-techniques.md](./references/print-finishing-techniques.md): Print Finishing Techniques
+
 ## References
 
 - [Print Design Fundamentals](references/print-design-fundamentals.md)

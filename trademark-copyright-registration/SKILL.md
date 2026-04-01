@@ -464,6 +464,13 @@ Registration specialist reviews application to determine:
 
 **Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.
 
+## Using the Reference Files
+
+- [./references/copyright-registration.md](./references/copyright-registration.md): Copyright Registration
+- [./references/enforcement-protection.md](./references/enforcement-protection.md): Enforcement Protection
+- [./references/ip-fundamentals.md](./references/ip-fundamentals.md): Ip Fundamentals
+- [./references/trademark-registration.md](./references/trademark-registration.md): Trademark Registration
+
 ## References
 
 - [Copyright Registration](references/copyright-registration.md)

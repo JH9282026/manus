@@ -410,6 +410,14 @@ For each, explain why it's relevant and what to adapt.
 - **Next**: `color_palettes.md` - Develop color system from inspiration
 - **Next**: `typography.md` - Develop type system from inspiration
 
+## Using the Reference Files
+
+- [./references/01_design-inspiration-gathering-fundamentals.md](./references/01_design-inspiration-gathering-fundamentals.md): 01 Design Inspiration Gathering Fundamentals
+- [./references/02_mood-boards-inspiration-boards-best-practices.md](./references/02_mood-boards-inspiration-boards-best-practices.md): 02 Mood Boards Inspiration Boards Best Practices
+- [./references/03_design-research-methods-inspiration-sources.md](./references/03_design-research-methods-inspiration-sources.md): 03 Design Research Methods Inspiration Sources
+- [./references/04_creative-ideation-workflow-techniques.md](./references/04_creative-ideation-workflow-techniques.md): 04 Creative Ideation Workflow Techniques
+- [./references/05_design-thinking-inspiration-integration.md](./references/05_design-thinking-inspiration-integration.md): 05 Design Thinking Inspiration Integration
+
 ## References
 
 - [01 Design Inspiration Gathering Fundamentals](references/01_design-inspiration-gathering-fundamentals.md)

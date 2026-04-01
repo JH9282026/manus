@@ -475,6 +475,14 @@ output_format: "json"
 | TIMEOUT | Request timed out | Increase timeout, retry |
 | PARSE_ERROR | Selector not found | Verify selector accuracy |
 
+## Using the Reference Files
+
+- [./references/01_fundamentals-and-core-concepts.md](./references/01_fundamentals-and-core-concepts.md): 01 Fundamentals And Core Concepts
+- [./references/02_tools-and-frameworks.md](./references/02_tools-and-frameworks.md): 02 Tools And Frameworks
+- [./references/03_best-practices-and-ethics.md](./references/03_best-practices-and-ethics.md): 03 Best Practices And Ethics
+- [./references/04_advanced-techniques-and-challenges.md](./references/04_advanced-techniques-and-challenges.md): 04 Advanced Techniques And Challenges
+- [./references/05_real-world-applications-and-case-studies.md](./references/05_real-world-applications-and-case-studies.md): 05 Real World Applications And Case Studies
+
 ## References
 
 - [01 Fundamentals And Core Concepts](references/01_fundamentals-and-core-concepts.md)

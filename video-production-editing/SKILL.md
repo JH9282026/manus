@@ -324,6 +324,14 @@ This skill serves diverse content needs: corporate communications, marketing cam
 - Video hosting platform accounts (YouTube, Vimeo, Wistia)
 - Analytics tracking setup for performance measurement
 
+## Using the Reference Files
+
+- [./references/advanced-techniques-and-methodologies.md](./references/advanced-techniques-and-methodologies.md): Advanced Techniques And Methodologies
+- [./references/color-grading-and-audio-mixing.md](./references/color-grading-and-audio-mixing.md): Color Grading And Audio Mixing
+- [./references/fundamentals-and-workflow.md](./references/fundamentals-and-workflow.md): Fundamentals And Workflow
+- [./references/professional-tools-and-software.md](./references/professional-tools-and-software.md): Professional Tools And Software
+- [./references/real-world-applications-and-case-studies.md](./references/real-world-applications-and-case-studies.md): Real World Applications And Case Studies
+
 ## References
 
 - [Advanced Techniques And Methodologies](references/advanced-techniques-and-methodologies.md)

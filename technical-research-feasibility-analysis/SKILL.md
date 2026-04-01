@@ -379,6 +379,14 @@ organizational_context:
 - Organizational readiness is often underestimated
 - Hidden costs frequently emerge during implementation
 
+## Using the Reference Files
+
+- [./references/feasibility-study-methodology.md](./references/feasibility-study-methodology.md): Feasibility Study Methodology
+- [./references/financial-operational-feasibility.md](./references/financial-operational-feasibility.md): Financial Operational Feasibility
+- [./references/market-legal-feasibility.md](./references/market-legal-feasibility.md): Market Legal Feasibility
+- [./references/risk-assessment-decision-making.md](./references/risk-assessment-decision-making.md): Risk Assessment Decision Making
+- [./references/technical-feasibility-assessment.md](./references/technical-feasibility-assessment.md): Technical Feasibility Assessment
+
 ## References
 
 - [Feasibility Study Methodology](references/feasibility-study-methodology.md)

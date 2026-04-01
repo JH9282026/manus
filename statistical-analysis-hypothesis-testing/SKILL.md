@@ -323,6 +323,14 @@ For each hypothesis:
 - Assumptions matter for validity
 - Generalizability depends on sampling
 
+## Using the Reference Files
+
+- [./references/01_hypothesis_testing_fundamentals.md](./references/01_hypothesis_testing_fundamentals.md): 01 Hypothesis Testing Fundamentals
+- [./references/02_pvalues_statistical_significance.md](./references/02_pvalues_statistical_significance.md): 02 Pvalues Statistical Significance
+- [./references/03_common_statistical_tests.md](./references/03_common_statistical_tests.md): 03 Common Statistical Tests
+- [./references/04_power_analysis_sample_size.md](./references/04_power_analysis_sample_size.md): 04 Power Analysis Sample Size
+- [./references/05_assumptions_diagnostics.md](./references/05_assumptions_diagnostics.md): 05 Assumptions Diagnostics
+
 ## References
 
 - [01 Hypothesis Testing Fundamentals](references/01_hypothesis_testing_fundamentals.md)

@@ -51,6 +51,14 @@ This skill provides comprehensive guidance and best practices for this domain.
 - Internal linking analysis tools
 - Content audit platforms for refresh prioritization
 
+## Using the Reference Files
+
+- [./references/01-seo-copywriting-fundamentals.md](./references/01-seo-copywriting-fundamentals.md): 01 Seo Copywriting Fundamentals
+- [./references/02-keyword-research-strategy.md](./references/02-keyword-research-strategy.md): 02 Keyword Research Strategy
+- [./references/03-on-page-seo-optimization.md](./references/03-on-page-seo-optimization.md): 03 On Page Seo Optimization
+- [./references/04-content-types-formats.md](./references/04-content-types-formats.md): 04 Content Types Formats
+- [./references/05-advanced-seo-techniques.md](./references/05-advanced-seo-techniques.md): 05 Advanced Seo Techniques
+
 ## References
 
 - [01 Seo Copywriting Fundamentals](references/01-seo-copywriting-fundamentals.md)

@@ -457,6 +457,12 @@ gunicorn myproject.wsgi:application --bind 0.0.0.0:8000
 
 **Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.
 
+## Using the Reference Files
+
+- [./references/deployment-guide.md](./references/deployment-guide.md): Deployment Guide
+- [./references/drf-authentication.md](./references/drf-authentication.md): Drf Authentication
+- [./references/orm-advanced.md](./references/orm-advanced.md): Orm Advanced
+
 ## References
 
 - [Deployment Guide](references/deployment-guide.md)

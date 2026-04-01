@@ -351,6 +351,10 @@ torchserve --start --model-store model_store --models my_model=my_model.mar
 
 See `references/` for advanced techniques, distributed training guides, and deployment strategies.
 
+## Using the Reference Files
+
+- [./references/distributed-training.md](./references/distributed-training.md): Distributed Training
+
 ## References
 
 - [Distributed Training](references/distributed-training.md)

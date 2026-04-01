@@ -488,6 +488,11 @@ UX research encompasses methods and techniques for understanding users through o
 
 UX research provides the foundation for user-centered design. Combine methods, involve users throughout the process, and let insights guide decisions. Continuous research ensures products meet real user needs and deliver value.
 
+## Using the Reference Files
+
+- [./references/analysis-synthesis.md](./references/analysis-synthesis.md): Analysis Synthesis
+- [./references/research-methods.md](./references/research-methods.md): Research Methods
+
 ## References
 
 - [Analysis Synthesis](references/analysis-synthesis.md)

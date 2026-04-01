@@ -457,6 +457,13 @@ Measure the effectiveness of sales enablement initiatives and drive continuous i
 
 **Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.
 
+## Using the Reference Files
+
+- [./references/content-strategy.md](./references/content-strategy.md): Content Strategy
+- [./references/metrics-analytics.md](./references/metrics-analytics.md): Metrics Analytics
+- [./references/tools-technology.md](./references/tools-technology.md): Tools Technology
+- [./references/training-programs.md](./references/training-programs.md): Training Programs
+
 ## References
 
 - [Content Strategy](references/content-strategy.md)

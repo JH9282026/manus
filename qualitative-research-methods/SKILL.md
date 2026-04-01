@@ -235,6 +235,13 @@ For focus groups, additional parameters include group size (6-10 recommended), h
 - Ethnographic studies require sustained engagement (minimum 2-4 weeks immersion)
 - Case studies require multiple data sources per case for triangulation
 
+## Using the Reference Files
+
+- [./references/coding_analysis_strategies.md](./references/coding_analysis_strategies.md): Coding Analysis Strategies
+- [./references/ensuring_rigor_trustworthiness.md](./references/ensuring_rigor_trustworthiness.md): Ensuring Rigor Trustworthiness
+- [./references/interview_techniques.md](./references/interview_techniques.md): Interview Techniques
+- [./references/qualitative_research_fundamentals.md](./references/qualitative_research_fundamentals.md): Qualitative Research Fundamentals
+
 ## References
 
 - [Coding Analysis Strategies](references/coding_analysis_strategies.md)

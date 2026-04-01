@@ -199,6 +199,14 @@ The value proposition lies in reducing product development risk, increasing user
 - Participant compensation guidelines and fair incentive structures
 - Data anonymization and secure storage protocols
 
+## Using the Reference Files
+
+- [./references/best_practices.md](./references/best_practices.md): Best Practices
+- [./references/fundamentals.md](./references/fundamentals.md): Fundamentals
+- [./references/methodologies_and_frameworks.md](./references/methodologies_and_frameworks.md): Methodologies And Frameworks
+- [./references/research_methods.md](./references/research_methods.md): Research Methods
+- [./references/tools_and_resources.md](./references/tools_and_resources.md): Tools And Resources
+
 ## References
 
 - [Best Practices](references/best_practices.md)

@@ -188,6 +188,13 @@ A manufacturing company needs architecture for industrial IoT platform. The skil
 - Security assessments may require penetration testing
 - Capacity planning requires real usage data for accuracy
 
+## Using the Reference Files
+
+- [./references/01-fundamentals-of-system-architecture.md](./references/01-fundamentals-of-system-architecture.md): 01 Fundamentals Of System Architecture
+- [./references/02-microservices-design-patterns.md](./references/02-microservices-design-patterns.md): 02 Microservices Design Patterns
+- [./references/03-cloud-native-architecture.md](./references/03-cloud-native-architecture.md): 03 Cloud Native Architecture
+- [./references/04-enterprise-integration-patterns.md](./references/04-enterprise-integration-patterns.md): 04 Enterprise Integration Patterns
+
 ## References
 
 - [01 Fundamentals Of System Architecture](references/01-fundamentals-of-system-architecture.md)

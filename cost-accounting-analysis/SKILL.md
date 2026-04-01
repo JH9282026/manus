@@ -382,6 +382,13 @@ For comprehensive cost accounting analysis expertise, consider developing these 
 - **Strategic Planning**: Aligning financial analysis with organizational strategy
 - **Communication**: Presenting complex cost information to diverse audiences
 
+## Using the Reference Files
+
+- [./references/cost-accounting-fundamentals.md](./references/cost-accounting-fundamentals.md): Cost Accounting Fundamentals
+- [./references/costing-methods.md](./references/costing-methods.md): Costing Methods
+- [./references/decision-making-applications.md](./references/decision-making-applications.md): Decision Making Applications
+- [./references/variance-analysis.md](./references/variance-analysis.md): Variance Analysis
+
 ## References
 
 For detailed information on specific topics within cost accounting analysis, see:

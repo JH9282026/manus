@@ -457,6 +457,13 @@ selector = {
 
 **Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.
 
+## Using the Reference Files
+
+- [./references/api-endpoints-reference.md](./references/api-endpoints-reference.md): Api Endpoints Reference
+- [./references/automation-examples.md](./references/automation-examples.md): Automation Examples
+- [./references/python-sdk-guide.md](./references/python-sdk-guide.md): Python Sdk Guide
+- [./references/reporting-guide.md](./references/reporting-guide.md): Reporting Guide
+
 ## References
 
 - [Api Endpoints Reference](references/api-endpoints-reference.md)

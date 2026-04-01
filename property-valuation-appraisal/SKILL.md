@@ -207,6 +207,14 @@ This skill serves as the authoritative valuation capability for real estate asse
 - **GIS/Mapping:** Integration with mapping tools for location analysis
 - **Document Systems:** Integration with client document management and delivery systems
 
+## Using the Reference Files
+
+- [./references/factors_affecting_value.md](./references/factors_affecting_value.md): Factors Affecting Value
+- [./references/residential_vs_commercial.md](./references/residential_vs_commercial.md): Residential Vs Commercial
+- [./references/standards_best_practices.md](./references/standards_best_practices.md): Standards Best Practices
+- [./references/valuation_fundamentals_overview.md](./references/valuation_fundamentals_overview.md): Valuation Fundamentals Overview
+- [./references/valuation_methods_techniques.md](./references/valuation_methods_techniques.md): Valuation Methods Techniques
+
 ## References
 
 - [Factors Affecting Value](references/factors_affecting_value.md)

@@ -120,6 +120,14 @@ A wealth management firm implements VOC research to strengthen client relationsh
 - Competitive intelligence for external benchmark context
 - Data visualization for insight communication
 
+## Using the Reference Files
+
+- [./references/case-studies-and-real-world-examples.md](./references/case-studies-and-real-world-examples.md): Case Studies And Real World Examples
+- [./references/fundamentals-and-core-concepts.md](./references/fundamentals-and-core-concepts.md): Fundamentals And Core Concepts
+- [./references/implementation-and-best-practices.md](./references/implementation-and-best-practices.md): Implementation And Best Practices
+- [./references/methodologies-and-frameworks.md](./references/methodologies-and-frameworks.md): Methodologies And Frameworks
+- [./references/tools-and-analysis-techniques.md](./references/tools-and-analysis-techniques.md): Tools And Analysis Techniques
+
 ## References
 
 - [Case Studies And Real World Examples](references/case-studies-and-real-world-examples.md)

@@ -180,6 +180,14 @@ A company launches a continuous improvement program. The agent establishes basel
 - Communication platforms for alert distribution
 - Project management tools for implementation tracking
 
+## Using the Reference Files
+
+- [./references/lean-manufacturing-principles.md](./references/lean-manufacturing-principles.md): Lean Manufacturing Principles
+- [./references/performance-metrics-kpis.md](./references/performance-metrics-kpis.md): Performance Metrics Kpis
+- [./references/process-improvement-frameworks.md](./references/process-improvement-frameworks.md): Process Improvement Frameworks
+- [./references/six-sigma-methodology.md](./references/six-sigma-methodology.md): Six Sigma Methodology
+- [./references/supply-chain-optimization.md](./references/supply-chain-optimization.md): Supply Chain Optimization
+
 ## References
 
 - [Lean Manufacturing Principles](references/lean-manufacturing-principles.md)

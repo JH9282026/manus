@@ -181,6 +181,19 @@ A pilot holding foreign license seeks FAA private pilot certificate through ICAO
 - Question banks should reflect actual FAA test question styles and difficulty
 - Learning objectives should use appropriate aviation training taxonomy (FITS, scenario-based)
 
+## Using the Reference Files
+
+- [./references/01_faa_regulations_airspace.md](./references/01_faa_regulations_airspace.md): 01 Faa Regulations Airspace
+- [./references/02_aerodynamics_aircraft_systems.md](./references/02_aerodynamics_aircraft_systems.md): 02 Aerodynamics Aircraft Systems
+- [./references/03_aviation-weather-and-meteorology.md](./references/03_aviation-weather-and-meteorology.md): 03 Aviation Weather And Meteorology
+- [./references/04_navigation-and-flight-planning.md](./references/04_navigation-and-flight-planning.md): 04 Navigation And Flight Planning
+- [./references/05_aeronautical-decision-making.md](./references/05_aeronautical-decision-making.md): 05 Aeronautical Decision Making
+- [./references/aircraft-systems-and-performance.md](./references/aircraft-systems-and-performance.md): Aircraft Systems And Performance
+- [./references/aviation-weather-and-meteorology.md](./references/aviation-weather-and-meteorology.md): Aviation Weather And Meteorology
+- [./references/faa-knowledge-requirements-and-regulations.md](./references/faa-knowledge-requirements-and-regulations.md): Faa Knowledge Requirements And Regulations
+- [./references/ground-school-curriculum-and-training-methods.md](./references/ground-school-curriculum-and-training-methods.md): Ground School Curriculum And Training Methods
+- [./references/navigation-and-flight-planning.md](./references/navigation-and-flight-planning.md): Navigation And Flight Planning
+
 ## References
 
 - [01 Faa Regulations Airspace](references/01_faa_regulations_airspace.md)

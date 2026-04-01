@@ -493,3 +493,11 @@ Progress through stages of CS sophistication:
 
 **Industry Resources:**
 - Customer Success Association, Gainsight Pulse Conference, ChurnZero Resources, SaaS Metrics and Benchmarks
+
+## Using the Reference Files
+
+- [./references/cs-operations.md](./references/cs-operations.md): Cs Operations
+- [./references/expansion-strategies.md](./references/expansion-strategies.md): Expansion Strategies
+- [./references/health-scoring.md](./references/health-scoring.md): Health Scoring
+- [./references/success-frameworks.md](./references/success-frameworks.md): Success Frameworks
+

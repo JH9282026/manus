@@ -132,6 +132,14 @@ Structure copy so each element compels reading of the next. Short paragraphs. Cu
 **4 U's Headline Technique**
 Score every headline against: Unique (stands out), Ultra-specific (concrete details), Useful (promises value), Urgent (creates time pressure).
 
+## Using the Reference Files
+
+- [./references/01-copywriting-fundamentals.md](./references/01-copywriting-fundamentals.md): 01 Copywriting Fundamentals
+- [./references/02-copywriting-formulas-frameworks.md](./references/02-copywriting-formulas-frameworks.md): 02 Copywriting Formulas Frameworks
+- [./references/03-persuasion-psychology.md](./references/03-persuasion-psychology.md): 03 Persuasion Psychology
+- [./references/04-writing-compelling-headlines.md](./references/04-writing-compelling-headlines.md): 04 Writing Compelling Headlines
+- [./references/05-calls-to-action-conversion.md](./references/05-calls-to-action-conversion.md): 05 Calls To Action Conversion
+
 ## References
 
 - [01 Copywriting Fundamentals](references/01-copywriting-fundamentals.md)

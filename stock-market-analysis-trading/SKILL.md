@@ -134,6 +134,13 @@ A trader evaluates pre-earnings positioning for Microsoft (MSFT). The skill exam
 - Order management system or broker API integration for automated execution (if applicable)
 - Risk management tools for stop-loss implementation and position monitoring
 
+## Using the Reference Files
+
+- [./references/01_technical_analysis_fundamentals.md](./references/01_technical_analysis_fundamentals.md): 01 Technical Analysis Fundamentals
+- [./references/02_technical_indicators_guide.md](./references/02_technical_indicators_guide.md): 02 Technical Indicators Guide
+- [./references/03_fundamental_analysis_basics.md](./references/03_fundamental_analysis_basics.md): 03 Fundamental Analysis Basics
+- [./references/04_trading_strategies_risk_management.md](./references/04_trading_strategies_risk_management.md): 04 Trading Strategies Risk Management
+
 ## References
 
 - [01 Technical Analysis Fundamentals](references/01_technical_analysis_fundamentals.md)

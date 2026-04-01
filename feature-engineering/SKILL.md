@@ -376,6 +376,14 @@ df['volatility'] = df['returns'].rolling(window=20).std()
 
 See `references/` for advanced techniques, domain-specific patterns, and automation strategies.
 
+## Using the Reference Files
+
+- [./references/advanced-transformations.md](./references/advanced-transformations.md): Advanced Transformations
+- [./references/categorical-feature-encoding.md](./references/categorical-feature-encoding.md): Categorical Feature Encoding
+- [./references/feature-engineering-fundamentals.md](./references/feature-engineering-fundamentals.md): Feature Engineering Fundamentals
+- [./references/feature-selection-methods.md](./references/feature-selection-methods.md): Feature Selection Methods
+- [./references/numerical-feature-techniques.md](./references/numerical-feature-techniques.md): Numerical Feature Techniques
+
 ## References
 
 - [Advanced Transformations](references/advanced-transformations.md)

@@ -213,6 +213,22 @@ UI/UX Design encompasses the creation of intuitive, accessible, and visually app
 
 UI/UX design is a multidisciplinary practice combining research, psychology, visual design, and technology to create meaningful user experiences. Success requires understanding users deeply, applying proven design principles, leveraging appropriate tools, and maintaining consistency through design systems. Accessibility and usability must be foundational, not afterthoughts. The best interfaces are invisible—they help users accomplish their goals effortlessly while delighting them along the way.
 
+## Using the Reference Files
+
+- [./references/10-design-systems--component-libraries.md](./references/10-design-systems--component-libraries.md): 10 Design Systems Component Libraries
+- [./references/11-ui-ux-design-tools.md](./references/11-ui-ux-design-tools.md): 11 Ui Ux Design Tools
+- [./references/12-mobile-app-ui-ux-design.md](./references/12-mobile-app-ui-ux-design.md): 12 Mobile App Ui Ux Design
+- [./references/13-web-app-ui-ux-design.md](./references/13-web-app-ui-ux-design.md): 13 Web App Ui Ux Design
+- [./references/14-design-handoff--collaboration.md](./references/14-design-handoff--collaboration.md): 14 Design Handoff Collaboration
+- [./references/15-ui-ux-best-practices.md](./references/15-ui-ux-best-practices.md): 15 Ui Ux Best Practices
+- [./references/3-information-architecture.md](./references/3-information-architecture.md): 3 Information Architecture
+- [./references/4-interaction-design.md](./references/4-interaction-design.md): 4 Interaction Design
+- [./references/5-visual-design-for-ui.md](./references/5-visual-design-for-ui.md): 5 Visual Design For Ui
+- [./references/6-ui-design-patterns.md](./references/6-ui-design-patterns.md): 6 Ui Design Patterns
+- [./references/7-responsive--adaptive-design.md](./references/7-responsive--adaptive-design.md): 7 Responsive Adaptive Design
+- [./references/8-accessibility-in-ui-ux.md](./references/8-accessibility-in-ui-ux.md): 8 Accessibility In Ui Ux
+- [./references/9-usability-principles.md](./references/9-usability-principles.md): 9 Usability Principles
+
 ## References
 
 - [10 Design Systems  Component Libraries](references/10-design-systems--component-libraries.md)

@@ -402,6 +402,11 @@ Blockchain technology represents a fundamental innovation in distributed systems
 
 The technology's potential extends far beyond cryptocurrencies, promising to transform industries from finance to healthcare to governance. As blockchain matures and integrates with other emerging technologies like AI and IoT, its impact on society will only grow. Mastering these fundamentals provides the foundation for navigating and contributing to this transformative technology.
 
+## Using the Reference Files
+
+- [./references/consensus-mechanisms-deep-dive.md](./references/consensus-mechanisms-deep-dive.md): Consensus Mechanisms Deep Dive
+- [./references/cryptography-and-security.md](./references/cryptography-and-security.md): Cryptography And Security
+
 ## References
 
 - [Consensus Mechanisms Deep Dive](references/consensus-mechanisms-deep-dive.md)

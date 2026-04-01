@@ -261,6 +261,19 @@ Drone regulations vary significantly by country. Key considerations:
 
 *See [detailed conclusion](references/drone-aerial-videography/conclusion.md)*
 
+## Using the Reference Files
+
+- [./references/aerial-cinematography-techniques.md](./references/aerial-cinematography-techniques.md): Aerial Cinematography Techniques
+- [./references/best-practices-for-drone-videography.md](./references/best-practices-for-drone-videography.md): Best Practices For Drone Videography
+- [./references/camera-settings-for-aerial-video.md](./references/camera-settings-for-aerial-video.md): Camera Settings For Aerial Video
+- [./references/commercial-applications.md](./references/commercial-applications.md): Commercial Applications
+- [./references/conclusion.md](./references/conclusion.md): Conclusion
+- [./references/drone-business-considerations.md](./references/drone-business-considerations.md): Drone Business Considerations
+- [./references/editing-aerial-footage.md](./references/editing-aerial-footage.md): Editing Aerial Footage
+- [./references/flight-techniques-and-safety.md](./references/flight-techniques-and-safety.md): Flight Techniques And Safety
+- [./references/future-of-drone-videography.md](./references/future-of-drone-videography.md): Future Of Drone Videography
+- [./references/troubleshooting-common-issues.md](./references/troubleshooting-common-issues.md): Troubleshooting Common Issues
+
 ## References
 
 - [Aerial Cinematography Techniques](references/aerial-cinematography-techniques.md)

@@ -457,6 +457,13 @@ For Smart Contract Interactions:
 
 **Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.
 
+## Using the Reference Files
+
+- [./references/private-key-management.md](./references/private-key-management.md): Private Key Management
+- [./references/recovery-backup.md](./references/recovery-backup.md): Recovery Backup
+- [./references/threat-protection.md](./references/threat-protection.md): Threat Protection
+- [./references/wallet-types-security.md](./references/wallet-types-security.md): Wallet Types Security
+
 ## References
 
 - [Private Key Management](references/private-key-management.md)

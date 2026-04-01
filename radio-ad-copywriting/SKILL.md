@@ -233,6 +233,23 @@ Whether you're creating a 15-second retail spot or a 60-second brand anthem, rem
 
 The microphone is on. What will you say?
 
+## Using the Reference Files
+
+- [./references/best-practices-summary.md](./references/best-practices-summary.md): Best Practices Summary
+- [./references/common-mistakes-to-avoid.md](./references/common-mistakes-to-avoid.md): Common Mistakes To Avoid
+- [./references/daypart-considerations.md](./references/daypart-considerations.md): Daypart Considerations
+- [./references/different-radio-formats.md](./references/different-radio-formats.md): Different Radio Formats
+- [./references/jingles-and-mnemonics.md](./references/jingles-and-mnemonics.md): Jingles And Mnemonics
+- [./references/local-vs-national-radio.md](./references/local-vs-national-radio.md): Local Vs National Radio
+- [./references/music-and-sound-effects.md](./references/music-and-sound-effects.md): Music And Sound Effects
+- [./references/production-considerations.md](./references/production-considerations.md): Production Considerations
+- [./references/radio-ad-structure.md](./references/radio-ad-structure.md): Radio Ad Structure
+- [./references/radio-ad-templates.md](./references/radio-ad-templates.md): Radio Ad Templates
+- [./references/radio-advertising-resources.md](./references/radio-advertising-resources.md): Radio Advertising Resources
+- [./references/testing-and-optimization.md](./references/testing-and-optimization.md): Testing And Optimization
+- [./references/theater-of-the-mind.md](./references/theater-of-the-mind.md): Theater Of The Mind
+- [./references/voice-talent-and-delivery.md](./references/voice-talent-and-delivery.md): Voice Talent And Delivery
+
 ## References
 
 - [Best Practices Summary](references/best-practices-summary.md)

@@ -412,6 +412,14 @@ If required inputs are unavailable:
 
 *This skill document version 1.0 | Last updated: March 2026 | Compatible with Manus.im Agent Framework v2.x+*
 
+## Using the Reference Files
+
+- [./references/brief_best_practices.md](./references/brief_best_practices.md): Brief Best Practices
+- [./references/brief_components_templates.md](./references/brief_components_templates.md): Brief Components Templates
+- [./references/brief_creation_process.md](./references/brief_creation_process.md): Brief Creation Process
+- [./references/brief_vs_other_documents.md](./references/brief_vs_other_documents.md): Brief Vs Other Documents
+- [./references/project_brief_fundamentals.md](./references/project_brief_fundamentals.md): Project Brief Fundamentals
+
 ## References
 
 - [Brief Best Practices](references/brief_best_practices.md)

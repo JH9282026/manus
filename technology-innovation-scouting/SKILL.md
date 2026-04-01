@@ -273,6 +273,13 @@ Deploy this skill when:
 - Real options framework for technology investment
 - Stage-gate evaluation for opportunity assessment
 
+## Using the Reference Files
+
+- [./references/ai-driven-scouting-tools.md](./references/ai-driven-scouting-tools.md): Ai Driven Scouting Tools
+- [./references/innovation-scouting-frameworks.md](./references/innovation-scouting-frameworks.md): Innovation Scouting Frameworks
+- [./references/startup-ecosystem-engagement.md](./references/startup-ecosystem-engagement.md): Startup Ecosystem Engagement
+- [./references/technology-trends-analysis.md](./references/technology-trends-analysis.md): Technology Trends Analysis
+
 ## References
 
 - [Ai Driven Scouting Tools](references/ai-driven-scouting-tools.md)

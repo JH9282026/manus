@@ -459,6 +459,12 @@ Provide column spans for each element at each breakpoint.
 - **Next**: `spacing_rhythm.md` - Vertical spacing complements grid
 - **Related**: `responsive_design.md` - Grid enables responsiveness
 
+## Using the Reference Files
+
+- [./references/grid-systems-fundamentals.md](./references/grid-systems-fundamentals.md): Grid Systems Fundamentals
+- [./references/responsive-layout-patterns.md](./references/responsive-layout-patterns.md): Responsive Layout Patterns
+- [./references/spacing-rhythm.md](./references/spacing-rhythm.md): Spacing Rhythm
+
 ## References
 
 - [Grid Systems Fundamentals](references/grid-systems-fundamentals.md)

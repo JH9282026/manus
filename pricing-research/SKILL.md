@@ -133,6 +133,17 @@ An e-commerce company seeks to optimize its dynamic pricing algorithms through p
 - Maintain competitive intelligence boundaries (no misrepresentation or improper access)
 - Document methodology transparently for stakeholder trust
 
+## Using the Reference Files
+
+- [./references/01_pricing_strategies_overview.md](./references/01_pricing_strategies_overview.md): 01 Pricing Strategies Overview
+- [./references/01_willingness_to_pay_fundamentals.md](./references/01_willingness_to_pay_fundamentals.md): 01 Willingness To Pay Fundamentals
+- [./references/02_pricing_research_methodologies.md](./references/02_pricing_research_methodologies.md): 02 Pricing Research Methodologies
+- [./references/02_willingness_to_pay_research.md](./references/02_willingness_to_pay_research.md): 02 Willingness To Pay Research
+- [./references/03_competitive_pricing_analysis.md](./references/03_competitive_pricing_analysis.md): 03 Competitive Pricing Analysis
+- [./references/03_competitive_pricing_analysis_v2.md](./references/03_competitive_pricing_analysis_v2.md): 03 Competitive Pricing Analysis V2
+- [./references/04_pricing_research_methodologies.md](./references/04_pricing_research_methodologies.md): 04 Pricing Research Methodologies
+- [./references/04_pricing_strategy_implementation.md](./references/04_pricing_strategy_implementation.md): 04 Pricing Strategy Implementation
+
 ## References
 
 - [01 Pricing Strategies Overview](references/01_pricing_strategies_overview.md)

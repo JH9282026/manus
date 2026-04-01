@@ -187,6 +187,14 @@ An organization migrating from legacy system to modern platform needs comprehens
 - Cross-team dependencies require coordination
 - Requirements may evolve; document versioning essential
 
+## Using the Reference Files
+
+- [./references/prd_best_practices_pitfalls.md](./references/prd_best_practices_pitfalls.md): Prd Best Practices Pitfalls
+- [./references/prd_creation_process.md](./references/prd_creation_process.md): Prd Creation Process
+- [./references/prd_fundamentals_overview.md](./references/prd_fundamentals_overview.md): Prd Fundamentals Overview
+- [./references/prd_tools_templates.md](./references/prd_tools_templates.md): Prd Tools Templates
+- [./references/prd_vs_related_documents.md](./references/prd_vs_related_documents.md): Prd Vs Related Documents
+
 ## References
 
 - [Prd Best Practices Pitfalls](references/prd_best_practices_pitfalls.md)

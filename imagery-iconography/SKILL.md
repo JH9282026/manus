@@ -419,6 +419,12 @@ Find illustration resources for [PROJECT] that:
 - **Next**: `component_design.md` - Icons in components
 - **Related**: `design_documentation.md` - Full asset documentation
 
+## Using the Reference Files
+
+- [./references/icon-design-principles.md](./references/icon-design-principles.md): Icon Design Principles
+- [./references/photography-for-design.md](./references/photography-for-design.md): Photography For Design
+- [./references/visual-asset-management.md](./references/visual-asset-management.md): Visual Asset Management
+
 ## References
 
 - [Icon Design Principles](references/icon-design-principles.md)

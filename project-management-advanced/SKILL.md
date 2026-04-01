@@ -457,6 +457,13 @@ Risk Score = Probability × Impact
 
 **Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.
 
+## Using the Reference Files
+
+- [./references/pm-methodologies.md](./references/pm-methodologies.md): Pm Methodologies
+- [./references/portfolio-management.md](./references/portfolio-management.md): Portfolio Management
+- [./references/risk-management.md](./references/risk-management.md): Risk Management
+- [./references/stakeholder-management.md](./references/stakeholder-management.md): Stakeholder Management
+
 ## References
 
 - [Pm Methodologies](references/pm-methodologies.md)

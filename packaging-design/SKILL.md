@@ -378,6 +378,12 @@ The best packaging designers combine technical knowledge with creative vision, a
 
 As sustainability concerns grow and e-commerce continues to transform retail, packaging design continues to evolve. Designers who stay current with materials innovation, production technologies, and consumer expectations will create packaging that meets the demands of today's marketplace while preparing for tomorrow's challenges.
 
+## Using the Reference Files
+
+- [./references/packaging-fundamentals.md](./references/packaging-fundamentals.md): Packaging Fundamentals
+- [./references/packaging-production-process.md](./references/packaging-production-process.md): Packaging Production Process
+- [./references/sustainable-packaging.md](./references/sustainable-packaging.md): Sustainable Packaging
+
 ## References
 
 - [Packaging Fundamentals](references/packaging-fundamentals.md)

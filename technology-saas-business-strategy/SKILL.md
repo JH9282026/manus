@@ -328,6 +328,13 @@ This skill is essential for SaaS founders, executives, and operators seeking to 
 - **Investor Relations**: Metrics shared externally must be accurate and consistently calculated
 - **Data Security**: Billing and customer data requires secure storage and transmission
 
+## Using the Reference Files
+
+- [./references/saas-financial-planning.md](./references/saas-financial-planning.md): Saas Financial Planning
+- [./references/saas-growth-strategies.md](./references/saas-growth-strategies.md): Saas Growth Strategies
+- [./references/saas-metrics-kpis.md](./references/saas-metrics-kpis.md): Saas Metrics Kpis
+- [./references/saas-pricing-models.md](./references/saas-pricing-models.md): Saas Pricing Models
+
 ## References
 
 - [Saas Financial Planning](references/saas-financial-planning.md)

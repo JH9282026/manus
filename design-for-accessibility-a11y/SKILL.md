@@ -456,6 +456,13 @@ const tabPanel = new TabPanel(document.querySelector('.tab-container'));
 
 **Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.
 
+## Using the Reference Files
+
+- [./references/inclusive-design-patterns.md](./references/inclusive-design-patterns.md): Inclusive Design Patterns
+- [./references/semantic-html-aria.md](./references/semantic-html-aria.md): Semantic Html Aria
+- [./references/testing-tools.md](./references/testing-tools.md): Testing Tools
+- [./references/wcag-standards.md](./references/wcag-standards.md): Wcag Standards
+
 ## References
 
 - [Inclusive Design Patterns](references/inclusive-design-patterns.md)

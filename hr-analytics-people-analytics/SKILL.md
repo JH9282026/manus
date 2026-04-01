@@ -457,6 +457,13 @@ People Analytics utilizes people-related and business outcomes data to inform de
 
 **Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.
 
+## Using the Reference Files
+
+- [./references/data-metrics.md](./references/data-metrics.md): Data Metrics
+- [./references/hr-analytics-fundamentals.md](./references/hr-analytics-fundamentals.md): Hr Analytics Fundamentals
+- [./references/predictive-analytics.md](./references/predictive-analytics.md): Predictive Analytics
+- [./references/tools-implementation.md](./references/tools-implementation.md): Tools Implementation
+
 ## References
 
 - [Data Metrics](references/data-metrics.md)

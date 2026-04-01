@@ -482,6 +482,13 @@ Simulators are insufficient for spatial computing. Physical device testing is ma
 **Skill Level**: Intermediate to Advanced  
 **Prerequisites**: 3D graphics fundamentals, programming (C#, C++, or JavaScript), basic game engine experience
 
+## Using the Reference Files
+
+- [./references/deployment-optimization.md](./references/deployment-optimization.md): Deployment Optimization
+- [./references/development-platforms.md](./references/development-platforms.md): Development Platforms
+- [./references/interaction-design.md](./references/interaction-design.md): Interaction Design
+- [./references/spatial-computing-fundamentals.md](./references/spatial-computing-fundamentals.md): Spatial Computing Fundamentals
+
 ## References
 
 - [Deployment Optimization](references/deployment-optimization.md)

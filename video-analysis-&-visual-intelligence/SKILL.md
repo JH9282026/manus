@@ -397,3 +397,8 @@ All outputs adhere to:
 
 For additional detailed content, examples, and resources, see:
 - [Extended Content](references/detailed-content.md)
+
+## Using the Reference Files
+
+- [./references/detailed-content.md](./references/detailed-content.md): Detailed Content
+

@@ -465,6 +465,12 @@ Compare [DESIGN A] vs [DESIGN B]:
 - **Next**: `design_iteration.md` - Act on review findings
 - **Related**: `accessibility_review.md` - Deep accessibility review
 
+## Using the Reference Files
+
+- [./references/critique-frameworks.md](./references/critique-frameworks.md): Critique Frameworks
+- [./references/design-qa-checklist.md](./references/design-qa-checklist.md): Design Qa Checklist
+- [./references/stakeholder-review-management.md](./references/stakeholder-review-management.md): Stakeholder Review Management
+
 ## References
 
 - [Critique Frameworks](references/critique-frameworks.md)

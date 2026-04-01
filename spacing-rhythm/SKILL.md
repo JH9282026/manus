@@ -471,6 +471,14 @@ Check:
 - **Previous**: `layout_grids.md` - Grid gutters align with spacing
 - **Next**: `component_design.md` - Apply spacing to components
 
+## Using the Reference Files
+
+- [./references/01_vertical_rhythm_fundamentals.md](./references/01_vertical_rhythm_fundamentals.md): 01 Vertical Rhythm Fundamentals
+- [./references/02_8point_grid_system.md](./references/02_8point_grid_system.md): 02 8point Grid System
+- [./references/03_typography_spacing_principles.md](./references/03_typography_spacing_principles.md): 03 Typography Spacing Principles
+- [./references/04_spacing_systems_design_tokens.md](./references/04_spacing_systems_design_tokens.md): 04 Spacing Systems Design Tokens
+- [./references/05_practical_application_examples.md](./references/05_practical_application_examples.md): 05 Practical Application Examples
+
 ## References
 
 - [01 Vertical Rhythm Fundamentals](references/01_vertical_rhythm_fundamentals.md)

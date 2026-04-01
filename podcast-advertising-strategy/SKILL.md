@@ -386,6 +386,13 @@ Success in podcast advertising requires a strategic approach that balances authe
 
 As the podcast industry continues to grow and evolve, with advancing technology enabling better targeting, measurement, and optimization, podcast advertising will become an increasingly essential component of effective marketing strategies. The brands that invest in building podcast advertising expertise now will be well-positioned to capitalize on this growth and build lasting connections with highly engaged audiences.
 
+## Using the Reference Files
+
+- [./references/ad-formats-pricing.md](./references/ad-formats-pricing.md): Ad Formats Pricing
+- [./references/campaign-planning.md](./references/campaign-planning.md): Campaign Planning
+- [./references/measurement-attribution.md](./references/measurement-attribution.md): Measurement Attribution
+- [./references/podcast-landscape.md](./references/podcast-landscape.md): Podcast Landscape
+
 ## References
 
 - [Ad Formats Pricing](references/ad-formats-pricing.md)

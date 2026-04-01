@@ -186,6 +186,13 @@ This skill serves as the analytical foundation for real estate investment decisi
 - **Document Management:** Access to data rooms and document storage for due diligence materials
 - **Mapping Services:** Integration with GIS and mapping tools for location analysis
 
+## Using the Reference Files
+
+- [./references/due-diligence-risk-assessment.md](./references/due-diligence-risk-assessment.md): Due Diligence Risk Assessment
+- [./references/investment-metrics-analysis.md](./references/investment-metrics-analysis.md): Investment Metrics Analysis
+- [./references/market-trends-demographics.md](./references/market-trends-demographics.md): Market Trends Demographics
+- [./references/property-valuation-methods.md](./references/property-valuation-methods.md): Property Valuation Methods
+
 ## References
 
 - [Due Diligence Risk Assessment](references/due-diligence-risk-assessment.md)

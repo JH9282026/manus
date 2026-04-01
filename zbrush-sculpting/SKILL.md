@@ -444,6 +444,10 @@ ZBrush is an Academy Award-winning digital sculpting software that provides arti
 
 ZBrush sculpting combines artistic vision with technical skill. Master the tools, study anatomy and form, and practice continuously. Start simple, build complexity gradually, and focus on strong foundational shapes. The software's power enables incredible detail, but great sculpts begin with solid fundamentals.
 
+## Using the Reference Files
+
+- [./references/character-sculpting.md](./references/character-sculpting.md): Character Sculpting
+
 ## References
 
 - [Character Sculpting](references/character-sculpting.md)

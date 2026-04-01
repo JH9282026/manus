@@ -481,6 +481,10 @@ class ModelGovernance:
 
 See `references/` for pipeline templates, monitoring dashboards, and deployment configurations.
 
+## Using the Reference Files
+
+- [./references/monitoring-dashboards.md](./references/monitoring-dashboards.md): Monitoring Dashboards
+
 ## References
 
 - [Monitoring Dashboards](references/monitoring-dashboards.md)

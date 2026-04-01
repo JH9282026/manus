@@ -433,3 +433,11 @@ Define funnel steps (view_item → add_to_cart → begin_checkout → purchase) 
 - **Baymard Institute**: [baymard.com](https://baymard.com) — E-commerce UX research
 
 See `references/` for detailed CRO frameworks, A/B testing guides, funnel optimization strategies, and analytics tools.
+
+## Using the Reference Files
+
+- [./references/ab-testing.md](./references/ab-testing.md): Ab Testing
+- [./references/analytics-tools.md](./references/analytics-tools.md): Analytics Tools
+- [./references/cro-frameworks.md](./references/cro-frameworks.md): Cro Frameworks
+- [./references/funnel-optimization.md](./references/funnel-optimization.md): Funnel Optimization
+

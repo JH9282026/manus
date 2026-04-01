@@ -402,3 +402,8 @@ Text-to-video AI systems generate video content from text descriptions, represen
 
 For additional detailed content, examples, and resources, see:
 - [Extended Content](references/detailed-content.md)
+
+## Using the Reference Files
+
+- [./references/detailed-content.md](./references/detailed-content.md): Detailed Content
+

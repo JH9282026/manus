@@ -457,6 +457,13 @@ ARPU = Total Revenue / Total Users
 
 **Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.
 
+## Using the Reference Files
+
+- [./references/experimentation.md](./references/experimentation.md): Experimentation
+- [./references/growth-frameworks.md](./references/growth-frameworks.md): Growth Frameworks
+- [./references/growth-tactics.md](./references/growth-tactics.md): Growth Tactics
+- [./references/metrics-analytics.md](./references/metrics-analytics.md): Metrics Analytics
+
 ## References
 
 - [Experimentation](references/experimentation.md)

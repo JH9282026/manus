@@ -384,6 +384,13 @@ Review responsiveness of [COMPONENT]:
 - **Next**: `mobile_app_design.md` - Native app patterns
 - **Related**: `accessibility_review.md` - Mobile accessibility
 
+## Using the Reference Files
+
+- [./references/breakpoints-media-queries.md](./references/breakpoints-media-queries.md): Breakpoints Media Queries
+- [./references/mobile-navigation-patterns.md](./references/mobile-navigation-patterns.md): Mobile Navigation Patterns
+- [./references/responsive-images-media.md](./references/responsive-images-media.md): Responsive Images Media
+- [./references/responsive-layout-fundamentals.md](./references/responsive-layout-fundamentals.md): Responsive Layout Fundamentals
+
 ## References
 
 - [Breakpoints Media Queries](references/breakpoints-media-queries.md)

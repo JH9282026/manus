@@ -233,6 +233,14 @@ This skill serves as the integrated development capability for renewable energy 
 - **Environmental Consultants:** Integration with environmental assessment firms
 - **EPC Contractors:** Relationships with qualified EPC contractors for cost estimates
 
+## Using the Reference Files
+
+- [./references/financing-structures.md](./references/financing-structures.md): Financing Structures
+- [./references/permitting-environmental-compliance.md](./references/permitting-environmental-compliance.md): Permitting Environmental Compliance
+- [./references/power-purchase-agreements.md](./references/power-purchase-agreements.md): Power Purchase Agreements
+- [./references/project-development-lifecycle.md](./references/project-development-lifecycle.md): Project Development Lifecycle
+- [./references/technology-selection-optimization.md](./references/technology-selection-optimization.md): Technology Selection Optimization
+
 ## References
 
 - [Financing Structures](references/financing-structures.md)

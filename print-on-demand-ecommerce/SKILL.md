@@ -457,6 +457,13 @@ Research competitors selling similar designs:
 
 **Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.
 
+## Using the Reference Files
+
+- [./references/marketing-scaling.md](./references/marketing-scaling.md): Marketing Scaling
+- [./references/pod-platforms-services.md](./references/pod-platforms-services.md): Pod Platforms Services
+- [./references/product-design-creation.md](./references/product-design-creation.md): Product Design Creation
+- [./references/store-integration.md](./references/store-integration.md): Store Integration
+
 ## References
 
 - [Marketing Scaling](references/marketing-scaling.md)

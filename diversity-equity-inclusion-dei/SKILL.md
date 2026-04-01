@@ -312,6 +312,13 @@ Cultural differences in DEI concepts, legal/regulatory variations, and local pri
 
 *For detailed information on specific topics, see the reference files in the references/ folder.*
 
+## Using the Reference Files
+
+- [./references/best-practices.md](./references/best-practices.md): Best Practices
+- [./references/dei-fundamentals.md](./references/dei-fundamentals.md): Dei Fundamentals
+- [./references/measurement-accountability.md](./references/measurement-accountability.md): Measurement Accountability
+- [./references/strategy-programs.md](./references/strategy-programs.md): Strategy Programs
+
 ## References
 
 - [Best Practices](references/best-practices.md)

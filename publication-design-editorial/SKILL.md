@@ -476,6 +476,12 @@ Systematic review processes catch errors before publication.
 
 Publication design combines artistic vision with technical precision to create engaging, readable, and visually compelling publications. Success requires understanding of typography, grid systems, image integration, and production processes. Whether designing magazines, books, brochures, or digital publications, editorial designers must balance aesthetic impact with functional readability, creating experiences that inform, engage, and inspire readers across multiple pages and platforms. Mastery of publication design principles enables creation of professional publications that effectively communicate content while establishing and reinforcing brand identity.
 
+## Using the Reference Files
+
+- [./references/editorial_workflow_processes.md](./references/editorial_workflow_processes.md): Editorial Workflow Processes
+- [./references/publication_design_fundamentals.md](./references/publication_design_fundamentals.md): Publication Design Fundamentals
+- [./references/typography_layout_techniques.md](./references/typography_layout_techniques.md): Typography Layout Techniques
+
 ## References
 
 - [Editorial Workflow Processes](references/editorial_workflow_processes.md)

@@ -453,6 +453,12 @@ Compare scores between [VERSION 1] and [VERSION 2]:
 - **Previous**: `design_review.md` - Qualitative review
 - **Next**: `design_iteration.md` - Act on score gaps
 
+## Using the Reference Files
+
+- [./references/competitive-benchmarking.md](./references/competitive-benchmarking.md): Competitive Benchmarking
+- [./references/metrics-and-kpis.md](./references/metrics-and-kpis.md): Metrics And Kpis
+- [./references/scoring-frameworks.md](./references/scoring-frameworks.md): Scoring Frameworks
+
 ## References
 
 - [Competitive Benchmarking](references/competitive-benchmarking.md)

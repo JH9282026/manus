@@ -457,6 +457,13 @@ Review these interactions for [PROJECT]:
 - **Related**: `mobile_app_design.md` - Platform-specific interactions
 - **Next**: `design_review.md` - Include interactions in review
 
+## Using the Reference Files
+
+- [./references/design-principles.md](./references/design-principles.md): Design Principles
+- [./references/interaction-patterns.md](./references/interaction-patterns.md): Interaction Patterns
+- [./references/prototyping-tools.md](./references/prototyping-tools.md): Prototyping Tools
+- [./references/usability-testing.md](./references/usability-testing.md): Usability Testing
+
 ## References
 
 - [Design Principles](references/design-principles.md)

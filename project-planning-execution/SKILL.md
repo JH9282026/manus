@@ -197,6 +197,14 @@ A company responds to new regulatory requirements with compliance deadline. The 
 - Reporting platform for status dashboards
 - Email/notification system for automated communications
 
+## Using the Reference Files
+
+- [./references/execution_challenges.md](./references/execution_challenges.md): Execution Challenges
+- [./references/methodologies_approaches.md](./references/methodologies_approaches.md): Methodologies Approaches
+- [./references/monitoring_control_techniques.md](./references/monitoring_control_techniques.md): Monitoring Control Techniques
+- [./references/planning_execution_fundamentals.md](./references/planning_execution_fundamentals.md): Planning Execution Fundamentals
+- [./references/tools_best_practices.md](./references/tools_best_practices.md): Tools Best Practices
+
 ## References
 
 - [Execution Challenges](references/execution_challenges.md)

@@ -470,6 +470,11 @@ Figma is a cloud-based design tool that revolutionizes UI/UX workflows through r
 
 Figma transforms UI/UX design through real-time collaboration, powerful components, and seamless handoff. Master its features, build robust design systems, and leverage collaboration to create exceptional digital products efficiently.
 
+## Using the Reference Files
+
+- [./references/collaboration-workflow.md](./references/collaboration-workflow.md): Collaboration Workflow
+- [./references/components-systems.md](./references/components-systems.md): Components Systems
+
 ## References
 
 - [Collaboration Workflow](references/collaboration-workflow.md)

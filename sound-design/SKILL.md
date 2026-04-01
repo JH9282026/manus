@@ -457,6 +457,13 @@ Layer sounds occupying different frequency ranges.
 
 **Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.
 
+## Using the Reference Files
+
+- [./references/creative-sound-design.md](./references/creative-sound-design.md): Creative Sound Design
+- [./references/sampling-and-processing.md](./references/sampling-and-processing.md): Sampling And Processing
+- [./references/sound-design-tools.md](./references/sound-design-tools.md): Sound Design Tools
+- [./references/synthesis-techniques-deep-dive.md](./references/synthesis-techniques-deep-dive.md): Synthesis Techniques Deep Dive
+
 ## References
 
 - [Creative Sound Design](references/creative-sound-design.md)

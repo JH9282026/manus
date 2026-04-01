@@ -457,6 +457,13 @@ This statement was last updated on [date].
 
 **Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.
 
+## Using the Reference Files
+
+- [./references/compliance-documentation.md](./references/compliance-documentation.md): Compliance Documentation
+- [./references/implementation-patterns.md](./references/implementation-patterns.md): Implementation Patterns
+- [./references/testing-tools.md](./references/testing-tools.md): Testing Tools
+- [./references/wcag-guidelines.md](./references/wcag-guidelines.md): Wcag Guidelines
+
 ## References
 
 - [Compliance Documentation](references/compliance-documentation.md)

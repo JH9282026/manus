@@ -290,6 +290,14 @@ Deploy this skill when developing communications strategy, launching media campa
 - Political and economic context
 - Technology and communication trends
 
+## Using the Reference Files
+
+- [./references/crisis_communications_management.md](./references/crisis_communications_management.md): Crisis Communications Management
+- [./references/internal_communications_strategies.md](./references/internal_communications_strategies.md): Internal Communications Strategies
+- [./references/measurement_evaluation_frameworks.md](./references/measurement_evaluation_frameworks.md): Measurement Evaluation Frameworks
+- [./references/media_relations_strategies.md](./references/media_relations_strategies.md): Media Relations Strategies
+- [./references/pr_fundamentals_overview.md](./references/pr_fundamentals_overview.md): Pr Fundamentals Overview
+
 ## References
 
 - [Crisis Communications Management](references/crisis_communications_management.md)
