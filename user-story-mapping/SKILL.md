@@ -1,6 +1,10 @@
 ---
+description: 'Visualize user journeys and organize development work using Jeff Patton''s
+  user story mapping methodology. Use for: understanding user workflows, planning
+  MVPs, prioritizing features based on user value, facilitating team collaboration,
+  identifying gaps in user experience, slicing releases effectively, and maintaining
+  user-centric focus throughout Agile development.'
 name: user-story-mapping
-description: "Visualize user journeys and organize development work using Jeff Patton"s user story mapping methodology. Use for: understanding user workflows, planning MVPs, prioritizing features based on user value, facilitating team collaboration, identifying gaps in user experience, slicing releases effectively, and maintaining user-centric focus throughout Agile development."
 ---
 
 # User Story Mapping
