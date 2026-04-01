@@ -429,12 +429,6 @@ Review these interactions for [PROJECT]:
 - CSS Animations/Transitions
 - Lottie (complex animations)
 
-### References
-- Material Motion: https://m2.material.io/design/motion/
-- iOS Motion: https://developer.apple.com/design/human-interface-guidelines/motion
-
----
-
 ## Success Criteria
 
 ### Minimum Requirements
