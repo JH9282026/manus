@@ -137,3 +137,11 @@ A PE-backed company requires 100-day transformation plan. Strategic planning wou
 - Availability of accurate and current financial and operational data
 - Stakeholder commitment to planning process timeline (typically 6-12 weeks for comprehensive strategic planning)
 - Clear decision-making authority and governance structure
+
+## References
+
+- [01 Fundamentals Of Strategic Roadmapping](references/01-fundamentals-of-strategic-roadmapping.md)
+- [02 Building Strategic Roadmaps Framework](references/02-building-strategic-roadmaps-framework.md)
+- [03 Key Elements And Components](references/03-key-elements-and-components.md)
+- [04 Best Practices And Implementation](references/04-best-practices-and-implementation.md)
+- [05 Tools Technologies And Case Studies](references/05-tools-technologies-and-case-studies.md)

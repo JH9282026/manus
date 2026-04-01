@@ -306,3 +306,10 @@ Build an integrated recruitment technology ecosystem:
 **`/references/employer-branding.md`** — Read when developing employer value propositions, creating employer brand campaigns, optimizing career sites, building employee advocacy programs, or measuring employer brand effectiveness.
 
 **`/references/recruitment-analytics.md`** — Read when establishing recruitment metrics frameworks, implementing predictive analytics, building recruitment dashboards, calculating recruitment ROI, or presenting data-driven insights to leadership.
+
+## References
+
+- [Candidate Assessment](references/candidate-assessment.md)
+- [Employer Branding](references/employer-branding.md)
+- [Recruitment Analytics](references/recruitment-analytics.md)
+- [Sourcing Strategies](references/sourcing-strategies.md)

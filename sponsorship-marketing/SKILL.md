@@ -371,3 +371,10 @@ ROSI = (Direct Sales + Lead Value + Media Value + Brand Value - Total Costs) / T
 **`/references/activation-tactics.md`** — Read when planning sponsorship activations, designing experiential campaigns, or creating integrated marketing programs around sponsorships.
 
 **`/references/industry-examples.md`** — Read when seeking inspiration for sponsorship approaches, learning from successful case studies, or understanding category-specific best practices.
+
+## References
+
+- [Activation Tactics](references/activation-tactics.md)
+- [Industry Examples](references/industry-examples.md)
+- [Sponsorship Strategy](references/sponsorship-strategy.md)
+- [Valuation Roi](references/valuation-roi.md)

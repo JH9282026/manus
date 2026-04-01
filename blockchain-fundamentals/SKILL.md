@@ -401,3 +401,8 @@ Improving one often compromises others.
 Blockchain technology represents a fundamental innovation in distributed systems, offering unprecedented transparency, security, and decentralization. While challenges remain in scalability, energy efficiency, and adoption, ongoing developments continue to address these limitations. Understanding blockchain fundamentals is essential for anyone looking to participate in the decentralized future, whether as a developer, business leader, or informed user.
 
 The technology's potential extends far beyond cryptocurrencies, promising to transform industries from finance to healthcare to governance. As blockchain matures and integrates with other emerging technologies like AI and IoT, its impact on society will only grow. Mastering these fundamentals provides the foundation for navigating and contributing to this transformative technology.
+
+## References
+
+- [Consensus Mechanisms Deep Dive](references/consensus-mechanisms-deep-dive.md)
+- [Cryptography And Security](references/cryptography-and-security.md)

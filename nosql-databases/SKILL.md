@@ -358,3 +358,10 @@ r = redis.Redis(connection_pool=pool)
 **`/references/redis-patterns.md`** — Read when implementing caching strategies, pub/sub systems, or distributed locks.
 
 **`/references/dynamodb-best-practices.md`** — Read when designing DynamoDB tables, optimizing costs, or implementing access patterns.
+
+## References
+
+- [Cassandra Architecture](references/cassandra-architecture.md)
+- [Dynamodb Best Practices](references/dynamodb-best-practices.md)
+- [Mongodb Advanced](references/mongodb-advanced.md)
+- [Redis Patterns](references/redis-patterns.md)

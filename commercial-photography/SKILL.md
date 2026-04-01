@@ -149,3 +149,10 @@ Commercial photography produces images for business purposes, including advertis
 **`/references/equipment-recommendations.md`** — Read when selecting cameras, lenses, and lighting gear.
 
 **`/references/post-production-workflow.md`** — Read when editing commercial images and preparing deliverables.
+
+## References
+
+- [Business Practices Guide](references/business-practices-guide.md)
+- [Commercial Lighting Setups](references/commercial-lighting-setups.md)
+- [Equipment Recommendations](references/equipment-recommendations.md)
+- [Post Production Workflow](references/post-production-workflow.md)

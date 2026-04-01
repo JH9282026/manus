@@ -493,3 +493,11 @@ getUserById(userId); // OK
 **`/references/integration-guide.md`** — Read when integrating TypeScript with React, Node.js, Express, or other frameworks.
 
 **`/references/migration-guide.md`** — Read when converting JavaScript projects to TypeScript or upgrading TypeScript versions.
+
+## References
+
+- [01 Typescript Fundamentals Setup](references/01_typescript_fundamentals_setup.md)
+- [02 Advanced Types Features](references/02_advanced_types_features.md)
+- [03 Design Patterns Architecture](references/03_design_patterns_architecture.md)
+- [04 Best Practices Code Quality](references/04_best_practices_code_quality.md)
+- [05 Framework Integration](references/05_framework_integration.md)

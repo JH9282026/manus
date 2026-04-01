@@ -373,3 +373,10 @@ Design and implement applications that leverage 5G network capabilities to enabl
 **`/references/implementation-deployment.md`** — Read when implementing 5G applications, setting up private 5G networks, configuring network slicing, deploying edge computing infrastructure, integrating with carrier networks, managing devices and connectivity, or developing and testing 5G-enabled applications.
 
 **`/references/challenges-future.md`** — Read when addressing deployment challenges, understanding coverage limitations, managing costs, ensuring security and privacy, navigating regulatory requirements, planning for future 5G evolution (5G-Advanced, 6G), or staying current with emerging standards and technologies.
+
+## References
+
+- [5G Fundamentals](references/5g-fundamentals.md)
+- [Challenges Future](references/challenges-future.md)
+- [Implementation Deployment](references/implementation-deployment.md)
+- [Use Cases Applications](references/use-cases-applications.md)

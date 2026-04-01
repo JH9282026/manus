@@ -465,3 +465,10 @@ Smooth camera movement between areas.
 **`/references/2d-physics-collision.md`** — Read when implementing platformer physics, setting up collision detection, creating character controllers, or debugging physics issues in 2D games.
 
 **`/references/2d-optimization-deployment.md`** — Read when optimizing rendering performance, reducing draw calls, preparing builds for specific platforms, or troubleshooting deployment issues for web, mobile, or desktop.
+
+## References
+
+- [2D Frameworks Engines](references/2d-frameworks-engines.md)
+- [2D Optimization Deployment](references/2d-optimization-deployment.md)
+- [2D Physics Collision](references/2d-physics-collision.md)
+- [Sprite Animation Tilemaps](references/sprite-animation-tilemaps.md)

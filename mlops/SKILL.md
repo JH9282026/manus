@@ -166,3 +166,8 @@ Detect degradation in model performance.
 - Inadequate documentation
 - Not planning for scale
 
+## References
+
+- [Automation](references/automation.md)
+- [Production](references/production.md)
+- [Tracking](references/tracking.md)

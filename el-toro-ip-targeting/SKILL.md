@@ -227,3 +227,10 @@ Once Abacus generates the files:
 4. It's ready to use immediately
 
 Alternatively, if you have multiple skills, send them all and I'll batch deploy them.
+
+## References
+
+- [Audience Segmentation](references/audience-segmentation.md)
+- [Campaign Setup Strategies](references/campaign-setup-strategies.md)
+- [Ip Targeting Fundamentals](references/ip-targeting-fundamentals.md)
+- [Performance Measurement](references/performance-measurement.md)

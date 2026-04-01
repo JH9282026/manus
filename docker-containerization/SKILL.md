@@ -345,3 +345,9 @@ docker run -e NODE_ENV=development myapp
 
 **`/references/production-deployment.md`** — Read when deploying to production, implementing health checks, or optimizing for performance and security.
 
+## References
+
+- [Docker Compose Guide](references/docker-compose-guide.md)
+- [Docker Networking](references/docker-networking.md)
+- [Dockerfile Best Practices](references/dockerfile-best-practices.md)
+- [Production Deployment](references/production-deployment.md)

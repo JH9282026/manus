@@ -194,3 +194,11 @@ A company with underperforming partner-sourced pipeline:
 - Basic attribution model in place
 - Regular sales and marketing alignment meetings
 - Executive sponsorship for funnel improvement initiative
+
+## References
+
+- [01 Sales Funnel Fundamentals](references/01-sales-funnel-fundamentals.md)
+- [02 Conversion Rate Optimization Strategies](references/02-conversion-rate-optimization-strategies.md)
+- [03 Analytics Measurement Tools](references/03-analytics-measurement-tools.md)
+- [04 Advanced Tactics Personalization](references/04-advanced-tactics-personalization.md)
+- [05 Industry Specific Applications](references/05-industry-specific-applications.md)

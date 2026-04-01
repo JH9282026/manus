@@ -465,3 +465,8 @@ tuner.search(train_dataset, validation_data=val_dataset)
 7. **Production**: TFX pipelines, monitoring, versioning
 
 See `references/` for detailed guides on advanced techniques, architecture patterns, and deployment strategies.
+
+## References
+
+- [Advanced Architectures](references/advanced-architectures.md)
+- [Generative Models](references/generative-models.md)

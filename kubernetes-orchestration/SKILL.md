@@ -314,3 +314,9 @@ securityContext:
 
 **`/references/security-best-practices.md`** — Read when implementing RBAC, securing Pods, or managing secrets.
 
+## References
+
+- [Pods Deployments Guide](references/pods-deployments-guide.md)
+- [Security Best Practices](references/security-best-practices.md)
+- [Services Networking Guide](references/services-networking-guide.md)
+- [Storage Guide](references/storage-guide.md)

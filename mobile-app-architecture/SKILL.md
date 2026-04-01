@@ -333,3 +333,10 @@ suspend fun getUser(id: String): Result<User> {
 **`/references/dependency-injection.md`** — Read when setting up DI, configuring Hilt/Koin, or managing dependencies.
 
 **`/references/testing-architecture.md`** — Read when writing unit tests for architecture components, mocking dependencies, or testing use cases.
+
+## References
+
+- [Best Practices](references/best-practices.md)
+- [Examples](references/examples.md)
+- [Implementation Guide](references/implementation-guide.md)
+- [Troubleshooting](references/troubleshooting.md)

@@ -448,3 +448,8 @@ Based on the competitive analysis of [COMPETITORS LIST]:
 
 **`/references/resources.md`** — Read when you need detailed resources.
 
+## References
+
+- [Example Input Output](references/example_input_output.md)
+- [Prompts Library](references/prompts_library.md)
+- [Resources](references/resources.md)

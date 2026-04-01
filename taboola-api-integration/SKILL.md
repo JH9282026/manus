@@ -68,3 +68,10 @@ The Taboola Backstage API provides RESTful endpoints for managing native adverti
 **`/references/creative-management.md`** — Read when managing Items and Motion Ads via API.
 
 **`/references/reporting-analytics.md`** — Read when extracting performance data or building dashboards.
+
+## References
+
+- [Api Authentication](references/api-authentication.md)
+- [Campaign Operations](references/campaign-operations.md)
+- [Creative Management](references/creative-management.md)
+- [Reporting Analytics](references/reporting-analytics.md)

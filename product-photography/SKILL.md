@@ -79,3 +79,10 @@ Product photography captures items for commercial sale, focusing on accurate rep
 **`/references/product-styling-tips.md`** — Read when composing and styling product shots.
 
 **`/references/post-processing-products.md`** — Read when editing and preparing product images for delivery.
+
+## References
+
+- [Ecommerce Photography Guide](references/ecommerce-photography-guide.md)
+- [Post Processing Products](references/post-processing-products.md)
+- [Product Lighting Techniques](references/product-lighting-techniques.md)
+- [Product Styling Tips](references/product-styling-tips.md)

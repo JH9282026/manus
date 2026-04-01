@@ -195,3 +195,15 @@ A B2B company prioritizing sales leads:
 - Deployment infrastructure identified
 - Model governance and approval process defined
 - Monitoring and retraining procedures established
+
+## References
+
+- [01 Time Series Forecasting Methods](references/01_time_series_forecasting_methods.md)
+- [01 Time Series Fundamentals](references/01_time_series_fundamentals.md)
+- [02 Arima Statistical Methods](references/02_arima_statistical_methods.md)
+- [02 Business Applications Demand Forecasting](references/02_business_applications_demand_forecasting.md)
+- [03 Forecast Accuracy Metrics](references/03_forecast_accuracy_metrics.md)
+- [03 Machine Learning Forecasting](references/03_machine_learning_forecasting.md)
+- [04 Business Applications Demand Forecasting](references/04_business_applications_demand_forecasting.md)
+- [04 Model Selection Validation](references/04_model_selection_validation.md)
+- [05 Model Evaluation Deployment](references/05_model_evaluation_deployment.md)

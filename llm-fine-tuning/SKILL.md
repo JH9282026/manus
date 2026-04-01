@@ -123,3 +123,8 @@ Update all model parameters.
 - Not testing on diverse inputs
 - Deploying without human evaluation
 
+## References
+
+- [Alignment](references/alignment.md)
+- [Full Finetuning](references/full-finetuning.md)
+- [Peft Methods](references/peft-methods.md)

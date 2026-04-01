@@ -469,3 +469,10 @@ Strategic frameworks for structuring organizations to support strategy execution
 **`/references/leadership-development.md`** — Read when designing leadership development programs, creating competency models, implementing coaching and mentoring programs, building leadership pipelines, measuring leadership development impact, or addressing leadership capability gaps.
 
 **`/references/organizational-design.md`** — Read when restructuring organizations, evaluating organizational structure options, designing governance and decision-making processes, optimizing spans and layers, implementing organizational changes, or aligning structure with strategy.
+
+## References
+
+- [Culture Transformation](references/culture-transformation.md)
+- [Leadership Development](references/leadership-development.md)
+- [Od Frameworks](references/od-frameworks.md)
+- [Organizational Design](references/organizational-design.md)

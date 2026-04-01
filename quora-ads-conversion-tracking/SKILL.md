@@ -400,3 +400,10 @@ qp('track', 'Purchase', {
 **`/references/conversion-optimization.md`** — Read when setting up conversion tracking, implementing conversion-optimized bidding, analyzing conversion funnel, or improving campaign ROAS.
 
 **`/references/troubleshooting-pixel-issues.md`** — Read when pixel is not firing correctly, conversions are not being tracked, experiencing attribution discrepancies, or diagnosing technical pixel problems.
+
+## References
+
+- [Analytics Reporting Roi](references/analytics-reporting-roi.md)
+- [Attribution Models Event Tracking](references/attribution-models-event-tracking.md)
+- [Conversion Optimization Strategies](references/conversion-optimization-strategies.md)
+- [Pixel Implementation Setup](references/pixel-implementation-setup.md)

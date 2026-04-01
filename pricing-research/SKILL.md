@@ -132,3 +132,14 @@ An e-commerce company seeks to optimize its dynamic pricing algorithms through p
 - Consider fairness implications of differential pricing strategies
 - Maintain competitive intelligence boundaries (no misrepresentation or improper access)
 - Document methodology transparently for stakeholder trust
+
+## References
+
+- [01 Pricing Strategies Overview](references/01_pricing_strategies_overview.md)
+- [01 Willingness To Pay Fundamentals](references/01_willingness_to_pay_fundamentals.md)
+- [02 Pricing Research Methodologies](references/02_pricing_research_methodologies.md)
+- [02 Willingness To Pay Research](references/02_willingness_to_pay_research.md)
+- [03 Competitive Pricing Analysis](references/03_competitive_pricing_analysis.md)
+- [03 Competitive Pricing Analysis V2](references/03_competitive_pricing_analysis_v2.md)
+- [04 Pricing Research Methodologies](references/04_pricing_research_methodologies.md)
+- [04 Pricing Strategy Implementation](references/04_pricing_strategy_implementation.md)

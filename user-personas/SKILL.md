@@ -413,3 +413,11 @@ Evaluate against our personas:
 - **Previous**: `design_research.md`, `competitive_analysis.md`
 - **Next**: `user_flows.md` - Map journeys for each persona
 - **Next**: `information_architecture.md` - Structure content for personas
+
+## References
+
+- [Best Practices](references/best_practices.md)
+- [Fundamentals](references/fundamentals.md)
+- [Methodologies And Frameworks](references/methodologies_and_frameworks.md)
+- [Real World Examples](references/real_world_examples.md)
+- [Tools And Techniques](references/tools_and_techniques.md)

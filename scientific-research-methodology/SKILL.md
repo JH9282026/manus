@@ -139,3 +139,11 @@ A pharmaceutical company sponsors academic research on drug mechanisms. The skil
 - Peer review networks
 - Reproducibility verification capabilities
 - Multi-site coordination frameworks where applicable
+
+## References
+
+- [01 Research Design Fundamentals](references/01-research-design-fundamentals.md)
+- [02 Quantitative Qualitative Methods](references/02-quantitative-qualitative-methods.md)
+- [03 Sampling Data Collection](references/03-sampling-data-collection.md)
+- [04 Data Analysis Interpretation](references/04-data-analysis-interpretation.md)
+- [05 Research Ethics Integrity](references/05-research-ethics-integrity.md)

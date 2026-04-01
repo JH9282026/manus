@@ -456,3 +456,7 @@ yarn start  # Start frontend
 ---
 
 **Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.
+
+## References
+
+- [Web3 Architecture Patterns](references/web3-architecture-patterns.md)

@@ -66,3 +66,10 @@ GET /reports/marketers/{marketer_id}/periodicContent
 **`/references/promoted-links-management.md`** — Read when creating or managing promoted links via API.
 
 **`/references/reporting-analytics.md`** — Read when extracting performance data or building dashboards.
+
+## References
+
+- [Api Authentication](references/api-authentication.md)
+- [Campaign Operations](references/campaign-operations.md)
+- [Promoted Links Management](references/promoted-links-management.md)
+- [Reporting Analytics](references/reporting-analytics.md)

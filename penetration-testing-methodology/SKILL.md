@@ -104,3 +104,10 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
+
+## References
+
+- [Compliance Testing](references/compliance-testing.md)
+- [Reporting Standards](references/reporting-standards.md)
+- [Scope Definition](references/scope-definition.md)
+- [Testing Phases](references/testing-phases.md)

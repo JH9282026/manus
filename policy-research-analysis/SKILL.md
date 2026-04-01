@@ -276,3 +276,11 @@ Deploy this skill when:
 - Economist support for impact quantification
 - Government relations professional guidance
 - Travel budget for Washington/capital engagement
+
+## References
+
+- [Data Sources Government Databases](references/data-sources-government-databases.md)
+- [Impact Assessment Evaluation Tools](references/impact-assessment-evaluation-tools.md)
+- [Policy Brief Writing Communication](references/policy-brief-writing-communication.md)
+- [Research Ethics Compliance](references/research-ethics-compliance.md)
+- [Research Methodologies Frameworks](references/research-methodologies-frameworks.md)

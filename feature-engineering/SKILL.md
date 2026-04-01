@@ -375,3 +375,11 @@ df['volatility'] = df['returns'].rolling(window=20).std()
 4. **Expert**: Custom transformers, pipeline optimization
 
 See `references/` for advanced techniques, domain-specific patterns, and automation strategies.
+
+## References
+
+- [Advanced Transformations](references/advanced-transformations.md)
+- [Categorical Feature Encoding](references/categorical-feature-encoding.md)
+- [Feature Engineering Fundamentals](references/feature-engineering-fundamentals.md)
+- [Feature Selection Methods](references/feature-selection-methods.md)
+- [Numerical Feature Techniques](references/numerical-feature-techniques.md)

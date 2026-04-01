@@ -493,3 +493,8 @@ UX prototyping involves creating preliminary versions of digital products to tes
 - Embrace change
 
 ### Common Pitfalls
+
+## References
+
+- [Prototyping Tools](references/prototyping-tools.md)
+- [Wireframing Guide](references/wireframing-guide.md)

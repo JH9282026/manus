@@ -468,3 +468,10 @@ Next subtitle with positioning
 **`/references/technical-workflow.md`** — Read when setting up subtitling projects, configuring software tools, implementing automated workflows, integrating AI transcription, or troubleshooting technical issues with formats and encoding.
 
 **`/references/quality-standards.md`** — Read when implementing QA processes, understanding platform-specific requirements (Netflix, YouTube, broadcast), ensuring accessibility compliance, or establishing quality benchmarks for subtitling teams.
+
+## References
+
+- [Quality Standards](references/quality-standards.md)
+- [Subtitling Fundamentals](references/subtitling-fundamentals.md)
+- [Technical Workflow](references/technical-workflow.md)
+- [Translation Localization](references/translation-localization.md)

@@ -211,3 +211,10 @@ Track MTPE effectiveness:
 **`/references/post-editing-workflow.md`** — Read when designing MTPE workflows, training post-editors, implementing ISO 18587 standards, optimizing productivity, or troubleshooting workflow bottlenecks.
 
 **`/references/tools-best-practices.md`** — Read when selecting CAT tools for MTPE, configuring translation memories and termbases, implementing automated QA processes, or establishing team-wide best practices and guidelines.
+
+## References
+
+- [Mt Systems Quality](references/mt-systems-quality.md)
+- [Mtpe Fundamentals](references/mtpe-fundamentals.md)
+- [Post Editing Workflow](references/post-editing-workflow.md)
+- [Tools Best Practices](references/tools-best-practices.md)

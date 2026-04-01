@@ -72,3 +72,10 @@ This skill includes the following detailed reference materials:
 - [Commercial Contracts](references/commercial-contracts.md)
 - [Risk Assessment](references/risk-assessment.md)
 - [Technology Contracts](references/technology-contracts.md)
+
+## References
+
+- [Contract Lifecycle Management](references/contract-lifecycle-management.md)
+- [Contract Negotiation Strategies](references/contract-negotiation-strategies.md)
+- [Contract Review Methodology](references/contract-review-methodology.md)
+- [Employment Contract Provisions](references/employment-contract-provisions.md)

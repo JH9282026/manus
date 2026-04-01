@@ -456,3 +456,14 @@ Read `/references/compliance-checklist.md` for complete compliance requirements.
 **`/references/reporting-analytics.md`** — Read when setting up tracking, analyzing campaign metrics, generating performance reports, or measuring brand lift and conversion attribution.
 
 **`/references/compliance-checklist.md`** — Read when preparing creative submissions, ensuring ad policy compliance, or troubleshooting creative rejection issues.
+
+## References
+
+- [Ad Format Specifications](references/ad-format-specifications.md)
+- [Bidding Optimization Guide](references/bidding-optimization-guide.md)
+- [Compliance Checklist](references/compliance-checklist.md)
+- [Creative Guidelines](references/creative-guidelines.md)
+- [Influencer Partnership Guide](references/influencer-partnership-guide.md)
+- [Optimization Strategies](references/optimization-strategies.md)
+- [Reporting Analytics](references/reporting-analytics.md)
+- [Targeting Best Practices](references/targeting-best-practices.md)

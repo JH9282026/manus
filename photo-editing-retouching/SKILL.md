@@ -411,3 +411,13 @@ The GNU Image Manipulation Program offers free, open-source editing with layers,
 ## Conclusion
 
 Photo editing and retouching combine technical skill with artistic vision to transform raw captures into compelling visual communications. From fundamental color correction to advanced compositing, these techniques empower photographers and designers to realize creative intentions and communicate effectively through imagery. Mastery develops through practice, experimentation, and understanding both technical tools and artistic principles while maintaining quality and ethical standards.
+
+## References
+
+- [01 Professional Retouching Fundamentals](references/01_professional_retouching_fundamentals.md)
+- [02 Essential Retouching Techniques](references/02_essential_retouching_techniques.md)
+- [Advanced Retouching Techniques](references/advanced-retouching-techniques.md)
+- [Comprehensive Photo Retouching Guide](references/comprehensive-photo-retouching-guide.md)
+- [Layers Masks Compositing](references/layers-masks-compositing.md)
+- [Photo Editing Software Tools](references/photo-editing-software-tools.md)
+- [Raw Processing Color Grading Workflow](references/raw-processing-color-grading-workflow.md)

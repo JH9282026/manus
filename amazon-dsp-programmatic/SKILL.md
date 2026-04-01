@@ -159,3 +159,10 @@ This skill covers Amazon DSP campaign creation, audience targeting, creative for
 **`/references/amazon-dsp-setup.md`** — Read when setting up Amazon DSP campaigns, including account access, creative requirements, and audience configuration.
 
 **`/references/dsp-audience-strategies.md`** — Read when building audience targeting strategies, including remarketing, lookalikes, and funnel-based targeting.
+
+## References
+
+- [Campaign Optimization Measurement](references/campaign-optimization-measurement.md)
+- [Dsp Fundamentals Platform Overview](references/dsp-fundamentals-platform-overview.md)
+- [Full Funnel Strategy Integration](references/full-funnel-strategy-integration.md)
+- [Targeting Strategies Audience Segmentation](references/targeting-strategies-audience-segmentation.md)

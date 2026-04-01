@@ -216,3 +216,9 @@ resource "google_compute_instance" "default" {
 
 **`/references/iam-security-guide.md`** — Read when implementing IAM policies, managing service accounts, or securing GCP resources.
 
+## References
+
+- [Cloud Storage Guide](references/cloud-storage-guide.md)
+- [Compute Engine Guide](references/compute-engine-guide.md)
+- [Iam Security Guide](references/iam-security-guide.md)
+- [Networking Guide](references/networking-guide.md)

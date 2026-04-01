@@ -474,3 +474,7 @@ Test one variable at a time: image style, color schemes, text overlay, aspect ra
 **`/references/pinterest-shopping-catalog-setup.md`** — Read when setting up Shopping Ads, creating product feeds, or implementing dynamic retargeting.
 
 **`/references/pinterest-ar-quiz-advanced.md`** — Read when implementing AR Try-On Pins or Quiz Ads, or exploring advanced interactive formats.
+
+## References
+
+- [Pinterest Creative Specs](references/pinterest-creative-specs.md)

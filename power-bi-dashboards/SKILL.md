@@ -459,3 +459,9 @@ Development > Test > Production workflow for enterprise deployments.
 **`/references/data-modeling-guide.md`** — Read when designing data models, optimizing relationships, or implementing star schema architecture.
 
 **`/references/visualization-best-practices.md`** — Read when designing reports and dashboards, selecting appropriate visuals, or optimizing user experience.
+
+## References
+
+- [Data Modeling Guide](references/data-modeling-guide.md)
+- [Dax Patterns](references/dax-patterns.md)
+- [Visualization Best Practices](references/visualization-best-practices.md)

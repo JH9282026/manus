@@ -493,3 +493,11 @@ plt.figure(figsize=(10, 6))
 4. **Expert**: Quality metrics, production deployment
 
 See `references/` for method comparisons, case studies, and implementation guides.
+
+## References
+
+- [Ethical Considerations](references/ethical-considerations.md)
+- [Implementation Tools](references/implementation-tools.md)
+- [Interpretability Methods](references/interpretability-methods.md)
+- [Model Transparency Techniques](references/model-transparency-techniques.md)
+- [Xai Fundamentals Concepts](references/xai-fundamentals-concepts.md)

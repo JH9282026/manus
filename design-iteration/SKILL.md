@@ -427,3 +427,10 @@ Review iteration V[X] → V[X+1]:
 - **Previous**: `design_scoring.md` - Know what to improve
 - **Next**: `design_review.md` - Validate improvements
 - **Loop**: Continue until 9/10 achieved
+
+## References
+
+- [Feedback Synthesis Methods](references/feedback-synthesis-methods.md)
+- [Iterative Design Process](references/iterative-design-process.md)
+- [Rapid Prototyping Techniques](references/rapid-prototyping-techniques.md)
+- [Version Control For Designs](references/version-control-for-designs.md)

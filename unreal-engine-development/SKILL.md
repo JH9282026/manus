@@ -423,3 +423,11 @@ void OnRep_Score()
 **`/references/unreal-multiplayer-networking.md`** — Read when implementing multiplayer functionality, setting up dedicated servers, optimizing network performance, or debugging replication issues.
 
 **`/references/unreal-optimization-deployment.md`** — Read when profiling performance bottlenecks, preparing builds for specific platforms, optimizing for console/mobile, or troubleshooting deployment issues.
+
+## References
+
+- [Unreal Blueprint Guide](references/unreal-blueprint-guide.md)
+- [Unreal Cpp Programming](references/unreal-cpp-programming.md)
+- [Unreal Multiplayer Networking](references/unreal-multiplayer-networking.md)
+- [Unreal Optimization Deployment](references/unreal-optimization-deployment.md)
+- [Unreal Rendering Features](references/unreal-rendering-features.md)

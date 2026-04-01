@@ -133,3 +133,10 @@ A trader evaluates pre-earnings positioning for Microsoft (MSFT). The skill exam
 - Brokerage account with appropriate trading permissions (stocks, possibly options)
 - Order management system or broker API integration for automated execution (if applicable)
 - Risk management tools for stop-loss implementation and position monitoring
+
+## References
+
+- [01 Technical Analysis Fundamentals](references/01_technical_analysis_fundamentals.md)
+- [02 Technical Indicators Guide](references/02_technical_indicators_guide.md)
+- [03 Fundamental Analysis Basics](references/03_fundamental_analysis_basics.md)
+- [04 Trading Strategies Risk Management](references/04_trading_strategies_risk_management.md)

@@ -103,3 +103,10 @@ Portrait photography captures the personality, mood, and character of subjects t
 **`/references/portrait-equipment.md`** — Read when selecting cameras, lenses, and lighting for portraiture.
 
 **`/references/portrait-post-processing.md`** — Read when retouching and enhancing portrait images.
+
+## References
+
+- [Portrait Equipment](references/portrait-equipment.md)
+- [Portrait Lighting Guide](references/portrait-lighting-guide.md)
+- [Portrait Post Processing](references/portrait-post-processing.md)
+- [Posing Techniques](references/posing-techniques.md)

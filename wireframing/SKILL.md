@@ -378,3 +378,11 @@ Consider:
 - **Previous**: `information_architecture.md` - Structure to wireframe
 - **Next**: `layout_grids.md` - Formalize grid system
 - **Next**: `component_design.md` - Design components shown in wireframes
+
+## References
+
+- [01 Wireframing Fundamentals](references/01-wireframing-fundamentals.md)
+- [02 Wireframe Fidelity Levels](references/02-wireframe-fidelity-levels.md)
+- [03 Wireframing Process Workflow](references/03-wireframing-process-workflow.md)
+- [04 Wireframing Tools Techniques](references/04-wireframing-tools-techniques.md)
+- [05 Wireframing Best Practices](references/05-wireframing-best-practices.md)

@@ -66,3 +66,10 @@ This skill includes the following detailed reference materials:
 
 - [Content Audit Methodology](references/content-audit-methodology.md)
 - [Distribution Amplification](references/distribution-amplification.md)
+
+## References
+
+- [Content Governance Workflows](references/content-governance-workflows.md)
+- [Content Performance Analytics](references/content-performance-analytics.md)
+- [Content Pillars Topic Clusters](references/content-pillars-topic-clusters.md)
+- [Editorial Calendar Management](references/editorial-calendar-management.md)

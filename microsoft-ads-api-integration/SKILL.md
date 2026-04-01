@@ -43,3 +43,11 @@ This skill covers Bing Ads API authentication, campaign management, bulk operati
 **`/references/bing-ads-api-setup.md`** — Read when setting up API access, including authentication, client library installation, and first API calls.
 
 **`/references/bulk-operations-guide.md`** — Read when performing bulk operations, including CSV/TSV file formats and bulk upload/download workflows.
+
+## References
+
+- [Authentication Setup Guide](references/authentication-setup-guide.md)
+- [Best Practices Troubleshooting](references/best-practices-troubleshooting.md)
+- [Campaign Management Api](references/campaign-management-api.md)
+- [Reporting Automation](references/reporting-automation.md)
+- [Sdk Implementation Guide](references/sdk-implementation-guide.md)

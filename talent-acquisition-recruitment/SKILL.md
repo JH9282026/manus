@@ -158,3 +158,10 @@ An organization commits to increasing underrepresented groups in technical roles
 - Video conferencing tools for remote interviews (Zoom, Teams, Google Meet)
 - Document signing platform (DocuSign, Adobe Sign) for offer acceptance
 - Onboarding system for new hire provisioning workflows
+
+## References
+
+- [01 Fundamentals Of Talent Acquisition](references/01-fundamentals-of-talent-acquisition.md)
+- [02 Sourcing Strategies And Techniques](references/02-sourcing-strategies-and-techniques.md)
+- [03 Candidate Experience And Selection](references/03-candidate-experience-and-selection.md)
+- [04 Talent Acquisition Technology And Analytics](references/04-talent-acquisition-technology-and-analytics.md)

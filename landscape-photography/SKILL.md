@@ -132,3 +132,10 @@ Post-processing is essential but should enhance rather than fabricate. The goal 
 **`/references/equipment-settings.md`** — Read when configuring camera settings, selecting appropriate gear for conditions, or troubleshooting technical issues. Covers exposure triangle in depth, filter selection and use, focus techniques, white balance, and equipment recommendations.
 
 **`/references/post-processing.md`** — Read when editing RAW files, developing workflow, or learning advanced techniques. Covers Lightroom and Photoshop workflows, basic and advanced adjustments, HDR blending, color correction vs. grading, and maintaining natural appearance.
+
+## References
+
+- [Composition Techniques](references/composition-techniques.md)
+- [Equipment Settings](references/equipment-settings.md)
+- [Lighting Conditions](references/lighting-conditions.md)
+- [Post Processing](references/post-processing.md)

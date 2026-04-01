@@ -305,3 +305,10 @@ For pitches and quick communication:
 **`/references/balance-progression.md`** — Read when tuning difficulty curves, designing progression systems, balancing game economies, or creating fair competitive experiences.
 
 **`/references/prototyping-iteration.md`** — Read when starting new projects, conducting playtests, iterating on designs, or establishing development workflows and methodologies.
+
+## References
+
+- [Balance Progression](references/balance-progression.md)
+- [Core Mechanics Systems](references/core-mechanics-systems.md)
+- [Player Psychology Engagement](references/player-psychology-engagement.md)
+- [Prototyping Iteration](references/prototyping-iteration.md)

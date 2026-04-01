@@ -234,3 +234,10 @@ For focus groups, additional parameters include group size (6-10 recommended), h
 - Focus groups require minimum 3 groups per segment for pattern stability
 - Ethnographic studies require sustained engagement (minimum 2-4 weeks immersion)
 - Case studies require multiple data sources per case for triangulation
+
+## References
+
+- [Coding Analysis Strategies](references/coding_analysis_strategies.md)
+- [Ensuring Rigor Trustworthiness](references/ensuring_rigor_trustworthiness.md)
+- [Interview Techniques](references/interview_techniques.md)
+- [Qualitative Research Fundamentals](references/qualitative_research_fundamentals.md)

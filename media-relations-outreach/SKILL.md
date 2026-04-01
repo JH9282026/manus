@@ -104,3 +104,10 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
+
+## References
+
+- [Journalist Outreach](references/journalist-outreach.md)
+- [Media List Building](references/media-list-building.md)
+- [Pitch Crafting](references/pitch-crafting.md)
+- [Relationship Building](references/relationship-building.md)

@@ -273,3 +273,12 @@ function List<T>({ items, renderItem }: ListProps<T>) {
 **`/references/testing-guide.md`** — Read when setting up testing infrastructure, writing component tests, or implementing CI/CD pipelines.
 
 **`/references/migration-guide.md`** — Read when upgrading from class components to hooks, migrating from CRA to Vite, or adopting new React features.
+
+## References
+
+- [Component Patterns](references/component-patterns.md)
+- [Hooks Advanced Patterns](references/hooks-advanced-patterns.md)
+- [Migration Guide](references/migration-guide.md)
+- [Performance Optimization](references/performance-optimization.md)
+- [Server Components](references/server-components.md)
+- [Testing Guide](references/testing-guide.md)

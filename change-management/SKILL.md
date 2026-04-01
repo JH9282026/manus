@@ -366,3 +366,13 @@ Map stakeholders using Power-Interest Grid:
 **HR**: Align with HR on talent implications, performance management, and policy updates.
 
 **IT**: Coordinate with IT on technology changes, user adoption, and support strategies.
+
+## References
+
+- [Change Frameworks](references/change-frameworks.md)
+- [Communication Strategy](references/communication-strategy.md)
+- [Culture Change](references/culture-change.md)
+- [Implementation Guide](references/implementation-guide.md)
+- [Metrics Measurement](references/metrics-measurement.md)
+- [Resistance Management](references/resistance-management.md)
+- [Stakeholder Engagement](references/stakeholder-engagement.md)

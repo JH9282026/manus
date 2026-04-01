@@ -456,3 +456,10 @@ extension AdManager: GADFullScreenContentDelegate {
 ---
 
 **Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.
+
+## References
+
+- [Advertising Integration](references/advertising-integration.md)
+- [Analytics Optimization](references/analytics-optimization.md)
+- [In App Purchases](references/in-app-purchases.md)
+- [Revenue Models](references/revenue-models.md)

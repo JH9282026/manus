@@ -260,3 +260,16 @@ Drone regulations vary significantly by country. Key considerations:
 ## Conclusion
 
 *See [detailed conclusion](references/drone-aerial-videography/conclusion.md)*
+
+## References
+
+- [Aerial Cinematography Techniques](references/aerial-cinematography-techniques.md)
+- [Best Practices For Drone Videography](references/best-practices-for-drone-videography.md)
+- [Camera Settings For Aerial Video](references/camera-settings-for-aerial-video.md)
+- [Commercial Applications](references/commercial-applications.md)
+- [Conclusion](references/conclusion.md)
+- [Drone Business Considerations](references/drone-business-considerations.md)
+- [Editing Aerial Footage](references/editing-aerial-footage.md)
+- [Flight Techniques And Safety](references/flight-techniques-and-safety.md)
+- [Future Of Drone Videography](references/future-of-drone-videography.md)
+- [Troubleshooting Common Issues](references/troubleshooting-common-issues.md)

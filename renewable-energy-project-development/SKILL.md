@@ -232,3 +232,11 @@ This skill serves as the integrated development capability for renewable energy 
 - **Technical Advisors:** Access to independent engineers for third-party validation
 - **Environmental Consultants:** Integration with environmental assessment firms
 - **EPC Contractors:** Relationships with qualified EPC contractors for cost estimates
+
+## References
+
+- [Financing Structures](references/financing-structures.md)
+- [Permitting Environmental Compliance](references/permitting-environmental-compliance.md)
+- [Power Purchase Agreements](references/power-purchase-agreements.md)
+- [Project Development Lifecycle](references/project-development-lifecycle.md)
+- [Technology Selection Optimization](references/technology-selection-optimization.md)

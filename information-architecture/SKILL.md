@@ -399,3 +399,9 @@ For [CONTENT TYPE], define the information hierarchy:
 - **Previous**: `user_flows.md` - Understand user journeys
 - **Next**: `wireframing.md` - Apply IA to screen layouts
 - **Related**: `layout_grids.md` - Grid structure for navigation
+
+## References
+
+- [Content Strategy Ia](references/content-strategy-ia.md)
+- [Ia Principles Methods](references/ia-principles-methods.md)
+- [Site Mapping Flows](references/site-mapping-flows.md)

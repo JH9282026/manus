@@ -165,3 +165,10 @@ Combining multiple images focused at different distances to create one image wit
 **`/references/macro-lighting.md`** — Read when mastering macro-specific lighting, using ring flash and twin flash, and creating dimensional lighting for small subjects.
 
 **`/references/subject-techniques.md`** — Read when photographing specific macro subjects (insects, flowers, textures), understanding subject-specific challenges and techniques.
+
+## References
+
+- [Focus Stacking](references/focus-stacking.md)
+- [Macro Lighting](references/macro-lighting.md)
+- [Magnification Equipment](references/magnification-equipment.md)
+- [Subject Techniques](references/subject-techniques.md)

@@ -154,3 +154,10 @@ See `/references/animation-techniques.md` for advanced cinematography techniques
 **`/references/character-design.md`** — Read when designing characters, building armatures, fabricating puppets, creating props and sets, or solving structural and posing challenges.
 
 **`/references/post-production.md`** — Read when editing captured frames, adding sound design, color correcting footage, creating titles and effects, or exporting final videos for different platforms.
+
+## References
+
+- [Animation Techniques](references/animation-techniques.md)
+- [Character Design](references/character-design.md)
+- [Equipment Setup](references/equipment-setup.md)
+- [Post Production](references/post-production.md)

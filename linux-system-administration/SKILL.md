@@ -436,3 +436,9 @@ find "$BACKUP_DIR" -mtime +7 -delete  # Delete old backups
 **`/references/performance-tuning.md`** — Read when optimizing system performance, troubleshooting bottlenecks, or tuning kernel parameters.
 
 **`/references/automation-scripts.md`** — Read when automating system tasks, creating deployment scripts, or implementing infrastructure as code.
+
+## References
+
+- [Automation Scripts](references/automation-scripts.md)
+- [Performance Tuning](references/performance-tuning.md)
+- [Security Hardening](references/security-hardening.md)

@@ -198,3 +198,11 @@ The value proposition lies in reducing product development risk, increasing user
 - Informed consent protocols with clear data usage explanations
 - Participant compensation guidelines and fair incentive structures
 - Data anonymization and secure storage protocols
+
+## References
+
+- [Best Practices](references/best_practices.md)
+- [Fundamentals](references/fundamentals.md)
+- [Methodologies And Frameworks](references/methodologies_and_frameworks.md)
+- [Research Methods](references/research_methods.md)
+- [Tools And Resources](references/tools_and_resources.md)

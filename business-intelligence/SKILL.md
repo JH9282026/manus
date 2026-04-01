@@ -456,3 +456,10 @@ BI governance ensures data is:
 ---
 
 **Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.
+
+## References
+
+- [Analytics Platforms](references/analytics-platforms.md)
+- [Bi Architecture](references/bi-architecture.md)
+- [Bi Governance](references/bi-governance.md)
+- [Data Visualization](references/data-visualization.md)

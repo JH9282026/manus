@@ -298,3 +298,10 @@ For advertisers with multiple products:
 **`/references/pinterest-audience-insights.md`** — Read when researching target audiences, analyzing demographic data, or refining targeting strategies.
 
 **`/references/pinterest-bidding-strategies.md`** — Read when optimizing bids, troubleshooting high costs, or scaling campaigns profitably.
+
+## References
+
+- [Pinterest Analytics Reporting](references/pinterest-analytics-reporting.md)
+- [Pinterest Audience Insights](references/pinterest-audience-insights.md)
+- [Pinterest Bidding Strategies](references/pinterest-bidding-strategies.md)
+- [Pinterest Tag Implementation](references/pinterest-tag-implementation.md)

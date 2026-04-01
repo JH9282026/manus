@@ -462,3 +462,10 @@ Six Sigma employs numerous tools throughout the DMAIC process:
 ---
 
 **Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.
+
+## References
+
+- [Certification Implementation](references/certification-implementation.md)
+- [Dmaic Methodology](references/dmaic-methodology.md)
+- [Six Sigma Fundamentals](references/six-sigma-fundamentals.md)
+- [Tools Techniques](references/tools-techniques.md)

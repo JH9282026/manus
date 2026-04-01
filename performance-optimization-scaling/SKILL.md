@@ -402,3 +402,10 @@ def check_rate_limit(user_id, limit=100, window=3600):
 **`/references/load-balancing-scaling.md`** — Read when implementing load balancers, auto-scaling, or designing horizontally scalable architectures.
 
 **`/references/performance-monitoring.md`** — Read when setting up performance monitoring, analyzing metrics, or troubleshooting performance bottlenecks.
+
+## References
+
+- [Caching Strategies](references/caching-strategies.md)
+- [Cdn Optimization](references/cdn-optimization.md)
+- [Load Balancing Scaling](references/load-balancing-scaling.md)
+- [Performance Monitoring](references/performance-monitoring.md)

@@ -53,3 +53,10 @@ The Trade Desk is an enterprise-level demand-side platform (DSP) for programmati
 **`/references/bidding-strategies.md`** — Read when configuring RTB bidding or Koa AI optimization.
 
 **`/references/creative-management.md`** — Read when managing creatives across multiple channels.
+
+## References
+
+- [Bidding Strategies](references/bidding-strategies.md)
+- [Campaign Setup Guide](references/campaign-setup-guide.md)
+- [Creative Management](references/creative-management.md)
+- [Targeting Strategies](references/targeting-strategies.md)

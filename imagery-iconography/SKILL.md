@@ -418,3 +418,9 @@ Find illustration resources for [PROJECT] that:
 - **Previous**: `color_palettes.md` - Colors for icons/illustrations
 - **Next**: `component_design.md` - Icons in components
 - **Related**: `design_documentation.md` - Full asset documentation
+
+## References
+
+- [Icon Design Principles](references/icon-design-principles.md)
+- [Photography For Design](references/photography-for-design.md)
+- [Visual Asset Management](references/visual-asset-management.md)

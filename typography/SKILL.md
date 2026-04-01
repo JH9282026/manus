@@ -485,3 +485,11 @@ Check:
 - **Previous**: `color_palettes.md` - Colors for text hierarchy
 - **Next**: `layout_grids.md` - Grid to align typography
 - **Related**: `spacing_rhythm.md` - Vertical rhythm with type
+
+## References
+
+- [01 Typography Fundamentals Hierarchy](references/01_typography_fundamentals_hierarchy.md)
+- [02 Web Typography Responsive Design](references/02_web_typography_responsive_design.md)
+- [03 Typography Accessibility](references/03_typography_accessibility.md)
+- [04 Typography Design Systems](references/04_typography_design_systems.md)
+- [05 Typography Tools Resources](references/05_typography_tools_resources.md)

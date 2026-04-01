@@ -424,3 +424,11 @@ Before delivering analysis, verify:
 - Update competitive assumptions as new information emerges
 - Maintain living competitive profiles that evolve with market changes
 - Solicit feedback from analysis consumers to improve relevance and actionability
+
+## References
+
+- [Competitor Profiling](references/competitor-profiling.md)
+- [Intelligence Gathering Tools](references/intelligence-gathering-tools.md)
+- [Market Research Methodologies](references/market-research-methodologies.md)
+- [Strategic Insights Reporting](references/strategic-insights-reporting.md)
+- [Swot Analysis Frameworks](references/swot-analysis-frameworks.md)

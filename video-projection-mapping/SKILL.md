@@ -298,3 +298,10 @@ See `/references/projection-techniques.md` for detailed troubleshooting and adva
 **`/references/content-creation.md`** — Read when designing projection content, learning creative techniques, optimizing video for performance, creating generative or interactive content, or planning visual narratives.
 
 **`/references/installation-setup.md`** — Read when planning installations, selecting and configuring equipment, calculating throw distances and brightness requirements, setting up interactive systems, or managing large-scale productions.
+
+## References
+
+- [Content Creation](references/content-creation.md)
+- [Installation Setup](references/installation-setup.md)
+- [Mapping Software](references/mapping-software.md)
+- [Projection Techniques](references/projection-techniques.md)

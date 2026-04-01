@@ -224,3 +224,13 @@ Deploy this skill when developing procurement strategy, conducting strategic sou
 - Supply market dynamics and competitive intensity
 - Sustainability trends and stakeholder expectations
 - Technology disruption affecting supply chains
+
+## References
+
+- [01 Strategic Sourcing Fundamentals](references/01_strategic-sourcing-fundamentals.md)
+- [02 Supplier Management And Relationships](references/02_supplier-management-and-relationships.md)
+- [03 Contract Negotiation Strategies](references/03_contract-negotiation-strategies.md)
+- [04 Procurement Performance Metrics](references/04_procurement-performance-metrics.md)
+- [Procurement Analytics And Spend Management](references/procurement-analytics-and-spend-management.md)
+- [Strategic Sourcing Frameworks And Methodologies](references/strategic-sourcing-frameworks-and-methodologies.md)
+- [Supplier Relationship Management](references/supplier-relationship-management.md)

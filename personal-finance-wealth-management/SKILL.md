@@ -221,3 +221,15 @@ A retiree with $800,000 in traditional IRA, $200,000 in Roth IRA, and $150,000 i
 - Clear articulation of financial goals and risk tolerance
 - Understanding that recommendations are educational, not licensed financial advice
 - Commitment to implementing and maintaining recommended strategies
+
+## References
+
+- [01 Wealth Management Fundamentals](references/01_wealth_management_fundamentals.md)
+- [02 Investment Strategies Asset Allocation](references/02_investment_strategies_asset_allocation.md)
+- [03 Tax Planning Optimization](references/03_tax_planning_optimization.md)
+- [04 Retirement Estate Planning](references/04_retirement_estate_planning.md)
+- [Comprehensive Wealth Management Guide](references/comprehensive-wealth-management-guide.md)
+- [Investment Strategies Asset Classes](references/investment-strategies-asset-classes.md)
+- [Personal Finance Fundamentals](references/personal-finance-fundamentals.md)
+- [Retirement Planning Strategies](references/retirement-planning-strategies.md)
+- [Tax Planning Optimization](references/tax-planning-optimization.md)

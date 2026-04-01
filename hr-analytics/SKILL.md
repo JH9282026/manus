@@ -415,3 +415,10 @@ This skill provides comprehensive frameworks for HR analytics, people analytics,
 **`/references/hr-metrics.md`** — Read when defining which metrics to track, building HR dashboards, or establishing baseline measurements. Comprehensive catalog of HR metrics across all functions with targets and calculation methods.
 
 **`/references/analytics-tools.md`** — Read when selecting analytics platforms, evaluating BI tools, or building analytics infrastructure. Covers tool comparisons, implementation considerations, and technology stack recommendations.
+
+## References
+
+- [Analytics Tools](references/analytics-tools.md)
+- [Hr Metrics](references/hr-metrics.md)
+- [People Analytics Frameworks](references/people-analytics-frameworks.md)
+- [Predictive Modeling](references/predictive-modeling.md)

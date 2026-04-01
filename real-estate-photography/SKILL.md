@@ -489,3 +489,10 @@ Flambient blends flash exposure (even interior lighting) with ambient exposure (
 **`/references/post-processing-guide.md`** — Read when refining editing workflow, mastering perspective correction, color grading, advanced Photoshop techniques, and creating efficient batch processing systems.
 
 **`/references/business-operations.md`** — Read when establishing a real estate photography business, setting pricing, creating client workflows, marketing to real estate agents, and scaling operations.
+
+## References
+
+- [Business Operations](references/business-operations.md)
+- [Flash Techniques](references/flash-techniques.md)
+- [Hdr Mastery](references/hdr-mastery.md)
+- [Post Processing Guide](references/post-processing-guide.md)

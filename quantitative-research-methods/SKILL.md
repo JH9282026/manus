@@ -255,3 +255,10 @@ Deploy this skill when:
 - IP address and device fingerprinting for duplicate detection
 - Quota management for representative sampling
 - Data validation rules in survey programming
+
+## References
+
+- [Data Management Ethics](references/data_management_ethics.md)
+- [Quantitative Research Fundamentals](references/quantitative_research_fundamentals.md)
+- [Research Design Validity](references/research_design_validity.md)
+- [Statistical Analysis Methods](references/statistical_analysis_methods.md)

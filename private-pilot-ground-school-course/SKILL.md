@@ -180,3 +180,16 @@ A pilot holding foreign license seeks FAA private pilot certificate through ICAO
 - Content must reference current regulations and procedures (AIM updates every 6 months)
 - Question banks should reflect actual FAA test question styles and difficulty
 - Learning objectives should use appropriate aviation training taxonomy (FITS, scenario-based)
+
+## References
+
+- [01 Faa Regulations Airspace](references/01_faa_regulations_airspace.md)
+- [02 Aerodynamics Aircraft Systems](references/02_aerodynamics_aircraft_systems.md)
+- [03 Aviation Weather And Meteorology](references/03_aviation-weather-and-meteorology.md)
+- [04 Navigation And Flight Planning](references/04_navigation-and-flight-planning.md)
+- [05 Aeronautical Decision Making](references/05_aeronautical-decision-making.md)
+- [Aircraft Systems And Performance](references/aircraft-systems-and-performance.md)
+- [Aviation Weather And Meteorology](references/aviation-weather-and-meteorology.md)
+- [Faa Knowledge Requirements And Regulations](references/faa-knowledge-requirements-and-regulations.md)
+- [Ground School Curriculum And Training Methods](references/ground-school-curriculum-and-training-methods.md)
+- [Navigation And Flight Planning](references/navigation-and-flight-planning.md)

@@ -140,3 +140,11 @@ A research integrity office investigates concerns about a highly-cited paper. Th
 - Version tracking for ongoing analyses
 - Collaborative review platforms
 - Secure storage for confidential reviews
+
+## References
+
+- [Citation Analysis Metrics](references/citation-analysis-metrics.md)
+- [Critical Appraisal Methods](references/critical-appraisal-methods.md)
+- [Data Extraction Synthesis](references/data-extraction-synthesis.md)
+- [Statistical Methods Interpretation](references/statistical-methods-interpretation.md)
+- [Systematic Literature Review](references/systematic-literature-review.md)

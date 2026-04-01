@@ -86,3 +86,7 @@ targeting = {
 **`/references/tiktok-api-reference.md`** — Read for complete Marketing API documentation and creative specifications.
 
 **`/references/tiktok-creative-guide.md`** — Read for video best practices, trending formats, and performance optimization.
+
+## References
+
+- [Tiktok Api Reference](references/tiktok-api-reference.md)

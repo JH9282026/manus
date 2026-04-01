@@ -104,3 +104,10 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
+
+## References
+
+- [Ai Sales Capabilities](references/ai-sales-capabilities.md)
+- [Chatbot Strategy](references/chatbot-strategy.md)
+- [Lead Qualification Automation](references/lead-qualification-automation.md)
+- [Roi Metrics](references/roi-metrics.md)

@@ -281,3 +281,15 @@ For each relevant reference:
 - Unpublished applications not accessible in search
 - Commercial prior art may be difficult to date definitively
 - Final patentability determined by patent office examination
+
+## References
+
+- [01 Fundamentals Of Prior Art Analysis](references/01-fundamentals-of-prior-art-analysis.md)
+- [01 Prior Art Search Fundamentals](references/01_prior_art_search_fundamentals.md)
+- [02 Search Strategies And Methodologies](references/02-search-strategies-and-methodologies.md)
+- [02 Search Methodologies Techniques](references/02_search_methodologies_techniques.md)
+- [03 Databases And Research Tools](references/03-databases-and-research-tools.md)
+- [03 Patent Databases Resources](references/03_patent_databases_resources.md)
+- [04 Invalidity Analysis And Patent Challenges](references/04-invalidity-analysis-and-patent-challenges.md)
+- [04 Analysis Documentation Reporting](references/04_analysis_documentation_reporting.md)
+- [05 Legal Framework And Best Practices](references/05-legal-framework-and-best-practices.md)

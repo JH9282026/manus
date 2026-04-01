@@ -104,3 +104,10 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
+
+## References
+
+- [Crm Sales Integration](references/crm-sales-integration.md)
+- [Optimization Tactics](references/optimization-tactics.md)
+- [Platform Comparison](references/platform-comparison.md)
+- [Workflow Automation](references/workflow-automation.md)

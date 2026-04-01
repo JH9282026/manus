@@ -222,3 +222,12 @@ The Agile Manifesto establishes four core values:
 **`/references/agile-transformation.md`** — Read when planning organizational change, overcoming resistance, establishing Agile culture, or measuring transformation success.
 
 **`/references/metrics-and-measurement.md`** — Read when establishing KPIs, measuring team performance, tracking business value, or demonstrating Agile ROI.
+
+## References
+
+- [Agile Transformation](references/agile-transformation.md)
+- [Kanban Implementation](references/kanban-implementation.md)
+- [Metrics And Measurement](references/metrics-and-measurement.md)
+- [Scaled Agile Safe](references/scaled-agile-safe.md)
+- [Scrum Deep Dive](references/scrum-deep-dive.md)
+- [Xp Practices](references/xp-practices.md)

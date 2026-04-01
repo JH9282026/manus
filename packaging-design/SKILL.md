@@ -377,3 +377,9 @@ Packaging design represents a unique intersection of engineering, graphic design
 The best packaging designers combine technical knowledge with creative vision, always keeping the end consumer experience at the center of their work. From concept sketches to production specifications, every decision contributes to packaging that protects products, represents brands, and delights consumers.
 
 As sustainability concerns grow and e-commerce continues to transform retail, packaging design continues to evolve. Designers who stay current with materials innovation, production technologies, and consumer expectations will create packaging that meets the demands of today's marketplace while preparing for tomorrow's challenges.
+
+## References
+
+- [Packaging Fundamentals](references/packaging-fundamentals.md)
+- [Packaging Production Process](references/packaging-production-process.md)
+- [Sustainable Packaging](references/sustainable-packaging.md)

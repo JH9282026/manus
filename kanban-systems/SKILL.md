@@ -329,3 +329,9 @@ Combining Kanban and Scrum for best of both.
 **`/references/metrics-and-analytics.md`** — Read when implementing Kanban metrics, creating CFDs, analyzing lead time distributions, or forecasting with throughput.
 
 **`/references/advanced-practices.md`** — Read when implementing classes of service, scaling Kanban across teams, or integrating with other methodologies.
+
+## References
+
+- [Board Design Guide](references/board-design-guide.md)
+- [Metrics And Analytics](references/metrics-and-analytics.md)
+- [Wip Limits Optimization](references/wip-limits-optimization.md)

@@ -237,3 +237,10 @@ Convert analog signals to digital and provide essential connectivity.
 **`/references/studio-setup-acoustics.md`** — Read when building or optimizing a recording space, addressing acoustic problems, or selecting room treatment solutions.
 
 **`/references/advanced-production-workflows.md`** — Read when implementing professional production techniques, optimizing session organization, or integrating AI tools into your workflow.
+
+## References
+
+- [Advanced Production Workflows](references/advanced-production-workflows.md)
+- [Daw Comparison Guide](references/daw-comparison-guide.md)
+- [Microphone Techniques](references/microphone-techniques.md)
+- [Studio Setup Acoustics](references/studio-setup-acoustics.md)

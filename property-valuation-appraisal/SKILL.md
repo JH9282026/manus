@@ -206,3 +206,11 @@ This skill serves as the authoritative valuation capability for real estate asse
 - **Cost Services:** Access to Marshall & Swift, RS Means, or equivalent cost data
 - **GIS/Mapping:** Integration with mapping tools for location analysis
 - **Document Systems:** Integration with client document management and delivery systems
+
+## References
+
+- [Factors Affecting Value](references/factors_affecting_value.md)
+- [Residential Vs Commercial](references/residential_vs_commercial.md)
+- [Standards Best Practices](references/standards_best_practices.md)
+- [Valuation Fundamentals Overview](references/valuation_fundamentals_overview.md)
+- [Valuation Methods Techniques](references/valuation_methods_techniques.md)

@@ -227,3 +227,11 @@ This skill serves as the integrated analytical capability for understanding and 
 - **Financial Systems:** Integration with corporate financial reporting
 - **Market Intelligence:** Connection to market data providers and news services
 - **Regulatory Databases:** Access to SEC filings, FERC data, and regulatory information
+
+## References
+
+- [Downstream Refining Petrochemicals](references/downstream-refining-petrochemicals.md)
+- [Industry Challenges Future](references/industry-challenges-future.md)
+- [Market Trends Economics](references/market-trends-economics.md)
+- [Midstream Transportation Storage](references/midstream-transportation-storage.md)
+- [Upstream Exploration Production](references/upstream-exploration-production.md)

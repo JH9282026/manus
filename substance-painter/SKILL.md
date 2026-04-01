@@ -405,3 +405,8 @@ Substance Painter is Adobe's industry-standard 3D texturing software that fully 
 ## Conclusion
 
 Substance Painter streamlines PBR texturing with intuitive tools, Smart Materials, and real-time feedback. Master the fundamentals, experiment with techniques, and build a library of custom materials. Practice on diverse assets to develop efficiency and artistic judgment.
+
+## References
+
+- [Pbr Workflow](references/pbr-workflow.md)
+- [Smart Materials](references/smart-materials.md)

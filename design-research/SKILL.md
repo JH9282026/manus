@@ -273,3 +273,9 @@ Consider: audience expectations, competitive differentiation, brand personality
 - **Next**: `inspiration_gathering.md` - Find visual references
 - **Next**: `competitive_analysis.md` - Deep dive on competitors
 - **Next**: `user_personas.md` - Create detailed user profiles
+
+## References
+
+- [Research Methodologies](references/research-methodologies.md)
+- [Research Synthesis Frameworks](references/research-synthesis-frameworks.md)
+- [User Interview Techniques](references/user-interview-techniques.md)

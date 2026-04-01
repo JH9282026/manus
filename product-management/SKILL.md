@@ -22,3 +22,9 @@ description: ""Lead product development using frameworks like Lean Startup, Agil
 **`/references/strategic-planning-execution.md`** — [When to read]
 
 **`/references/stakeholder-user-research.md`** — [When to read]
+
+## References
+
+- [Product Frameworks Methodologies](references/product-frameworks-methodologies.md)
+- [Stakeholder User Research](references/stakeholder-user-research.md)
+- [Strategic Planning Execution](references/strategic-planning-execution.md)

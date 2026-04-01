@@ -95,3 +95,8 @@ RAG combines information retrieval with language generation, enabling LLMs to ac
 - Not citing sources
 - Stale embeddings (not updating with new data)
 
+## References
+
+- [Data Ingestion](references/data-ingestion.md)
+- [Generation Techniques](references/generation-techniques.md)
+- [Retrieval Methods](references/retrieval-methods.md)

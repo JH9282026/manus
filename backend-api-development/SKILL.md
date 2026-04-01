@@ -134,3 +134,10 @@ GraphQL's strong typing provides automatic error identification with useful mess
 **`/references/api-security-patterns.md`** — Read when implementing authentication, authorization, rate limiting, or securing API endpoints.
 
 **`/references/testing-deployment.md`** — Read when setting up testing frameworks, CI/CD pipelines, containerization, or production deployment strategies.
+
+## References
+
+- [Api Security Patterns](references/api-security-patterns.md)
+- [Graphql Implementation](references/graphql-implementation.md)
+- [Rest Api Patterns](references/rest-api-patterns.md)
+- [Testing Deployment](references/testing-deployment.md)

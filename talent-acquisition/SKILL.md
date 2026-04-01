@@ -253,3 +253,10 @@ Talent acquisition in 2026 emphasizes AI automation, precision sourcing over vol
 **`/references/skills-based-hiring-methods.md`** — Read when transitioning to skills-first hiring, implementing assessments, or moving beyond resume screening.
 
 **`/references/recruitment-metrics-analytics.md`** — Read when establishing recruitment KPIs, building dashboards, or demonstrating hiring ROI.
+
+## References
+
+- [Ai Sourcing Techniques](references/ai-sourcing-techniques.md)
+- [Candidate Experience Optimization](references/candidate-experience-optimization.md)
+- [Recruitment Metrics Analytics](references/recruitment-metrics-analytics.md)
+- [Skills Based Hiring Methods](references/skills-based-hiring-methods.md)

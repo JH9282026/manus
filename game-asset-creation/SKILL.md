@@ -49,3 +49,10 @@ Game asset creation involves modeling, texturing, and optimizing 3D assets for r
 **`/references/pbr-materials.md`** — PBR material creation and texturing.
 
 **`/references/engine-integration.md`** — Importing and setting up assets in Unity/Unreal.
+
+## References
+
+- [Engine Integration](references/engine-integration.md)
+- [Environment Assets](references/environment-assets.md)
+- [Pbr Materials](references/pbr-materials.md)
+- [Prop Modeling](references/prop-modeling.md)

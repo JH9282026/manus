@@ -49,3 +49,10 @@ Procedural generation uses algorithms to create 3D content automatically, enabli
 **`/references/vegetation-systems.md`** — Tree/plant generation, scattering, LOD systems.
 
 **`/references/procedural-textures.md`** — Substance Designer, texture synthesis, material generation.
+
+## References
+
+- [Architectural Generation](references/architectural-generation.md)
+- [Procedural Textures](references/procedural-textures.md)
+- [Terrain Generation](references/terrain-generation.md)
+- [Vegetation Systems](references/vegetation-systems.md)

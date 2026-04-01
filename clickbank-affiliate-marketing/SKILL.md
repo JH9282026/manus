@@ -104,3 +104,10 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
+
+## References
+
+- [Commission Optimization](references/commission-optimization.md)
+- [Product Selection Guide](references/product-selection-guide.md)
+- [Promotional Strategies](references/promotional-strategies.md)
+- [Traffic Generation Methods](references/traffic-generation-methods.md)

@@ -462,3 +462,10 @@ This approach captures long-term value rather than just immediate returns.
 ---
 
 **Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.
+
+## References
+
+- [Campaign Execution](references/campaign-execution.md)
+- [Case Studies Examples](references/case-studies-examples.md)
+- [Guerrilla Fundamentals](references/guerrilla-fundamentals.md)
+- [Tactics Techniques](references/tactics-techniques.md)

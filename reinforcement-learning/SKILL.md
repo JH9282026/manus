@@ -425,3 +425,10 @@ else:
 **`/references/environments-frameworks.md`** — Read when setting up RL environments, using OpenAI Gym or custom environments, working with Stable-Baselines3, or implementing multi-agent systems.
 
 **`/references/applications-case-studies.md`** — Read when applying RL to game playing, robotics control, autonomous systems, or real-world problems. Includes case studies and implementation examples.
+
+## References
+
+- [Algorithms Methods](references/algorithms-methods.md)
+- [Applications Case Studies](references/applications-case-studies.md)
+- [Environments Frameworks](references/environments-frameworks.md)
+- [Rl Fundamentals](references/rl-fundamentals.md)

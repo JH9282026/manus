@@ -318,3 +318,10 @@ Set up CI/CD with:
 **`/references/advanced-techniques.md`** — Read when implementing custom view modifiers, preference keys, geometry readers, custom animations, or advanced SwiftUI features.
 
 **`/references/troubleshooting-guide.md`** — Read when encountering common SwiftUI errors, debugging state issues, fixing preview crashes, or resolving build problems.
+
+## References
+
+- [Advanced Techniques](references/advanced-techniques.md)
+- [Performance Optimization](references/performance-optimization.md)
+- [Swiftui Patterns Cookbook](references/swiftui-patterns-cookbook.md)
+- [Troubleshooting Guide](references/troubleshooting-guide.md)

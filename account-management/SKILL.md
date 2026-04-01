@@ -14,3 +14,11 @@ Modern account management combines relationship building with analytical rigor t
 ## Using the Reference Files
 
 Reference files provide detailed implementation guidance, templates, and advanced techniques for this skill.
+
+## References
+
+- [Account Planning Frameworks](references/account-planning-frameworks.md)
+- [Relationship Mapping](references/relationship-mapping.md)
+- [Renewal Optimization](references/renewal-optimization.md)
+- [Upsell Cross Sell Strategies](references/upsell-cross-sell-strategies.md)
+- [Value Realization Tracking](references/value-realization-tracking.md)

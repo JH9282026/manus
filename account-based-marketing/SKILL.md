@@ -376,3 +376,7 @@ Progress through stages of ABM sophistication:
 - ITSMA (Information Technology Services Marketing Association)
 - SiriusDecisions (now Forrester) ABM Research
 - ABM Benchmark Reports (Demandbase, 6sense, Terminus)
+
+## References
+
+- [Abm Strategy](references/abm-strategy.md)

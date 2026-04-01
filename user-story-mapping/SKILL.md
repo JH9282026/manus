@@ -22,3 +22,9 @@ description: ""Visualize user journeys and organize development work using Jeff 
 **`/references/mvp-release-planning.md`** — [When to read]
 
 **`/references/collaborative-mapping-sessions.md`** — [When to read]
+
+## References
+
+- [Collaborative Mapping Sessions](references/collaborative-mapping-sessions.md)
+- [Mvp Release Planning](references/mvp-release-planning.md)
+- [Story Mapping Fundamentals](references/story-mapping-fundamentals.md)

@@ -378,3 +378,11 @@ organizational_context:
 - Timing affects feasibility (technology maturation)
 - Organizational readiness is often underestimated
 - Hidden costs frequently emerge during implementation
+
+## References
+
+- [Feasibility Study Methodology](references/feasibility-study-methodology.md)
+- [Financial Operational Feasibility](references/financial-operational-feasibility.md)
+- [Market Legal Feasibility](references/market-legal-feasibility.md)
+- [Risk Assessment Decision Making](references/risk-assessment-decision-making.md)
+- [Technical Feasibility Assessment](references/technical-feasibility-assessment.md)

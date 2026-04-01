@@ -104,3 +104,10 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
+
+## References
+
+- [Compliance Guidelines](references/compliance-guidelines.md)
+- [Content Adaptation](references/content-adaptation.md)
+- [Growth Automation](references/growth-automation.md)
+- [Platform Specific Tactics](references/platform-specific-tactics.md)

@@ -232,3 +232,11 @@ Deploy this skill when establishing ERM programs, conducting risk assessments, d
 - Economic and geopolitical conditions
 - Climate and environmental risk factors
 - Social and reputational risk environment
+
+## References
+
+- [01 Erm Frameworks Overview](references/01-erm-frameworks-overview.md)
+- [02 Risk Identification Assessment](references/02-risk-identification-assessment.md)
+- [03 Risk Response Strategies](references/03-risk-response-strategies.md)
+- [04 Risk Governance Culture](references/04-risk-governance-culture.md)
+- [05 Risk Monitoring Reporting](references/05-risk-monitoring-reporting.md)

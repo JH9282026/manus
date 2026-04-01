@@ -262,3 +262,7 @@ def make_api_request(url, method="GET", **kwargs):
 **`/references/pinterest-api-examples.md`** — Read when building automation scripts or integrating Pinterest ads into applications.
 
 **`/references/pinterest-api-best-practices.md`** — Read when optimizing API usage, handling errors, or scaling automation.
+
+## References
+
+- [Pinterest Api Endpoints](references/pinterest-api-endpoints.md)

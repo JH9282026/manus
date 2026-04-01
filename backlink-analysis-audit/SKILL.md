@@ -104,3 +104,10 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
+
+## References
+
+- [Analysis Tools](references/analysis-tools.md)
+- [Competitor Research](references/competitor-research.md)
+- [Profile Analysis](references/profile-analysis.md)
+- [Toxic Link Identification](references/toxic-link-identification.md)

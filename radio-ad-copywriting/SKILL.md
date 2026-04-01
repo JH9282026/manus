@@ -232,3 +232,20 @@ The best radio copywriters understand that they're not just writing words; they'
 Whether you're creating a 15-second retail spot or a 60-second brand anthem, remember: someone is going to hear this while living their life—driving to work, cooking dinner, waiting in traffic. Your job is to break through that daily routine, capture a moment of attention, and leave a lasting impression. Do that well, and radio will continue to deliver results for generations to come.
 
 The microphone is on. What will you say?
+
+## References
+
+- [Best Practices Summary](references/best-practices-summary.md)
+- [Common Mistakes To Avoid](references/common-mistakes-to-avoid.md)
+- [Daypart Considerations](references/daypart-considerations.md)
+- [Different Radio Formats](references/different-radio-formats.md)
+- [Jingles And Mnemonics](references/jingles-and-mnemonics.md)
+- [Local Vs National Radio](references/local-vs-national-radio.md)
+- [Music And Sound Effects](references/music-and-sound-effects.md)
+- [Production Considerations](references/production-considerations.md)
+- [Radio Ad Structure](references/radio-ad-structure.md)
+- [Radio Ad Templates](references/radio-ad-templates.md)
+- [Radio Advertising Resources](references/radio-advertising-resources.md)
+- [Testing And Optimization](references/testing-and-optimization.md)
+- [Theater Of The Mind](references/theater-of-the-mind.md)
+- [Voice Talent And Delivery](references/voice-talent-and-delivery.md)

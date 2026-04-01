@@ -277,3 +277,10 @@ Example: "Ergonomic Lumbar Support Pillow for Office Chairs - Memory Foam"
 **`/references/marketing-customer-acquisition.md`** — Read when launching ad campaigns, creating ad creatives, targeting audiences, implementing influencer marketing, building email sequences, or optimizing conversion rates.
 
 **`/references/operations-fulfillment.md`** — Read when automating order processing, managing customer service, handling returns and refunds, tracking shipments, dealing with supplier issues, or scaling operations efficiently.
+
+## References
+
+- [Marketing Customer Acquisition](references/marketing-customer-acquisition.md)
+- [Operations Fulfillment](references/operations-fulfillment.md)
+- [Store Setup Platforms](references/store-setup-platforms.md)
+- [Supplier Sourcing](references/supplier-sourcing.md)

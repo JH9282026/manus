@@ -216,3 +216,11 @@ Train agents to make sequential decisions by maximizing cumulative rewards throu
 - Davies-Bouldin Index: Average similarity between clusters
 - Calinski-Harabasz Index: Ratio of between-cluster to within-cluster variance
 - Adjusted Rand Index: Agreement with ground truth (if available)
+
+## References
+
+- [Feature Engineering](references/feature-engineering.md)
+- [Model Evaluation](references/model-evaluation.md)
+- [Reinforcement Learning](references/reinforcement-learning.md)
+- [Supervised Learning](references/supervised-learning.md)
+- [Unsupervised Learning](references/unsupervised-learning.md)

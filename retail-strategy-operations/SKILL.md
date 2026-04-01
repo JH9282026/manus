@@ -270,3 +270,11 @@ Comprehensive metrics tracking including:
 - Labor law compliance for scheduling and workforce planning
 - Product safety and regulatory requirements by category
 - Accessibility requirements for store design recommendations
+
+## References
+
+- [01 Retail Operations Fundamentals](references/01-retail-operations-fundamentals.md)
+- [02 Technology Automation Retail](references/02-technology-automation-retail.md)
+- [03 Omnichannel Retail Strategy](references/03-omnichannel-retail-strategy.md)
+- [04 Retail Performance Metrics Kpis](references/04-retail-performance-metrics-kpis.md)
+- [05 Lean Retail Continuous Improvement](references/05-lean-retail-continuous-improvement.md)

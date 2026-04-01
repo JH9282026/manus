@@ -383,3 +383,10 @@ Review responsiveness of [COMPONENT]:
 - **Previous**: `layout_grids.md` - Grid foundations
 - **Next**: `mobile_app_design.md` - Native app patterns
 - **Related**: `accessibility_review.md` - Mobile accessibility
+
+## References
+
+- [Breakpoints Media Queries](references/breakpoints-media-queries.md)
+- [Mobile Navigation Patterns](references/mobile-navigation-patterns.md)
+- [Responsive Images Media](references/responsive-images-media.md)
+- [Responsive Layout Fundamentals](references/responsive-layout-fundamentals.md)

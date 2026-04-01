@@ -349,3 +349,11 @@ This skill addresses business-critical web needs: corporate websites, e-commerce
 - Third-party service credentials (analytics, forms, CDN)
 - Hosting environment specifications
 - Domain and SSL certificate access
+
+## References
+
+- [01 Web Design Fundamentals](references/01-web-design-fundamentals.md)
+- [02 Modern Css Techniques](references/02-modern-css-techniques.md)
+- [03 Responsive Web Design](references/03-responsive-web-design.md)
+- [04 Web Accessibility Standards](references/04-web-accessibility-standards.md)
+- [05 Web Performance Optimization](references/05-web-performance-optimization.md)

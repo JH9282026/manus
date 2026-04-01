@@ -66,3 +66,10 @@ POST /campaign/{campaignId}/adgroup
 **`/references/reporting-analytics.md`** — Read when extracting performance data or building cross-channel dashboards.
 
 **`/references/automation-patterns.md`** — Read when implementing advanced automation or optimization algorithms.
+
+## References
+
+- [Api Authentication](references/api-authentication.md)
+- [Automation Patterns](references/automation-patterns.md)
+- [Campaign Operations](references/campaign-operations.md)
+- [Reporting Analytics](references/reporting-analytics.md)

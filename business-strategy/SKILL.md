@@ -252,3 +252,10 @@ Avoid these frequent mistakes:
 **`/references/business-models.md`** — Read when designing new business models, evaluating existing models, or exploring business model innovation. Covers Business Model Canvas in depth, business model patterns, revenue models, and transformation strategies.
 
 **`/references/strategy-execution.md`** — Read when implementing strategies, managing strategic change, or monitoring strategic performance. Provides execution frameworks, change management approaches, performance measurement systems, and implementation best practices.
+
+## References
+
+- [Business Models](references/business-models.md)
+- [Competitive Analysis](references/competitive-analysis.md)
+- [Strategy Execution](references/strategy-execution.md)
+- [Strategy Frameworks](references/strategy-frameworks.md)

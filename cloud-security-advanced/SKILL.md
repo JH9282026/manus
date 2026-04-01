@@ -360,3 +360,9 @@ def evaluate_compliance(event, context):
 **`/references/compliance-frameworks.md`** — Read when implementing SOC2, HIPAA, GDPR, or other compliance requirements.
 
 **`/references/zero-trust-implementation.md`** — Read when implementing zero-trust architecture, device trust, or context-aware access.
+
+## References
+
+- [Compliance Frameworks](references/compliance-frameworks.md)
+- [Iam Advanced](references/iam-advanced.md)
+- [Zero Trust Implementation](references/zero-trust-implementation.md)

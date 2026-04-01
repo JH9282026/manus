@@ -280,3 +280,10 @@ Define measurable service commitments:
 **`/references/team-management.md`** — Read when hiring and training support staff, structuring support tiers, managing agent performance, or addressing team morale and retention challenges.
 
 **`/references/metrics-optimization.md`** — Read when defining KPIs, building performance dashboards, analyzing support data, identifying improvement opportunities, or reporting to stakeholders.
+
+## References
+
+- [Help Desk Fundamentals](references/help-desk-fundamentals.md)
+- [Metrics Optimization](references/metrics-optimization.md)
+- [Team Management](references/team-management.md)
+- [Ticketing Systems](references/ticketing-systems.md)

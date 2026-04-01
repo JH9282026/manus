@@ -464,3 +464,9 @@ Compare [DESIGN A] vs [DESIGN B]:
 - **Next**: `design_scoring.md` - Apply rubric for objective score
 - **Next**: `design_iteration.md` - Act on review findings
 - **Related**: `accessibility_review.md` - Deep accessibility review
+
+## References
+
+- [Critique Frameworks](references/critique-frameworks.md)
+- [Design Qa Checklist](references/design-qa-checklist.md)
+- [Stakeholder Review Management](references/stakeholder-review-management.md)

@@ -60,3 +60,10 @@ This skill covers Microsoft Audience Network campaign creation, native ad format
 ## Using the Reference Files
 
 **`/references/audience-network-setup.md`** — Read when creating Audience Network campaigns, including ad format specifications, targeting options, and optimization strategies.
+
+## References
+
+- [01 Audience Network Fundamentals](references/01-audience-network-fundamentals.md)
+- [02 Targeting Options Strategies](references/02-targeting-options-strategies.md)
+- [03 Campaign Optimization Best Practices](references/03-campaign-optimization-best-practices.md)
+- [04 Native Advertising Creative Strategy](references/04-native-advertising-creative-strategy.md)

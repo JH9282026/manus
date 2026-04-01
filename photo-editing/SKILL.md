@@ -145,3 +145,10 @@ Photo editing transforms raw captures into polished final images through color c
 **`/references/color-grading-techniques.md`** — Read when applying creative color grades and looks.
 
 **`/references/export-and-delivery.md`** — Read when preparing images for various output formats and platforms.
+
+## References
+
+- [Color Grading Techniques](references/color-grading-techniques.md)
+- [Export And Delivery](references/export-and-delivery.md)
+- [Lightroom Editing Guide](references/lightroom-editing-guide.md)
+- [Photoshop Retouching](references/photoshop-retouching.md)

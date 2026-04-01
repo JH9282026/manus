@@ -227,3 +227,11 @@ Once Abacus generates the files:
 4. It's ready to use immediately
 
 Alternatively, if you have multiple skills, send them all and I'll batch deploy them.
+
+## References
+
+- [Api Fundamentals Setup](references/api-fundamentals-setup.md)
+- [Automation Workflows](references/automation-workflows.md)
+- [Best Practices Troubleshooting](references/best-practices-troubleshooting.md)
+- [Campaign Structure Management](references/campaign-structure-management.md)
+- [Insights Reporting Api](references/insights-reporting-api.md)

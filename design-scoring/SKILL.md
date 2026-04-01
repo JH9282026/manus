@@ -452,3 +452,9 @@ Compare scores between [VERSION 1] and [VERSION 2]:
 - **Reference**: `design_rubric.md` - Full scoring criteria
 - **Previous**: `design_review.md` - Qualitative review
 - **Next**: `design_iteration.md` - Act on score gaps
+
+## References
+
+- [Competitive Benchmarking](references/competitive-benchmarking.md)
+- [Metrics And Kpis](references/metrics-and-kpis.md)
+- [Scoring Frameworks](references/scoring-frameworks.md)

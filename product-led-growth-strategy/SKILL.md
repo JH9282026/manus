@@ -284,3 +284,10 @@ Align teams around: activation rate (Product, Marketing, CS), PQL generation (Pr
 **`/references/activation-retention.md`** — Read when defining activation metrics, improving user retention, identifying at-risk users, building habit-forming products, or analyzing cohort retention data.
 
 **`/references/expansion-monetization.md`** — Read when designing pricing and packaging, implementing freemium or trial models, driving product-led expansion, optimizing conversion funnels, or tracking PLG-specific metrics like PQLs and NRR.
+
+## References
+
+- [Activation Retention](references/activation-retention.md)
+- [Expansion Monetization](references/expansion-monetization.md)
+- [Plg Fundamentals](references/plg-fundamentals.md)
+- [User Onboarding](references/user-onboarding.md)

@@ -227,3 +227,11 @@ Once Abacus generates the files:
 4. It's ready to use immediately
 
 Alternatively, if you have multiple skills, send them all and I'll batch deploy them.
+
+## References
+
+- [Advanced Targeting Strategies](references/advanced-targeting-strategies.md)
+- [Audience Testing Optimization](references/audience-testing-optimization.md)
+- [Audience Types Overview](references/audience-types-overview.md)
+- [Campaign Structure Best Practices](references/campaign-structure-best-practices.md)
+- [Pixel Conversions Api Implementation](references/pixel-conversions-api-implementation.md)

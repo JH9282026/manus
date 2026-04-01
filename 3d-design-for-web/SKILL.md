@@ -455,3 +455,10 @@ function App() {
 ---
 
 **Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.
+
+## References
+
+- [3D Modeling Optimization](references/3d-modeling-optimization.md)
+- [Interactive Experiences](references/interactive-experiences.md)
+- [Performance Loading](references/performance-loading.md)
+- [Webgl Threejs](references/webgl-threejs.md)

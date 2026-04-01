@@ -106,3 +106,11 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
+
+## References
+
+- [Geo Content Strategy](references/geo-content-strategy.md)
+- [Google Business Profile](references/google-business-profile.md)
+- [Local Citations](references/local-citations.md)
+- [Local Link Building](references/local-link-building.md)
+- [Review Management](references/review-management.md)

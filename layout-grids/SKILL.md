@@ -458,3 +458,9 @@ Provide column spans for each element at each breakpoint.
 - **Previous**: `wireframing.md` - Layout structure to formalize
 - **Next**: `spacing_rhythm.md` - Vertical spacing complements grid
 - **Related**: `responsive_design.md` - Grid enables responsiveness
+
+## References
+
+- [Grid Systems Fundamentals](references/grid-systems-fundamentals.md)
+- [Responsive Layout Patterns](references/responsive-layout-patterns.md)
+- [Spacing Rhythm](references/spacing-rhythm.md)

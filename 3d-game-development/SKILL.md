@@ -402,3 +402,10 @@ Reuse objects instead of instantiate/destroy.
 **`/references/3d-rendering-optimization.md`** — Read when optimizing rendering performance, implementing LOD systems, configuring lighting and shadows, reducing draw calls, or troubleshooting performance bottlenecks.
 
 **`/references/3d-game-implementation.md`** — Read when integrating 3D assets into game engines, setting up physics systems, implementing gameplay mechanics, or deploying 3D games to various platforms.
+
+## References
+
+- [3D Game Implementation](references/3d-game-implementation.md)
+- [3D Modeling Texturing](references/3d-modeling-texturing.md)
+- [3D Rendering Optimization](references/3d-rendering-optimization.md)
+- [Animation Rigging](references/animation-rigging.md)

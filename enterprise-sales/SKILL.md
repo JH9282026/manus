@@ -208,3 +208,10 @@ Key principle: Lead with insight, not product features. Teach first, sell second
 **`/references/stakeholder-engagement.md`** — Read when mapping buying committees, developing multi-threading strategies, building consensus across diverse stakeholders, or creating stakeholder-specific engagement plans. Includes persona-based engagement frameworks.
 
 **`/references/negotiation-closing.md`** — Read when entering negotiation phases, handling pricing objections, closing strategic deals, or training reps on enterprise closing techniques. Contains negotiation strategies, closing techniques, and post-close best practices.
+
+## References
+
+- [Deal Management](references/deal-management.md)
+- [Negotiation Closing](references/negotiation-closing.md)
+- [Sales Methodology](references/sales-methodology.md)
+- [Stakeholder Engagement](references/stakeholder-engagement.md)

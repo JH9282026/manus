@@ -294,3 +294,10 @@ Employee retention is a critical challenge in 2026, with work-life balance as th
 **`/references/manager-training-retention.md`** — Read when developing manager capabilities, improving leadership effectiveness, or reducing manager-related turnover.
 
 **`/references/retention-analytics-metrics.md`** — Read when establishing retention KPIs, building dashboards, or conducting turnover analysis.
+
+## References
+
+- [Engagement Survey Strategies](references/engagement-survey-strategies.md)
+- [Manager Training Retention](references/manager-training-retention.md)
+- [Retention Analytics Metrics](references/retention-analytics-metrics.md)
+- [Retention Program Design](references/retention-program-design.md)

@@ -104,3 +104,10 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
+
+## References
+
+- [Content For Links](references/content-for-links.md)
+- [Haro Strategy](references/haro-strategy.md)
+- [Outreach Templates](references/outreach-templates.md)
+- [White Hat Techniques](references/white-hat-techniques.md)

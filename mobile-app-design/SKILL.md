@@ -369,3 +369,9 @@ Mobile App Design applies platform-specific patterns and conventions for iOS and
 - **Previous**: `responsive_design.md` - Web responsive foundations
 - **Next**: `interaction_design.md` - Micro-interactions
 - **Related**: `accessibility_review.md` - Mobile accessibility
+
+## References
+
+- [Ios Android Guidelines](references/ios-android-guidelines.md)
+- [Mobile Design Principles](references/mobile-design-principles.md)
+- [Mobile Interaction Patterns](references/mobile-interaction-patterns.md)

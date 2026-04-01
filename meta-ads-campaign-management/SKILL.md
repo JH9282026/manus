@@ -285,3 +285,9 @@ def scale_top_performers(ad_account_id, min_roas=2.0):
 **`/references/meta-campaign-structure-guide.md`** — Read for campaign architecture best practices, CBO vs ad set budgets, objective selection, and scaling strategies.
 
 **`/references/meta-automation-patterns.md`** — Read when implementing automated campaign management, performance-based optimization, budget reallocation, and MCP integration workflows.
+
+## References
+
+- [Meta Api Reference](references/meta-api-reference.md)
+- [Meta Automation Patterns](references/meta-automation-patterns.md)
+- [Meta Campaign Structure Guide](references/meta-campaign-structure-guide.md)

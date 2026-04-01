@@ -104,3 +104,10 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
+
+## References
+
+- [Exploitation Methods](references/exploitation-methods.md)
+- [Lateral Movement](references/lateral-movement.md)
+- [Persistence Techniques](references/persistence-techniques.md)
+- [Privilege Escalation](references/privilege-escalation.md)

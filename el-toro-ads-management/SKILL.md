@@ -141,3 +141,8 @@ El Toro specializes in IP address targeting, allowing advertisers to target spec
 **`/references/el-toro-targeting-strategies.md`** — Read for IP targeting best practices, list building strategies, and use case examples.
 
 **`/references/el-toro-attribution-guide.md`** — Read for match-back methodology, conversion tracking setup, and performance analysis.
+
+## References
+
+- [El Toro Platform Guide](references/el-toro-platform-guide.md)
+- [El Toro Targeting Strategies](references/el-toro-targeting-strategies.md)

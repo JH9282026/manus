@@ -480,3 +480,7 @@ class ModelGovernance:
 5. **Governance**: Compliance, auditing, model documentation
 
 See `references/` for pipeline templates, monitoring dashboards, and deployment configurations.
+
+## References
+
+- [Monitoring Dashboards](references/monitoring-dashboards.md)

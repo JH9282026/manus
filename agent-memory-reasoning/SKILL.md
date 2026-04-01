@@ -104,3 +104,10 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
+
+## References
+
+- [Context Management](references/context-management.md)
+- [Learning Mechanisms](references/learning-mechanisms.md)
+- [Memory Architecture](references/memory-architecture.md)
+- [Reasoning Engines](references/reasoning-engines.md)

@@ -251,3 +251,10 @@ Root
 **`/references/facial-rigging.md`** — Read when rigging faces for dialogue and expressions, setting up blend shape systems, or creating eye and jaw controls.
 
 **`/references/advanced-systems.md`** — Read when implementing IK/FK blending, creating twist bone systems, building custom rigging tools, or rigging non-humanoid characters.
+
+## References
+
+- [Advanced Systems](references/advanced-systems.md)
+- [Facial Rigging](references/facial-rigging.md)
+- [Film Rigging](references/film-rigging.md)
+- [Game Rigging](references/game-rigging.md)

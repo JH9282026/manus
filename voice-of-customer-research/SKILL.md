@@ -119,3 +119,11 @@ A wealth management firm implements VOC research to strengthen client relationsh
 - Statistical analysis for advanced driver modeling
 - Competitive intelligence for external benchmark context
 - Data visualization for insight communication
+
+## References
+
+- [Case Studies And Real World Examples](references/case-studies-and-real-world-examples.md)
+- [Fundamentals And Core Concepts](references/fundamentals-and-core-concepts.md)
+- [Implementation And Best Practices](references/implementation-and-best-practices.md)
+- [Methodologies And Frameworks](references/methodologies-and-frameworks.md)
+- [Tools And Analysis Techniques](references/tools-and-analysis-techniques.md)

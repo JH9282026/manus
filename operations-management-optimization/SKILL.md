@@ -179,3 +179,11 @@ A company launches a continuous improvement program. The agent establishes basel
 - Learning management system for training deployment
 - Communication platforms for alert distribution
 - Project management tools for implementation tracking
+
+## References
+
+- [Lean Manufacturing Principles](references/lean-manufacturing-principles.md)
+- [Performance Metrics Kpis](references/performance-metrics-kpis.md)
+- [Process Improvement Frameworks](references/process-improvement-frameworks.md)
+- [Six Sigma Methodology](references/six-sigma-methodology.md)
+- [Supply Chain Optimization](references/supply-chain-optimization.md)

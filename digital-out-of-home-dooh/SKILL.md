@@ -462,3 +462,10 @@ DOOH advertising must navigate evolving privacy regulations:
 ---
 
 **Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.
+
+## References
+
+- [Creative Best Practices](references/creative-best-practices.md)
+- [Dooh Formats Technology](references/dooh-formats-technology.md)
+- [Measurement Analytics](references/measurement-analytics.md)
+- [Programmatic Buying](references/programmatic-buying.md)

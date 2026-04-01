@@ -323,3 +323,11 @@ This skill serves diverse content needs: corporate communications, marketing cam
 - Caption/subtitle generation service (Rev, Descript, native AI tools)
 - Video hosting platform accounts (YouTube, Vimeo, Wistia)
 - Analytics tracking setup for performance measurement
+
+## References
+
+- [Advanced Techniques And Methodologies](references/advanced-techniques-and-methodologies.md)
+- [Color Grading And Audio Mixing](references/color-grading-and-audio-mixing.md)
+- [Fundamentals And Workflow](references/fundamentals-and-workflow.md)
+- [Professional Tools And Software](references/professional-tools-and-software.md)
+- [Real World Applications And Case Studies](references/real-world-applications-and-case-studies.md)

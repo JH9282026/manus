@@ -14,3 +14,11 @@ Modern B2B lead generation requires sophisticated targeting, personalization, an
 ## Using the Reference Files
 
 Reference files provide detailed implementation guidance, templates, and advanced techniques for this skill.
+
+## References
+
+- [Abm Integration Framework](references/abm-integration-framework.md)
+- [Ai Powered Prospecting](references/ai-powered-prospecting.md)
+- [Conversion Optimization](references/conversion-optimization.md)
+- [Intent Data Strategies](references/intent-data-strategies.md)
+- [Multi Channel Orchestration](references/multi-channel-orchestration.md)

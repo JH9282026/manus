@@ -388,6 +388,10 @@ As the podcast industry continues to grow and evolve, with advancing technology 
 
 ## References
 
+- [Ad Formats Pricing](references/ad-formats-pricing.md)
+- [Campaign Planning](references/campaign-planning.md)
+- [Measurement Attribution](references/measurement-attribution.md)
+- [Podcast Landscape](references/podcast-landscape.md)
 For detailed information on specific aspects of podcast advertising strategy, see the supporting reference documents:
 
 - `references/podcast-landscape.md` - Overview of the podcast ecosystem, audience trends, and industry dynamics

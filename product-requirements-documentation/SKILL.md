@@ -186,3 +186,11 @@ An organization migrating from legacy system to modern platform needs comprehens
 - Timeline estimates require team velocity data
 - Cross-team dependencies require coordination
 - Requirements may evolve; document versioning essential
+
+## References
+
+- [Prd Best Practices Pitfalls](references/prd_best_practices_pitfalls.md)
+- [Prd Creation Process](references/prd_creation_process.md)
+- [Prd Fundamentals Overview](references/prd_fundamentals_overview.md)
+- [Prd Tools Templates](references/prd_tools_templates.md)
+- [Prd Vs Related Documents](references/prd_vs_related_documents.md)

@@ -340,3 +340,12 @@ Methodologies fail without accurate, current account information. Crucial signal
 **`/references/objection-handling-techniques.md`** — Read when encountering common objections, training on objection responses, or building battle cards.
 
 **`/references/sales-process-implementation.md`** — Read when rolling out new methodologies, integrating with CRM, or measuring adoption and effectiveness.
+
+## References
+
+- [Discovery Question Banks](references/discovery-question-banks.md)
+- [Methodology Deep Dives](references/methodology-deep-dives.md)
+- [Multi Stakeholder Navigation](references/multi-stakeholder-navigation.md)
+- [Objection Handling Techniques](references/objection-handling-techniques.md)
+- [Qualification Frameworks](references/qualification-frameworks.md)
+- [Sales Process Implementation](references/sales-process-implementation.md)

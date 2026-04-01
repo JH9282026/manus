@@ -255,3 +255,11 @@ Deploy this skill when:
 - Embrace multiple perspectives and avoid single-point forecasts
 - Continuously validate and update based on new information
 - Document assumptions and confidence levels transparently
+
+## References
+
+- [01 Trend Forecasting Fundamentals](references/01_trend_forecasting_fundamentals.md)
+- [02 Forecasting Methods Techniques](references/02_forecasting_methods_techniques.md)
+- [03 Step By Step Forecasting Process](references/03_step_by_step_forecasting_process.md)
+- [04 Trend Forecasting Tools Platforms](references/04_trend_forecasting_tools_platforms.md)
+- [05 Advanced Frameworks Best Practices](references/05_advanced_frameworks_best_practices.md)

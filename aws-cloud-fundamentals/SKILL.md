@@ -216,3 +216,12 @@ aws iam create-user --user-name john
 **`/references/serverless-patterns.md`** — Read when building serverless applications with Lambda, API Gateway, and DynamoDB, or implementing event-driven architectures.
 
 **`/references/cost-optimization-strategies.md`** — Read when analyzing AWS bills, implementing cost controls, selecting pricing models, or optimizing resource usage.
+
+## References
+
+- [Cost Optimization Strategies](references/cost-optimization-strategies.md)
+- [Ec2 Deep Dive](references/ec2-deep-dive.md)
+- [Iam Security Guide](references/iam-security-guide.md)
+- [S3 Storage Guide](references/s3-storage-guide.md)
+- [Serverless Patterns](references/serverless-patterns.md)
+- [Vpc Networking Guide](references/vpc-networking-guide.md)

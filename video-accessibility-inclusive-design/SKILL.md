@@ -299,3 +299,17 @@ The Web Content Accessibility Guidelines (WCAG) provide the international standa
 ## Conclusion
 
 *See [detailed conclusion](references/video-accessibility-inclusive-design/conclusion.md)*
+
+## References
+
+- [Accessibility Workflow Integration](references/accessibility-workflow-integration.md)
+- [Accessible Video Players](references/accessible-video-players.md)
+- [Audio Descriptions](references/audio-descriptions.md)
+- [Best Practices Summary](references/best-practices-summary.md)
+- [Cognitive Accessibility](references/cognitive-accessibility.md)
+- [Color Contrast And Visual Accessibility](references/color-contrast-and-visual-accessibility.md)
+- [Conclusion](references/conclusion.md)
+- [Inclusive Design Principles](references/inclusive-design-principles.md)
+- [Legal Requirements](references/legal-requirements.md)
+- [Resources And Tools](references/resources-and-tools.md)
+- [Testing Video Accessibility](references/testing-video-accessibility.md)

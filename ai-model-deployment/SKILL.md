@@ -137,3 +137,8 @@ Train smaller student model from larger teacher.
 - Insufficient logging
 - Not considering costs
 
+## References
+
+- [Monitoring](references/monitoring.md)
+- [Optimization](references/optimization.md)
+- [Serving](references/serving.md)

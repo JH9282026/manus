@@ -55,3 +55,10 @@ Taboola uses a three-level hierarchy:
 **`/references/targeting-strategies.md`** — Read when building audience segments or optimizing targeting.
 
 **`/references/bidding-optimization.md`** — Read when selecting bidding strategies or optimizing CPA.
+
+## References
+
+- [Bidding Optimization](references/bidding-optimization.md)
+- [Campaign Setup Guide](references/campaign-setup-guide.md)
+- [Creative Best Practices](references/creative-best-practices.md)
+- [Targeting Strategies](references/targeting-strategies.md)

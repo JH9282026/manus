@@ -444,3 +444,11 @@ module.exports = {
 **`/references/module-federation.md`** — Read when implementing micro-frontends or sharing code between applications.
 
 **`/references/troubleshooting.md`** — Read when debugging build issues, resolving loader conflicts, or optimizing build performance.
+
+## References
+
+- [01 Fundamentals And Core Concepts](references/01_fundamentals-and-core-concepts.md)
+- [02 Optimization Techniques](references/02_optimization-techniques.md)
+- [03 Loaders And Plugins Ecosystem](references/03_loaders-and-plugins-ecosystem.md)
+- [04 Development Server And Hmr](references/04_development-server-and-hmr.md)
+- [05 Real World Configurations](references/05_real-world-configurations.md)

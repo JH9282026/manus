@@ -104,3 +104,10 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
+
+## References
+
+- [Automated Engagement](references/automated-engagement.md)
+- [Content Curation](references/content-curation.md)
+- [Multi Platform Tools](references/multi-platform-tools.md)
+- [Scheduling Strategies](references/scheduling-strategies.md)

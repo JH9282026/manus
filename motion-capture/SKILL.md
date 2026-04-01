@@ -217,3 +217,10 @@ This skill covers the complete motion capture pipeline from session planning to 
 **`/references/markerless-systems.md`** — Read when using markerless/AI-based mocap, processing video for mocap, or working with accessible mocap solutions.
 
 **`/references/facial-mocap.md`** — Read when capturing facial performances, setting up facial rigs for mocap, processing facial data, or integrating facial animation.
+
+## References
+
+- [Facial Mocap](references/facial-mocap.md)
+- [Inertial Systems](references/inertial-systems.md)
+- [Markerless Systems](references/markerless-systems.md)
+- [Optical Systems](references/optical-systems.md)

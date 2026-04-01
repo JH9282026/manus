@@ -456,3 +456,8 @@ if (block.number > targetBlock) {  // More reliable
 ---
 
 **Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.
+
+## References
+
+- [Advanced Solidity Patterns](references/advanced-solidity-patterns.md)
+- [Solidity Fundamentals](references/solidity-fundamentals.md)

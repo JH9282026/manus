@@ -198,3 +198,10 @@ Green spill is reflected green screen light on the subject causing:
 **`/references/software-specific-techniques.md`** — Read when working in specific software (After Effects, Resolve, Nuke) and need detailed tool-specific workflows and settings.
 
 **`/references/troubleshooting-guide.md`** — Read when encountering specific keying problems, quality issues, or when final composite lacks realism.
+
+## References
+
+- [Advanced Keying Workflows](references/advanced-keying-workflows.md)
+- [Lighting Setups](references/lighting-setups.md)
+- [Software Specific Techniques](references/software-specific-techniques.md)
+- [Troubleshooting Guide](references/troubleshooting-guide.md)

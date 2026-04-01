@@ -474,3 +474,11 @@ output_format: "json"
 | CAPTCHA | Bot detection triggered | Use CAPTCHA solver or manual intervention |
 | TIMEOUT | Request timed out | Increase timeout, retry |
 | PARSE_ERROR | Selector not found | Verify selector accuracy |
+
+## References
+
+- [01 Fundamentals And Core Concepts](references/01_fundamentals-and-core-concepts.md)
+- [02 Tools And Frameworks](references/02_tools-and-frameworks.md)
+- [03 Best Practices And Ethics](references/03_best-practices-and-ethics.md)
+- [04 Advanced Techniques And Challenges](references/04_advanced-techniques-and-challenges.md)
+- [05 Real World Applications And Case Studies](references/05_real-world-applications-and-case-studies.md)

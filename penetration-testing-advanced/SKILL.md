@@ -326,3 +326,10 @@ Penetration testing in 2026 has evolved from "scan and patch" to "agentic AI pen
 **`/references/red-team-tactics.md`** — Read when simulating advanced persistent threats, conducting red team operations, or testing detection capabilities.
 
 **`/references/ai-pentesting-tools.md`** — Read when leveraging AI for security testing, using agentic AI platforms, or automating vulnerability discovery.
+
+## References
+
+- [Active Directory Attacks](references/active-directory-attacks.md)
+- [Ai Pentesting Tools](references/ai-pentesting-tools.md)
+- [Owasp Top 10 Exploitation](references/owasp-top-10-exploitation.md)
+- [Red Team Tactics](references/red-team-tactics.md)

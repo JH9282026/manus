@@ -494,3 +494,11 @@ git submodule update --remote
 **`/references/collaboration-guide.md`** — Read when setting up pull request workflows, code review processes, or managing forks.
 
 **`/references/troubleshooting.md`** — Read when resolving merge conflicts, recovering lost commits, or fixing repository issues.
+
+## References
+
+- [Advanced Git Techniques](references/advanced-git-techniques.md)
+- [Branching Strategies](references/branching-strategies.md)
+- [Collaboration Best Practices](references/collaboration-best-practices.md)
+- [Git Fundamentals Workflows](references/git-fundamentals-workflows.md)
+- [Troubleshooting Recovery](references/troubleshooting-recovery.md)

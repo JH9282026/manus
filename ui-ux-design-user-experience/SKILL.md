@@ -212,3 +212,19 @@ UI/UX Design encompasses the creation of intuitive, accessible, and visually app
 
 
 UI/UX design is a multidisciplinary practice combining research, psychology, visual design, and technology to create meaningful user experiences. Success requires understanding users deeply, applying proven design principles, leveraging appropriate tools, and maintaining consistency through design systems. Accessibility and usability must be foundational, not afterthoughts. The best interfaces are invisible—they help users accomplish their goals effortlessly while delighting them along the way.
+
+## References
+
+- [10 Design Systems  Component Libraries](references/10-design-systems--component-libraries.md)
+- [11 Ui Ux Design Tools](references/11-ui-ux-design-tools.md)
+- [12 Mobile App Ui Ux Design](references/12-mobile-app-ui-ux-design.md)
+- [13 Web App Ui Ux Design](references/13-web-app-ui-ux-design.md)
+- [14 Design Handoff  Collaboration](references/14-design-handoff--collaboration.md)
+- [15 Ui Ux Best Practices](references/15-ui-ux-best-practices.md)
+- [3 Information Architecture](references/3-information-architecture.md)
+- [4 Interaction Design](references/4-interaction-design.md)
+- [5 Visual Design For Ui](references/5-visual-design-for-ui.md)
+- [6 Ui Design Patterns](references/6-ui-design-patterns.md)
+- [7 Responsive  Adaptive Design](references/7-responsive--adaptive-design.md)
+- [8 Accessibility In Ui Ux](references/8-accessibility-in-ui-ux.md)
+- [9 Usability Principles](references/9-usability-principles.md)

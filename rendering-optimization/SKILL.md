@@ -49,3 +49,10 @@ Rendering optimization ensures smooth performance by reducing draw calls, optimi
 **`/references/culling-techniques.md`** — Occlusion and frustum culling strategies.
 
 **`/references/memory-optimization.md`** — Texture streaming and memory management.
+
+## References
+
+- [Culling Techniques](references/culling-techniques.md)
+- [Draw Call Optimization](references/draw-call-optimization.md)
+- [Memory Optimization](references/memory-optimization.md)
+- [Shader Optimization](references/shader-optimization.md)

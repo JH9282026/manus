@@ -50,3 +50,10 @@ Outbrain uses a four-level hierarchy:
 **`/references/targeting-strategies.md`** — Read when setting up targeting or audience segmentation.
 
 **`/references/performance-optimization.md`** — Read when optimizing bids or improving campaign performance.
+
+## References
+
+- [Campaign Setup Guide](references/campaign-setup-guide.md)
+- [Content Optimization](references/content-optimization.md)
+- [Performance Optimization](references/performance-optimization.md)
+- [Targeting Strategies](references/targeting-strategies.md)

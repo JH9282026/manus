@@ -322,3 +322,11 @@ For each hypothesis:
 - Multiple testing requires adjustment
 - Assumptions matter for validity
 - Generalizability depends on sampling
+
+## References
+
+- [01 Hypothesis Testing Fundamentals](references/01_hypothesis_testing_fundamentals.md)
+- [02 Pvalues Statistical Significance](references/02_pvalues_statistical_significance.md)
+- [03 Common Statistical Tests](references/03_common_statistical_tests.md)
+- [04 Power Analysis Sample Size](references/04_power_analysis_sample_size.md)
+- [05 Assumptions Diagnostics](references/05_assumptions_diagnostics.md)

@@ -104,3 +104,10 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
+
+## References
+
+- [Cross Promotion](references/cross-promotion.md)
+- [Performance Tracking](references/performance-tracking.md)
+- [Platform Optimization](references/platform-optimization.md)
+- [Publishing Schedules](references/publishing-schedules.md)

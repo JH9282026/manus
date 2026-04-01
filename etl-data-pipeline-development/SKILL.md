@@ -327,3 +327,10 @@ with DAG(
 **`/references/tools-platforms.md`** — Read when selecting tools and technologies, comparing orchestration platforms (Airflow, Prefect, Dagster), choosing processing engines (Spark, Flink, dbt), evaluating data integration tools (Airbyte, Fivetran), or working with cloud-native services (AWS Glue, Azure Data Factory, Google Dataflow).
 
 **`/references/best-practices-optimization.md`** — Read when optimizing pipeline performance, implementing data quality frameworks, designing error handling and retry logic, setting up monitoring and alerting, ensuring security and compliance, or troubleshooting common pipeline issues.
+
+## References
+
+- [Best Practices Optimization](references/best-practices-optimization.md)
+- [Etl Fundamentals](references/etl-fundamentals.md)
+- [Pipeline Architecture](references/pipeline-architecture.md)
+- [Tools Platforms](references/tools-platforms.md)

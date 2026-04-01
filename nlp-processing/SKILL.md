@@ -102,3 +102,9 @@ Natural Language Processing enables computers to understand, interpret, and gene
 - Ignoring computational costs
 - Not considering model bias
 
+## References
+
+- [Classification](references/classification.md)
+- [Embeddings](references/embeddings.md)
+- [Preprocessing](references/preprocessing.md)
+- [Sequence Labeling](references/sequence-labeling.md)

@@ -297,3 +297,23 @@ Enterprise applications serve organizations with complex operational requirement
 ## Conclusion
 
 *See [detailed conclusion](references/web-application-design/conclusion.md)*
+
+## References
+
+- [Admin Panel Design](references/admin-panel-design.md)
+- [Common Web App Design Mistakes](references/common-web-app-design-mistakes.md)
+- [Conclusion](references/conclusion.md)
+- [Real Time And Collaborative Features](references/real-time-and-collaborative-features.md)
+- [Web App Best Practices](references/web-app-best-practices.md)
+- [Web App Data Tables And Grids](references/web-app-data-tables-and-grids.md)
+- [Web App Design Patterns](references/web-app-design-patterns.md)
+- [Web App Design Tools And Workflow](references/web-app-design-tools-and-workflow.md)
+- [Web App Forms And Validation](references/web-app-forms-and-validation.md)
+- [Web App Information Architecture](references/web-app-information-architecture.md)
+- [Web App Navigation Patterns](references/web-app-navigation-patterns.md)
+- [Web App Notifications And Alerts](references/web-app-notifications-and-alerts.md)
+- [Web App Onboarding](references/web-app-onboarding.md)
+- [Web App Search And Filtering](references/web-app-search-and-filtering.md)
+- [Web App Settings And Preferences](references/web-app-settings-and-preferences.md)
+- [Web App States](references/web-app-states.md)
+- [Web App Workflows And User Flows](references/web-app-workflows-and-user-flows.md)

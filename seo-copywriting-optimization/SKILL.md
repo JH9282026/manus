@@ -50,3 +50,11 @@ This skill provides comprehensive guidance and best practices for this domain.
 - Rank tracking tools for position monitoring
 - Internal linking analysis tools
 - Content audit platforms for refresh prioritization
+
+## References
+
+- [01 Seo Copywriting Fundamentals](references/01-seo-copywriting-fundamentals.md)
+- [02 Keyword Research Strategy](references/02-keyword-research-strategy.md)
+- [03 On Page Seo Optimization](references/03-on-page-seo-optimization.md)
+- [04 Content Types Formats](references/04-content-types-formats.md)
+- [05 Advanced Seo Techniques](references/05-advanced-seo-techniques.md)

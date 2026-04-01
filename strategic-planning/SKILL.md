@@ -248,3 +248,10 @@ Track strategic performance using multiple perspectives:
 **`/references/strategic-initiatives.md`** — Read when translating strategy into action, implementing strategic programs, managing strategic projects, or executing strategic change. Provides detailed implementation methodology, program management approaches, change management integration, and execution best practices.
 
 **`/references/performance-measurement.md`** — Read when establishing KPIs, tracking strategic progress, building performance dashboards, or evaluating strategic outcomes. Covers KPI development, measurement frameworks, dashboard design, and performance review processes.
+
+## References
+
+- [Performance Measurement](references/performance-measurement.md)
+- [Planning Frameworks](references/planning-frameworks.md)
+- [Scenario Planning](references/scenario-planning.md)
+- [Strategic Initiatives](references/strategic-initiatives.md)

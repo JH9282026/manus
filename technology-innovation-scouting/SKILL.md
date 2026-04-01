@@ -272,3 +272,10 @@ Deploy this skill when:
 - Porter's Five Forces for competitive analysis
 - Real options framework for technology investment
 - Stage-gate evaluation for opportunity assessment
+
+## References
+
+- [Ai Driven Scouting Tools](references/ai-driven-scouting-tools.md)
+- [Innovation Scouting Frameworks](references/innovation-scouting-frameworks.md)
+- [Startup Ecosystem Engagement](references/startup-ecosystem-engagement.md)
+- [Technology Trends Analysis](references/technology-trends-analysis.md)

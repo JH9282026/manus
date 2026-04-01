@@ -475,3 +475,10 @@ See `/references/total-rewards.md` for comprehensive total rewards framework.
 **`/references/benefits-design.md`** — Read when designing or optimizing benefits packages, addressing diverse employee needs, or creating wellness programs. Covers core benefits, supplemental offerings, and benefits strategy.
 
 **`/references/total-rewards.md`** — Read when building comprehensive employee value propositions, communicating total compensation, or integrating all rewards components. Includes total rewards frameworks and communication strategies.
+
+## References
+
+- [Benefits Design](references/benefits-design.md)
+- [Compensation Strategy](references/compensation-strategy.md)
+- [Job Evaluation](references/job-evaluation.md)
+- [Total Rewards](references/total-rewards.md)

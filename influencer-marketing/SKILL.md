@@ -452,3 +452,11 @@ CPA = Total Campaign Cost / Number of Conversions
 **`/references/contract-templates.md`** — Read when creating influencer agreements, including terms, deliverables, and FTC compliance language.
 
 **`/references/measurement-guide.md`** — Read when setting up tracking, attribution, and ROI measurement for influencer campaigns.
+
+## References
+
+- [01 Influencer Marketing Strategy Fundamentals](references/01_influencer-marketing-strategy-fundamentals.md)
+- [02 Influencer Discovery Vetting Platforms](references/02_influencer-discovery-vetting-platforms.md)
+- [03 Roi Measurement Attribution Analytics](references/03_roi-measurement-attribution-analytics.md)
+- [04 Micro Vs Macro Influencer Strategy](references/04_micro-vs-macro-influencer-strategy.md)
+- [05 Campaign Management Execution Workflow](references/05_campaign-management-execution-workflow.md)

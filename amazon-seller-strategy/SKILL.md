@@ -233,3 +233,9 @@ Minimum Price = COGS + FBA Fees + Referral Fee + Target Profit Margin
 **`/references/listing-ppc-strategies.md`** — Read when creating product listings, optimizing A+ content, setting up PPC campaigns, or improving conversion rates and advertising ROI.
 
 **`/references/inventory-pricing-management.md`** — Read when forecasting inventory needs, implementing repricing strategies, managing cash flow, or preventing stockouts and overstock situations.
+
+## References
+
+- [Fba Optimization 2026](references/fba-optimization-2026.md)
+- [Inventory Pricing Management](references/inventory-pricing-management.md)
+- [Listing Ppc Strategies](references/listing-ppc-strategies.md)

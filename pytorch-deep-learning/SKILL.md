@@ -350,3 +350,7 @@ torchserve --start --model-store model_store --models my_model=my_model.mar
 6. **Deployment**: TorchServe, ONNX, mobile
 
 See `references/` for advanced techniques, distributed training guides, and deployment strategies.
+
+## References
+
+- [Distributed Training](references/distributed-training.md)

@@ -187,3 +187,10 @@ A manufacturing company needs architecture for industrial IoT platform. The skil
 - Performance projections require load testing validation
 - Security assessments may require penetration testing
 - Capacity planning requires real usage data for accuracy
+
+## References
+
+- [01 Fundamentals Of System Architecture](references/01-fundamentals-of-system-architecture.md)
+- [02 Microservices Design Patterns](references/02-microservices-design-patterns.md)
+- [03 Cloud Native Architecture](references/03-cloud-native-architecture.md)
+- [04 Enterprise Integration Patterns](references/04-enterprise-integration-patterns.md)

@@ -223,3 +223,10 @@ Security architecture in 2026 centers on Zero Trust ("never trust, always verify
 **`/references/identity-security-deep-dive.md`** — Read when strengthening identity controls, implementing MFA/PAM, or adopting passwordless authentication.
 
 **`/references/security-monitoring-siem.md`** — Read when establishing security operations, implementing SIEM/SOAR, or building detection capabilities.
+
+## References
+
+- [Identity Security Deep Dive](references/identity-security-deep-dive.md)
+- [Microsegmentation Strategies](references/microsegmentation-strategies.md)
+- [Security Monitoring Siem](references/security-monitoring-siem.md)
+- [Zero Trust Implementation](references/zero-trust-implementation.md)

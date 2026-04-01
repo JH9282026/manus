@@ -481,3 +481,9 @@ Custom steel-rule dies cut paper into unique shapes. Applications include:
 Print design and production requires mastery of technical specifications, material properties, and production processes that have no direct equivalent in digital design. Success depends on understanding color management, resolution requirements, proper file preparation, and effective communication with print vendors. By following established best practices and staying current with finishing techniques, designers can produce high-quality printed materials that effectively communicate their message while meeting production requirements.
 
 The transition from screen to print demands attention to detail at every stage—from initial color mode selection through final finishing specifications. Investing time in proper prepress preparation and proofing prevents costly errors and ensures the final printed piece matches your creative vision.
+
+## References
+
+- [Print Design Fundamentals](references/print-design-fundamentals.md)
+- [Print File Preparation](references/print-file-preparation.md)
+- [Print Finishing Techniques](references/print-finishing-techniques.md)

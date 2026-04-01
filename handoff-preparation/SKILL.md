@@ -424,3 +424,10 @@ Congratulations! Your design workflow is complete:
 6. ✅ Delivery
 
 The design is now ready for implementation!
+
+## References
+
+- [Design Qa And Review](references/design-qa-and-review.md)
+- [Documentation And Specifications](references/documentation-and-specifications.md)
+- [Fundamentals And Principles](references/fundamentals-and-principles.md)
+- [Tools And Workflows](references/tools-and-workflows.md)

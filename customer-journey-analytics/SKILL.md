@@ -376,3 +376,10 @@ Turn insights into action:
 **`/references/journey-mapping.md`** — Read when you need to create visual customer journey maps, understand journey mapping methodologies, define personas, or facilitate journey mapping workshops with stakeholders.
 
 **`/references/analytics-platforms.md`** — Read when evaluating and selecting journey analytics platforms, understanding platform capabilities and differences, or implementing specific analytics tools for your organization.
+
+## References
+
+- [Analytics Platforms](references/analytics-platforms.md)
+- [Journey Mapping](references/journey-mapping.md)
+- [Optimization Strategies](references/optimization-strategies.md)
+- [Touchpoint Analysis](references/touchpoint-analysis.md)

@@ -470,3 +470,11 @@ Check:
 - **Previous**: `typography.md` - Line heights inform rhythm
 - **Previous**: `layout_grids.md` - Grid gutters align with spacing
 - **Next**: `component_design.md` - Apply spacing to components
+
+## References
+
+- [01 Vertical Rhythm Fundamentals](references/01_vertical_rhythm_fundamentals.md)
+- [02 8Point Grid System](references/02_8point_grid_system.md)
+- [03 Typography Spacing Principles](references/03_typography_spacing_principles.md)
+- [04 Spacing Systems Design Tokens](references/04_spacing_systems_design_tokens.md)
+- [05 Practical Application Examples](references/05_practical_application_examples.md)

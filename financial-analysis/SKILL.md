@@ -329,3 +329,10 @@ Scores company on 9 criteria (0-9 scale).
 **`/references/cash-flow-analysis.md`** — Read when evaluating cash flow quality, analyzing operating/investing/financing cash flows, assessing free cash flow generation, identifying cash flow red flags, or understanding the relationship between earnings and cash flow.
 
 **`/references/forecasting-techniques.md`** — Read when building financial models, developing revenue and expense forecasts, projecting balance sheets and cash flows, conducting scenario and sensitivity analysis, or creating valuation models based on projected financials.
+
+## References
+
+- [Cash Flow Analysis](references/cash-flow-analysis.md)
+- [Financial Statements](references/financial-statements.md)
+- [Forecasting Techniques](references/forecasting-techniques.md)
+- [Ratio Analysis](references/ratio-analysis.md)

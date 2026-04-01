@@ -456,3 +456,10 @@ selector = {
 ---
 
 **Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.
+
+## References
+
+- [Api Endpoints Reference](references/api-endpoints-reference.md)
+- [Automation Examples](references/automation-examples.md)
+- [Python Sdk Guide](references/python-sdk-guide.md)
+- [Reporting Guide](references/reporting-guide.md)

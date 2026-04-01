@@ -407,3 +407,10 @@ Build accessibility into the foundation:
 **`/references/design-tokens.md`** — Read when implementing design tokens, setting up multi-brand/multi-theme systems, establishing naming conventions, or configuring token distribution pipelines. Covers token types, transformation tools, platform-specific exports, and advanced token strategies.
 
 **`/references/documentation-governance.md`** — Read when creating design system documentation, establishing governance processes, setting up contribution workflows, or building design system teams. Includes documentation templates, governance models, versioning strategies, and team structure recommendations.
+
+## References
+
+- [Component Libraries](references/component-libraries.md)
+- [Design Tokens](references/design-tokens.md)
+- [Documentation Governance](references/documentation-governance.md)
+- [System Architecture](references/system-architecture.md)

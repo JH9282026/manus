@@ -104,3 +104,10 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
+
+## References
+
+- [Industry Frameworks](references/industry-frameworks.md)
+- [Nist Guidelines](references/nist-guidelines.md)
+- [Owasp Top 10](references/owasp-top-10.md)
+- [Ptes Framework](references/ptes-framework.md)

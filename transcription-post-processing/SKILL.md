@@ -104,3 +104,10 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
+
+## References
+
+- [Content Repurposing](references/content-repurposing.md)
+- [Editing Techniques](references/editing-techniques.md)
+- [Subtitle Creation](references/subtitle-creation.md)
+- [Timestamp Formatting](references/timestamp-formatting.md)

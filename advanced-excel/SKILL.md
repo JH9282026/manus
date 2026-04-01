@@ -481,3 +481,10 @@ End Sub
 **`/references/vba-automation.md`** — Read when automating repetitive tasks, building custom functions, or creating user forms.
 
 **`/references/dashboard-examples.md`** — Read when designing dashboards, implementing interactivity, or looking for layout inspiration.
+
+## References
+
+- [Dashboard Examples](references/dashboard-examples.md)
+- [Dax Comprehensive](references/dax-comprehensive.md)
+- [Power Query Advanced](references/power-query-advanced.md)
+- [Vba Automation](references/vba-automation.md)

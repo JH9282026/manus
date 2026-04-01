@@ -210,3 +210,10 @@ This skill provides frameworks for planning, executing, and optimizing CTV adver
 **`/references/measurement-attribution.md`** — Read when setting up attribution tracking, analyzing campaign performance, or implementing advanced measurement strategies.
 
 **`/references/programmatic-ctv.md`** — Read when buying CTV inventory programmatically, setting up DSP campaigns, or optimizing programmatic performance.
+
+## References
+
+- [Creative Production](references/creative-production.md)
+- [Measurement Attribution](references/measurement-attribution.md)
+- [Platform Buying Guides](references/platform-buying-guides.md)
+- [Programmatic Ctv](references/programmatic-ctv.md)

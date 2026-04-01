@@ -424,3 +424,10 @@ Offer multiple locomotion options with comfort settings:
 **`/references/performance-optimization.md`** — Read when profiling VR performance, optimizing for 90Hz+ frame rates, implementing foveated rendering and stereo instancing, reducing draw calls and overdraw, or debugging thermal throttling and frame drops on standalone headsets.
 
 **`/references/user-comfort-accessibility.md`** — Read when implementing comfort settings (vignetting, snap turn, teleportation), designing locomotion systems to prevent motion sickness, optimizing UI readability and viewing distances, creating accessibility options (seated mode, reduced physicality), or conducting user testing for comfort validation.
+
+## References
+
+- [Interaction Design](references/interaction-design.md)
+- [Performance Optimization](references/performance-optimization.md)
+- [User Comfort Accessibility](references/user-comfort-accessibility.md)
+- [Vr Platforms Hardware](references/vr-platforms-hardware.md)

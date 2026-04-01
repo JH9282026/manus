@@ -369,3 +369,10 @@ Evaluate:
 **`/references/partnership-strategy.md`** — Read when developing partnership strategy, identifying potential partners, evaluating partnership opportunities, building business cases, and creating partnership frameworks for your organization.
 
 **`/references/negotiation-frameworks.md`** — Read when preparing for partnership negotiations, structuring deals, navigating complex multi-party agreements, resolving conflicts, and developing negotiation skills for partnership discussions.
+
+## References
+
+- [Activation Measurement](references/activation-measurement.md)
+- [Case Studies](references/case-studies.md)
+- [Negotiation Frameworks](references/negotiation-frameworks.md)
+- [Partnership Strategy](references/partnership-strategy.md)

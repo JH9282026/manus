@@ -284,3 +284,9 @@ Illustration skills develop through continuous practice and learning. Study fund
 ## Conclusion
 
 Illustration and digital art represent the creative heart of visual communication, offering unique capabilities for storytelling, brand expression, and emotional connection that other visual formats cannot match. Mastering illustration requires developing technical skills across styles and techniques while cultivating personal creative vision. Whether creating editorial concepts, character designs, user interface elements, or sequential narratives, illustrators transform ideas into visual experiences that inform, engage, and inspire audiences across every medium and application.
+
+## References
+
+- [Digital Illustration Fundamentals](references/digital-illustration-fundamentals.md)
+- [Illustration Styles Techniques](references/illustration-styles-techniques.md)
+- [Illustration Tools Software](references/illustration-tools-software.md)

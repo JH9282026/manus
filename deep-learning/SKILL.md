@@ -122,3 +122,10 @@ Attention-based architecture for parallel sequence processing.
 - Mixed precision (FP16) for 2-3x speedup
 - Multi-GPU training with DistributedDataParallel
 - Gradient accumulation for larger effective batch sizes
+
+## References
+
+- [Cnn Guide](references/cnn-guide.md)
+- [Rnn Guide](references/rnn-guide.md)
+- [Training Guide](references/training-guide.md)
+- [Transformer Guide](references/transformer-guide.md)

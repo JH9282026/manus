@@ -181,3 +181,11 @@ A European company evaluating US market entry needs to understand sector-specifi
 - Speed of regulatory change may outpace monitoring intervals
 - Multi-language regulatory environments require translation accuracy verification
 - Political and policy factors influencing regulatory outcomes difficult to predict
+
+## References
+
+- [Compliance Monitoring Techniques](references/compliance-monitoring-techniques.md)
+- [Enforcement And Penalties](references/enforcement-and-penalties.md)
+- [Industry Specific Regulations](references/industry-specific-regulations.md)
+- [Regulatory Change Management](references/regulatory-change-management.md)
+- [Regulatory Frameworks Overview](references/regulatory-frameworks-overview.md)

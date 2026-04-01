@@ -89,3 +89,7 @@ creative_data = {
 **`/references/instagram-creative-specs.md`** — Read for complete creative specifications for all Instagram placements.
 
 **`/references/instagram-best-practices.md`** — Read for platform-specific optimization strategies and content guidelines.
+
+## References
+
+- [Instagram Creative Specs](references/instagram-creative-specs.md)

@@ -272,3 +272,11 @@ Deploy this skill when:
 - API costs for high-volume data access
 - Influencer database subscriptions
 - Custom sentiment model training data
+
+## References
+
+- [Crisis Monitoring Management](references/crisis-monitoring-management.md)
+- [Data Collection Tools Apis](references/data-collection-tools-apis.md)
+- [Influencer Network Analysis](references/influencer-network-analysis.md)
+- [Research Methodology Frameworks](references/research-methodology-frameworks.md)
+- [Sentiment Analysis Techniques](references/sentiment-analysis-techniques.md)

@@ -456,3 +456,10 @@ This statement was last updated on [date].
 ---
 
 **Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.
+
+## References
+
+- [Compliance Documentation](references/compliance-documentation.md)
+- [Implementation Patterns](references/implementation-patterns.md)
+- [Testing Tools](references/testing-tools.md)
+- [Wcag Guidelines](references/wcag-guidelines.md)

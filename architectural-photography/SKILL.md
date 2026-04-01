@@ -156,3 +156,10 @@ Architectural photography requires technical expertise to overcome perspective d
 **`/references/exterior-techniques.md`** — Read when photographing building exteriors, mastering twilight photography, and capturing architectural details and context.
 
 **`/references/interior-architecture.md`** — Read when shooting architectural interiors, balancing mixed lighting, and creating professional interior architectural images.
+
+## References
+
+- [Exterior Techniques](references/exterior-techniques.md)
+- [Interior Architecture](references/interior-architecture.md)
+- [Perspective Correction](references/perspective-correction.md)
+- [Tilt Shift Mastery](references/tilt-shift-mastery.md)

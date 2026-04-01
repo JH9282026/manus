@@ -251,3 +251,9 @@ Predictive analytics combines statistical techniques and machine learning algori
 **`/references/feature-engineering-techniques.md`** — Read when creating features from raw data, handling categorical variables, or engineering time-based features.
 
 **`/references/model-deployment-patterns.md`** — Read when deploying models to production, setting up APIs, or implementing monitoring and retraining strategies.
+
+## References
+
+- [Algorithm Selection Guide](references/algorithm-selection-guide.md)
+- [Feature Engineering Techniques](references/feature-engineering-techniques.md)
+- [Model Deployment Patterns](references/model-deployment-patterns.md)

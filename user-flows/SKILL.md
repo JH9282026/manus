@@ -461,3 +461,11 @@ For the [FLOW NAME] flow, design error handling:
 - **Previous**: `user_personas.md` - Know who flows are for
 - **Next**: `information_architecture.md` - Structure the navigation
 - **Next**: `wireframing.md` - Sketch the screens identified
+
+## References
+
+- [01 User Flow Fundamentals](references/01_user_flow_fundamentals.md)
+- [02 Creating User Flow Diagrams](references/02_creating_user_flow_diagrams.md)
+- [03 User Flow Optimization](references/03_user_flow_optimization.md)
+- [04 User Flows Vs Journey Maps](references/04_user_flows_vs_journey_maps.md)
+- [05 User Flow Best Practices](references/05_user_flow_best_practices.md)

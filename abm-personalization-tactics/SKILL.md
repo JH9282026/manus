@@ -104,3 +104,10 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
+
+## References
+
+- [Account Specific Content](references/account-specific-content.md)
+- [Multi Channel Engagement](references/multi-channel-engagement.md)
+- [Personalization Strategies](references/personalization-strategies.md)
+- [Stakeholder Messaging](references/stakeholder-messaging.md)

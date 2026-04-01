@@ -462,3 +462,10 @@ Success on the PMP exam requires thinking like PMI, which may differ from your o
 ---
 
 **Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.
+
+## References
+
+- [Exam Structure Strategy](references/exam-structure-strategy.md)
+- [Pmbok Guide Overview](references/pmbok-guide-overview.md)
+- [Practice Tips](references/practice-tips.md)
+- [Study Resources](references/study-resources.md)

@@ -398,3 +398,8 @@ Autodesk Maya is a comprehensive 3D graphics software widely recognized as an in
 ## Advanced Techniques
 
 ### Motion Trails
+
+## References
+
+- [Animation Techniques](references/animation-techniques.md)
+- [Rigging Fundamentals](references/rigging-fundamentals.md)

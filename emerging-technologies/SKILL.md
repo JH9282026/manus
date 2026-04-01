@@ -456,3 +456,7 @@ Devices → Edge Node (nearby) → Processing → Immediate Response
 ---
 
 **Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.
+
+## References
+
+- [Quantum Computing Deep Dive](references/quantum-computing-deep-dive.md)

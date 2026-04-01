@@ -370,3 +370,10 @@ The one metric that best captures core value delivered to customers.
 **`/references/product-led-growth.md`** — Read when implementing freemium models, self-service onboarding, or product-driven acquisition.
 
 **`/references/growth-case-studies.md`** — Read when seeking inspiration from successful growth hacking examples across different industries.
+
+## References
+
+- [Case Studies And Examples](references/case-studies-and-examples.md)
+- [Fundamentals And Strategies](references/fundamentals-and-strategies.md)
+- [Metrics And Analytics](references/metrics-and-analytics.md)
+- [Tools And Automation](references/tools-and-automation.md)

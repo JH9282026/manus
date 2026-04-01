@@ -403,3 +403,11 @@ Available in `keras.applications`:
 5. **Production**: Model saving, deployment, monitoring
 
 See `references/` for advanced patterns, custom training loops, and deployment guides.
+
+## References
+
+- [Advanced Architectures](references/advanced-architectures.md)
+- [Callbacks Regularization](references/callbacks-regularization.md)
+- [Deployment Production](references/deployment-production.md)
+- [Keras Fundamentals Architecture](references/keras-fundamentals-architecture.md)
+- [Model Training Optimization](references/model-training-optimization.md)

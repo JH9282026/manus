@@ -115,3 +115,7 @@ Based on the wireframes for [PROJECT], list all UI components needed:
 
 **`/references/prompts_and_templates.md`** — Prompts library and component specification templates.
 
+## References
+
+- [Component Examples](references/component_examples.md)
+- [Prompts And Templates](references/prompts_and_templates.md)

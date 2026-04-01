@@ -104,3 +104,10 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
+
+## References
+
+- [Ab Testing Frameworks](references/ab-testing-frameworks.md)
+- [Budget Management](references/budget-management.md)
+- [Campaign Optimization Strategies](references/campaign-optimization-strategies.md)
+- [Kpi Tracking Metrics](references/kpi-tracking-metrics.md)

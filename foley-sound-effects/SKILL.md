@@ -460,3 +460,10 @@ Foley originated with **Jack Donovan Foley** at Universal Studios in the late 19
 ---
 
 **Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.
+
+## References
+
+- [Foley Techniques](references/foley-techniques.md)
+- [Prop Materials](references/prop-materials.md)
+- [Recording Setup](references/recording-setup.md)
+- [Sync Mixing](references/sync-mixing.md)

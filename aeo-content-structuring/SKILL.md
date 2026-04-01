@@ -104,3 +104,10 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
+
+## References
+
+- [Content Formatting](references/content-formatting.md)
+- [Faq Optimization](references/faq-optimization.md)
+- [Question Targeting](references/question-targeting.md)
+- [Schema For Aeo](references/schema-for-aeo.md)

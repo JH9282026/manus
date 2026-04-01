@@ -327,3 +327,10 @@ This skill is essential for SaaS founders, executives, and operators seeking to 
 - **SOC 2**: Data handling should align with SOC 2 compliance requirements if applicable
 - **Investor Relations**: Metrics shared externally must be accurate and consistently calculated
 - **Data Security**: Billing and customer data requires secure storage and transmission
+
+## References
+
+- [Saas Financial Planning](references/saas-financial-planning.md)
+- [Saas Growth Strategies](references/saas-growth-strategies.md)
+- [Saas Metrics Kpis](references/saas-metrics-kpis.md)
+- [Saas Pricing Models](references/saas-pricing-models.md)

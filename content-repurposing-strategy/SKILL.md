@@ -104,3 +104,10 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
+
+## References
+
+- [Channel Mapping](references/channel-mapping.md)
+- [Format Adaptation](references/format-adaptation.md)
+- [Repurposing Frameworks](references/repurposing-frameworks.md)
+- [Roi Analysis](references/roi-analysis.md)

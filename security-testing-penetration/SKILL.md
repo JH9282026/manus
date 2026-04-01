@@ -280,3 +280,10 @@ Consider beyond technical severity:
 **`/references/tools-techniques.md`** — Read when selecting security testing tools, learning tool-specific techniques, performing network scanning, web application testing, exploitation, password cracking, wireless security testing, or setting up a testing environment.
 
 **`/references/reporting-remediation.md`** — Read when documenting security findings, creating penetration test reports, writing executive summaries, providing remediation guidance, prioritizing vulnerabilities, communicating with stakeholders, or conducting re-testing and verification.
+
+## References
+
+- [Penetration Testing Methodology](references/penetration-testing-methodology.md)
+- [Reporting Remediation](references/reporting-remediation.md)
+- [Security Testing Fundamentals](references/security-testing-fundamentals.md)
+- [Tools Techniques](references/tools-techniques.md)

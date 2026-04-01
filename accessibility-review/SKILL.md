@@ -425,3 +425,10 @@ Accessibility Review ensures designs meet WCAG guidelines and are usable by peop
 - **Previous**: `color_palettes.md` - Define accessible colors from start
 - **Related**: `design_review.md` - Include accessibility in review
 - **Next**: `design_iteration.md` - Fix accessibility issues
+
+## References
+
+- [Accessibility Audit Process](references/accessibility-audit-process.md)
+- [Aria Best Practices](references/aria-best-practices.md)
+- [Assistive Technology Testing](references/assistive-technology-testing.md)
+- [Wcag Compliance Standards](references/wcag-compliance-standards.md)

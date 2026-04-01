@@ -122,3 +122,10 @@ Add fine surface details and textures:
 **`/references/detailing-texturing.md`** — Read when adding surface details, setting up PolyPaint workflows, creating custom alphas and brushes, projecting textures with Spotlight, or preparing color information for export.
 
 **`/references/workflow-optimization.md`** — Read when preparing models for production, performing retopology, optimizing mesh density, creating UV maps, exporting to other applications, or establishing efficient project pipelines.
+
+## References
+
+- [Detailing Texturing](references/detailing-texturing.md)
+- [Sculpting Techniques](references/sculpting-techniques.md)
+- [Workflow Optimization](references/workflow-optimization.md)
+- [Zbrush Fundamentals](references/zbrush-fundamentals.md)

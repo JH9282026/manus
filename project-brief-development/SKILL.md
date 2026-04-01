@@ -411,3 +411,11 @@ If required inputs are unavailable:
 ---
 
 *This skill document version 1.0 | Last updated: March 2026 | Compatible with Manus.im Agent Framework v2.x+*
+
+## References
+
+- [Brief Best Practices](references/brief_best_practices.md)
+- [Brief Components Templates](references/brief_components_templates.md)
+- [Brief Creation Process](references/brief_creation_process.md)
+- [Brief Vs Other Documents](references/brief_vs_other_documents.md)
+- [Project Brief Fundamentals](references/project_brief_fundamentals.md)

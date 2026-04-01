@@ -14,3 +14,11 @@ Modern customer success combines technology, process, and human touch to drive r
 ## Using the Reference Files
 
 Reference files provide detailed implementation guidance, templates, and advanced techniques for this skill.
+
+## References
+
+- [Expansion Strategies](references/expansion-strategies.md)
+- [Health Scoring Frameworks](references/health-scoring-frameworks.md)
+- [Onboarding Excellence](references/onboarding-excellence.md)
+- [Playbook Templates](references/playbook-templates.md)
+- [Qbr Execution Guide](references/qbr-execution-guide.md)

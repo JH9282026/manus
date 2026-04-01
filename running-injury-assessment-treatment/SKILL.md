@@ -175,3 +175,11 @@ A marathoner with 4 weeks until goal race reports anterior knee pain of 2 weeks 
 - Training log for tracking mileage, intensity, and symptom patterns
 - Pain diary noting daily ratings, aggravating factors, and treatment response
 - Camera for recording movement patterns and progress over time
+
+## References
+
+- [01 Common Running Injuries](references/01-common-running-injuries.md)
+- [02 Biomechanical Assessment Gait Analysis](references/02-biomechanical-assessment-gait-analysis.md)
+- [03 Treatment Rehabilitation Protocols](references/03-treatment-rehabilitation-protocols.md)
+- [04 Injury Prevention Strategies](references/04-injury-prevention-strategies.md)
+- [05 Return To Running Protocols](references/05-return-to-running-protocols.md)

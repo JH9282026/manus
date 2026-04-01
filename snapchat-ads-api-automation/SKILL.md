@@ -260,3 +260,7 @@ stats = response.json()
 **`/references/snapchat-api-examples.md`** — Read when building automation scripts.
 
 **`/references/snapchat-api-best-practices.md`** — Read when optimizing API usage or scaling automation.
+
+## References
+
+- [Snapchat Api Endpoints](references/snapchat-api-endpoints.md)

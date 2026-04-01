@@ -298,3 +298,10 @@ Use CodePush or Expo Updates for JavaScript bundle updates without app store rev
 **`/references/performance-guide.md`** — Read when optimizing app performance, reducing bundle size, or debugging performance issues.
 
 **`/references/troubleshooting.md`** — Read when encountering build errors, runtime issues, or platform-specific problems.
+
+## References
+
+- [Navigation Guide](references/navigation-guide.md)
+- [Performance Guide](references/performance-guide.md)
+- [React Patterns Guide](references/react-patterns-guide.md)
+- [Troubleshooting](references/troubleshooting.md)

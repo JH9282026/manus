@@ -272,3 +272,11 @@ Evaluate quality, performance impact, and licensing before integration.
 **`/references/unity-deployment-guide.md`** — Read when preparing builds for specific platforms, configuring platform-specific settings, or troubleshooting build errors and deployment issues.
 
 **`/references/unity-advanced-topics.md`** — Read when exploring DOTS, custom shaders, advanced multiplayer architectures, or integrating third-party SDKs and services.
+
+## References
+
+- [Unity Advanced Topics](references/unity-advanced-topics.md)
+- [Unity Deployment Guide](references/unity-deployment-guide.md)
+- [Unity Physics Animation](references/unity-physics-animation.md)
+- [Unity Rendering Optimization](references/unity-rendering-optimization.md)
+- [Unity Scripting Guide](references/unity-scripting-guide.md)

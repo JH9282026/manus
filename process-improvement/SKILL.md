@@ -456,3 +456,10 @@ Use **Impact-Effort Matrix**:
 ---
 
 **Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.
+
+## References
+
+- [Automation Optimization](references/automation-optimization.md)
+- [Continuous Improvement](references/continuous-improvement.md)
+- [Lean Six Sigma](references/lean-six-sigma.md)
+- [Process Mapping](references/process-mapping.md)

@@ -383,3 +383,10 @@ Systematic approach to identifying patterns:
 **`/references/stakeholder-management.md`** — Read when aligning with stakeholders, presenting findings, or building research culture. Covers communication strategies and influence techniques.
 
 **`/references/research-operations.md`** — Read when scaling research, building repositories, or establishing research processes. Includes tools, templates, and operational best practices.
+
+## References
+
+- [Research Methods](references/research-methods.md)
+- [Research Operations](references/research-operations.md)
+- [Stakeholder Management](references/stakeholder-management.md)
+- [Synthesis Analysis](references/synthesis-analysis.md)

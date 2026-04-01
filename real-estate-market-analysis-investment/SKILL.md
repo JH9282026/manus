@@ -185,3 +185,10 @@ This skill serves as the analytical foundation for real estate investment decisi
 - **Financial System:** Integration with investor reporting and portfolio management systems
 - **Document Management:** Access to data rooms and document storage for due diligence materials
 - **Mapping Services:** Integration with GIS and mapping tools for location analysis
+
+## References
+
+- [Due Diligence Risk Assessment](references/due-diligence-risk-assessment.md)
+- [Investment Metrics Analysis](references/investment-metrics-analysis.md)
+- [Market Trends Demographics](references/market-trends-demographics.md)
+- [Property Valuation Methods](references/property-valuation-methods.md)

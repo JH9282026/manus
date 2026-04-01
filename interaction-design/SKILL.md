@@ -456,3 +456,10 @@ Review these interactions for [PROJECT]:
 - **Previous**: `component_design.md` - Components to animate
 - **Related**: `mobile_app_design.md` - Platform-specific interactions
 - **Next**: `design_review.md` - Include interactions in review
+
+## References
+
+- [Design Principles](references/design-principles.md)
+- [Interaction Patterns](references/interaction-patterns.md)
+- [Prototyping Tools](references/prototyping-tools.md)
+- [Usability Testing](references/usability-testing.md)

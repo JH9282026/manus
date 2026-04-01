@@ -289,3 +289,11 @@ Deploy this skill when developing communications strategy, launching media campa
 - Cultural and geographic considerations
 - Political and economic context
 - Technology and communication trends
+
+## References
+
+- [Crisis Communications Management](references/crisis_communications_management.md)
+- [Internal Communications Strategies](references/internal_communications_strategies.md)
+- [Measurement Evaluation Frameworks](references/measurement_evaluation_frameworks.md)
+- [Media Relations Strategies](references/media_relations_strategies.md)
+- [Pr Fundamentals Overview](references/pr_fundamentals_overview.md)

@@ -456,3 +456,10 @@ Layer sounds occupying different frequency ranges.
 ---
 
 **Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.
+
+## References
+
+- [Creative Sound Design](references/creative-sound-design.md)
+- [Sampling And Processing](references/sampling-and-processing.md)
+- [Sound Design Tools](references/sound-design-tools.md)
+- [Synthesis Techniques Deep Dive](references/synthesis-techniques-deep-dive.md)

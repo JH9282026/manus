@@ -388,3 +388,9 @@ OKRs (Objectives and Key Results) is a goal-setting framework developed by Andy 
 **`/references/tracking-and-scoring.md`** — Read when establishing check-in processes, scoring methodologies, or creating OKR dashboards and reports.
 
 **`/references/advanced-practices.md`** — Read when scaling OKRs across large organizations, integrating with other frameworks, or optimizing mature OKR programs.
+
+## References
+
+- [Implementation Guide](references/implementation-guide.md)
+- [Okr Examples](references/okr-examples.md)
+- [Tracking And Scoring](references/tracking-and-scoring.md)

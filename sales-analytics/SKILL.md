@@ -14,3 +14,11 @@ Modern sales analytics combines descriptive, diagnostic, predictive, and prescri
 ## Using the Reference Files
 
 Reference files provide detailed implementation guidance, templates, and advanced techniques for this skill.
+
+## References
+
+- [Ai Powered Insights](references/ai-powered-insights.md)
+- [Dashboard Design Templates](references/dashboard-design-templates.md)
+- [Forecasting Methodologies](references/forecasting-methodologies.md)
+- [Kpi Framework Guide](references/kpi-framework-guide.md)
+- [Pipeline Analytics](references/pipeline-analytics.md)

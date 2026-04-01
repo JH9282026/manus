@@ -22,3 +22,9 @@ description: ""Create and manage product roadmaps using prioritization framework
 **`/references/roadmap-creation-management.md`** — [When to read]
 
 **`/references/stakeholder-communication.md`** — [When to read]
+
+## References
+
+- [Prioritization Frameworks](references/prioritization-frameworks.md)
+- [Roadmap Creation Management](references/roadmap-creation-management.md)
+- [Stakeholder Communication](references/stakeholder-communication.md)

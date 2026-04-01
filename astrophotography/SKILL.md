@@ -452,3 +452,10 @@ Stacked images typically appear:
 **`/references/image-stacking.md`** — Read when processing captured images, learning stacking workflow, using calibration frames, or working with stacking software. Covers DeepSkyStacker and alternative software, calibration frame creation and use, stacking settings, and complete workflow from capture to stacked image.
 
 **`/references/deep-sky-imaging.md`** — Read when planning imaging sessions, selecting targets, optimizing exposure strategy, or learning advanced techniques. Covers target selection, exposure planning, filter use, multi-night imaging, narrowband techniques, and strategies for specific object types (nebulae, galaxies, clusters).
+
+## References
+
+- [Deep Sky Imaging](references/deep-sky-imaging.md)
+- [Equipment Setup](references/equipment-setup.md)
+- [Image Stacking](references/image-stacking.md)
+- [Sky Tracking](references/sky-tracking.md)

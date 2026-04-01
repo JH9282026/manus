@@ -481,3 +481,9 @@ class ModelCard:
 4. **Advanced**: Impact assessment, oversight mechanisms
 
 See `references/` for regulatory guides, case studies, and implementation templates.
+
+## References
+
+- [Ai Bias Mitigation](references/ai-bias-mitigation.md)
+- [Ethical Ai Principles](references/ethical-ai-principles.md)
+- [Responsible Ai Deployment](references/responsible-ai-deployment.md)

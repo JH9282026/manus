@@ -374,3 +374,9 @@ Blender is a free, open-source 3D creation suite supporting the entire 3D pipeli
 - Detailed characters with accessories
 - Complete environments
 - Production-ready game assets
+
+## References
+
+- [Advanced Techniques](references/advanced-techniques.md)
+- [Topology Guide](references/topology-guide.md)
+- [Workflow Optimization](references/workflow-optimization.md)
