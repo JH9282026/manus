@@ -88,16 +88,3 @@ Read when implementing Lean tools like VSM, 5S, Kanban, Kaizen events, and JIT p
 
 ### `/references/six-sigma-analysis.md`
 Read when applying statistical analysis, SPC, DOE, or hypothesis testing in Six Sigma projects.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Agile Improvement](./references/agile-improvement.md)
-- [Change Management](./references/change-management.md)
-- [Lean Methodology](./references/lean-methodology.md)
-- [Lean Six Sigma](./references/lean-six-sigma.md)
-- [Lean Tools](./references/lean-tools.md)
-- [Six Sigma Analysis](./references/six-sigma-analysis.md)
-- [Six Sigma](./references/six-sigma.md)
-- [Toc Bpr](./references/toc-bpr.md)

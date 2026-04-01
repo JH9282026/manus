@@ -42,10 +42,3 @@ This skill covers landing page types, hero section design, copywriting, form opt
 **`/references/landing-page-design.md`** — Read for page type details, hero design, copywriting, or visual layout.
 
 **`/references/conversion-optimization.md`** — Read for A/B testing, form optimization, CTA design, trust signals, or CRO strategy.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Conversion Optimization](./references/conversion-optimization.md)
-- [Landing Page Design](./references/landing-page-design.md)

@@ -86,13 +86,3 @@ Read when applying strategic frameworks (SWOT, Porter's, PESTEL, BCG, Value Chai
 
 ### `/references/data-sources.md`
 Read when identifying data sources for competitor research. Contains recommended sources, tools, and research methodology.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Competitor Profiling](./references/competitor-profiling.md)
-- [Data Sources](./references/data-sources.md)
-- [Frameworks](./references/frameworks.md)
-- [Market Analysis](./references/market-analysis.md)
-- [Strategic Frameworks](./references/strategic-frameworks.md)

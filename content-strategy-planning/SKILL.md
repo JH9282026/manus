@@ -59,10 +59,3 @@ Transform scattered content efforts into coordinated campaigns that build brand 
 **`/references/content-audit-methodology.md`** — Read when evaluating existing content or identifying gaps.
 
 **`/references/distribution-amplification.md`** — Read for channel strategy and promotion tactics.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Content Audit Methodology](./references/content-audit-methodology.md)
-- [Distribution Amplification](./references/distribution-amplification.md)

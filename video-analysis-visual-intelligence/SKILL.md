@@ -32,10 +32,3 @@ Choose your approach based on your specific needs:
 **`/references/analysis-techniques.md`** — Read when you need detailed information about computer vision methods, object detection, and scene recognition.
 
 **`/references/manipulation-workflows.md`** — Read when you need detailed information about video processing pipelines and automated editing workflows.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Analysis Techniques](./references/analysis-techniques.md)
-- [Manipulation Workflows](./references/manipulation-workflows.md)

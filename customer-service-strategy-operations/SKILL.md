@@ -80,10 +80,3 @@ Provide comprehensive service design, operational management, workforce optimiza
 **`/references/service-operations-management.md`** — Read when designing service operating models, implementing workforce management, or optimizing contact center operations.
 
 **`/references/quality-knowledge-management.md`** — Read when building QA programs, developing knowledge bases, or implementing knowledge-centered service (KCS) methodology.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Quality Knowledge Management](./references/quality-knowledge-management.md)
-- [Service Operations Management](./references/service-operations-management.md)

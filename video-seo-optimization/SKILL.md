@@ -355,35 +355,3 @@ Start with the fundamentals, measure obsessively, and iterate consistently. Vide
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Audience Retention Optimization](./references/audience-retention-optimization.md)
-- [Best Practices](./references/best-practices.md)
-- [Closed Captions And Transcripts](./references/closed-captions-and-transcripts.md)
-- [Common Seo Mistakes](./references/common-seo-mistakes.md)
-- [Conclusion](./references/conclusion.md)
-- [Detailed Content](./references/detailed-content.md)
-- [End Screens And Cards](./references/end-screens-and-cards.md)
-- [Engagement Signals](./references/engagement-signals.md)
-- [Google Video Search Optimization](./references/google-video-search-optimization.md)
-- [Keyword Research For Video](./references/keyword-research-for-video.md)
-- [Playlists And Series Optimization](./references/playlists-and-series-optimization.md)
-- [Social Video Optimization](./references/social-video-optimization.md)
-- [Tags And Hashtags Strategy](./references/tags-and-hashtags-strategy.md)
-- [Thumbnail Optimization](./references/thumbnail-optimization.md)
-- [Tools And Resources](./references/tools-and-resources.md)
-- [Using The Reference Files](./references/using-the-reference-files.md)
-- [Video Accessibility And Seo](./references/video-accessibility-and-seo.md)
-- [Video Chapters And Timestamps](./references/video-chapters-and-timestamps.md)
-- [Video Description Optimization](./references/video-description-optimization.md)
-- [Video File Optimization](./references/video-file-optimization.md)
-- [Video Length And Pacing](./references/video-length-and-pacing.md)
-- [Video Schema Markup](./references/video-schema-markup.md)
-- [Video Title Optimization](./references/video-title-optimization.md)
-- [Why Video Seo Matters](./references/why-video-seo-matters.md)
-- [Youtube Algorithm Understanding](./references/youtube-algorithm-understanding.md)
-- [Youtube Seo Fundamentals](./references/youtube-seo-fundamentals.md)
-- [Youtube Studio Analytics](./references/youtube-studio-analytics.md)

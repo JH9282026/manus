@@ -70,10 +70,3 @@ Provide frameworks for modern FP&A functions covering zero-based and driver-base
 **`/references/budgeting-forecasting.md`** — Read when building annual budgets, implementing rolling forecasts, or designing driver-based planning models.
 
 **`/references/variance-reporting.md`** — Read when performing variance analysis, building management reports, designing KPI dashboards, or preparing board presentations.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Budgeting Forecasting](./references/budgeting-forecasting.md)
-- [Variance Reporting](./references/variance-reporting.md)

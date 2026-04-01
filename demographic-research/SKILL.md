@@ -82,11 +82,3 @@ Translate demographics into strategic implications for the specific use case.
 **`/references/projection-techniques.md`** — Read when building demographic forecasts, selecting projection methodologies, or documenting assumption scenarios.
 
 **`/references/generational-analysis.md`** — Read when conducting generational cohort analysis, understanding generational attitudes, or sizing generational market segments.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Census Data Methods](./references/census-data-methods.md)
-- [Generational Analysis](./references/generational-analysis.md)
-- [Projection Techniques](./references/projection-techniques.md)

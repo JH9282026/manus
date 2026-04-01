@@ -1,0 +1,842 @@
+================================================================================
+FINAL COMPREHENSIVE AUDIT - MANUS SKILLS REPOSITORY
+================================================================================
+
+Found 606 skill directories
+
+Auditing: 2d-game-development... ✅ COMPLIANT
+Auditing: 360-video-vr-production... ❌ 1 issue(s)
+Auditing: 3d-design-for-web... ✅ COMPLIANT
+Auditing: 3d-game-development... ✅ COMPLIANT
+Auditing: 3d-printing-preparation... ✅ COMPLIANT
+Auditing: 5g-technology-applications... ✅ COMPLIANT
+Auditing: ab-testing... ✅ COMPLIANT
+Auditing: ab-testing-experiment-design... ❌ 1 issue(s)
+Auditing: abm-personalization-tactics... ✅ COMPLIANT
+Auditing: abm-strategy-execution... ✅ COMPLIANT
+Auditing: abm-technology-stack... ✅ COMPLIANT
+Auditing: accessibility-review... ✅ COMPLIANT
+Auditing: accessibility-wcag... ✅ COMPLIANT
+Auditing: account-based-marketing... ✅ COMPLIANT
+Auditing: account-management... ✅ COMPLIANT
+Auditing: ad-attribution-analytics... ✅ COMPLIANT
+Auditing: ad-campaign-management... ✅ COMPLIANT
+Auditing: ad-copywriting... ❌ 2 issue(s)
+Auditing: ad-platform-mastery... ✅ COMPLIANT
+Auditing: advanced-conversion-psychology... ❌ 1 issue(s)
+Auditing: advanced-excel... ✅ COMPLIANT
+Auditing: advanced-process-improvement-methodologies... ❌ 2 issue(s)
+Auditing: advanced-video-editing-techniques... ❌ 1 issue(s)
+Auditing: aeo-content-structuring... ✅ COMPLIANT
+Auditing: affiliate-marketing-advanced... ✅ COMPLIANT
+Auditing: affiliate-performance-tracking... ✅ COMPLIANT
+Auditing: agent-memory-reasoning... ✅ COMPLIANT
+Auditing: agentic-ai-architecture... ✅ COMPLIANT
+Auditing: agentic-ai-business-strategy... ✅ COMPLIANT
+Auditing: agile-methodology... ✅ COMPLIANT
+Auditing: ai-agent-orchestration-patterns... ✅ COMPLIANT
+Auditing: ai-ethics... ✅ COMPLIANT
+Auditing: ai-governance-oversight... ✅ COMPLIANT
+Auditing: ai-implementation-roadmap... ✅ COMPLIANT
+Auditing: ai-model-deployment... ✅ COMPLIANT
+Auditing: ai-sales-conversation-design... ✅ COMPLIANT
+Auditing: ai-workforce-transformation... ✅ COMPLIANT
+Auditing: amazon-advertising-api... ✅ COMPLIANT
+Auditing: amazon-dsp-programmatic... ✅ COMPLIANT
+Auditing: amazon-seller-strategy... ✅ COMPLIANT
+Auditing: amazon-sponsored-brands... ✅ COMPLIANT
+Auditing: amazon-sponsored-products... ✅ COMPLIANT
+Auditing: android-development-kotlin... ✅ COMPLIANT
+Auditing: angular-framework... ✅ COMPLIANT
+Auditing: angular-frontend-development... ✅ COMPLIANT
+Auditing: ansible-configuration-management... ✅ COMPLIANT
+Auditing: answer-engine-optimization... ✅ COMPLIANT
+Auditing: app-store-optimization... ✅ COMPLIANT
+Auditing: app-store-optimization-copywriting... ❌ 1 issue(s)
+Auditing: apple-search-ads-api-integration... ✅ COMPLIANT
+Auditing: apple-search-ads-campaign-management... ✅ COMPLIANT
+Auditing: architectural-photography... ✅ COMPLIANT
+Auditing: article-content-summarization... ❌ 1 issue(s)
+Auditing: astrophotography... ✅ COMPLIANT
+Auditing: audio-mastering... ✅ COMPLIANT
+Auditing: audio-production... ✅ COMPLIANT
+Auditing: audio-restoration... ✅ COMPLIANT
+Auditing: audio-restoration-cleanup... ✅ COMPLIANT
+Auditing: audio-video-transcription... ✅ COMPLIANT
+Auditing: authentication-authorization... ✅ COMPLIANT
+Auditing: automotive-brand-strategy-consumer-insights... ❌ 1 issue(s)
+Auditing: automotive-market-research-competitive-analysis... ❌ 1 issue(s)
+Auditing: automotive-product-development-innovation... ❌ 1 issue(s)
+Auditing: automotive-technical-specifications-analysis... ❌ 1 issue(s)
+Auditing: aws-cloud-fundamentals... ✅ COMPLIANT
+Auditing: azure-cloud-fundamentals... ✅ COMPLIANT
+Auditing: b2b-sales... ✅ COMPLIANT
+Auditing: backend-api-development... ✅ COMPLIANT
+Auditing: backlink-analysis-audit... ✅ COMPLIANT
+Auditing: benchmarking-research... ❌ 1 issue(s)
+Auditing: big-data-processing-spark... ✅ COMPLIANT
+Auditing: billboard-ooh-copywriting... ❌ 1 issue(s)
+Auditing: blender-3d-modeling... ✅ COMPLIANT
+Auditing: blockchain-for-supply-chain... ✅ COMPLIANT
+Auditing: blockchain-fundamentals... ✅ COMPLIANT
+Auditing: blockchain-security... ✅ COMPLIANT
+Auditing: book-description-copywriting... ❌ 1 issue(s)
+Auditing: brand-guidelines-management-evolution... ❌ 1 issue(s)
+Auditing: brand-identity-development... ❌ 1 issue(s)
+Auditing: brand-naming-verbal-identity... ❌ 1 issue(s)
+Auditing: brand-partnerships... ✅ COMPLIANT
+Auditing: brand-positioning-messaging... ❌ 1 issue(s)
+Auditing: brand-strategy... ✅ COMPLIANT
+Auditing: brand-strategy-positioning... ❌ 1 issue(s)
+Auditing: brand-voice-messaging-storytelling... ❌ 1 issue(s)
+Auditing: budget-management... ✅ COMPLIANT
+Auditing: business-intelligence... ✅ COMPLIANT
+Auditing: business-intelligence-analytics... ❌ 1 issue(s)
+Auditing: business-model-development... ❌ 1 issue(s)
+Auditing: business-process-modeling-bpmn... ❌ 1 issue(s)
+Auditing: business-strategy... ✅ COMPLIANT
+Auditing: camera-operation... ✅ COMPLIANT
+Auditing: career-development-coaching... ❌ 1 issue(s)
+Auditing: case-study-copywriting... ❌ 1 issue(s)
+Auditing: catalog-copywriting... ❌ 1 issue(s)
+Auditing: ceo-strategic-executive-leadership... ❌ 1 issue(s)
+Auditing: cfo-strategic-financial-leadership... ❌ 1 issue(s)
+Auditing: cgo-strategic-growth-leadership... ❌ 1 issue(s)
+Auditing: change-management... ✅ COMPLIANT
+Auditing: character-modeling-3d... ✅ COMPLIANT
+Auditing: chatbot-conversational-copywriting... ❌ 2 issue(s)
+Auditing: chro-strategic-hr-leadership... ❌ 1 issue(s)
+Auditing: churn-prevention... ✅ COMPLIANT
+Auditing: ci-cd-pipelines... ✅ COMPLIANT
+Auditing: cinematography... ✅ COMPLIANT
+Auditing: cio-strategic-information-leadership... ❌ 1 issue(s)
+Auditing: clickbank-affiliate-marketing... ✅ COMPLIANT
+Auditing: clinical-research-analysis... ❌ 1 issue(s)
+Auditing: cloud-cost-optimization... ✅ COMPLIANT
+Auditing: cloud-security... ✅ COMPLIANT
+Auditing: cloud-security-advanced... ✅ COMPLIANT
+Auditing: cmo-strategic-marketing-leadership... ❌ 1 issue(s)
+Auditing: code-review-quality-analysis... ❌ 1 issue(s)
+Auditing: cold-email-outreach-copywriting... ❌ 1 issue(s)
+Auditing: color-grading-advanced... ✅ COMPLIANT
+Auditing: color-grading-correction... ❌ 1 issue(s)
+Auditing: commercial-photography... ✅ COMPLIANT
+Auditing: commercial-real-estate-strategy... ❌ 1 issue(s)
+Auditing: compensation-benefits... ✅ COMPLIANT
+Auditing: compensation-benefits-analysis... ❌ 1 issue(s)
+Auditing: competitive-analysis... ✅ COMPLIANT
+Auditing: competitive-analysis-&-intelligence... ✅ COMPLIANT
+Auditing: competitive-analysis-intelligence... ❌ 1 issue(s)
+Auditing: competitive-intelligence-analysis... ❌ 1 issue(s)
+Auditing: compliance-management... ✅ COMPLIANT
+Auditing: component-design... ✅ COMPLIANT
+Auditing: compositing... ✅ COMPLIANT
+Auditing: computer-vision... ✅ COMPLIANT
+Auditing: conflict-resolution-mediation... ❌ 1 issue(s)
+Auditing: content-atomization-workflows... ✅ COMPLIANT
+Auditing: content-creation-social-media-management... ❌ 1 issue(s)
+Auditing: content-repurposing-strategy... ✅ COMPLIANT
+Auditing: content-strategy-planning... ❌ 1 issue(s)
+Auditing: contract-review-analysis... ❌ 1 issue(s)
+Auditing: conversational-ai-sales... ✅ COMPLIANT
+Auditing: conversion-optimization... ✅ COMPLIANT
+Auditing: conversion-rate-optimization-persuasion... ❌ 1 issue(s)
+Auditing: coo-strategic-operations-leadership... ❌ 1 issue(s)
+Auditing: corporate-brand-video-production... ❌ 1 issue(s)
+Auditing: corporate-finance... ✅ COMPLIANT
+Auditing: corporate-governance... ❌ 1 issue(s)
+Auditing: cost-accounting-analysis... ✅ COMPLIANT
+Auditing: cpo-strategic-product-leadership... ❌ 1 issue(s)
+Auditing: creative-writing-storytelling... ❌ 1 issue(s)
+Auditing: cryptocurrency-fundamental-analysis... ❌ 1 issue(s)
+Auditing: cryptocurrency-technical-market-analysis... ❌ 1 issue(s)
+Auditing: cryptocurrency-wallet-security... ✅ COMPLIANT
+Auditing: cto-strategic-technology-leadership... ❌ 1 issue(s)
+Auditing: ctv-advertising... ✅ COMPLIANT
+Auditing: customer-experience-management... ❌ 1 issue(s)
+Auditing: customer-journey-analytics... ✅ COMPLIANT
+Auditing: customer-retention... ✅ COMPLIANT
+Auditing: customer-segmentation-persona-development... ❌ 1 issue(s)
+Auditing: customer-service-strategy-operations... ❌ 1 issue(s)
+Auditing: customer-success... ✅ COMPLIANT
+Auditing: customer-success-advanced... ✅ COMPLIANT
+Auditing: cybersecurity-strategy-management... ❌ 1 issue(s)
+Auditing: data-analysis-statistical-intelligence... ❌ 1 issue(s)
+Auditing: data-mining... ✅ COMPLIANT
+Auditing: data-mining-pattern-recognition... ❌ 1 issue(s)
+Auditing: data-storytelling... ✅ COMPLIANT
+Auditing: data-storytelling-visualization... ❌ 1 issue(s)
+Auditing: data-visualization-dashboard-creation... ❌ 1 issue(s)
+Auditing: data-warehousing... ✅ COMPLIANT
+Auditing: database-design-optimization... ✅ COMPLIANT
+Auditing: deep-learning... ✅ COMPLIANT
+Auditing: demographic-research... ❌ 1 issue(s)
+Auditing: design-documentation... ✅ COMPLIANT
+Auditing: design-for-accessibility-a11y... ✅ COMPLIANT
+Auditing: design-iteration... ✅ COMPLIANT
+Auditing: design-research... ✅ COMPLIANT
+Auditing: design-review... ✅ COMPLIANT
+Auditing: design-scoring... ✅ COMPLIANT
+Auditing: design-systems... ✅ COMPLIANT
+Auditing: design-systems-component-libraries... ❌ 1 issue(s)
+Auditing: digital-out-of-home-dooh... ✅ COMPLIANT
+Auditing: digital-workflow-service-design... ❌ 1 issue(s)
+Auditing: direct-mail-copywriting... ❌ 1 issue(s)
+Auditing: diversity-equity-inclusion-dei... ✅ COMPLIANT
+Auditing: django-framework... ✅ COMPLIANT
+Auditing: docker-containerization... ✅ COMPLIANT
+Auditing: documentary-filmmaking... ❌ 2 issue(s)
+Auditing: drone-aerial-videography... ✅ COMPLIANT
+Auditing: dropshipping-business-model... ✅ COMPLIANT
+Auditing: due-diligence-research... ❌ 1 issue(s)
+Auditing: ecommerce-analytics... ✅ COMPLIANT
+Auditing: ecommerce-strategy-optimization... ❌ 1 issue(s)
+Auditing: ecommerce-web-design... ❌ 1 issue(s)
+Auditing: economic-research-analysis... ❌ 1 issue(s)
+Auditing: el-toro-ads-management... ✅ COMPLIANT
+Auditing: el-toro-ip-targeting... ✅ COMPLIANT
+Auditing: email-campaign-copywriting... ❌ 1 issue(s)
+Auditing: email-marketing... ✅ COMPLIANT
+Auditing: emerging-technologies... ✅ COMPLIANT
+Auditing: employee-performance-management... ❌ 1 issue(s)
+Auditing: employee-retention... ✅ COMPLIANT
+Auditing: energy-market-analysis-trading... ❌ 1 issue(s)
+Auditing: enterprise-sales... ✅ COMPLIANT
+Auditing: environmental-sustainability-research... ❌ 1 issue(s)
+Auditing: esg-strategy-sustainability... ❌ 1 issue(s)
+Auditing: ethical-hacking-techniques... ✅ COMPLIANT
+Auditing: etl-data-pipeline-development... ✅ COMPLIANT
+Auditing: etl-pipelines... ✅ COMPLIANT
+Auditing: event-copywriting... ❌ 1 issue(s)
+Auditing: event-marketing... ✅ COMPLIANT
+Auditing: event-photography... ✅ COMPLIANT
+Auditing: event-planning-management... ❌ 1 issue(s)
+Auditing: experimental-design-analysis... ❌ 1 issue(s)
+Auditing: explainable-ai... ✅ COMPLIANT
+Auditing: fashion-photography... ✅ COMPLIANT
+Auditing: feature-engineering... ✅ COMPLIANT
+Auditing: feature-prioritization... ✅ COMPLIANT
+Auditing: fiction-writing-narrative... ✅ COMPLIANT
+Auditing: figma-design... ✅ COMPLIANT
+Auditing: financial-analysis... ✅ COMPLIANT
+Auditing: financial-analysis-forecasting... ❌ 1 issue(s)
+Auditing: financial-modeling... ✅ COMPLIANT
+Auditing: financial-modeling-valuation... ❌ 1 issue(s)
+Auditing: financial-planning-analysis... ❌ 1 issue(s)
+Auditing: flask-framework... ✅ COMPLIANT
+Auditing: flutter-development... ✅ COMPLIANT
+Auditing: foley-sound-design... ✅ COMPLIANT
+Auditing: foley-sound-effects... ✅ COMPLIANT
+Auditing: food-photography... ✅ COMPLIANT
+Auditing: fundraising-donation-copywriting... ❌ 1 issue(s)
+Auditing: funnel-design-optimization... ❌ 1 issue(s)
+Auditing: game-asset-creation... ✅ COMPLIANT
+Auditing: game-design-principles... ✅ COMPLIANT
+Auditing: game-monetization-strategies... ✅ COMPLIANT
+Auditing: gcp-cloud-fundamentals... ✅ COMPLIANT
+Auditing: generative-adversarial-networks-gans... ✅ COMPLIANT
+Auditing: generative-engine-optimization... ✅ COMPLIANT
+Auditing: geo-content-strategy... ✅ COMPLIANT
+Auditing: geopolitical-research-analysis... ❌ 1 issue(s)
+Auditing: git-version-control... ✅ COMPLIANT
+Auditing: global-content-strategy... ✅ COMPLIANT
+Auditing: google-ads-api-automation... ✅ COMPLIANT
+Auditing: google-ads-display-campaigns... ✅ COMPLIANT
+Auditing: google-ads-performance-max... ✅ COMPLIANT
+Auditing: google-ads-search-campaigns... ✅ COMPLIANT
+Auditing: google-ads-shopping-video... ✅ COMPLIANT
+Auditing: google-analytics-4... ✅ COMPLIANT
+Auditing: government-relations-public-affairs... ❌ 1 issue(s)
+Auditing: grant-writing... ❌ 1 issue(s)
+Auditing: grant-writing-fundraising... ❌ 1 issue(s)
+Auditing: graphic-design-visual-communication... ❌ 1 issue(s)
+Auditing: green-screen-techniques... ✅ COMPLIANT
+Auditing: growth-hacking... ✅ COMPLIANT
+Auditing: guerrilla-marketing-tactics... ✅ COMPLIANT
+Auditing: handoff-preparation... ✅ COMPLIANT
+Auditing: healthcare-administration-management... ❌ 1 issue(s)
+Auditing: healthcare-compliance-regulations... ❌ 1 issue(s)
+Auditing: help-desk-management... ✅ COMPLIANT
+Auditing: historical-research-analysis... ❌ 1 issue(s)
+Auditing: hr-analytics... ✅ COMPLIANT
+Auditing: hr-analytics-people-analytics... ✅ COMPLIANT
+Auditing: hr-strategy... ✅ COMPLIANT
+Auditing: illustration-digital-art... ✅ COMPLIANT
+Auditing: image-analysis-visual-intelligence... ❌ 1 issue(s)
+Auditing: imagery-iconography... ✅ COMPLIANT
+Auditing: industry-specific-landing-pages... ❌ 1 issue(s)
+Auditing: industry-specific-presentation-formats... ❌ 1 issue(s)
+Auditing: influencer-marketing... ✅ COMPLIANT
+Auditing: infographic-design-fundamentals... ❌ 1 issue(s)
+Auditing: infographic-marketing-distribution... ❌ 1 issue(s)
+Auditing: infographic-production-workflow... ❌ 1 issue(s)
+Auditing: information-architecture... ✅ COMPLIANT
+Auditing: infrastructure-as-code... ✅ COMPLIANT
+Auditing: inspiration-gathering... ✅ COMPLIANT
+Auditing: instagram-ads-integration... ✅ COMPLIANT
+Auditing: instagram-ads-management... ✅ COMPLIANT
+Auditing: intellectual-property-strategy... ❌ 1 issue(s)
+Auditing: interaction-design... ✅ COMPLIANT
+Auditing: interactive-infographics-web-visualization... ❌ 1 issue(s)
+Auditing: internationalization-i18n... ✅ COMPLIANT
+Auditing: investor-relations... ❌ 1 issue(s)
+Auditing: ios-development-swift-swiftui... ✅ COMPLIANT
+Auditing: job-description-writing... ❌ 1 issue(s)
+Auditing: kanban-systems... ✅ COMPLIANT
+Auditing: keras-neural-networks... ✅ COMPLIANT
+Auditing: kubernetes-orchestration... ✅ COMPLIANT
+Auditing: landing-page-design-conversion... ❌ 1 issue(s)
+Auditing: landscape-photography... ✅ COMPLIANT
+Auditing: layout-grids... ✅ COMPLIANT
+Auditing: lead-generation-advanced... ✅ COMPLIANT
+Auditing: lead-generation-qualification... ❌ 1 issue(s)
+Auditing: lead-qualification-frameworks... ✅ COMPLIANT
+Auditing: leadership-development... ❌ 1 issue(s)
+Auditing: legal-compliance-analysis... ❌ 1 issue(s)
+Auditing: legal-copywriting... ❌ 1 issue(s)
+Auditing: lifecycle-marketing... ✅ COMPLIANT
+Auditing: lighting-techniques... ✅ COMPLIANT
+Auditing: link-building-strategies... ✅ COMPLIANT
+Auditing: linkedin-ads-campaign-management... ✅ COMPLIANT
+Auditing: linkedin-ads-targeting-analytics... ✅ COMPLIANT
+Auditing: linkedin-ads-targeting-creatives... ✅ COMPLIANT
+Auditing: linux-system-administration... ✅ COMPLIANT
+Auditing: litigation-dispute-resolution... ✅ COMPLIANT
+Auditing: live-sound-engineering... ✅ COMPLIANT
+Auditing: live-streaming-production... ❌ 1 issue(s)
+Auditing: llm-fine-tuning... ✅ COMPLIANT
+Auditing: local-seo-optimization... ✅ COMPLIANT
+Auditing: localization-l10n... ✅ COMPLIANT
+Auditing: logo-design-brand-identity... ❌ 1 issue(s)
+Auditing: longform-content-writing... ❌ 1 issue(s)
+Auditing: machine-learning-fundamentals... ✅ COMPLIANT
+Auditing: machine-translation-post-editing... ✅ COMPLIANT
+Auditing: macro-photography... ✅ COMPLIANT
+Auditing: manufacturing-production-management... ❌ 1 issue(s)
+Auditing: marathon-training-coaching... ❌ 1 issue(s)
+Auditing: market-research-analysis... ❌ 1 issue(s)
+Auditing: marketing-attribution... ✅ COMPLIANT
+Auditing: marketing-automation... ✅ COMPLIANT
+Auditing: marketing-campaign-strategy-planning... ❌ 1 issue(s)
+Auditing: marketing-mix-modeling... ✅ COMPLIANT
+Auditing: marketing-strategy... ✅ COMPLIANT
+Auditing: mathematical-modeling... ❌ 1 issue(s)
+Auditing: maya-animation... ✅ COMPLIANT
+Auditing: media-relations-outreach... ✅ COMPLIANT
+Auditing: medical-literature-review... ❌ 1 issue(s)
+Auditing: meta-ads-campaign-api... ✅ COMPLIANT
+Auditing: meta-ads-campaign-management... ✅ COMPLIANT
+Auditing: meta-ads-creative-formats... ✅ COMPLIANT
+Auditing: meta-ads-targeting-audiences... ✅ COMPLIANT
+Auditing: meta-ads-targeting-optimization... ✅ COMPLIANT
+Auditing: microsoft-ads-api-integration... ✅ COMPLIANT
+Auditing: microsoft-ads-audience-network... ✅ COMPLIANT
+Auditing: microsoft-ads-search-campaigns... ✅ COMPLIANT
+Auditing: midi-production... ✅ COMPLIANT
+Auditing: mlops... ✅ COMPLIANT
+Auditing: mlops-advanced... ✅ COMPLIANT
+Auditing: mobile-app-architecture... ✅ COMPLIANT
+Auditing: mobile-app-design... ✅ COMPLIANT
+Auditing: mobile-app-monetization... ✅ COMPLIANT
+Auditing: mobile-app-security... ✅ COMPLIANT
+Auditing: mobile-first-progressive-web-apps... ❌ 1 issue(s)
+Auditing: mobile-first-pwa... ❌ 1 issue(s)
+Auditing: mobile-game-development... ✅ COMPLIANT
+Auditing: mobile-ui-ux-design... ✅ COMPLIANT
+Auditing: model-optimization... ✅ COMPLIANT
+Auditing: motion-capture... ✅ COMPLIANT
+Auditing: motion-graphics-animation... ❌ 1 issue(s)
+Auditing: motion-tracking... ✅ COMPLIANT
+Auditing: multi-agent-systems-design... ✅ COMPLIANT
+Auditing: multi-channel-content-distribution... ✅ COMPLIANT
+Auditing: music-theory... ✅ COMPLIANT
+Auditing: native-mobile-app-design... ❌ 1 issue(s)
+Auditing: negotiation-skills... ❌ 1 issue(s)
+Auditing: newsletter-copywriting... ❌ 1 issue(s)
+Auditing: nextdoor-ads-api-integration... ✅ COMPLIANT
+Auditing: nextdoor-ads-campaign-management... ✅ COMPLIANT
+Auditing: nextjs-framework... ✅ COMPLIANT
+Auditing: nlp-processing... ✅ COMPLIANT
+Auditing: nonprofit-management... ❌ 1 issue(s)
+Auditing: nosql-databases... ✅ COMPLIANT
+Auditing: npm-package-management... ✅ COMPLIANT
+Auditing: nutrition-diet-planning... ❌ 1 issue(s)
+Auditing: off-page-seo-authority... ✅ COMPLIANT
+Auditing: oil-gas-industry-analysis... ✅ COMPLIANT
+Auditing: okr-framework... ✅ COMPLIANT
+Auditing: on-page-seo-optimization... ✅ COMPLIANT
+Auditing: operations-management-optimization... ✅ COMPLIANT
+Auditing: organizational-development... ✅ COMPLIANT
+Auditing: outbrain-api-integration... ✅ COMPLIANT
+Auditing: outbrain-campaign-management... ✅ COMPLIANT
+Auditing: packaging-design... ✅ COMPLIANT
+Auditing: particle-systems... ✅ COMPLIANT
+Auditing: partner-channel-management... ✅ COMPLIANT
+Auditing: patent-research-prior-art-analysis... ✅ COMPLIANT
+Auditing: patient-data-analysis... ✅ COMPLIANT
+Auditing: penetration-testing-advanced... ✅ COMPLIANT
+Auditing: penetration-testing-methodology... ✅ COMPLIANT
+Auditing: performance-management-advanced... ✅ COMPLIANT
+Auditing: performance-optimization-scaling... ✅ COMPLIANT
+Auditing: personal-finance-wealth-management... ✅ COMPLIANT
+Auditing: photo-editing... ✅ COMPLIANT
+Auditing: photo-editing-retouching... ✅ COMPLIANT
+Auditing: pinterest-ads-api-automation... ✅ COMPLIANT
+Auditing: pinterest-ads-campaign-management... ✅ COMPLIANT
+Auditing: pinterest-ads-creative-formats... ✅ COMPLIANT
+Auditing: pmp-certification-preparation... ✅ COMPLIANT
+Auditing: podcast-advertising-strategy... ✅ COMPLIANT
+Auditing: podcast-production... ✅ COMPLIANT
+Auditing: podcast-script-writing... ❌ 2 issue(s)
+Auditing: poetry-writing... ✅ COMPLIANT
+Auditing: policy-research-analysis... ✅ COMPLIANT
+Auditing: portrait-photography... ✅ COMPLIANT
+Auditing: power-bi-dashboards... ✅ COMPLIANT
+Auditing: predictive-analytics... ✅ COMPLIANT
+Auditing: predictive-modeling-forecasting... ✅ COMPLIANT
+Auditing: presentation-accessibility... ❌ 1 issue(s)
+Auditing: presentation-animation-transitions... ❌ 1 issue(s)
+Auditing: presentation-software-mastery... ❌ 1 issue(s)
+Auditing: press-release-writing... ✅ COMPLIANT
+Auditing: pricing-research... ✅ COMPLIANT
+Auditing: print-design-production... ✅ COMPLIANT
+Auditing: print-on-demand-ecommerce... ✅ COMPLIANT
+Auditing: private-pilot-ground-school-course... ✅ COMPLIANT
+Auditing: procedural-generation... ✅ COMPLIANT
+Auditing: process-discovery-mining-analysis... ❌ 1 issue(s)
+Auditing: process-documentation-sops... ❌ 2 issue(s)
+Auditing: process-improvement... ✅ COMPLIANT
+Auditing: procurement-strategic-sourcing... ✅ COMPLIANT
+Auditing: product-analytics... ✅ COMPLIANT
+Auditing: product-growth... ✅ COMPLIANT
+Auditing: product-led-growth-strategy... ✅ COMPLIANT
+Auditing: product-management... ✅ COMPLIANT
+Auditing: product-packaging-copywriting... ❌ 2 issue(s)
+Auditing: product-photography... ✅ COMPLIANT
+Auditing: product-requirements-documentation... ✅ COMPLIANT
+Auditing: product-roadmapping... ✅ COMPLIANT
+Auditing: programmatic-advertising-advanced... ✅ COMPLIANT
+Auditing: project-brief-development... ✅ COMPLIANT
+Auditing: project-management-advanced... ✅ COMPLIANT
+Auditing: project-planning-execution... ✅ COMPLIANT
+Auditing: prompt-engineering... ✅ COMPLIANT
+Auditing: property-valuation-appraisal... ✅ COMPLIANT
+Auditing: public-relations-corporate-communications... ✅ COMPLIANT
+Auditing: public-relations-strategy... ✅ COMPLIANT
+Auditing: public-speaking-presentation-skills... ❌ 1 issue(s)
+Auditing: publication-design-editorial... ✅ COMPLIANT
+Auditing: push-notification-copywriting... ✅ COMPLIANT
+Auditing: python-data-science... ✅ COMPLIANT
+Auditing: pytorch-deep-learning... ✅ COMPLIANT
+Auditing: qa-testing-automation... ✅ COMPLIANT
+Auditing: qualitative-research-methods... ✅ COMPLIANT
+Auditing: quantitative-research-methods... ✅ COMPLIANT
+Auditing: quora-ads-campaign-management... ✅ COMPLIANT
+Auditing: quora-ads-conversion-tracking... ✅ COMPLIANT
+Auditing: r-statistical-analysis... ✅ COMPLIANT
+Auditing: radio-ad-copywriting... ✅ COMPLIANT
+Auditing: rag-systems... ✅ COMPLIANT
+Auditing: react-frontend-development... ✅ COMPLIANT
+Auditing: react-native-development... ✅ COMPLIANT
+Auditing: real-estate-market-analysis-investment... ✅ COMPLIANT
+Auditing: real-estate-photography... ✅ COMPLIANT
+Auditing: reddit-ads-api-automation... ✅ COMPLIANT
+Auditing: reddit-ads-management... ✅ COMPLIANT
+Auditing: regulatory-research-analysis... ✅ COMPLIANT
+Auditing: reinforcement-learning... ✅ COMPLIANT
+Auditing: rendering-optimization... ✅ COMPLIANT
+Auditing: renewable-energy-project-development... ✅ COMPLIANT
+Auditing: report-design-visual-communication... ❌ 1 issue(s)
+Auditing: report-generation-automation... ❌ 1 issue(s)
+Auditing: research-paper-analysis... ✅ COMPLIANT
+Auditing: responsive-design... ✅ COMPLIANT
+Auditing: resume-cover-letter-writing... ❌ 1 issue(s)
+Auditing: retail-strategy-operations... ✅ COMPLIANT
+Auditing: revenue-operations... ✅ COMPLIANT
+Auditing: rigging-animation... ✅ COMPLIANT
+Auditing: risk-management-enterprise-risk... ✅ COMPLIANT
+Auditing: roi-analysis... ✅ COMPLIANT
+Auditing: running-injury-assessment-treatment... ✅ COMPLIANT
+Auditing: sales-analytics... ✅ COMPLIANT
+Auditing: sales-automation... ✅ COMPLIANT
+Auditing: sales-chatbot-implementation... ✅ COMPLIANT
+Auditing: sales-copywriting... ✅ COMPLIANT
+Auditing: sales-enablement... ✅ COMPLIANT
+Auditing: sales-funnel-optimization... ✅ COMPLIANT
+Auditing: sales-intelligence-tools... ✅ COMPLIANT
+Auditing: sales-operations... ✅ COMPLIANT
+Auditing: sales-presentation-methodology... ❌ 1 issue(s)
+Auditing: sales-prospect-research... ✅ COMPLIANT
+Auditing: scientific-research-methodology... ✅ COMPLIANT
+Auditing: screenplay-movie-script-writing... ❌ 2 issue(s)
+Auditing: scrum-master... ✅ COMPLIANT
+Auditing: security-architecture... ✅ COMPLIANT
+Auditing: security-assessment-frameworks... ✅ COMPLIANT
+Auditing: security-testing-penetration... ✅ COMPLIANT
+Auditing: seo-copywriting-optimization... ✅ COMPLIANT
+Auditing: serverless-architecture... ✅ COMPLIANT
+Auditing: serverless-architecture-advanced... ✅ COMPLIANT
+Auditing: shopify-development... ✅ COMPLIANT
+Auditing: short-form-video-content... ❌ 1 issue(s)
+Auditing: six-sigma-methodology... ✅ COMPLIANT
+Auditing: sketch-design... ✅ COMPLIANT
+Auditing: slide-design-visual-communication... ✅ COMPLIANT
+Auditing: slide-template-theme-design... ❌ 1 issue(s)
+Auditing: smart-contracts-development... ✅ COMPLIANT
+Auditing: sms-text-message-marketing... ❌ 1 issue(s)
+Auditing: snapchat-ads-api-automation... ✅ COMPLIANT
+Auditing: snapchat-ads-ar-creative... ✅ COMPLIANT
+Auditing: snapchat-ads-campaign-management... ✅ COMPLIANT
+Auditing: social-bot-strategy... ✅ COMPLIANT
+Auditing: social-listening-analytics... ✅ COMPLIANT
+Auditing: social-media-automation... ✅ COMPLIANT
+Auditing: social-media-digital-research... ✅ COMPLIANT
+Auditing: sound-design... ✅ COMPLIANT
+Auditing: spacing-rhythm... ✅ COMPLIANT
+Auditing: spatial-computing-development... ✅ COMPLIANT
+Auditing: speech-writing... ❌ 1 issue(s)
+Auditing: sponsorship-marketing... ✅ COMPLIANT
+Auditing: spotify-ads-api-automation... ✅ COMPLIANT
+Auditing: spotify-ads-audio-podcast... ✅ COMPLIANT
+Auditing: spreadsheet-analysis-manipulation... ❌ 1 issue(s)
+Auditing: sql-data-analysis... ✅ COMPLIANT
+Auditing: statistical-analysis-hypothesis-testing... ✅ COMPLIANT
+Auditing: statistical-modeling... ✅ COMPLIANT
+Auditing: stock-market-analysis-trading... ✅ COMPLIANT
+Auditing: stop-motion-animation... ✅ COMPLIANT
+Auditing: strategic-planning... ✅ COMPLIANT
+Auditing: strategic-planning-roadmapping... ✅ COMPLIANT
+Auditing: substance-painter... ✅ COMPLIANT
+Auditing: subtitle-translation-localization... ✅ COMPLIANT
+Auditing: supply-chain-management... ✅ COMPLIANT
+Auditing: svelte-framework... ✅ COMPLIANT
+Auditing: svelte-frontend-development... ✅ COMPLIANT
+Auditing: system-architecture-design... ✅ COMPLIANT
+Auditing: tableau-visualization... ✅ COMPLIANT
+Auditing: taboola-api-integration... ✅ COMPLIANT
+Auditing: taboola-campaign-management... ✅ COMPLIANT
+Auditing: tagline-slogan-writing... ❌ 1 issue(s)
+Auditing: talent-acquisition... ✅ COMPLIANT
+Auditing: talent-acquisition-advanced... ✅ COMPLIANT
+Auditing: talent-acquisition-recruitment... ✅ COMPLIANT
+Auditing: technical-research-feasibility-analysis... ✅ COMPLIANT
+Auditing: technical-seo-infrastructure... ✅ COMPLIANT
+Auditing: technical-writing... ❌ 1 issue(s)
+Auditing: technology-innovation-scouting... ✅ COMPLIANT
+Auditing: technology-saas-business-strategy... ✅ COMPLIANT
+Auditing: tensorflow-deep-learning... ✅ COMPLIANT
+Auditing: test-driven-development... ✅ COMPLIANT
+Auditing: thought-leadership-positioning... ✅ COMPLIANT
+Auditing: tiktok-ads-api-management... ✅ COMPLIANT
+Auditing: tiktok-ads-management... ✅ COMPLIANT
+Auditing: time-series-analysis... ✅ COMPLIANT
+Auditing: tool-intelligence-router... ❌ 1 issue(s)
+Auditing: trade-desk-api-integration... ✅ COMPLIANT
+Auditing: trade-desk-campaign-management... ✅ COMPLIANT
+Auditing: trademark-copyright-registration... ✅ COMPLIANT
+Auditing: training-workshop-presentations... ❌ 2 issue(s)
+Auditing: transcription-post-processing... ✅ COMPLIANT
+Auditing: translation-management... ✅ COMPLIANT
+Auditing: trend-research-forecasting... ✅ COMPLIANT
+Auditing: twitch-ads-api-integration... ✅ COMPLIANT
+Auditing: twitch-ads-campaign-management... ✅ COMPLIANT
+Auditing: typescript-development... ✅ COMPLIANT
+Auditing: typography... ✅ COMPLIANT
+Auditing: typography-type-design... ❌ 1 issue(s)
+Auditing: ui-ux-design-user-experience... ✅ COMPLIANT
+Auditing: unity-game-development... ✅ COMPLIANT
+Auditing: unreal-engine-development... ✅ COMPLIANT
+Auditing: usability-testing-ux-qa... ✅ COMPLIANT
+Auditing: user-flows... ✅ COMPLIANT
+Auditing: user-personas... ✅ COMPLIANT
+Auditing: user-research-advanced... ✅ COMPLIANT
+Auditing: user-research-ux-research... ✅ COMPLIANT
+Auditing: user-story-mapping... ✅ COMPLIANT
+Auditing: ux-prototyping... ✅ COMPLIANT
+Auditing: ux-research... ✅ COMPLIANT
+Auditing: ux-writing-microcopy... ❌ 2 issue(s)
+Auditing: vfx-compositing... ✅ COMPLIANT
+Auditing: video-accessibility-inclusive-design... ✅ COMPLIANT
+Auditing: video-ads-paid-advertising... ❌ 2 issue(s)
+Auditing: video-ai-automation-tools... ✅ COMPLIANT
+Auditing: video-analysis-&-visual-intelligence... ✅ COMPLIANT
+Auditing: video-analysis-visual-intelligence... ❌ 1 issue(s)
+Auditing: video-captioning-subtitling... ❌ 2 issue(s)
+Auditing: video-cinematography-camera-work... ❌ 2 issue(s)
+Auditing: video-ecommerce-shoppable... ❌ 2 issue(s)
+Auditing: video-editing-advanced... ✅ COMPLIANT
+Auditing: video-lighting-techniques... ❌ 2 issue(s)
+Auditing: video-marketing-distribution... ❌ 1 issue(s)
+Auditing: video-podcast-production... ❌ 1 issue(s)
+Auditing: video-production-editing... ✅ COMPLIANT
+Auditing: video-projection-mapping... ✅ COMPLIANT
+Auditing: video-sales-letter-vsl... ❌ 1 issue(s)
+Auditing: video-script-writing... ❌ 1 issue(s)
+Auditing: video-seo-optimization... ❌ 1 issue(s)
+Auditing: video-sound-design-audio-post... ❌ 1 issue(s)
+Auditing: video-storyboarding-previsualization... ❌ 2 issue(s)
+Auditing: video-strategy-content-planning... ❌ 1 issue(s)
+Auditing: video-technical-standards... ❌ 2 issue(s)
+Auditing: video-testimonials-case-studies... ❌ 2 issue(s)
+Auditing: video-thumbnails-titles... ❌ 1 issue(s)
+Auditing: video-tutorials-howto... ❌ 2 issue(s)
+Auditing: video-vfx-special-effects... ❌ 1 issue(s)
+Auditing: vocal-recording... ✅ COMPLIANT
+Auditing: voice-of-customer-research... ✅ COMPLIANT
+Auditing: vr-game-development... ✅ COMPLIANT
+Auditing: vue-framework... ✅ COMPLIANT
+Auditing: vue-framework-advanced... ✅ COMPLIANT
+Auditing: vulnerability-management... ✅ COMPLIANT
+Auditing: web-accessibility-wcag... ❌ 1 issue(s)
+Auditing: web-animation-interactions... ❌ 1 issue(s)
+Auditing: web-application-design... ✅ COMPLIANT
+Auditing: web-application-security... ✅ COMPLIANT
+Auditing: web-design-development... ✅ COMPLIANT
+Auditing: web-scraping-data-extraction... ✅ COMPLIANT
+Auditing: web3-development... ✅ COMPLIANT
+Auditing: webinar-production-strategy... ❌ 1 issue(s)
+Auditing: webpack-bundling... ✅ COMPLIANT
+Auditing: website-copywriting... ❌ 2 issue(s)
+Auditing: wildlife-photography... ✅ COMPLIANT
+Auditing: wireframing... ✅ COMPLIANT
+Auditing: workflow-automation-integration... ❌ 2 issue(s)
+Auditing: workflow-design-fundamentals-patterns... ❌ 1 issue(s)
+Auditing: workflow-governance-compliance... ❌ 1 issue(s)
+Auditing: x-ads-analytics-optimization... ✅ COMPLIANT
+Auditing: x-ads-campaign-management... ✅ COMPLIANT
+Auditing: x-ads-creative-targeting... ✅ COMPLIANT
+Auditing: x-ads-optimization-analytics... ✅ COMPLIANT
+Auditing: youtube-ads-google-api... ✅ COMPLIANT
+Auditing: youtube-ads-management... ✅ COMPLIANT
+Auditing: zbrush-digital-sculpting... ✅ COMPLIANT
+Auditing: zbrush-sculpting... ✅ COMPLIANT
+
+================================================================================
+AUDIT RESULTS
+================================================================================
+
+Total Skills Checked: 606
+Fully Compliant Skills: 431
+Skills with Issues: 175
+
+Compliance Rate: 71.1%
+
+REQUIREMENT COMPLIANCE:
+  ✓ Has SKILL.md: 606/606
+  ✓ Has references folder: 606/606
+  ✓ Valid YAML frontmatter: 606/606
+  ✓ Meaningful description: 606/606
+  ✓ Under 500 lines: 606/606
+  ✓ Has 'Using the Reference Files' section: 606/606
+  ✓ Qualified reference paths: 585/606
+  ✓ Meaningful link text: 585/606
+  ✓ No redundant References sections: 431/606
+
+LINE COUNT STATISTICS:
+  Maximum: 499 lines
+  Average: 241.3 lines
+  Minimum: 17 lines
+
+REMAINING ISSUES:
+  ❌ 360-video-vr-production: Found redundant section(s): Reference Files
+  ❌ ab-testing-experiment-design: Found redundant section(s): Reference Files
+  ❌ ad-copywriting: Link issues: Non-meaningful link text: [Meta Ads](./references/meta-ads.md); Non-meaningful link text: [Video Ads](./references/video-ads.md)
+  ❌ ad-copywriting: Found redundant section(s): Reference Files
+  ❌ advanced-conversion-psychology: Found redundant section(s): Reference Files
+  ❌ advanced-process-improvement-methodologies: Link issues: Non-meaningful link text: [Six Sigma](./references/six-sigma.md); Non-meaningful link text: [Toc Bpr](./references/toc-bpr.md)
+  ❌ advanced-process-improvement-methodologies: Found redundant section(s): Reference Files
+  ❌ advanced-video-editing-techniques: Found redundant section(s): Reference Files
+  ❌ app-store-optimization-copywriting: Found redundant section(s): Reference Files
+  ❌ article-content-summarization: Found redundant section(s): Reference Files
+  ❌ automotive-brand-strategy-consumer-insights: Found redundant section(s): Reference Files
+  ❌ automotive-market-research-competitive-analysis: Found redundant section(s): Reference Files
+  ❌ automotive-product-development-innovation: Found redundant section(s): Reference Files
+  ❌ automotive-technical-specifications-analysis: Found redundant section(s): Reference Files
+  ❌ benchmarking-research: Found redundant section(s): Reference Files
+  ❌ billboard-ooh-copywriting: Found redundant section(s): Reference Files
+  ❌ book-description-copywriting: Found redundant section(s): Reference Files
+  ❌ brand-guidelines-management-evolution: Found redundant section(s): Reference Files
+  ❌ brand-identity-development: Found redundant section(s): Reference Files
+  ❌ brand-naming-verbal-identity: Found redundant section(s): Reference Files
+  ❌ brand-positioning-messaging: Found redundant section(s): Reference Files
+  ❌ brand-strategy-positioning: Found redundant section(s): Reference Files
+  ❌ brand-voice-messaging-storytelling: Found redundant section(s): Reference Files
+  ❌ business-intelligence-analytics: Found redundant section(s): Reference Files
+  ❌ business-model-development: Found redundant section(s): Reference Files
+  ❌ business-process-modeling-bpmn: Found redundant section(s): Reference Files
+  ❌ career-development-coaching: Found redundant section(s): Reference Files
+  ❌ case-study-copywriting: Found redundant section(s): Reference Files
+  ❌ catalog-copywriting: Found redundant section(s): Reference Files
+  ❌ ceo-strategic-executive-leadership: Found redundant section(s): Reference Files
+  ❌ cfo-strategic-financial-leadership: Found redundant section(s): Reference Files
+  ❌ cgo-strategic-growth-leadership: Found redundant section(s): Reference Files
+  ❌ chatbot-conversational-copywriting: Link issues: Non-meaningful link text: [Bot Types](./references/bot-types.md); Non-meaningful link text: [Templates](./references/templates.md)
+  ❌ chatbot-conversational-copywriting: Found redundant section(s): Reference Files
+  ❌ chro-strategic-hr-leadership: Found redundant section(s): Reference Files
+  ❌ cio-strategic-information-leadership: Found redundant section(s): Reference Files
+  ❌ clinical-research-analysis: Found redundant section(s): Reference Files
+  ❌ cmo-strategic-marketing-leadership: Found redundant section(s): Reference Files
+  ❌ code-review-quality-analysis: Found redundant section(s): Reference Files
+  ❌ cold-email-outreach-copywriting: Found redundant section(s): Reference Files
+  ❌ color-grading-correction: Found redundant section(s): Reference Files
+  ❌ commercial-real-estate-strategy: Found redundant section(s): Reference Files
+  ❌ compensation-benefits-analysis: Found redundant section(s): Reference Files
+  ❌ competitive-analysis-intelligence: Found redundant section(s): Reference Files
+  ❌ competitive-intelligence-analysis: Found redundant section(s): Reference Files
+  ❌ conflict-resolution-mediation: Found redundant section(s): Reference Files
+  ❌ content-creation-social-media-management: Found redundant section(s): Reference Files
+  ❌ content-strategy-planning: Found redundant section(s): Reference Files
+  ❌ contract-review-analysis: Found redundant section(s): Reference Files
+  ❌ conversion-rate-optimization-persuasion: Found redundant section(s): Reference Files
+  ❌ coo-strategic-operations-leadership: Found redundant section(s): Reference Files
+  ❌ corporate-brand-video-production: Found redundant section(s): Reference Files
+  ❌ corporate-governance: Found redundant section(s): Reference Files
+  ❌ cpo-strategic-product-leadership: Found redundant section(s): Reference Files
+  ❌ creative-writing-storytelling: Found redundant section(s): Reference Files
+  ❌ cryptocurrency-fundamental-analysis: Found redundant section(s): Reference Files
+  ❌ cryptocurrency-technical-market-analysis: Found redundant section(s): Reference Files
+  ❌ cto-strategic-technology-leadership: Found redundant section(s): Reference Files
+  ❌ customer-experience-management: Found redundant section(s): Reference Files
+  ❌ customer-segmentation-persona-development: Found redundant section(s): Reference Files
+  ❌ customer-service-strategy-operations: Found redundant section(s): Reference Files
+  ❌ cybersecurity-strategy-management: Found redundant section(s): Reference Files
+  ❌ data-analysis-statistical-intelligence: Found redundant section(s): Reference Files
+  ❌ data-mining-pattern-recognition: Found redundant section(s): Reference Files
+  ❌ data-storytelling-visualization: Found redundant section(s): Reference Files
+  ❌ data-visualization-dashboard-creation: Found redundant section(s): Reference Files
+  ❌ demographic-research: Found redundant section(s): Reference Files
+  ❌ design-systems-component-libraries: Found redundant section(s): Reference Files
+  ❌ digital-workflow-service-design: Found redundant section(s): Reference Files
+  ❌ direct-mail-copywriting: Found redundant section(s): Reference Files
+  ❌ documentary-filmmaking: Link issues: Non-meaningful link text: [Accuracy](./references/accuracy.md); Non-meaningful link text: [Assembly](./references/assembly.md)
+  ❌ documentary-filmmaking: Found redundant section(s): Reference Files
+  ❌ due-diligence-research: Found redundant section(s): Reference Files
+  ❌ ecommerce-strategy-optimization: Found redundant section(s): Reference Files
+  ❌ ecommerce-web-design: Found redundant section(s): Reference Files
+  ❌ economic-research-analysis: Found redundant section(s): Reference Files
+  ❌ email-campaign-copywriting: Found redundant section(s): Reference Files
+  ❌ employee-performance-management: Found redundant section(s): Reference Files
+  ❌ energy-market-analysis-trading: Found redundant section(s): Reference Files
+  ❌ environmental-sustainability-research: Found redundant section(s): Reference Files
+  ❌ esg-strategy-sustainability: Found redundant section(s): Reference Files
+  ❌ event-copywriting: Found redundant section(s): Reference Files
+  ❌ event-planning-management: Found redundant section(s): Reference Files
+  ❌ experimental-design-analysis: Found redundant section(s): Reference Files
+  ❌ financial-analysis-forecasting: Found redundant section(s): Reference Files
+  ❌ financial-modeling-valuation: Found redundant section(s): Reference Files
+  ❌ financial-planning-analysis: Found redundant section(s): Reference Files
+  ❌ fundraising-donation-copywriting: Found redundant section(s): Reference Files
+  ❌ funnel-design-optimization: Found redundant section(s): Reference Files
+  ❌ geopolitical-research-analysis: Found redundant section(s): Reference Files
+  ❌ government-relations-public-affairs: Found redundant section(s): Reference Files
+  ❌ grant-writing: Found redundant section(s): Reference Files
+  ❌ grant-writing-fundraising: Found redundant section(s): Reference Files
+  ❌ graphic-design-visual-communication: Found redundant section(s): Reference Files
+  ❌ healthcare-administration-management: Found redundant section(s): Reference Files
+  ❌ healthcare-compliance-regulations: Found redundant section(s): Reference Files
+  ❌ historical-research-analysis: Found redundant section(s): Reference Files
+  ❌ image-analysis-visual-intelligence: Found redundant section(s): Reference Files
+  ❌ industry-specific-landing-pages: Found redundant section(s): Reference Files
+  ❌ industry-specific-presentation-formats: Found redundant section(s): Reference Files
+  ❌ infographic-design-fundamentals: Found redundant section(s): Reference Files
+  ❌ infographic-marketing-distribution: Found redundant section(s): Reference Files
+  ❌ infographic-production-workflow: Found redundant section(s): Reference Files
+  ❌ intellectual-property-strategy: Found redundant section(s): Reference Files
+  ❌ interactive-infographics-web-visualization: Found redundant section(s): Reference Files
+  ❌ investor-relations: Found redundant section(s): Reference Files
+  ❌ job-description-writing: Found redundant section(s): Reference Files
+  ❌ landing-page-design-conversion: Found redundant section(s): Reference Files
+  ❌ lead-generation-qualification: Found redundant section(s): Reference Files
+  ❌ leadership-development: Found redundant section(s): Reference Files
+  ❌ legal-compliance-analysis: Found redundant section(s): Reference Files
+  ❌ legal-copywriting: Found redundant section(s): Reference Files
+  ❌ live-streaming-production: Found redundant section(s): Reference Files
+  ❌ logo-design-brand-identity: Found redundant section(s): Reference Files
+  ❌ longform-content-writing: Found redundant section(s): Reference Files
+  ❌ manufacturing-production-management: Found redundant section(s): Reference Files
+  ❌ marathon-training-coaching: Found redundant section(s): Reference Files
+  ❌ market-research-analysis: Found redundant section(s): Reference Files
+  ❌ marketing-campaign-strategy-planning: Found redundant section(s): Reference Files
+  ❌ mathematical-modeling: Found redundant section(s): Reference Files
+  ❌ medical-literature-review: Found redundant section(s): Reference Files
+  ❌ mobile-first-progressive-web-apps: Found redundant section(s): Reference Files
+  ❌ mobile-first-pwa: Found redundant section(s): Reference Files
+  ❌ motion-graphics-animation: Found redundant section(s): Reference Files
+  ❌ native-mobile-app-design: Found redundant section(s): Reference Files
+  ❌ negotiation-skills: Found redundant section(s): Reference Files
+  ❌ newsletter-copywriting: Found redundant section(s): Reference Files
+  ❌ nonprofit-management: Found redundant section(s): Reference Files
+  ❌ nutrition-diet-planning: Found redundant section(s): Reference Files
+  ❌ podcast-script-writing: Link issues: Non-meaningful link text: [Dialogue](./references/dialogue.md)
+  ❌ podcast-script-writing: Found redundant section(s): Reference Files
+  ❌ presentation-accessibility: Found redundant section(s): Reference Files
+  ❌ presentation-animation-transitions: Found redundant section(s): Reference Files
+  ❌ presentation-software-mastery: Found redundant section(s): Reference Files
+  ❌ process-discovery-mining-analysis: Found redundant section(s): Reference Files
+  ❌ process-documentation-sops: Link issues: Non-meaningful link text: [1 Purpose](./references/1-purpose.md); Non-meaningful link text: [2 Scope](./references/2-scope.md); Non-meaningful link text: [Access](./references/access.md); Non-meaningful link text: [Creation](./references/creation.md); Non-meaningful link text: [Culture](./references/culture.md); Non-meaningful link text: [Planning](./references/planning.md); Non-meaningful link text: [Procedure](./references/procedure.md); Non-meaningful link text: [Quality](./references/quality.md); Non-meaningful link text: [Sop Title](./references/sop-title.md); Non-meaningful link text: [Writing](./references/writing.md)
+  ❌ process-documentation-sops: Found redundant section(s): Reference Files
+  ❌ product-packaging-copywriting: Link issues: Non-meaningful link text: [Tools](./references/tools.md)
+  ❌ product-packaging-copywriting: Found redundant section(s): Reference Files
+  ❌ public-speaking-presentation-skills: Found redundant section(s): Reference Files
+  ❌ report-design-visual-communication: Found redundant section(s): Reference Files
+  ❌ report-generation-automation: Found redundant section(s): Reference Files
+  ❌ resume-cover-letter-writing: Found redundant section(s): Reference Files
+  ❌ sales-presentation-methodology: Found redundant section(s): Reference Files
+  ❌ screenplay-movie-script-writing: Link issues: Non-meaningful link text: [Action](./references/action.md); Non-meaningful link text: [Backstory](./references/backstory.md); Non-meaningful link text: [Books](./references/books.md); Non-meaningful link text: [Comedy](./references/comedy.md); Non-meaningful link text: [Dialogue](./references/dialogue.md); Non-meaningful link text: [Drama](./references/drama.md); Non-meaningful link text: [Horror](./references/horror.md); Non-meaningful link text: [Loglines](./references/loglines.md); Non-meaningful link text: [Romance](./references/romance.md); Non-meaningful link text: [Subtext](./references/subtext.md); Non-meaningful link text: [Synopses](./references/synopses.md); Non-meaningful link text: [Thriller](./references/thriller.md); Non-meaningful link text: [Tv Pilots](./references/tv-pilots.md)
+  ❌ screenplay-movie-script-writing: Found redundant section(s): Reference Files
+  ❌ short-form-video-content: Found redundant section(s): Reference Files
+  ❌ slide-template-theme-design: Found redundant section(s): Reference Files
+  ❌ sms-text-message-marketing: Found redundant section(s): Reference Files
+  ❌ speech-writing: Found redundant section(s): Reference Files
+  ❌ spreadsheet-analysis-manipulation: Found redundant section(s): Reference Files
+  ❌ tagline-slogan-writing: Found redundant section(s): Reference Files
+  ❌ technical-writing: Found redundant section(s): Reference Files
+  ❌ tool-intelligence-router: Found redundant section(s): Reference Files
+  ❌ training-workshop-presentations: Link issues: Non-meaningful link text: [Summary](./references/summary.md)
+  ❌ training-workshop-presentations: Found redundant section(s): Reference Files
+  ❌ typography-type-design: Found redundant section(s): Reference Files
+  ❌ ux-writing-microcopy: Link issues: Non-meaningful link text: [Our Voice](./references/our-voice.md)
+  ❌ ux-writing-microcopy: Found redundant section(s): Reference Files
+  ❌ video-ads-paid-advertising: Link issues: Non-meaningful link text: [Analytics](./references/analytics.md); Non-meaningful link text: [Cta Types](./references/cta-types.md)
+  ❌ video-ads-paid-advertising: Found redundant section(s): Reference Files
+  ❌ video-analysis-visual-intelligence: Found redundant section(s): Reference Files
+  ❌ video-captioning-subtitling: Link issues: Non-meaningful link text: [Captions](./references/captions.md); Non-meaningful link text: [Delivery](./references/delivery.md); Non-meaningful link text: [Facebook](./references/facebook.md); Non-meaningful link text: [Instagram](./references/instagram.md); Non-meaningful link text: [Linkedin](./references/linkedin.md); Non-meaningful link text: [Style](./references/style.md); Non-meaningful link text: [Subtitles](./references/subtitles.md); Non-meaningful link text: [Tiktok](./references/tiktok.md); Non-meaningful link text: [Timing](./references/timing.md); Non-meaningful link text: [Youtube](./references/youtube.md)
+  ❌ video-captioning-subtitling: Found redundant section(s): Reference Files
+  ❌ video-cinematography-camera-work: Link issues: Non-meaningful link text: [Aperture](./references/aperture.md); Non-meaningful link text: [Headroom](./references/headroom.md)
+  ❌ video-cinematography-camera-work: Found redundant section(s): Reference Files
+  ❌ video-ecommerce-shoppable: Link issues: Non-meaningful link text: [Analytics](./references/analytics.md)
+  ❌ video-ecommerce-shoppable: Found redundant section(s): Reference Files
+  ❌ video-lighting-techniques: Link issues: Non-meaningful link text: [Execution](./references/execution.md); Non-meaningful link text: [Key Light](./references/key-light.md); Non-meaningful link text: [Safety](./references/safety.md); Non-meaningful link text: [Setup](./references/setup.md)
+  ❌ video-lighting-techniques: Found redundant section(s): Reference Files
+  ❌ video-marketing-distribution: Found redundant section(s): Reference Files
+  ❌ video-podcast-production: Found redundant section(s): Reference Files
+  ❌ video-sales-letter-vsl: Found redundant section(s): Reference Files
+  ❌ video-script-writing: Found redundant section(s): Reference Files
+  ❌ video-seo-optimization: Found redundant section(s): Reference Files
+  ❌ video-sound-design-audio-post: Found redundant section(s): Reference Files
+  ❌ video-storyboarding-previsualization: Link issues: Non-meaningful link text: [Animation](./references/animation.md)
+  ❌ video-storyboarding-previsualization: Found redundant section(s): Reference Files
+  ❌ video-strategy-content-planning: Found redundant section(s): Reference Files
+  ❌ video-technical-standards: Link issues: Non-meaningful link text: [Facebook](./references/facebook.md); Non-meaningful link text: [Instagram](./references/instagram.md); Non-meaningful link text: [Jam Sync](./references/jam-sync.md); Non-meaningful link text: [Linkedin](./references/linkedin.md); Non-meaningful link text: [Tiktok](./references/tiktok.md); Non-meaningful link text: [Twitterx](./references/twitterx.md); Non-meaningful link text: [Youtube](./references/youtube.md)
+  ❌ video-technical-standards: Found redundant section(s): Reference Files
+  ❌ video-testimonials-case-studies: Link issues: Non-meaningful link text: [Education](./references/education.md)
+  ❌ video-testimonials-case-studies: Found redundant section(s): Reference Files
+  ❌ video-thumbnails-titles: Found redundant section(s): Reference Files
+  ❌ video-tutorials-howto: Link issues: Non-meaningful link text: [Audio](./references/audio.md); Non-meaningful link text: [Intro](./references/intro.md); Non-meaningful link text: [Summary](./references/summary.md); Non-meaningful link text: [Youtube](./references/youtube.md)
+  ❌ video-tutorials-howto: Found redundant section(s): Reference Files
+  ❌ video-vfx-special-effects: Found redundant section(s): Reference Files
+  ❌ web-accessibility-wcag: Found redundant section(s): Reference Files
+  ❌ web-animation-interactions: Found redundant section(s): Reference Files
+  ❌ webinar-production-strategy: Found redundant section(s): Reference Files
+  ❌ website-copywriting: Link issues: Non-meaningful link text: [404 Pages](./references/404-pages.md); Non-meaningful link text: [Faq Page](./references/faq-page.md); Non-meaningful link text: [Homepage](./references/homepage.md); Non-meaningful link text: [Use Cases](./references/use-cases.md)
+  ❌ website-copywriting: Found redundant section(s): Reference Files
+  ❌ workflow-automation-integration: Link issues: Non-meaningful link text: [Summary](./references/summary.md)
+  ❌ workflow-automation-integration: Found redundant section(s): Reference Files
+  ❌ workflow-design-fundamentals-patterns: Found redundant section(s): Reference Files
+  ❌ workflow-governance-compliance: Found redundant section(s): Reference Files
+
+================================================================================
+⚠️  FINAL VERDICT: 175 skill(s) need attention
+================================================================================
+
+Report written to: /home/ubuntu/github_repos/manus/audit_report_final.md

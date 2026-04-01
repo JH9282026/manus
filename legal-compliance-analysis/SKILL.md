@@ -56,10 +56,3 @@ This skill provides compliance analysis, not legal advice. Findings should be re
 **`/references/regulatory-frameworks.md`** — Read when assessing specific regulations (GDPR, CCPA, HIPAA, SOX), understanding jurisdictional requirements, or analyzing regulatory change impacts.
 
 **`/references/assessment-methodology.md`** — Read when designing assessment workflows, building scoring models, creating evidence matrices, or conducting vendor compliance evaluations.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Assessment Methodology](./references/assessment-methodology.md)
-- [Regulatory Frameworks](./references/regulatory-frameworks.md)

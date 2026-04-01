@@ -358,37 +358,3 @@ The creators who succeed long-term are rarely the most talented or best-equipped
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Algorithm Optimization](./references/algorithm-optimization.md)
-- [Audience Research And Personas](./references/audience-research-and-personas.md)
-- [Audience Retention Strategies](./references/audience-retention-strategies.md)
-- [Best Practices](./references/best-practices.md)
-- [Collaboration And Workflow](./references/collaboration-and-workflow.md)
-- [Common Mistakes](./references/common-mistakes.md)
-- [Competitive Analysis](./references/competitive-analysis.md)
-- [Conclusion](./references/conclusion.md)
-- [Content Batching And Production Workflow](./references/content-batching-and-production-workflow.md)
-- [Content Gaps And Opportunities](./references/content-gaps-and-opportunities.md)
-- [Content Pillars And Themes](./references/content-pillars-and-themes.md)
-- [Content Quality Vs Quantity](./references/content-quality-vs-quantity.md)
-- [Content Repurposing Strategy](./references/content-repurposing-strategy.md)
-- [Defining Video Goals And Objectives](./references/defining-video-goals-and-objectives.md)
-- [Detailed Content](./references/detailed-content.md)
-- [Evergreen Vs Timely Content](./references/evergreen-vs-timely-content.md)
-- [Long Term Channel Growth Strategy](./references/long-term-channel-growth-strategy.md)
-- [Performance Tracking And Iteration](./references/performance-tracking-and-iteration.md)
-- [Platform Strategy](./references/platform-strategy.md)
-- [Publishing Frequency And Consistency](./references/publishing-frequency-and-consistency.md)
-- [Resource Planning](./references/resource-planning.md)
-- [Seasonal And Trending Content Planning](./references/seasonal-and-trending-content-planning.md)
-- [Series Vs Standalone Videos](./references/series-vs-standalone-videos.md)
-- [Tools And Templates](./references/tools-and-templates.md)
-- [Using The Reference Files](./references/using-the-reference-files.md)
-- [Video Content Audit](./references/video-content-audit.md)
-- [Video Content Calendar Creation](./references/video-content-calendar-creation.md)
-- [Video Content Formats By Goal](./references/video-content-formats-by-goal.md)
-- [Video Formats And Types](./references/video-formats-and-types.md)

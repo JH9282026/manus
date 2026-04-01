@@ -57,10 +57,3 @@ Apply proven negotiation frameworks and psychological principles to achieve opti
 **`/references/negotiation-frameworks.md`** — Read when preparing negotiation strategy, analyzing BATNA, structuring offers, or planning concessions.
 
 **`/references/tactical-techniques.md`** — Read when executing negotiations, handling objections, managing difficult counterparts, or closing deals.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Negotiation Frameworks](./references/negotiation-frameworks.md)
-- [Tactical Techniques](./references/tactical-techniques.md)

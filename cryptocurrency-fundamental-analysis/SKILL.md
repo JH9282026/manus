@@ -64,11 +64,3 @@ This skill addresses unique aspects of decentralized systems, token economics, a
 **`/references/macro-indicators.md`** — Read for macroeconomic factors affecting cryptocurrency markets.
 
 **`/references/geopolitical-factors.md`** — Read for regulatory and geopolitical risk assessment.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Geopolitical Factors](./references/geopolitical-factors.md)
-- [Macro Indicators](./references/macro-indicators.md)
-- [Tokenomics Analysis](./references/tokenomics-analysis.md)

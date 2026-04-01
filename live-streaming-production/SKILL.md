@@ -59,10 +59,3 @@ Cover the complete live streaming workflow from equipment selection and platform
 **`/references/technical-setup.md`** — Read when configuring equipment, encoding settings, audio/video sources, or platform-specific stream settings.
 
 **`/references/production-workflow.md`** — Read when planning multi-camera productions, managing live events, coordinating crew, or handling audience engagement during streams.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Production Workflow](./references/production-workflow.md)
-- [Technical Setup](./references/technical-setup.md)

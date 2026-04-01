@@ -38,12 +38,3 @@ Choose your approach based on your specific needs:
 **`/references/platform-specs.md`** — Read when you need detailed information about technical requirements and best practices for YouTube, social media, and other platforms.
 
 **`/references/testing-optimization.md`** — Read when you need detailed information about A/B testing methodologies and performance analytics.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Design Fundamentals](./references/design-fundamentals.md)
-- [Platform Specs](./references/platform-specs.md)
-- [Testing Optimization](./references/testing-optimization.md)
-- [Title Formulas](./references/title-formulas.md)

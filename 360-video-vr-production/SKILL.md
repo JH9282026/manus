@@ -105,12 +105,3 @@ This skill covers the complete 360° video and VR production pipeline: camera sy
 **`/references/interactive-vr.md`** — Read when adding interactive elements, building VR tours, or implementing branching narratives.
 
 **`/references/spatial-audio-deep-dive.md`** — Read when setting up ambisonic recording, processing spatial audio, or troubleshooting head-tracking audio sync.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Camera Systems](./references/camera-systems.md)
-- [Interactive Vr](./references/interactive-vr.md)
-- [Spatial Audio Deep Dive](./references/spatial-audio-deep-dive.md)
-- [Stitching Advanced](./references/stitching-advanced.md)

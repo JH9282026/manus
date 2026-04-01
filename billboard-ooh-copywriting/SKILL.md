@@ -73,10 +73,3 @@ Billboard copy should contain seven words or fewer. At typical viewing distances
 **`/references/format-specs.md`** — Read when writing for specific OOH formats (bulletins, posters, transit) or needing production specifications.
 
 **`/references/creative-templates.md`** — Read when seeking proven copy structures, headline formulas, or campaign frameworks.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Creative Templates](./references/creative-templates.md)
-- [Format Specs](./references/format-specs.md)

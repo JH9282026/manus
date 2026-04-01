@@ -94,12 +94,3 @@ This skill provides market intelligence, competitive positioning assessment, and
 **`/references/market-analysis.md`** — Read when sizing markets or analyzing segments. Contains market data frameworks and regional analysis.
 
 **`/references/innovation-trends.md`** — Read when tracking technology developments. Covers electrification, autonomy, connectivity trends.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Competitor Profiles](./references/competitor-profiles.md)
-- [Innovation Trends](./references/innovation-trends.md)
-- [Market Analysis](./references/market-analysis.md)
-- [Porters Analysis](./references/porters-analysis.md)

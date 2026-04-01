@@ -93,10 +93,3 @@ Transform raw numbers into meaningful stories by weaving together accurate data 
 **`/references/visualization-design-techniques.md`** — Read when designing specific chart types, applying color theory, creating dashboards, or optimizing visualizations for accessibility.
 
 **`/references/narrative-frameworks-delivery.md`** — Read when structuring data presentations, writing data-driven reports, building narrative arcs, or adapting data stories for specific audiences and formats.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Narrative Frameworks Delivery](./references/narrative-frameworks-delivery.md)
-- [Visualization Design Techniques](./references/visualization-design-techniques.md)

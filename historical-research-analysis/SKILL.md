@@ -41,10 +41,3 @@ This skill applies historical methodology — archival research, primary source 
 **`/references/historical-methods.md`** — Read for analytical frameworks, comparative analysis, or pattern identification.
 
 **`/references/archival-sources.md`** — Read for archival research, source evaluation, oral history, or heritage documentation.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Archival Sources](./references/archival-sources.md)
-- [Historical Methods](./references/historical-methods.md)

@@ -65,10 +65,3 @@ This skill provides frameworks for the complete grant lifecycle: prospect resear
 **`/references/foundation-grants.md`** — Read when writing foundation or corporate grant proposals, letters of inquiry, or developing funder cultivation strategies.
 
 **`/references/government-grants.md`** — Read when preparing federal or state grant applications, navigating NOFO/RFA requirements, building budgets with federal cost principles, or writing research grant methodology sections.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Foundation Grants](./references/foundation-grants.md)
-- [Government Grants](./references/government-grants.md)

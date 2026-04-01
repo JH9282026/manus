@@ -438,21 +438,3 @@ Detailed content has been organized into reference files for on-demand loading:
 **`/references/essential-resources.md`** — Essential Resources
 
 **`/references/conclusion.md`** — Conclusion
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Accuracy](./references/accuracy.md)
-- [Activity B Roll](./references/activity-b-roll.md)
-- [Alternative Financing Models](./references/alternative-financing-models.md)
-- [Alternative Funding](./references/alternative-funding.md)
-- [Anticipating Action](./references/anticipating-action.md)
-- [Archival Footage And Photos](./references/archival-footage-and-photos.md)
-- [Archival Rights](./references/archival-rights.md)
-- [Assembly And Rough Cut](./references/assembly-and-rough-cut.md)
-- [Assembly](./references/assembly.md)
-
----
-
-**Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.

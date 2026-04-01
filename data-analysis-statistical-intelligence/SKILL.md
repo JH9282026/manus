@@ -81,11 +81,3 @@ Encompass the complete data science lifecycle from initial exploration through a
 **`/references/ml-predictive-modeling.md`** — Read when building classification, regression, or clustering models, performing feature engineering, or evaluating model performance.
 
 **`/references/data-cleaning-visualization.md`** — Read when handling missing data, detecting outliers, transforming features, or creating publication-quality visualizations and dashboards.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Data Cleaning Visualization](./references/data-cleaning-visualization.md)
-- [Ml Predictive Modeling](./references/ml-predictive-modeling.md)
-- [Statistical Methods Testing](./references/statistical-methods-testing.md)

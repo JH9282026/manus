@@ -63,10 +63,3 @@ Provide frameworks for building and optimizing online retail businesses across t
 **`/references/acquisition-and-retention.md`** — Read when developing customer acquisition strategies, retention programs, or optimizing marketing channels for e-commerce.
 
 **`/references/merchandising-and-operations.md`** — Read when optimizing product catalog, pricing strategy, fulfillment operations, or marketplace presence.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Acquisition And Retention](./references/acquisition-and-retention.md)
-- [Merchandising And Operations](./references/merchandising-and-operations.md)

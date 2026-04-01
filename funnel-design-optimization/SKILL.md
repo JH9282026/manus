@@ -87,11 +87,3 @@ This skill provides frameworks, architectures, and optimization strategies for c
 **`/references/funnel-copywriting-optimization.md`** — Read when writing sales page copy, crafting CTAs, building email sequences, handling objections, or optimizing conversion rates.
 
 **`/references/funnel-analytics-tools.md`** — Read when setting up funnel tracking, analyzing metrics, choosing platforms, or implementing retargeting and automation.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Funnel Analytics Tools](./references/funnel-analytics-tools.md)
-- [Funnel Copywriting Optimization](./references/funnel-copywriting-optimization.md)
-- [Funnel Types Architectures](./references/funnel-types-architectures.md)

@@ -347,35 +347,3 @@ As platforms, technologies, and consumer preferences continue to evolve, the fun
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [A B Testing Video Content](./references/a-b-testing-video-content.md)
-- [Best Practices](./references/best-practices.md)
-- [Common Mistakes](./references/common-mistakes.md)
-- [Community Building Through Video](./references/community-building-through-video.md)
-- [Conclusion](./references/conclusion.md)
-- [Cross Platform Distribution Strategy](./references/cross-platform-distribution-strategy.md)
-- [Detailed Content](./references/detailed-content.md)
-- [Influencer And Partnership Distribution](./references/influencer-and-partnership-distribution.md)
-- [Measuring Video Marketing Roi](./references/measuring-video-marketing-roi.md)
-- [Organic Vs Paid Video Distribution](./references/organic-vs-paid-video-distribution.md)
-- [Platform Selection And Strategy](./references/platform-selection-and-strategy.md)
-- [Social Media Video Marketing](./references/social-media-video-marketing.md)
-- [Tools And Platforms](./references/tools-and-platforms.md)
-- [Types Of Marketing Videos](./references/types-of-marketing-videos.md)
-- [Using The Reference Files](./references/using-the-reference-files.md)
-- [Video Advertising](./references/video-advertising.md)
-- [Video Analytics And Kpis](./references/video-analytics-and-kpis.md)
-- [Video Content Calendar And Planning](./references/video-content-calendar-and-planning.md)
-- [Video Email Marketing](./references/video-email-marketing.md)
-- [Video Embeds And Syndication](./references/video-embeds-and-syndication.md)
-- [Video Marketing Automation](./references/video-marketing-automation.md)
-- [Video Marketing Funnel](./references/video-marketing-funnel.md)
-- [Video Marketing Strategy Fundamentals](./references/video-marketing-strategy-fundamentals.md)
-- [Video On Landing Pages And Websites](./references/video-on-landing-pages-and-websites.md)
-- [Video Promotion Tactics](./references/video-promotion-tactics.md)
-- [Video Remarketing And Retargeting](./references/video-remarketing-and-retargeting.md)
-- [Youtube Marketing Strategy](./references/youtube-marketing-strategy.md)

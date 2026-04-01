@@ -72,10 +72,3 @@ Provide structured frameworks for comprehensive due diligence across financial, 
 **`/references/financial-due-diligence.md`** — Read when analyzing financial statements, quality of earnings, working capital, or building financial models for deal valuation.
 
 **`/references/operational-commercial-dd.md`** — Read when evaluating business operations, market position, technology stack, legal compliance, or management team capabilities.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Financial Due Diligence](./references/financial-due-diligence.md)
-- [Operational Commercial Dd](./references/operational-commercial-dd.md)

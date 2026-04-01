@@ -70,10 +70,3 @@ Assess and develop across five EQ domains:
 **`/references/assessment-frameworks.md`** — Read when conducting leadership style assessments, interpreting 360-degree feedback, diagnosing team dynamics, or evaluating emotional intelligence.
 
 **`/references/development-planning.md`** — Read when creating development plans, coaching through difficult situations, building executive presence, or designing change leadership strategies.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Assessment Frameworks](./references/assessment-frameworks.md)
-- [Development Planning](./references/development-planning.md)

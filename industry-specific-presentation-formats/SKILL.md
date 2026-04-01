@@ -35,10 +35,3 @@ Each industry has distinct presentation norms for regulatory, credibility, and a
 **`/references/industry-formats-part1.md`** — Read for healthcare, financial, technology, or legal presentations.
 
 **`/references/industry-formats-part2.md`** — Read for consulting, education, government, pharma, engineering, marketing, or nonprofit.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Industry Formats Part1](./references/industry-formats-part1.md)
-- [Industry Formats Part2](./references/industry-formats-part2.md)

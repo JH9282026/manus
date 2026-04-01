@@ -35,10 +35,3 @@ This skill covers pre-launch optimization, multi-channel distribution, outreach,
 **`/references/distribution-channels.md`** — Read for multi-channel plans, platform tactics, landing pages, or email campaigns.
 
 **`/references/seo-measurement.md`** — Read for SEO optimization, outreach, repurposing, or ROI measurement.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Distribution Channels](./references/distribution-channels.md)
-- [Seo Measurement](./references/seo-measurement.md)

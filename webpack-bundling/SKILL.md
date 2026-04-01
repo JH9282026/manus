@@ -172,7 +172,7 @@ module.exports = {
         
         // React chunk
         react: {
-          test: /[\\/]node_modules[\\/](react|react-dom)[\\/]/,
+          test: /[\\/]node_modules[React|React Dom](react|react-dom)[\\/]/,
           name: 'react',
           priority: 20
         }

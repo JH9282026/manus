@@ -75,10 +75,3 @@ Plot competitors on two meaningful axes to identify:
 **`/references/positioning-frameworks.md`** — Read when developing positioning strategy, creating positioning statements, or analyzing competitive positioning.
 
 **`/references/messaging-development.md`** — Read when building messaging architectures, writing value propositions, or adapting messages for different audiences.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Messaging Development](./references/messaging-development.md)
-- [Positioning Frameworks](./references/positioning-frameworks.md)

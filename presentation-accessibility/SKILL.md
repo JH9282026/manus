@@ -356,34 +356,3 @@ As accessibility standards and technologies continue to evolve, commit to ongoin
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Accessibility Checklist For Presentations](./references/accessibility-checklist-for-presentations.md)
-- [Accessible Links And Navigation](./references/accessible-links-and-navigation.md)
-- [Accessible Pdf Exports](./references/accessible-pdf-exports.md)
-- [Accessible Presentation Delivery](./references/accessible-presentation-delivery.md)
-- [Accessible Tables And Data Visualization](./references/accessible-tables-and-data-visualization.md)
-- [Alternative Text For Images And Graphics](./references/alternative-text-for-images-and-graphics.md)
-- [Animation And Motion Accessibility](./references/animation-and-motion-accessibility.md)
-- [Best Practices For Accessible Presentations](./references/best-practices-for-accessible-presentations.md)
-- [Color And Contrast Accessibility](./references/color-and-contrast-accessibility.md)
-- [Common Accessibility Mistakes To Avoid](./references/common-accessibility-mistakes-to-avoid.md)
-- [Conclusion](./references/conclusion.md)
-- [Detailed Content](./references/detailed-content.md)
-- [Document Structure And Reading Order](./references/document-structure-and-reading-order.md)
-- [Keyboard Navigation And Focus Indicators](./references/keyboard-navigation-and-focus-indicators.md)
-- [Language And Plain Language Principles](./references/language-and-plain-language-principles.md)
-- [Legal And Compliance Considerations](./references/legal-and-compliance-considerations.md)
-- [Multimedia Accessibility](./references/multimedia-accessibility.md)
-- [Platform Specific Accessibility Features](./references/platform-specific-accessibility-features.md)
-- [Screen Reader Compatibility](./references/screen-reader-compatibility.md)
-- [Testing For Accessibility](./references/testing-for-accessibility.md)
-- [Tools And Resources For Accessibility](./references/tools-and-resources-for-accessibility.md)
-- [Types Of Disabilities To Consider](./references/types-of-disabilities-to-consider.md)
-- [Typography And Readability](./references/typography-and-readability.md)
-- [Using The Reference Files](./references/using-the-reference-files.md)
-- [Wcag Applied To Presentations](./references/wcag-applied-to-presentations.md)
-- [Why Accessibility Matters In Presentations](./references/why-accessibility-matters-in-presentations.md)

@@ -159,15 +159,3 @@ Define audiences through layered analysis:
 **`/references/brand-personality.md`** — Read when defining brand personality, selecting archetypes, or articulating brand promise and essence. Includes personality development exercises.
 
 **`/references/brand-architecture.md`** — Read when designing multi-brand portfolios, evaluating architecture models, or planning brand hierarchy. Contains architecture decision frameworks.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Audience Research](./references/audience-research.md)
-- [Brand Architecture](./references/brand-architecture.md)
-- [Brand Foundations](./references/brand-foundations.md)
-- [Brand Personality](./references/brand-personality.md)
-- [Competitive Analysis](./references/competitive-analysis.md)
-- [Positioning Frameworks](./references/positioning-frameworks.md)
-- [Strategy Frameworks](./references/strategy-frameworks.md)

@@ -59,10 +59,3 @@ Provide frameworks for comprehensive sustainability research covering greenhouse
 **`/references/carbon-accounting-lca.md`** — Read when calculating carbon footprints, conducting life cycle assessments, or developing emission reduction strategies.
 
 **`/references/esg-frameworks-reporting.md`** — Read when preparing sustainability reports, improving ESG ratings, conducting climate risk analysis, or aligning with disclosure frameworks.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Carbon Accounting Lca](./references/carbon-accounting-lca.md)
-- [Esg Frameworks Reporting](./references/esg-frameworks-reporting.md)

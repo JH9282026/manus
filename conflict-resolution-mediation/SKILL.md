@@ -62,11 +62,3 @@ This skill integrates conflict theory, mediation methodologies, and communicatio
 **`/references/de-escalation-toolkit.md`** — Read when emotions are high or situations are volatile.
 
 **`/references/communication-frameworks.md`** — Read for specific language patterns and conversation techniques.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Communication Frameworks](./references/communication-frameworks.md)
-- [De Escalation Toolkit](./references/de-escalation-toolkit.md)
-- [Mediation Techniques](./references/mediation-techniques.md)

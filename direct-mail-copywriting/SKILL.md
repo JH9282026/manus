@@ -59,10 +59,3 @@ Provide frameworks and techniques for every direct mail format — from sales le
 **`/references/format-specific-copy.md`** — Read when writing copy for specific formats: postcards, self-mailers, catalogs, dimensional mail, or envelope teasers.
 
 **`/references/offers-and-testing.md`** — Read when constructing offers, designing response devices, planning A/B tests, or optimizing response rates.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Format Specific Copy](./references/format-specific-copy.md)
-- [Offers And Testing](./references/offers-and-testing.md)

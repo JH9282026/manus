@@ -349,29 +349,3 @@ Remember: the best animation is often the one the audience doesn't consciously n
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Accessibility Considerations For Animations](./references/accessibility-considerations-for-animations.md)
-- [Advanced Animation Techniques](./references/advanced-animation-techniques.md)
-- [Animation Best Practices By Presentation Type](./references/animation-best-practices-by-presentation-type.md)
-- [Animation Principles From Traditional Animation](./references/animation-principles-from-traditional-animation.md)
-- [Animation Timing And Sequencing](./references/animation-timing-and-sequencing.md)
-- [Best Practices For Animation And Transitions](./references/best-practices-for-animation-and-transitions.md)
-- [Common Animation Mistakes To Avoid](./references/common-animation-mistakes-to-avoid.md)
-- [Conclusion](./references/conclusion.md)
-- [Detailed Content](./references/detailed-content.md)
-- [Layering And Choreography Of Multiple Animations](./references/layering-and-choreography-of-multiple-animations.md)
-- [Performance And File Size Considerations](./references/performance-and-file-size-considerations.md)
-- [Platform Specific Animation Capabilities](./references/platform-specific-animation-capabilities.md)
-- [Subtle Vs Dramatic Animations](./references/subtle-vs-dramatic-animations.md)
-- [Testing And Previewing Animations](./references/testing-and-previewing-animations.md)
-- [The Purpose And Psychology Of Motion In Presentations](./references/the-purpose-and-psychology-of-motion-in-presentations.md)
-- [Tools And Resources](./references/tools-and-resources.md)
-- [Types Of Object Animations](./references/types-of-object-animations.md)
-- [Types Of Slide Transitions](./references/types-of-slide-transitions.md)
-- [Using The Reference Files](./references/using-the-reference-files.md)
-- [When To Avoid Animations](./references/when-to-avoid-animations.md)
-- [When To Use Animations](./references/when-to-use-animations.md)

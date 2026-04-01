@@ -70,11 +70,3 @@ Combine traditional chart analysis techniques with specialized tools for cryptoc
 **`/references/crypto-indicators.md`** — Read for Bitcoin-specific and on-chain indicators.
 
 **`/references/macro-integration.md`** — Read for correlation analysis and macro event trading.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Crypto Indicators](./references/crypto-indicators.md)
-- [Macro Integration](./references/macro-integration.md)
-- [Traditional Indicators](./references/traditional-indicators.md)

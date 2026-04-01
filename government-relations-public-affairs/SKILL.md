@@ -54,11 +54,3 @@ This skill covers the full spectrum of government affairs: lobbying strategy, le
 **`/references/regulatory-advocacy.md`** — Read when responding to proposed regulations, preparing agency meeting requests, managing PAC activities, or ensuring lobbying compliance.
 
 **`/references/coalition-grassroots.md`** — Read when building advocacy coalitions, activating grassroots networks, or mobilizing constituent support for policy campaigns.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Coalition Grassroots](./references/coalition-grassroots.md)
-- [Legislative Engagement](./references/legislative-engagement.md)
-- [Regulatory Advocacy](./references/regulatory-advocacy.md)

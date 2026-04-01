@@ -79,13 +79,3 @@ Apply TOGAF-based architecture across four domains:
 **`/references/it-governance.md`** — Read when establishing IT governance frameworks, managing technology portfolios, or building architecture review boards.
 
 **`/references/it-operations.md`** — Read when implementing ITIL processes, optimizing IT service delivery, or designing IT organizational structures.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Cloud Strategy](./references/cloud-strategy.md)
-- [Digital Transformation](./references/digital-transformation.md)
-- [Enterprise Architecture](./references/enterprise-architecture.md)
-- [It Governance](./references/it-governance.md)
-- [It Operations](./references/it-operations.md)

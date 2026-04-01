@@ -65,10 +65,3 @@ Track how innovations flow from luxury to mass-market:
 **`/references/development-frameworks.md`** — Read when analyzing specific manufacturer development cycles, stage-gate processes, or comparing timeline differences between segments.
 
 **`/references/innovation-assessment.md`** — Read when evaluating innovation pipelines, technology adoption timing, or supplier integration strategies.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Development Frameworks](./references/development-frameworks.md)
-- [Innovation Assessment](./references/innovation-assessment.md)

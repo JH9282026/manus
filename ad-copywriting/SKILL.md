@@ -91,15 +91,3 @@ Read when creating ads for specific platforms. Contains detailed character limit
 
 ### `/references/persuasion-formulas.md`
 Read when crafting compelling hooks and CTAs. Contains proven copywriting frameworks and examples.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Display Ads](./references/display-ads.md)
-- [Google Ads](./references/google-ads.md)
-- [Linkedin Ads](./references/linkedin-ads.md)
-- [Meta Ads](./references/meta-ads.md)
-- [Persuasion Formulas](./references/persuasion-formulas.md)
-- [Platform Specs](./references/platform-specs.md)
-- [Video Ads](./references/video-ads.md)

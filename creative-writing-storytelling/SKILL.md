@@ -61,11 +61,3 @@ Demonstrate through concrete sensory details, actions, and dialogue.
 **`/references/character-development.md`** — Read for character creation, arcs, and voice development.
 
 **`/references/prose-techniques.md`** — Read for writing craft, dialogue, and stylistic techniques.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Character Development](./references/character-development.md)
-- [Prose Techniques](./references/prose-techniques.md)
-- [Story Structures](./references/story-structures.md)

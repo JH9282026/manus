@@ -59,10 +59,3 @@ Provide comprehensive frameworks for nonprofit leadership covering board governa
 **`/references/governance-operations.md`** — Read when structuring boards, managing volunteers, ensuring compliance, or building operational systems.
 
 **`/references/fundraising-programs.md`** — Read when developing fundraising strategies, writing grant proposals, designing programs, or evaluating impact.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Fundraising Programs](./references/fundraising-programs.md)
-- [Governance Operations](./references/governance-operations.md)

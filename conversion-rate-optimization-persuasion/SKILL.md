@@ -67,10 +67,3 @@ BECAUSE [reason based on evidence]
 **`/references/persuasion-psychology.md`** — Read for psychology principles, cognitive biases, and persuasion techniques.
 
 **`/references/testing-methodology.md`** — Read for A/B test design, sample size calculations, and statistical rigor.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Persuasion Psychology](./references/persuasion-psychology.md)
-- [Testing Methodology](./references/testing-methodology.md)

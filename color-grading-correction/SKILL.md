@@ -104,13 +104,3 @@ This skill provides comprehensive color workflows for video post-production. App
 **`/references/skin-tones.md`** — Read when correcting skin tones, working with diverse complexions, or protecting skin during grading.
 
 **`/references/delivery-specs.md`** — Read when preparing broadcast deliverables, web output, or HDR masters.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Creative Grading](./references/creative-grading.md)
-- [Delivery Specs](./references/delivery-specs.md)
-- [Primary Correction](./references/primary-correction.md)
-- [Shot Matching](./references/shot-matching.md)
-- [Skin Tones](./references/skin-tones.md)

@@ -42,10 +42,3 @@ This skill covers interactive design patterns, JavaScript visualization librarie
 **`/references/interactivity-design.md`** — Read for interaction patterns, scrollytelling, filtering, or progressive disclosure.
 
 **`/references/javascript-libraries-tools.md`** — Read for library selection, D3.js, performance, or responsive design.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Interactivity Design](./references/interactivity-design.md)
-- [Javascript Libraries Tools](./references/javascript-libraries-tools.md)

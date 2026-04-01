@@ -64,11 +64,3 @@ Unlike product-focused marketing videos, corporate video builds brand equity, sh
 **`/references/brand-storytelling.md`** — Read for narrative frameworks and emotional storytelling techniques.
 
 **`/references/production-process.md`** — Read for detailed production workflows and technical standards.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Brand Storytelling](./references/brand-storytelling.md)
-- [Corporate Video Types](./references/corporate-video-types.md)
-- [Production Process](./references/production-process.md)

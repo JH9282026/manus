@@ -156,14 +156,3 @@ Techniques for confidence:
 **`/references/audience-engagement.md`** — Read when designing interactive elements, managing audience participation, or maintaining attention. Contains engagement techniques, polling strategies, and interaction frameworks.
 
 **`/references/qa-handling.md`** — Read when preparing for Q&A sessions, anticipating difficult questions, or handling challenging audience members. Includes question anticipation, bridging techniques, and de-escalation strategies.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Audience Engagement](./references/audience-engagement.md)
-- [Delivery Techniques](./references/delivery-techniques.md)
-- [Qa Handling](./references/qa-handling.md)
-- [Speech Structure Storytelling](./references/speech-structure-storytelling.md)
-- [Virtual Presentations](./references/virtual-presentations.md)
-- [Visual Design Slides](./references/visual-design-slides.md)

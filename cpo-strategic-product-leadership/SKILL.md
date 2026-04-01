@@ -66,11 +66,3 @@ Build product-led growth engines, transform from project to product mindset, acc
 **`/references/roadmap-development.md`** — Read for prioritization frameworks and roadmap communication.
 
 **`/references/go-to-market.md`** — Read for launch planning, pricing strategy, and distribution.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Go To Market](./references/go-to-market.md)
-- [Product Strategy](./references/product-strategy.md)
-- [Roadmap Development](./references/roadmap-development.md)

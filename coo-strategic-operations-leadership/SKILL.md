@@ -77,11 +77,3 @@ Transform operational capabilities, achieve sustainable competitive advantage th
 **`/references/process-optimization.md`** — Read for value stream mapping and process improvement techniques.
 
 **`/references/performance-management.md`** — Read for KPI frameworks and performance dashboards.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Operational Excellence](./references/operational-excellence.md)
-- [Performance Management](./references/performance-management.md)
-- [Process Optimization](./references/process-optimization.md)

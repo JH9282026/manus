@@ -57,10 +57,3 @@ Implement mobile-first design strategies and PWA technologies including service 
 **`/references/mobile-first-design.md`** — Read when implementing responsive layouts, optimizing touch interactions, or improving mobile performance.
 
 **`/references/pwa-implementation.md`** — Read when implementing service workers, caching strategies, push notifications, or offline-first architecture.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Mobile First Design](./references/mobile-first-design.md)
-- [Pwa Implementation](./references/pwa-implementation.md)

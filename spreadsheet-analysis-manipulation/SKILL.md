@@ -38,12 +38,3 @@ Choose your approach based on your specific needs:
 **`/references/automation-scripting.md`** — Read when you need detailed information about macros, Apps Script, VBA, and spreadsheet automation.
 
 **`/references/data-visualization.md`** — Read when you need detailed information about charts, conditional formatting, and dashboard design.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Advanced Formulas](./references/advanced-formulas.md)
-- [Automation Scripting](./references/automation-scripting.md)
-- [Data Visualization](./references/data-visualization.md)
-- [Pivot Analysis](./references/pivot-analysis.md)

@@ -38,12 +38,3 @@ Choose your approach based on your specific needs:
 **`/references/web-typography.md`** — Read when you need detailed information about web fonts, performance, responsive typography, and CSS techniques.
 
 **`/references/advanced-techniques.md`** — Read when you need detailed information about custom type design, variable fonts, and experimental typography.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Advanced Techniques](./references/advanced-techniques.md)
-- [Hierarchy Systems](./references/hierarchy-systems.md)
-- [Typeface Selection](./references/typeface-selection.md)
-- [Web Typography](./references/web-typography.md)

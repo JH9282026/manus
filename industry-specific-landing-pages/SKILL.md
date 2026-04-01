@@ -35,10 +35,3 @@ Generic pages fail because they ignore industry-specific buyer behavior. This sk
 **`/references/industry-frameworks.md`** — Read for SaaS, e-commerce, B2B, B2C, or lead generation pages.
 
 **`/references/cross-industry-optimization.md`** — Read for healthcare, financial, real estate, education, nonprofit pages, or cross-industry testing.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Cross Industry Optimization](./references/cross-industry-optimization.md)
-- [Industry Frameworks](./references/industry-frameworks.md)

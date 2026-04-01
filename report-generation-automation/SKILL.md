@@ -38,12 +38,3 @@ Choose your approach based on your specific needs:
 **`/references/template-systems.md`** — Read when you need detailed information about report templates, dynamic content generation, and formatting.
 
 **`/references/distribution-automation.md`** — Read when you need detailed information about scheduling, delivery methods, and notification systems.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Data Processing](./references/data-processing.md)
-- [Distribution Automation](./references/distribution-automation.md)
-- [Template Systems](./references/template-systems.md)
-- [Visualization Design](./references/visualization-design.md)

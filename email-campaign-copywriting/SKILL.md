@@ -59,10 +59,3 @@ Provide frameworks for every email campaign type — from welcome sequences and 
 **`/references/campaign-sequences.md`** — Read when designing specific email sequences: welcome series, cart abandonment, product launches, or cold outreach campaigns.
 
 **`/references/copywriting-techniques.md`** — Read when writing email body copy, crafting CTAs, applying direct response formulas, or optimizing emails for conversion.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Campaign Sequences](./references/campaign-sequences.md)
-- [Copywriting Techniques](./references/copywriting-techniques.md)

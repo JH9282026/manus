@@ -57,10 +57,3 @@ Combine process optimization with human-centered design to create digital workfl
 **`/references/service-blueprinting.md`** — Read when mapping service experiences, creating journey maps, or designing frontstage/backstage interactions.
 
 **`/references/workflow-automation.md`** — Read when implementing process automation, selecting automation tools, or designing RPA workflows.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Service Blueprinting](./references/service-blueprinting.md)
-- [Workflow Automation](./references/workflow-automation.md)

@@ -53,10 +53,3 @@ Provide frameworks for every stage of event communication — from naming and br
 **`/references/event-types-and-copy.md`** — Read when writing copy for specific event types: conferences, webinars, workshops, galas, or trade shows.
 
 **`/references/event-email-sequences.md`** — Read when designing event email campaigns, writing pre-event nurture sequences, or crafting post-event follow-up communications.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Event Email Sequences](./references/event-email-sequences.md)
-- [Event Types And Copy](./references/event-types-and-copy.md)

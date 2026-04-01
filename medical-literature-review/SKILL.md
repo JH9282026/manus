@@ -58,10 +58,3 @@ Conduct structured literature reviews following established methodologies (PRISM
 **`/references/review-methodology.md`** — Read when designing search strategies, setting inclusion criteria, screening articles, or extracting data from studies.
 
 **`/references/evidence-evaluation.md`** — Read when assessing study quality, grading evidence, conducting meta-analysis, or synthesizing findings.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Evidence Evaluation](./references/evidence-evaluation.md)
-- [Review Methodology](./references/review-methodology.md)

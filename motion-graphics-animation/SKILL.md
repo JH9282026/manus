@@ -38,12 +38,3 @@ Choose your approach based on your specific needs:
 **`/references/design-styles.md`** — Read when you need detailed information about 2D, 3D, kinetic typography, and contemporary motion design trends.
 
 **`/references/workflow-optimization.md`** — Read when you need detailed information about project setup, asset management, and rendering strategies.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Animation Principles](./references/animation-principles.md)
-- [Design Styles](./references/design-styles.md)
-- [Software Techniques](./references/software-techniques.md)
-- [Workflow Optimization](./references/workflow-optimization.md)

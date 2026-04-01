@@ -80,13 +80,3 @@ Track these metrics at the executive level:
 **`/references/marketing-analytics.md`** — Read when building attribution models, designing marketing dashboards, or calculating marketing ROI.
 
 **`/references/martech-strategy.md`** — Read when evaluating marketing technology, designing tech stack architecture, or implementing marketing automation.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Brand Strategy](./references/brand-strategy.md)
-- [Demand Generation](./references/demand-generation.md)
-- [Go To Market](./references/go-to-market.md)
-- [Marketing Analytics](./references/marketing-analytics.md)
-- [Martech Strategy](./references/martech-strategy.md)

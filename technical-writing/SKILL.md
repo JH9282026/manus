@@ -432,27 +432,3 @@ Detailed content has been organized into reference files for on-demand loading:
 **`/references/before-publishing.md`** — Before Publishing
 
 **`/references/conclusion.md`** — Conclusion
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [1 Know Your Audience](./references/1-know-your-audience.md)
-- [10 Measure And Improve](./references/10-measure-and-improve.md)
-- [11 Write Accessibly](./references/11-write-accessibly.md)
-- [12 Plan For Scale](./references/12-plan-for-scale.md)
-- [2 Start With User Tasks](./references/2-start-with-user-tasks.md)
-- [210 2024 01 15](./references/210-2024-01-15.md)
-- [3 Test Your Instructions](./references/3-test-your-instructions.md)
-- [4 Use Consistent Formatting](./references/4-use-consistent-formatting.md)
-- [5 Write For Scanning](./references/5-write-for-scanning.md)
-- [6 Include Examples](./references/6-include-examples.md)
-- [7 Keep Content Current](./references/7-keep-content-current.md)
-- [8 Collaborate Effectively](./references/8-collaborate-effectively.md)
-- [9 Use Version Control](./references/9-use-version-control.md)
-- [Accessibility In Technical Writing](./references/accessibility-in-technical-writing.md)
-- [Accuracy And Completeness](./references/accuracy-and-completeness.md)
-
----
-
-**Note:** This file was automatically condensed to meet the 500-line requirement. Additional content has been moved to the references/ folder.

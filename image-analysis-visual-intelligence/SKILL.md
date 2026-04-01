@@ -43,10 +43,3 @@ JPEG, PNG, GIF, WebP, TIFF, BMP, HEIC, RAW, PDF, SVG
 **`/references/visual-perception.md`** — Read for scene analysis, detection, face analysis, OCR, or accessibility descriptions.
 
 **`/references/extraction-composition.md`** — Read for object extraction, background removal, compositing, or quality assessment.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Extraction Composition](./references/extraction-composition.md)
-- [Visual Perception](./references/visual-perception.md)

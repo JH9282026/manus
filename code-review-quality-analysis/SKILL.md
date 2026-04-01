@@ -90,12 +90,3 @@ Structure every code review report as:
 **`/references/maintainability.md`** — Read when assessing code quality metrics, evaluating architecture, or planning technical debt remediation.
 
 **`/references/audit-methodology.md`** — Read when conducting formal code audits, establishing review processes, or building review checklists for teams.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Audit Methodology](./references/audit-methodology.md)
-- [Maintainability](./references/maintainability.md)
-- [Performance Analysis](./references/performance-analysis.md)
-- [Security Analysis](./references/security-analysis.md)

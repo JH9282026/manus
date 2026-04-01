@@ -358,31 +358,3 @@ Recognition that demonstrates excellence.
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Addressing Employment Gaps](./references/addressing-employment-gaps.md)
-- [Advanced Resume Strategies](./references/advanced-resume-strategies.md)
-- [Best Practices Summary](./references/best-practices-summary.md)
-- [Common Resume Mistakes](./references/common-resume-mistakes.md)
-- [Conclusion](./references/conclusion.md)
-- [Cover Letter Advanced Strategies](./references/cover-letter-advanced-strategies.md)
-- [Cover Letter Best Practices](./references/cover-letter-best-practices.md)
-- [Cover Letter Fundamentals](./references/cover-letter-fundamentals.md)
-- [Cover Letter Mistakes](./references/cover-letter-mistakes.md)
-- [Cover Letter Structure](./references/cover-letter-structure.md)
-- [Detailed Content](./references/detailed-content.md)
-- [Industry Specific Resume Guidance](./references/industry-specific-resume-guidance.md)
-- [Keywords And Ats Optimization](./references/keywords-and-ats-optimization.md)
-- [Linkedin Profile Optimization](./references/linkedin-profile-optimization.md)
-- [Personal Branding](./references/personal-branding.md)
-- [Resume Formats](./references/resume-formats.md)
-- [Resume Fundamentals](./references/resume-fundamentals.md)
-- [Resume Sections](./references/resume-sections.md)
-- [Resume Types By Career Stage](./references/resume-types-by-career-stage.md)
-- [Templates And Examples](./references/templates-and-examples.md)
-- [Tools And Resources](./references/tools-and-resources.md)
-- [Using The Reference Files](./references/using-the-reference-files.md)
-- [Writing Achievement Focused Bullet Points](./references/writing-achievement-focused-bullet-points.md)

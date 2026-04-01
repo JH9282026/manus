@@ -358,35 +358,3 @@ Scripts should support thumbnail and title promises:
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Best Practices For Video Script Writing](./references/best-practices-for-video-script-writing.md)
-- [Collaboration With Video Production](./references/collaboration-with-video-production.md)
-- [Common Video Script Mistakes](./references/common-video-script-mistakes.md)
-- [Conclusion](./references/conclusion.md)
-- [Detailed Content](./references/detailed-content.md)
-- [Dialogue Writing For Videos](./references/dialogue-writing-for-videos.md)
-- [Documentary Script Writing](./references/documentary-script-writing.md)
-- [Explainer Video Scripts](./references/explainer-video-scripts.md)
-- [Measuring Video Script Effectiveness](./references/measuring-video-script-effectiveness.md)
-- [Music And Sound Effects](./references/music-and-sound-effects.md)
-- [Script Formatting](./references/script-formatting.md)
-- [Storyboarding And Shot Lists](./references/storyboarding-and-shot-lists.md)
-- [Tools And Resources](./references/tools-and-resources.md)
-- [Types Of Video Scripts](./references/types-of-video-scripts.md)
-- [Using The Reference Files](./references/using-the-reference-files.md)
-- [Video Ad Scripts](./references/video-ad-scripts.md)
-- [Video Script Briefs And Client Communication](./references/video-script-briefs-and-client-communication.md)
-- [Video Script Fundamentals](./references/video-script-fundamentals.md)
-- [Video Script Length And Timing](./references/video-script-length-and-timing.md)
-- [Video Script Structure](./references/video-script-structure.md)
-- [Video Script Templates](./references/video-script-templates.md)
-- [Visual Direction In Scripts](./references/visual-direction-in-scripts.md)
-- [Why Video Scripts Differ From Other Writing](./references/why-video-scripts-differ-from-other-writing.md)
-- [Writing Compelling Hooks](./references/writing-compelling-hooks.md)
-- [Writing For Different Video Lengths](./references/writing-for-different-video-lengths.md)
-- [Writing Voiceover Narration](./references/writing-voiceover-narration.md)
-- [Youtube Script Writing](./references/youtube-script-writing.md)

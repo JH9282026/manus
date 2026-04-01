@@ -68,10 +68,3 @@ Provide frameworks for building holistic ESG programs covering environmental str
 **`/references/environmental-strategy.md`** — Read when developing climate strategy, setting emission reduction targets, designing circular economy programs, or managing environmental compliance.
 
 **`/references/social-governance-strategy.md`** — Read when building DEI programs, strengthening governance, designing stakeholder engagement, or implementing social responsibility initiatives.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Environmental Strategy](./references/environmental-strategy.md)
-- [Social Governance Strategy](./references/social-governance-strategy.md)

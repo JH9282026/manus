@@ -342,27 +342,3 @@ Remember that workflow design is iterative—your first design will likely evolv
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Best Practices For Workflow Design](./references/best-practices-for-workflow-design.md)
-- [Common Workflow Design Mistakes](./references/common-workflow-design-mistakes.md)
-- [Conclusion](./references/conclusion.md)
-- [Core Workflow Design Principles](./references/core-workflow-design-principles.md)
-- [Detailed Content](./references/detailed-content.md)
-- [Human Vs Automated Workflows](./references/human-vs-automated-workflows.md)
-- [Tools And Resources For Workflow Design](./references/tools-and-resources-for-workflow-design.md)
-- [Using The Reference Files](./references/using-the-reference-files.md)
-- [What Is A Workflow](./references/what-is-a-workflow.md)
-- [Why Workflow Design Matters](./references/why-workflow-design-matters.md)
-- [Workflow Anti Patterns What To Avoid](./references/workflow-anti-patterns-what-to-avoid.md)
-- [Workflow Complexity Management](./references/workflow-complexity-management.md)
-- [Workflow Components And Building Blocks](./references/workflow-components-and-building-blocks.md)
-- [Workflow Design Patterns](./references/workflow-design-patterns.md)
-- [Workflow Design Process](./references/workflow-design-process.md)
-- [Workflow Documentation Best Practices](./references/workflow-documentation-best-practices.md)
-- [Workflow Optimization Techniques](./references/workflow-optimization-techniques.md)
-- [Workflow Testing And Validation](./references/workflow-testing-and-validation.md)
-- [Workflow Types And Classifications](./references/workflow-types-and-classifications.md)

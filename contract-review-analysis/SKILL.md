@@ -64,11 +64,3 @@ This skill provides analytical support but does not constitute legal advice. All
 **`/references/commercial-contracts.md`** — Read for MSAs, SOWs, and distribution agreements.
 
 **`/references/risk-assessment.md`** — Read for risk analysis methodology and mitigation strategies.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Commercial Contracts](./references/commercial-contracts.md)
-- [Risk Assessment](./references/risk-assessment.md)
-- [Technology Contracts](./references/technology-contracts.md)

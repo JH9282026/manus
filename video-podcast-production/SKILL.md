@@ -191,14 +191,3 @@ See `/references/equipment-setup.md` for detailed equipment recommendations by b
 **`/references/monetization.md`** — Read when setting up YouTube monetization, negotiating sponsorships, creating premium content offerings, or pricing your podcast advertising.
 
 **`/references/workflows-case-studies.md`** — Read when establishing production workflows for solo or interview episodes, studying successful video podcast examples, or preparing for emerging trends in video podcasting.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Distribution Growth](./references/distribution-growth.md)
-- [Editing Workflow](./references/editing-workflow.md)
-- [Equipment Setup](./references/equipment-setup.md)
-- [Monetization](./references/monetization.md)
-- [Production Techniques](./references/production-techniques.md)
-- [Workflows Case Studies](./references/workflows-case-studies.md)

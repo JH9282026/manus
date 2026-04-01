@@ -57,10 +57,3 @@ Provide frameworks for modern performance management covering goal-setting metho
 **`/references/okr-goal-systems.md`** — Read when implementing OKRs, designing goal cascades, running quarterly planning, or aligning team goals to company strategy.
 
 **`/references/feedback-calibration-pip.md`** — Read when designing 360-degree feedback, running calibration sessions, creating performance improvement plans, or building continuous feedback culture.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Feedback Calibration Pip](./references/feedback-calibration-pip.md)
-- [Okr Goal Systems](./references/okr-goal-systems.md)

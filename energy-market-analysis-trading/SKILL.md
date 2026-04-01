@@ -57,10 +57,3 @@ Provide frameworks for energy market analysis covering supply-demand fundamental
 **`/references/power-gas-markets.md`** — Read when analyzing wholesale electricity markets, natural gas fundamentals, or developing hedging strategies for power or gas.
 
 **`/references/oil-environmental-markets.md`** — Read when analyzing crude oil markets, refined products, renewable energy credits, carbon markets, or environmental compliance.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Oil Environmental Markets](./references/oil-environmental-markets.md)
-- [Power Gas Markets](./references/power-gas-markets.md)

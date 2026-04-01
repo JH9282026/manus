@@ -51,10 +51,3 @@ Design data-driven marketing campaigns from objective setting through execution 
 **`/references/campaign-frameworks.md`** — Read when building campaign strategies, defining audiences, creating messaging frameworks, or selecting channel mixes.
 
 **`/references/measurement-optimization.md`** — Read when setting KPIs, building attribution models, optimizing campaigns, or reporting results.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Campaign Frameworks](./references/campaign-frameworks.md)
-- [Measurement Optimization](./references/measurement-optimization.md)

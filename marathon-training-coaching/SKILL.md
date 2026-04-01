@@ -60,10 +60,3 @@ Create structured training plans integrating periodization principles, heart rat
 **`/references/training-programs.md`** — Read when building specific training plans, designing workouts, or planning periodization for any runner level.
 
 **`/references/race-nutrition-strategy.md`** — Read when planning race-day nutrition, fueling strategies, tapering protocols, or race execution plans.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Race Nutrition Strategy](./references/race-nutrition-strategy.md)
-- [Training Programs](./references/training-programs.md)

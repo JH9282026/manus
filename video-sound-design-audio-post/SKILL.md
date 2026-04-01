@@ -349,29 +349,3 @@ Dialogue is typically the most important audio element, as it carries the story 
 ## Using the Reference Files
 
 **`/references/detailed-content.md`** — Read for comprehensive details, advanced techniques, and in-depth examples.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Audio Export Settings](./references/audio-export-settings.md)
-- [Audio Levels And Loudness Standards Lufs](./references/audio-levels-and-loudness-standards-lufs.md)
-- [Audio Mixing Fundamentals](./references/audio-mixing-fundamentals.md)
-- [Audio Post Production Best Practices](./references/audio-post-production-best-practices.md)
-- [Audio Post Production Workflow](./references/audio-post-production-workflow.md)
-- [Audio Synchronization](./references/audio-synchronization.md)
-- [Common Audio Mistakes In Video](./references/common-audio-mistakes-in-video.md)
-- [Compression And Dynamics](./references/compression-and-dynamics.md)
-- [Conclusion](./references/conclusion.md)
-- [Detailed Content](./references/detailed-content.md)
-- [Dialogue Editing And Cleanup](./references/dialogue-editing-and-cleanup.md)
-- [Eq Equalization For Video](./references/eq-equalization-for-video.md)
-- [Music Editing And Mixing](./references/music-editing-and-mixing.md)
-- [Music Selection And Licensing](./references/music-selection-and-licensing.md)
-- [Noise Reduction And Audio Restoration](./references/noise-reduction-and-audio-restoration.md)
-- [Software Tools For Audio Post Production](./references/software-tools-for-audio-post-production.md)
-- [Sound Effects And Foley](./references/sound-effects-and-foley.md)
-- [Stereo Vs Surround Sound](./references/stereo-vs-surround-sound.md)
-- [Using The Reference Files](./references/using-the-reference-files.md)
-- [Voiceover Recording And Editing](./references/voiceover-recording-and-editing.md)
-- [Why Audio Is 50 Of Video](./references/why-audio-is-50-of-video.md)

@@ -79,10 +79,3 @@ Score customers on three dimensions (1-5 scale each):
 **`/references/segmentation-methodologies.md`** — Read when applying specific segmentation techniques, performing cluster analysis, or building predictive segmentation models.
 
 **`/references/persona-creation-templates.md`** — Read when building detailed persona profiles, conducting persona research, or creating persona documentation for team alignment.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Persona Creation Templates](./references/persona-creation-templates.md)
-- [Segmentation Methodologies](./references/segmentation-methodologies.md)

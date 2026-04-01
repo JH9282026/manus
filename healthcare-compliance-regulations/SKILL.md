@@ -34,10 +34,3 @@ This skill monitors regulatory developments, interprets requirements, assesses c
 **`/references/hipaa-privacy-security.md`** — Read for HIPAA, GDPR, breach response, or data protection assessments.
 
 **`/references/fda-regulatory-compliance.md`** — Read for FDA inspection prep, digital health classification, clinical trial regulations, or QMS development.
-
-## Reference Files
-
-This skill includes the following detailed reference materials:
-
-- [Fda Regulatory Compliance](./references/fda-regulatory-compliance.md)
-- [Hipaa Privacy Security](./references/hipaa-privacy-security.md)
