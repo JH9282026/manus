@@ -465,3 +465,13 @@ Progress through stages of CS sophistication:
 - Industry-leading NRR and retention
 - Customer-driven product innovation
 - Advocacy as growth engine
+
+## Using the Reference Files
+
+This skill includes reference materials to support your learning:
+
+- [Cs Operations](./references/cs-operations.md)
+- [Expansion Strategies](./references/expansion-strategies.md)
+- [Health Scoring](./references/health-scoring.md)
+- [Success Frameworks](./references/success-frameworks.md)
+

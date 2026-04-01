@@ -457,3 +457,13 @@ val colorScheme = when {
 3. **App Signing:**
    - Use Play App Signing (recommended)
    - Manage signing keys securely
+
+## Using the Reference Files
+
+This skill includes reference materials to support your learning:
+
+- [Compose Patterns Cookbook](./references/compose-patterns-cookbook.md)
+- [Jetpack Libraries Guide](./references/jetpack-libraries-guide.md)
+- [Performance Optimization](./references/performance-optimization.md)
+- [Troubleshooting Guide](./references/troubleshooting-guide.md)
+

@@ -450,3 +450,13 @@ Implementation: Rolling window models, state-space models, Bayesian dynamic mode
 - Recommend incrementality tests to validate findings
 - Suggest new channel experiments
 - Propose spend variation tests
+
+## Using the Reference Files
+
+This skill includes reference materials to support your learning:
+
+- [Case Studies](./references/case-studies.md)
+- [Implementation Guide](./references/implementation-guide.md)
+- [Mmm Fundamentals](./references/mmm-fundamentals.md)
+- [Statistical Methods](./references/statistical-methods.md)
+

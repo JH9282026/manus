@@ -448,3 +448,14 @@ plt.xlabel('Permutation Importance')
 
 ```python
 from sklearn.inspection import PartialDependenceDisplay
+
+## Using the Reference Files
+
+This skill includes reference materials to support your learning:
+
+- [Ethical Considerations](./references/ethical-considerations.md)
+- [Implementation Tools](./references/implementation-tools.md)
+- [Interpretability Methods](./references/interpretability-methods.md)
+- [Model Transparency Techniques](./references/model-transparency-techniques.md)
+- [Xai Fundamentals Concepts](./references/xai-fundamentals-concepts.md)
+

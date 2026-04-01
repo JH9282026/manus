@@ -458,3 +458,11 @@ Sketch is a vector-based design tool exclusively for macOS, focused on UI/UX des
 - Organize hierarchy
 - Document usage
 - Regular audits
+
+## Using the Reference Files
+
+This skill includes reference materials to support your learning:
+
+- [Plugin Ecosystem](./references/plugin-ecosystem.md)
+- [Symbols Libraries](./references/symbols-libraries.md)
+
