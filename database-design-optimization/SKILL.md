@@ -226,10 +226,3 @@ This skill provides comprehensive guidance for database design, optimization, an
 **`/references/scaling-strategies.md`** — Read when implementing sharding, partitioning, replication, or scaling databases for high-traffic production environments.
 
 **`/references/migration-patterns.md`** — Read when planning database migrations, schema changes, zero-downtime deployments, or data transformation strategies.
-
-## References
-
-- [Migration Patterns](references/migration-patterns.md)
-- [Nosql Patterns](references/nosql-patterns.md)
-- [Scaling Strategies](references/scaling-strategies.md)
-- [Sql Optimization](references/sql-optimization.md)

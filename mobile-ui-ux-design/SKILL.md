@@ -331,10 +331,3 @@ Mobile UI/UX design focuses on creating user interfaces that are intuitive, acce
 **`/references/design-patterns-library.md`** — Read when choosing navigation patterns, implementing common UI patterns, or solving specific design problems.
 
 **`/references/prototyping-tools.md`** — Read when creating prototypes, choosing design tools, or setting up design-to-development workflows.
-
-## References
-
-- [Best Practices](references/best-practices.md)
-- [Examples](references/examples.md)
-- [Implementation Guide](references/implementation-guide.md)
-- [Troubleshooting](references/troubleshooting.md)

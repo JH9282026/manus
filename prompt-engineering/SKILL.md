@@ -101,9 +101,3 @@ Clear, imperative commands with role definition.
 - Ignoring model limitations
 - Not testing edge cases
 - Failing to iterate and improve
-
-## References
-
-- [Advanced Strategies](references/advanced-strategies.md)
-- [Core Techniques](references/core-techniques.md)
-- [Optimization](references/optimization.md)

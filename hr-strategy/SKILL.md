@@ -227,10 +227,3 @@ Only 18% of CHROs consistently use data analytics, yet it's crucial for:
 **`/references/skills-based-transformation.md`** — Read when transitioning to skills-based talent models, building skills taxonomies, or implementing internal mobility programs.
 
 **`/references/change-management-strategies.md`** — Read when leading organizational transformations, managing resistance, or building change capability.
-
-## References
-
-- [Ai Hr Integration](references/ai-hr-integration.md)
-- [Change Management Strategies](references/change-management-strategies.md)
-- [Skills Based Transformation](references/skills-based-transformation.md)
-- [Workforce Planning Framework](references/workforce-planning-framework.md)

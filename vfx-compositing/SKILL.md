@@ -49,10 +49,3 @@ VFX compositing combines 3D renders, live-action footage, and effects into final
 **`/references/color-grading.md`** — Color correction and grading workflows.
 
 **`/references/compositing-workflows.md`** — Node-based compositing in Nuke/Fusion.
-
-## References
-
-- [Color Grading](references/color-grading.md)
-- [Compositing Workflows](references/compositing-workflows.md)
-- [Keying Techniques](references/keying-techniques.md)
-- [Tracking Integration](references/tracking-integration.md)

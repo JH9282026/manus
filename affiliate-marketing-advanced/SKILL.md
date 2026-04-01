@@ -490,14 +490,3 @@ Tier 4 (51+ sales/month): 25%
 **`/references/fraud-prevention.md`** — Read when implementing fraud detection systems, policies, and monitoring processes.
 
 **`/references/optimization-tactics.md`** — Read when optimizing affiliate performance, testing commission structures, and scaling programs.
-
-## References
-
-- [Advanced Strategies 2026](references/advanced-strategies-2026.md)
-- [Advanced Tracking Analytics](references/advanced-tracking-analytics.md)
-- [Affiliate Program Optimization](references/affiliate-program-optimization.md)
-- [Content Monetization Strategies](references/content-monetization-strategies.md)
-- [Conversion Optimization Techniques](references/conversion-optimization-techniques.md)
-- [Partnership And Negotiation](references/partnership-and-negotiation.md)
-- [Seo Content Strategies](references/seo-content-strategies.md)
-- [Tracking And Attribution](references/tracking-and-attribution.md)

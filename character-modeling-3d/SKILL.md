@@ -272,11 +272,3 @@ project/
 **`/references/optimization-techniques.md`** — Read when reducing polygon counts, creating LOD models, or optimizing characters for real-time rendering and game engines.
 
 **`/references/advanced-techniques.md`** — Read when building modular character systems, creating blend shapes, or implementing advanced production workflows for AAA projects.
-
-## References
-
-- [Advanced Techniques](references/advanced-techniques.md)
-- [Modeling Workflows](references/modeling-workflows.md)
-- [Optimization Techniques](references/optimization-techniques.md)
-- [Sculpting Techniques](references/sculpting-techniques.md)
-- [Topology Principles](references/topology-principles.md)

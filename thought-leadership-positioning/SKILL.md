@@ -104,10 +104,3 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
-
-## References
-
-- [Content Strategy](references/content-strategy.md)
-- [Expert Positioning](references/expert-positioning.md)
-- [Media Commentary](references/media-commentary.md)
-- [Speaking Opportunities](references/speaking-opportunities.md)

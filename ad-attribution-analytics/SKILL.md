@@ -104,10 +104,3 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
-
-## References
-
-- [Attribution Models](references/attribution-models.md)
-- [Conversion Tracking Setup](references/conversion-tracking-setup.md)
-- [Data Integration Tools](references/data-integration-tools.md)
-- [Roi Calculation Methods](references/roi-calculation-methods.md)

@@ -383,7 +383,3 @@ The Scrum Master is a crucial role in Agile project management, acting as a serv
 **`/references/team-dynamics.md`** — Read when addressing conflicts, improving collaboration, or understanding team development stages.
 
 **`/references/metrics-tracking.md`** — Read when establishing metrics, creating dashboards, or analyzing team performance data.
-
-## References
-
-- [Facilitation Techniques](references/facilitation-techniques.md)

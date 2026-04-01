@@ -460,11 +460,3 @@ Layer on top of primary targeting:
 **`/references/creative-best-practices.md`** — Read when designing ad creatives, writing ad copy, optimizing visual assets, or improving ad performance through creative optimization.
 
 **`/references/performance-optimization.md`** — Read when analyzing campaign performance, identifying optimization opportunities, implementing bid adjustments, or scaling successful campaigns.
-
-## References
-
-- [Ad Formats Creative Guidelines](references/ad-formats-creative-guidelines.md)
-- [Bidding Strategies Optimization](references/bidding-strategies-optimization.md)
-- [Campaign Structure Best Practices](references/campaign-structure-best-practices.md)
-- [Performance Metrics Analytics](references/performance-metrics-analytics.md)
-- [Targeting Strategies Guide](references/targeting-strategies-guide.md)

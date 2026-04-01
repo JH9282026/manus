@@ -104,10 +104,3 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
-
-## References
-
-- [Agent Specialization](references/agent-specialization.md)
-- [Communication Protocols](references/communication-protocols.md)
-- [Coordination Strategies](references/coordination-strategies.md)
-- [Emergent Behavior](references/emergent-behavior.md)

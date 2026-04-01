@@ -430,10 +430,3 @@ if (BuildConfig.DEBUG) {
 **`/references/secure-coding-practices.md`** — Read when implementing secure coding patterns, handling sensitive data, or following platform-specific security guidelines.
 
 **`/references/security-testing-guide.md`** — Read when conducting security testing, using security tools, or implementing security in CI/CD.
-
-## References
-
-- [Compliance Guide](references/compliance-guide.md)
-- [Owasp Mobile Top 10](references/owasp-mobile-top-10.md)
-- [Secure Coding Practices](references/secure-coding-practices.md)
-- [Security Testing Guide](references/security-testing-guide.md)

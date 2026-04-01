@@ -225,9 +225,3 @@ Read `/references/automation-examples.md` for more code samples.
 **`/references/reporting-api.md`** — Read when building custom reporting solutions or integrating with analytics platforms.
 
 **`/references/automation-examples.md`** — Read when developing automated bid management, budget optimization, or agentic AI systems.
-
-## References
-
-- [Api Authentication](references/api-authentication.md)
-- [Campaign Api Reference](references/campaign-api-reference.md)
-- [Conversion Api Guide](references/conversion-api-guide.md)

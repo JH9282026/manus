@@ -383,7 +383,3 @@ Progress through stages of ABM sophistication:
 - [./references/account-selection.md](./references/account-selection.md): Account Selection
 - [./references/measurement-optimization.md](./references/measurement-optimization.md): Measurement Optimization
 - [./references/orchestration-execution.md](./references/orchestration-execution.md): Orchestration Execution
-
-## References
-
-- [Abm Strategy](references/abm-strategy.md)

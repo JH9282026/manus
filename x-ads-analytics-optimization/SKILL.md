@@ -227,11 +227,3 @@ Once Abacus generates the files:
 4. It's ready to use immediately
 
 Alternatively, if you have multiple skills, send them all and I'll batch deploy them.
-
-## References
-
-- [01 X Ads Fundamentals](references/01-x-ads-fundamentals.md)
-- [02 X Ads Key Metrics Kpis](references/02-x-ads-key-metrics-kpis.md)
-- [03 X Ads Optimization Strategies](references/03-x-ads-optimization-strategies.md)
-- [04 X Ads Analytics Tools](references/04-x-ads-analytics-tools.md)
-- [05 X Ads Advanced Strategies](references/05-x-ads-advanced-strategies.md)

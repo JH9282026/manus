@@ -460,8 +460,3 @@ AI automatically creates and updates segments based on behavior patterns.
 **`/references/integration-guide.md`** — Read when integrating marketing automation with CRM, ecommerce, analytics, or other marketing tools.
 
 **`/references/ai-automation.md`** — Read when implementing AI-powered features like predictive scoring, send-time optimization, or automated content recommendations.
-
-## References
-
-- [Advanced Workflows](references/advanced-workflows.md)
-- [Platform Implementation](references/platform-implementation.md)

@@ -481,8 +481,3 @@ NEXT_PUBLIC_API_URL=https://api.example.com
 **`/references/deployment-optimization.md`** — Read when preparing for production deployment, optimizing bundle size, or configuring custom infrastructure.
 
 **`/references/authentication-patterns.md`** — Read when implementing authentication with NextAuth.js, middleware-based auth, or session management.
-
-## References
-
-- [App Router Patterns](references/app-router-patterns.md)
-- [Data Fetching Caching](references/data-fetching-caching.md)

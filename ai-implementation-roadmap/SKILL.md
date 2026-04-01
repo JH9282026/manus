@@ -104,10 +104,3 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
-
-## References
-
-- [Change Management](references/change-management.md)
-- [Phased Deployment](references/phased-deployment.md)
-- [Pilot Programs](references/pilot-programs.md)
-- [Scaling Strategies](references/scaling-strategies.md)

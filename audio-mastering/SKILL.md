@@ -140,10 +140,3 @@ Fixed digital format requirements:
 **`/references/workflows-best-practices.md`** — Industry standards for loudness targets, metering practices, quality control procedures, and delivery specifications.
 
 **`/references/troubleshooting.md`** — Common mastering problems including phase issues, distortion, frequency imbalances, and their solutions with practical examples.
-
-## References
-
-- [Advanced Techniques](references/advanced-techniques.md)
-- [Fundamentals](references/fundamentals.md)
-- [Troubleshooting](references/troubleshooting.md)
-- [Workflows Best Practices](references/workflows-best-practices.md)

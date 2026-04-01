@@ -227,11 +227,3 @@ Once Abacus generates the files:
 4. It's ready to use immediately
 
 Alternatively, if you have multiple skills, send them all and I'll batch deploy them.
-
-## References
-
-- [Authentication Security](references/authentication-security.md)
-- [Insights Api Reporting](references/insights-api-reporting.md)
-- [Meta Marketing Api Fundamentals](references/meta-marketing-api-fundamentals.md)
-- [Programmatic Campaign Management](references/programmatic-campaign-management.md)
-- [Targeting Optimization Strategies](references/targeting-optimization-strategies.md)

@@ -470,9 +470,3 @@ Compare [DESIGN A] vs [DESIGN B]:
 - [./references/critique-frameworks.md](./references/critique-frameworks.md): Critique Frameworks
 - [./references/design-qa-checklist.md](./references/design-qa-checklist.md): Design Qa Checklist
 - [./references/stakeholder-review-management.md](./references/stakeholder-review-management.md): Stakeholder Review Management
-
-## References
-
-- [Critique Frameworks](references/critique-frameworks.md)
-- [Design Qa Checklist](references/design-qa-checklist.md)
-- [Stakeholder Review Management](references/stakeholder-review-management.md)

@@ -232,13 +232,3 @@ Account
 **`/references/ad-extensions-complete.md`** — Read when implementing all ad extension types, including setup instructions, best practices, and performance benchmarks for each extension.
 
 **`/references/search-term-mining.md`** — Read when analyzing search term reports to discover new keywords, add negatives, and optimize match type distribution.
-
-## References
-
-- [Ad Extensions Complete](references/ad-extensions-complete.md)
-- [Api Campaign Setup](references/api-campaign-setup.md)
-- [Bidding Strategy Selection](references/bidding-strategy-selection.md)
-- [Keyword Research Advanced](references/keyword-research-advanced.md)
-- [Quality Score Deep Dive](references/quality-score-deep-dive.md)
-- [Rsa Optimization Guide](references/rsa-optimization-guide.md)
-- [Search Term Mining](references/search-term-mining.md)

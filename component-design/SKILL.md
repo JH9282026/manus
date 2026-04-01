@@ -114,8 +114,3 @@ Based on the wireframes for [PROJECT], list all UI components needed:
 **`/references/component_examples.md`** — Detailed component examples including buttons, inputs, cards, navigation, and badges.
 
 **`/references/prompts_and_templates.md`** — Prompts library and component specification templates.
-
-## References
-
-- [Component Examples](references/component_examples.md)
-- [Prompts And Templates](references/prompts_and_templates.md)

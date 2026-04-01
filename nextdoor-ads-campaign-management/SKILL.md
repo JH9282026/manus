@@ -142,9 +142,3 @@ Read `/references/conversion-tracking.md` for implementation details.
 **`/references/optimization-guide.md`** — Read when analyzing performance and implementing optimization tactics.
 
 **`/references/conversion-tracking.md`** — Read when implementing Nextdoor Pixel or Conversion API for tracking and attribution.
-
-## References
-
-- [Ad Format Specifications](references/ad-format-specifications.md)
-- [Campaign Setup Guide](references/campaign-setup-guide.md)
-- [Targeting Strategies](references/targeting-strategies.md)

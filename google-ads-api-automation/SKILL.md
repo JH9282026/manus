@@ -74,11 +74,3 @@ This skill covers Google Ads API authentication, campaign management, bulk opera
 **`/references/api-authentication-setup.md`** — Read when setting up API access, including OAuth configuration, client library installation, and authentication troubleshooting.
 
 **`/references/automation-workflows.md`** — Read when building automation scripts, including bid management, reporting automation, and bulk operations.
-
-## References
-
-- [Advanced Use Cases](references/advanced-use-cases.md)
-- [Api Fundamentals Authentication](references/api-fundamentals-authentication.md)
-- [Bid Management Automation](references/bid-management-automation.md)
-- [Campaign Management Automation](references/campaign-management-automation.md)
-- [Reporting Analytics Scripts](references/reporting-analytics-scripts.md)

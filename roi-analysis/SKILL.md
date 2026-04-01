@@ -490,9 +490,3 @@ Question: How confident are we that benefits will last at least 3.33 years?
 **`/references/business-case-templates.md`** — Read when developing business cases or presenting financial justifications.
 
 **`/references/benefit-quantification.md`** — Read when quantifying intangible benefits or developing benefit realization plans.
-
-## References
-
-- [Business Case Templates](references/business-case-templates.md)
-- [Npv Irr Guide](references/npv-irr-guide.md)
-- [Roi Calculation Examples](references/roi-calculation-examples.md)

@@ -189,8 +189,3 @@ Apps: Strava, Nike Run Club, Runkeeper
 **`/references/audience-targeting-strategies.md`** — Read when setting up audience targeting, including affinity, in-market, custom intent, and remarketing audience creation and optimization.
 
 **`/references/display-ad-creative-specs.md`** — Read when designing uploaded image ads, including all ad sizes, file requirements, design best practices, and approval guidelines.
-
-## References
-
-- [Audience Targeting Strategies](references/audience-targeting-strategies.md)
-- [Rda Asset Optimization](references/rda-asset-optimization.md)

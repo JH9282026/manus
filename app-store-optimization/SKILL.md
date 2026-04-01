@@ -321,9 +321,3 @@ request.addOnCompleteListener { task ->
 **`/references/visual-assets-guide.md`** — Read when creating app icons, screenshots, or preview videos for maximum conversion.
 
 **`/references/aso-tools-comparison.md`** — Read when choosing ASO tools, understanding tool features, or setting up ASO tracking.
-
-## References
-
-- [Aso Tools Comparison](references/aso-tools-comparison.md)
-- [Keyword Research Guide](references/keyword-research-guide.md)
-- [Visual Assets Guide](references/visual-assets-guide.md)

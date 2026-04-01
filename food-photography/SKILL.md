@@ -345,10 +345,3 @@ Food photography combines technical skill with artistic styling to make dishes l
 **`/references/composition-angles.md`** — Read when exploring composition principles in depth, mastering different camera angles for various dishes, and creating dynamic food arrangements.
 
 **`/references/post-processing-food.md`** — Read when refining editing workflow, color grading for appetizing results, retouching techniques, and creating consistent visual style across food portfolios.
-
-## References
-
-- [Composition Angles](references/composition-angles.md)
-- [Lighting Setups](references/lighting-setups.md)
-- [Post Processing Food](references/post-processing-food.md)
-- [Styling Techniques](references/styling-techniques.md)

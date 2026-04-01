@@ -467,24 +467,3 @@ Buttons trigger actions or navigate users. Use the appropriate variant based on 
 **`/references/component:_button_full.md`** — Component: Button (Full).
 
 **`/references/example_output.md`** — Example Output.
-
-## References
-
-- [2 Design Principles](references/2_design_principles.md)
-- [3 Design Tokens](references/3_design_tokens.md)
-- [4 Components](references/4_components.md)
-- [5 Layouts](references/5_layouts.md)
-- [6 Patterns](references/6_patterns.md)
-- [7 Assets](references/7_assets.md)
-- [8 Accessibility](references/8_accessibility.md)
-- [Component: Button Full](references/component:_button_full.md)
-- [Component Button](references/component_button.md)
-- [Description](references/description.md)
-- [Design Documentation Structure](references/design_documentation_structure.md)
-- [Design Tokens: [Project] Full](references/design_tokens:_[project]_full.md)
-- [Design Tokens Project ](references/design_tokens_project_.md)
-- [Example Output](references/example_output.md)
-- [Related Skills](references/related_skills.md)
-- [Success Criteria](references/success_criteria.md)
-- [Table Of Contents](references/table_of_contents.md)
-- [Ui Patterns](references/ui_patterns.md)

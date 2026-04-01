@@ -272,11 +272,3 @@ Automate project setup with the `ProjectTemplate` package:
 **`/references/machine-learning-workflows.md`** — Read when implementing machine learning models, performing cross-validation, tuning hyperparameters, or comparing multiple algorithms.
 
 **`/references/reproducible-research.md`** — Read when setting up R Markdown reports, creating parameterized documents, or establishing reproducible analysis workflows.
-
-## References
-
-- [Machine Learning Workflows](references/machine-learning-workflows.md)
-- [Reproducible Research](references/reproducible-research.md)
-- [Statistical Modeling Guide](references/statistical-modeling-guide.md)
-- [Tidyverse Deep Dive](references/tidyverse-deep-dive.md)
-- [Visualization Techniques](references/visualization-techniques.md)

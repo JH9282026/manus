@@ -299,10 +299,3 @@ Wildlife photography requires patience, technical skill, and understanding of an
 **`/references/animal-behavior.md`** — Read when learning to predict and photograph animal behavior, understanding species-specific patterns, and capturing compelling wildlife moments.
 
 **`/references/field-craft-ethics.md`** — Read when developing fieldcraft skills, understanding ethical wildlife photography practices, and minimizing impact on wildlife and habitats.
-
-## References
-
-- [Animal Behavior](references/animal-behavior.md)
-- [Camera Settings Guide](references/camera-settings-guide.md)
-- [Field Craft Ethics](references/field-craft-ethics.md)
-- [Telephoto Techniques](references/telephoto-techniques.md)

@@ -354,7 +354,3 @@ See `references/` for advanced techniques, distributed training guides, and depl
 ## Using the Reference Files
 
 - [./references/distributed-training.md](./references/distributed-training.md): Distributed Training
-
-## References
-
-- [Distributed Training](references/distributed-training.md)

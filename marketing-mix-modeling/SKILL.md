@@ -498,10 +498,3 @@ Use updated MMM for:
 **`/references/implementation-guide.md`** — Read when executing an MMM project, from data collection through model deployment, including tool selection, data preparation, model building, validation, and stakeholder management.
 
 **`/references/case-studies.md`** — Read when seeking real-world examples, industry-specific applications, implementation lessons, ROI benchmarks, and proven approaches across different business contexts.
-
-## References
-
-- [Case Studies](references/case-studies.md)
-- [Implementation Guide](references/implementation-guide.md)
-- [Mmm Fundamentals](references/mmm-fundamentals.md)
-- [Statistical Methods](references/statistical-methods.md)

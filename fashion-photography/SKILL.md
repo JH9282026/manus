@@ -273,10 +273,3 @@ Fashion photography combines technical lighting expertise with creative directio
 **`/references/location-fashion.md`** — Read when shooting fashion on location, working with natural light, and creating environmental fashion imagery.
 
 **`/references/post-production.md`** — Read when refining retouching workflow, advanced Photoshop techniques, and creating polished, high-end fashion images.
-
-## References
-
-- [Location Fashion](references/location-fashion.md)
-- [Posing Direction](references/posing-direction.md)
-- [Post Production](references/post-production.md)
-- [Studio Lighting Setups](references/studio-lighting-setups.md)

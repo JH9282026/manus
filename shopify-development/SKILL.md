@@ -273,10 +273,3 @@ Shopify's official React-based framework for headless:
 **`/references/performance-optimization.md`** — Read when theme performance scores are below targets, optimizing for Core Web Vitals, or implementing advanced caching strategies.
 
 **`/references/theme-store-requirements.md`** — Read when preparing themes for Shopify Theme Store submission, ensuring compliance with all technical and design requirements.
-
-## References
-
-- [App Development Guide](references/app-development-guide.md)
-- [Liquid Advanced Techniques](references/liquid-advanced-techniques.md)
-- [Performance Optimization](references/performance-optimization.md)
-- [Theme Store Requirements](references/theme-store-requirements.md)

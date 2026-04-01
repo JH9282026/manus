@@ -255,10 +255,3 @@ Evaluate model outputs under different assumption sets:
 **`/references/scenario-analysis.md`** — Read when building scenario analysis, sensitivity analysis, or Monte Carlo simulations. Covers scenario design, implementation techniques, sensitivity tables, tornado charts, and probabilistic modeling.
 
 **`/references/model-best-practices.md`** — Read when designing model structure, establishing formatting standards, or ensuring model quality. Provides detailed best practices for model design, formatting conventions, formula construction, error checking, and documentation standards.
-
-## References
-
-- [Model Best Practices](references/model-best-practices.md)
-- [Modeling Fundamentals](references/modeling-fundamentals.md)
-- [Scenario Analysis](references/scenario-analysis.md)
-- [Valuation Methods](references/valuation-methods.md)

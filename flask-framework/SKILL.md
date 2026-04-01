@@ -365,9 +365,3 @@ CMD ["gunicorn", "-w", "4", "-b", "0.0.0.0:8000", "app:create_app()"]
 **`/references/extensions-guide.md`** — Read when integrating Flask extensions, choosing the right tools, or extending Flask functionality.
 
 **`/references/api-development.md`** — Read when building REST APIs, implementing authentication, or creating API documentation.
-
-## References
-
-- [Api Development](references/api-development.md)
-- [Blueprints Architecture](references/blueprints-architecture.md)
-- [Extensions Guide](references/extensions-guide.md)

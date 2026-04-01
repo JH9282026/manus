@@ -297,10 +297,3 @@ Authorization: Basic dXNlcm5hbWU6cGFzc3dvcmQ=
 **`/references/rbac-abac-systems.md`** — Read when designing role-based or attribute-based access control systems, managing permissions, or implementing fine-grained authorization.
 
 **`/references/session-security.md`** — Read when implementing session management, securing cookies, or handling user sessions across distributed systems.
-
-## References
-
-- [Jwt Patterns](references/jwt-patterns.md)
-- [Oauth Implementation](references/oauth-implementation.md)
-- [Rbac Abac Systems](references/rbac-abac-systems.md)
-- [Session Security](references/session-security.md)

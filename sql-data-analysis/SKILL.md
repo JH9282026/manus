@@ -458,9 +458,3 @@ WITH customer_rfm AS (
 **`/references/window-functions-guide.md`** — Read when performing running totals, moving averages, ranking, or comparative analysis across rows.
 
 **`/references/database-specific-features.md`** — Read when working with PostgreSQL, MySQL, SQL Server, or BigQuery-specific functionality and optimizations.
-
-## References
-
-- [Advanced Techniques](references/advanced-techniques.md)
-- [Database Specific Features](references/database-specific-features.md)
-- [Window Functions Guide](references/window-functions-guide.md)

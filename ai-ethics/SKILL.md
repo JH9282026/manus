@@ -487,9 +487,3 @@ See `references/` for regulatory guides, case studies, and implementation templa
 - [./references/ai-bias-mitigation.md](./references/ai-bias-mitigation.md): Ai Bias Mitigation
 - [./references/ethical-ai-principles.md](./references/ethical-ai-principles.md): Ethical Ai Principles
 - [./references/responsible-ai-deployment.md](./references/responsible-ai-deployment.md): Responsible Ai Deployment
-
-## References
-
-- [Ai Bias Mitigation](references/ai-bias-mitigation.md)
-- [Ethical Ai Principles](references/ethical-ai-principles.md)
-- [Responsible Ai Deployment](references/responsible-ai-deployment.md)

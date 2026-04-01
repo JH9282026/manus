@@ -496,11 +496,3 @@ df.groupby('category')['residuals'].agg(['mean', 'std'])
 **`/references/visualization-gallery.md`** — Read when creating publication-quality visualizations, building interactive dashboards, or customizing plot aesthetics.
 
 **`/references/end-to-end-projects.md`** — Read when starting a new data science project, structuring workflows, or implementing complete analysis pipelines from data to deployment.
-
-## References
-
-- [End To End Projects](references/end-to-end-projects.md)
-- [Numpy Advanced](references/numpy-advanced.md)
-- [Pandas Advanced](references/pandas-advanced.md)
-- [Sklearn Comprehensive](references/sklearn-comprehensive.md)
-- [Visualization Gallery](references/visualization-gallery.md)

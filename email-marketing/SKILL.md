@@ -274,11 +274,3 @@ This skill provides comprehensive guidance on email marketing strategy, campaign
 **`/references/automation-workflows.md`** — Read when building advanced automation sequences or behavioral triggers.
 
 **`/references/compliance-guide.md`** — Read when ensuring compliance with CAN-SPAM, GDPR, CASL, or other email regulations.
-
-## References
-
-- [Analytics Optimization](references/analytics-optimization.md)
-- [Automation Workflows](references/automation-workflows.md)
-- [Campaign Design Copywriting](references/campaign-design-copywriting.md)
-- [Email Strategy Planning](references/email-strategy-planning.md)
-- [List Building Segmentation](references/list-building-segmentation.md)

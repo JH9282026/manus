@@ -384,7 +384,3 @@ def make_api_request(url, method="GET", **kwargs):
 **`/references/spotify-api-examples.md`** — Read when building automation scripts or integrating Spotify ads into applications.
 
 **`/references/spotify-api-best-practices.md`** — Read when optimizing API usage, handling errors, or scaling automation.
-
-## References
-
-- [Spotify Api Endpoints](references/spotify-api-endpoints.md)

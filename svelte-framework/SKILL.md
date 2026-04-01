@@ -488,9 +488,3 @@ SvelteKit supports multiple adapters:
 **`/references/reactivity-patterns.md`** — Read when debugging reactivity issues, working with complex state, or migrating from Svelte 4 to Svelte 5 runes.
 
 **`/references/stores-state-management.md`** — Read when implementing global state, creating custom stores, or managing complex application state.
-
-## References
-
-- [Reactivity Patterns](references/reactivity-patterns.md)
-- [Stores State Management](references/stores-state-management.md)
-- [Sveltekit Routing](references/sveltekit-routing.md)

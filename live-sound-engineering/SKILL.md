@@ -103,10 +103,3 @@ Typical issues encountered in live sound engineering and their solutions.
 **`/references/workflows-best-practices.md`** — Industry standards and optimization.
 
 **`/references/troubleshooting.md`** — Common problems and solutions.
-
-## References
-
-- [Advanced Techniques](references/advanced-techniques.md)
-- [Fundamentals](references/fundamentals.md)
-- [Troubleshooting](references/troubleshooting.md)
-- [Workflows Best Practices](references/workflows-best-practices.md)

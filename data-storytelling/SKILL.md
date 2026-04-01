@@ -448,10 +448,3 @@ print(generate_narrative(sales_data))
 **`/references/presentation-techniques.md`** — Read when preparing presentations, structuring narratives, or delivering to executives.
 
 **`/references/storytelling-examples.md`** — Read when looking for inspiration, studying effective narratives, or learning from real-world examples.
-
-## References
-
-- [Dashboard Design Guide](references/dashboard-design-guide.md)
-- [Presentation Techniques](references/presentation-techniques.md)
-- [Storytelling Examples](references/storytelling-examples.md)
-- [Visualization Best Practices](references/visualization-best-practices.md)

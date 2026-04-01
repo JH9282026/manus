@@ -227,10 +227,3 @@ Once Abacus generates the files:
 4. It's ready to use immediately
 
 Alternatively, if you have multiple skills, send them all and I'll batch deploy them.
-
-## References
-
-- [Api Authentication Setup](references/api-authentication-setup.md)
-- [Bidding Optimization Automation](references/bidding-optimization-automation.md)
-- [Campaign Management Automation](references/campaign-management-automation.md)
-- [Reporting Analytics Automation](references/reporting-analytics-automation.md)

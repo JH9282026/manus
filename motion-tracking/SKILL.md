@@ -116,10 +116,3 @@ Track specific points or features across frames.
 **`/references/tracking-workflows.md`** — Read when setting up professional tracking pipelines, optimizing workflows, or working on complex multi-shot projects.
 
 **`/references/troubleshooting-tracking.md`** — Read when encountering tracking failures, drift issues, or when automatic tracking produces unsatisfactory results.
-
-## References
-
-- [3D Camera Tracking](references/3d-camera-tracking.md)
-- [Planar Tracking Techniques](references/planar-tracking-techniques.md)
-- [Tracking Workflows](references/tracking-workflows.md)
-- [Troubleshooting Tracking](references/troubleshooting-tracking.md)

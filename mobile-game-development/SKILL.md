@@ -170,10 +170,3 @@ Treat live-ops as integral to the product, not a post-launch add-on:
 **`/references/monetization-publishing.md`** — Read when designing monetization systems (IAPs, ads, subscriptions, battle passes), implementing ethical monetization practices, planning live operations and content updates, or preparing for app store launch and user acquisition campaigns.
 
 **`/references/optimization-performance.md`** — Read when profiling and optimizing game performance, reducing battery consumption and thermal throttling, managing memory and draw calls, implementing asset streaming and compression, or debugging platform-specific performance issues.
-
-## References
-
-- [Game Engines Frameworks](references/game-engines-frameworks.md)
-- [Mobile Platforms](references/mobile-platforms.md)
-- [Monetization Publishing](references/monetization-publishing.md)
-- [Optimization Performance](references/optimization-performance.md)

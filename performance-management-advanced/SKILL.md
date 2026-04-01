@@ -247,10 +247,3 @@ Daily/Weekly Priorities
 **`/references/feedback-coaching.md`** — Read when transitioning to continuous performance management, training managers on coaching skills, or designing feedback processes. Covers conversation frameworks, feedback techniques, and coaching methodologies.
 
 **`/references/performance-analytics.md`** — Read when building performance dashboards, implementing predictive analytics, or measuring performance management effectiveness. Includes metrics, analytics tools, and data-driven decision frameworks.
-
-## References
-
-- [Feedback Coaching](references/feedback-coaching.md)
-- [Goal Setting](references/goal-setting.md)
-- [Performance Analytics](references/performance-analytics.md)
-- [Performance Frameworks](references/performance-frameworks.md)

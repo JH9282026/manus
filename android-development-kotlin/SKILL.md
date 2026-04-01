@@ -498,10 +498,3 @@ val foldingFeature = windowLayoutInfo.displayFeatures
 **`/references/performance-optimization.md`** — Read when experiencing performance issues, optimizing recomposition, improving list rendering, or profiling with Android Profiler.
 
 **`/references/troubleshooting-guide.md`** — Read when encountering common Compose errors, debugging state issues, fixing build problems, or resolving runtime crashes.
-
-## References
-
-- [Compose Patterns Cookbook](references/compose-patterns-cookbook.md)
-- [Jetpack Libraries Guide](references/jetpack-libraries-guide.md)
-- [Performance Optimization](references/performance-optimization.md)
-- [Troubleshooting Guide](references/troubleshooting-guide.md)

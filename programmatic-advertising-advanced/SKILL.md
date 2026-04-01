@@ -443,10 +443,3 @@ Supply Path Optimization is the practice of identifying and prioritizing the mos
 **`/references/pmp-deal-strategies.md`** — Read when negotiating private marketplace deals, setting up programmatic guaranteed campaigns, or building publisher relationships.
 
 **`/references/fraud-brand-safety.md`** — Read when implementing fraud prevention measures, ensuring brand safety, or investigating suspicious traffic patterns.
-
-## References
-
-- [Advanced Bidding Strategies](references/advanced-bidding-strategies.md)
-- [Brand Safety Viewability](references/brand-safety-viewability.md)
-- [Dsp Platform Guides](references/dsp-platform-guides.md)
-- [Optimization Techniques](references/optimization-techniques.md)

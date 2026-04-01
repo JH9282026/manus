@@ -352,9 +352,3 @@ def reallocate_budgets(campaigns, total_budget):
 **`/references/x-conversion-tracking-guide.md`** — Read for detailed conversion pixel implementation, event tracking setup, attribution configuration, and troubleshooting.
 
 **`/references/x-optimization-strategies.md`** — Read for advanced optimization techniques, machine learning approaches, multi-objective optimization, and case studies.
-
-## References
-
-- [X Analytics Api Reference](references/x-analytics-api-reference.md)
-- [X Conversion Tracking Guide](references/x-conversion-tracking-guide.md)
-- [X Optimization Strategies](references/x-optimization-strategies.md)

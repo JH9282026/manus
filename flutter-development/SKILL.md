@@ -439,10 +439,3 @@ flutter build web --release
 **`/references/performance-optimization.md`** — Read when optimizing app performance, reducing jank, or profiling with DevTools.
 
 **`/references/troubleshooting.md`** — Read when encountering build errors, runtime issues, or platform-specific problems.
-
-## References
-
-- [Performance Optimization](references/performance-optimization.md)
-- [State Management Guide](references/state-management-guide.md)
-- [Troubleshooting](references/troubleshooting.md)
-- [Widget Catalog](references/widget-catalog.md)

@@ -487,9 +487,3 @@ The transition from screen to print demands attention to detail at every stageâ€
 - [./references/print-design-fundamentals.md](./references/print-design-fundamentals.md): Print Design Fundamentals
 - [./references/print-file-preparation.md](./references/print-file-preparation.md): Print File Preparation
 - [./references/print-finishing-techniques.md](./references/print-finishing-techniques.md): Print Finishing Techniques
-
-## References
-
-- [Print Design Fundamentals](references/print-design-fundamentals.md)
-- [Print File Preparation](references/print-file-preparation.md)
-- [Print Finishing Techniques](references/print-finishing-techniques.md)

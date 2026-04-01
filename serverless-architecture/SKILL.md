@@ -48,9 +48,3 @@ Proven patterns and anti-patterns to avoid.
 **`/references/implementation.md`** — Read for practical implementation guides and examples.
 
 **`/references/best-practices.md`** — Read for industry best practices and optimization strategies.
-
-## References
-
-- [Best Practices](references/best-practices.md)
-- [Fundamentals](references/fundamentals.md)
-- [Implementation](references/implementation.md)

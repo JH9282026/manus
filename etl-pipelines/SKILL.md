@@ -353,9 +353,3 @@ engine = create_engine(
 **`/references/advanced-patterns.md`** — Read when implementing complex transformations, handling large-scale data, or optimizing pipeline performance.
 
 **`/references/monitoring-alerting.md`** — Read when setting up pipeline monitoring, configuring alerts, or troubleshooting pipeline failures.
-
-## References
-
-- [Advanced Patterns](references/advanced-patterns.md)
-- [Monitoring Alerting](references/monitoring-alerting.md)
-- [Tool Comparison](references/tool-comparison.md)

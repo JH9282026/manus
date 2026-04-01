@@ -104,10 +104,3 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
-
-## References
-
-- [Collaboration Models](references/collaboration-models.md)
-- [Cultural Transformation](references/cultural-transformation.md)
-- [Role Evolution](references/role-evolution.md)
-- [Upskilling Programs](references/upskilling-programs.md)

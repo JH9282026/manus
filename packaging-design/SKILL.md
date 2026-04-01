@@ -383,9 +383,3 @@ As sustainability concerns grow and e-commerce continues to transform retail, pa
 - [./references/packaging-fundamentals.md](./references/packaging-fundamentals.md): Packaging Fundamentals
 - [./references/packaging-production-process.md](./references/packaging-production-process.md): Packaging Production Process
 - [./references/sustainable-packaging.md](./references/sustainable-packaging.md): Sustainable Packaging
-
-## References
-
-- [Packaging Fundamentals](references/packaging-fundamentals.md)
-- [Packaging Production Process](references/packaging-production-process.md)
-- [Sustainable Packaging](references/sustainable-packaging.md)

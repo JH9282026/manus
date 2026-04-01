@@ -418,10 +418,3 @@ Effective partner channel management delivers:
 **`/references/enablement-support.md`** — Read when building partner enablement programs, creating training content, or designing support models. Provides enablement frameworks, content strategies, and support tier definitions.
 
 **`/references/performance-management.md`** — Read when establishing performance metrics, conducting business reviews, or optimizing partner performance. Contains KPI frameworks, review processes, and performance improvement strategies.
-
-## References
-
-- [Enablement Support](references/enablement-support.md)
-- [Partner Strategy](references/partner-strategy.md)
-- [Performance Management](references/performance-management.md)
-- [Recruitment Onboarding](references/recruitment-onboarding.md)

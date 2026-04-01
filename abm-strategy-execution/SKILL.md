@@ -104,10 +104,3 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
-
-## References
-
-- [Abm Frameworks](references/abm-frameworks.md)
-- [Abm Models Comparison](references/abm-models-comparison.md)
-- [Account Selection Criteria](references/account-selection-criteria.md)
-- [Buying Committee Mapping](references/buying-committee-mapping.md)

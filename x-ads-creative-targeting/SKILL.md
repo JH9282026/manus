@@ -318,8 +318,3 @@ for creative in creatives:
 **`/references/x-targeting-reference.md`** — Read for complete targeting options reference, audience building strategies, and targeting combination examples.
 
 **`/references/x-creative-best-practices.md`** — Read for creative testing frameworks, performance benchmarks, and optimization strategies.
-
-## References
-
-- [X Creative Specs](references/x-creative-specs.md)
-- [X Targeting Reference](references/x-targeting-reference.md)

@@ -447,7 +447,3 @@ ZBrush sculpting combines artistic vision with technical skill. Master the tools
 ## Using the Reference Files
 
 - [./references/character-sculpting.md](./references/character-sculpting.md): Character Sculpting
-
-## References
-
-- [Character Sculpting](references/character-sculpting.md)

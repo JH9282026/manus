@@ -399,10 +399,3 @@ for train_idx, test_idx in tscv.split(time_series):
 **`/references/forecasting-techniques.md`** — Read when comparing forecasting methods, handling multiple seasonalities, or implementing ensemble forecasts.
 
 **`/references/time-series-case-studies.md`** — Read when starting a forecasting project or looking for domain-specific examples.
-
-## References
-
-- [Arima Comprehensive](references/arima-comprehensive.md)
-- [Forecasting Techniques](references/forecasting-techniques.md)
-- [Prophet Advanced](references/prophet-advanced.md)
-- [Time Series Case Studies](references/time-series-case-studies.md)

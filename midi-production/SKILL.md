@@ -140,10 +140,3 @@ Import reference track of similar style, sync to project BPM, add markers for se
 **`/references/workflows-best-practices.md`** — Industry standards for MIDI programming, virtual instrument optimization, and genre-specific production techniques.
 
 **`/references/troubleshooting.md`** — Common MIDI problems including latency, routing issues, and their solutions with practical examples.
-
-## References
-
-- [Advanced Techniques](references/advanced-techniques.md)
-- [Fundamentals](references/fundamentals.md)
-- [Troubleshooting](references/troubleshooting.md)
-- [Workflows Best Practices](references/workflows-best-practices.md)

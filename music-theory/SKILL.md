@@ -160,10 +160,3 @@ Common progressions provide structure and emotional movement:
 **`/references/workflows-best-practices.md`** — Industry standards for notation, analysis methods, composition workflows, and genre-specific theory applications.
 
 **`/references/troubleshooting.md`** — Common theory problems including voice leading issues, harmonic confusion, and solutions with practical examples.
-
-## References
-
-- [Advanced Techniques](references/advanced-techniques.md)
-- [Fundamentals](references/fundamentals.md)
-- [Troubleshooting](references/troubleshooting.md)
-- [Workflows Best Practices](references/workflows-best-practices.md)

@@ -406,8 +406,3 @@ The technology's potential extends far beyond cryptocurrencies, promising to tra
 
 - [./references/consensus-mechanisms-deep-dive.md](./references/consensus-mechanisms-deep-dive.md): Consensus Mechanisms Deep Dive
 - [./references/cryptography-and-security.md](./references/cryptography-and-security.md): Cryptography And Security
-
-## References
-
-- [Consensus Mechanisms Deep Dive](references/consensus-mechanisms-deep-dive.md)
-- [Cryptography And Security](references/cryptography-and-security.md)

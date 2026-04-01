@@ -320,10 +320,3 @@ Advanced color grading transforms footage from technically correct to emotionall
 **`/references/scopes-and-analysis.md`** — Read when learning to read professional scopes, performing technical color correction, or ensuring broadcast-safe levels.
 
 **`/references/lut-creation-management.md`** — Read when creating custom LUTs, managing LUT libraries, or implementing LUT-based workflows across projects.
-
-## References
-
-- [Color Theory Application](references/color-theory-application.md)
-- [Lut Creation Management](references/lut-creation-management.md)
-- [Resolve Advanced Workflows](references/resolve-advanced-workflows.md)
-- [Scopes And Analysis](references/scopes-and-analysis.md)

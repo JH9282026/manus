@@ -14,11 +14,3 @@ Sales automation in 2026 emphasizes AI-driven personalization, multi-channel orc
 ## Using the Reference Files
 
 Reference files provide detailed implementation guidance, templates, and advanced techniques for this skill.
-
-## References
-
-- [Ai Personalization Strategies](references/ai-personalization-strategies.md)
-- [Deliverability Optimization](references/deliverability-optimization.md)
-- [Implementation Playbook](references/implementation-playbook.md)
-- [Platform Comparison Guide](references/platform-comparison-guide.md)
-- [Workflow Automation Templates](references/workflow-automation-templates.md)

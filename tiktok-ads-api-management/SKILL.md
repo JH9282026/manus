@@ -227,8 +227,3 @@ Once Abacus generates the files:
 4. It's ready to use immediately
 
 Alternatively, if you have multiple skills, send them all and I'll batch deploy them.
-
-## References
-
-- [Tiktok Ads Api Overview](references/tiktok-ads-api-overview.md)
-- [Tiktok Campaign Automation](references/tiktok-campaign-automation.md)

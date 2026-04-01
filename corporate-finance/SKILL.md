@@ -295,10 +295,3 @@ Test how changes in key variables affect outcomes:
 **`/references/working-capital.md`** — Read when managing cash conversion cycles, optimizing inventory levels, improving accounts receivable collection, negotiating payment terms, or addressing liquidity challenges.
 
 **`/references/corporate-governance.md`** — Read when designing governance structures, addressing agency problems, structuring executive compensation, evaluating board effectiveness, or implementing best practices for shareholder protection and transparency.
-
-## References
-
-- [Capital Budgeting](references/capital-budgeting.md)
-- [Capital Structure](references/capital-structure.md)
-- [Corporate Governance](references/corporate-governance.md)
-- [Working Capital](references/working-capital.md)

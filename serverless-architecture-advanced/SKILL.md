@@ -408,9 +408,3 @@ Resources:
 **`/references/event-driven-patterns.md`** — Read when designing event-driven architectures, implementing async workflows, or using EventBridge.
 
 **`/references/step-functions-orchestration.md`** — Read when orchestrating complex workflows, implementing sagas, or handling distributed transactions.
-
-## References
-
-- [Event Driven Patterns](references/event-driven-patterns.md)
-- [Lambda Optimization](references/lambda-optimization.md)
-- [Step Functions Orchestration](references/step-functions-orchestration.md)

@@ -361,11 +361,3 @@ Apple Search Ads performance is heavily influenced by ASO:
 **`/references/performance-benchmarks.md`** — Read when evaluating campaign performance, setting KPI targets, comparing results against industry standards, or justifying budget allocation decisions.
 
 **`/references/troubleshooting-guide.md`** — Read when campaigns have low impressions, high CPA, poor conversion rates, ad approval issues, or other performance problems requiring diagnosis and resolution.
-
-## References
-
-- [Campaign Setup Checklist](references/campaign-setup-checklist.md)
-- [Custom Product Pages Guide](references/custom-product-pages-guide.md)
-- [Keyword Research Strategy](references/keyword-research-strategy.md)
-- [Performance Benchmarks](references/performance-benchmarks.md)
-- [Troubleshooting Guide](references/troubleshooting-guide.md)

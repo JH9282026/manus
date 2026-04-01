@@ -452,9 +452,3 @@ creative_data = {
 **`/references/meta-creative-best-practices.md`** — Read for creative testing strategies, performance optimization, design principles, and platform-specific recommendations.
 
 **`/references/meta-dynamic-ads-guide.md`** — Read for product catalog setup, feed optimization, dynamic creative templates, and retargeting strategies.
-
-## References
-
-- [Meta Creative Best Practices](references/meta-creative-best-practices.md)
-- [Meta Creative Specs](references/meta-creative-specs.md)
-- [Meta Dynamic Ads Guide](references/meta-dynamic-ads-guide.md)

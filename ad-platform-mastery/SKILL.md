@@ -106,11 +106,3 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
-
-## References
-
-- [Google Ads Mastery](references/google-ads-mastery.md)
-- [Linkedin B2B Advertising](references/linkedin-b2b-advertising.md)
-- [Meta Ads Strategy](references/meta-ads-strategy.md)
-- [Platform Comparison](references/platform-comparison.md)
-- [Tiktok Ad Tactics](references/tiktok-ad-tactics.md)

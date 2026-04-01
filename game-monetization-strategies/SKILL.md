@@ -460,10 +460,3 @@ Profitable if: LTV > CPI
 **`/references/economy-balance.md`** — Read when designing game economies, balancing currency faucets and sinks, creating progression systems, preventing inflation, or avoiding pay-to-win scenarios.
 
 **`/references/analytics-optimization.md`** — Read when tracking monetization metrics, conducting A/B tests, segmenting players, optimizing conversion funnels, calculating LTV, or making data-driven monetization decisions.
-
-## References
-
-- [Advertising Strategies](references/advertising-strategies.md)
-- [Analytics Optimization](references/analytics-optimization.md)
-- [Economy Balance](references/economy-balance.md)
-- [Monetization Models Iap](references/monetization-models-iap.md)

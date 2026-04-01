@@ -241,7 +241,3 @@ stats = response.json()
 **`/references/linkedin-analytics-guide.md`** — Read for analytics API documentation, metric definitions, and reporting best practices.
 
 **`/references/linkedin-audience-strategies.md`** — Read for B2B audience building, account-based marketing tactics, and optimization strategies.
-
-## References
-
-- [Linkedin Targeting Reference](references/linkedin-targeting-reference.md)

@@ -220,10 +220,3 @@ Follow this six-step process to implement attribution:
 **`/references/data-driven-attribution.md`** — Read when considering machine learning-based attribution, understanding how data-driven models work, or evaluating platform-provided attribution solutions.
 
 **`/references/implementation-guide.md`** — Read when setting up attribution tracking infrastructure, implementing UTM parameters, integrating with CRM systems, or troubleshooting attribution data quality issues.
-
-## References
-
-- [Attribution Models](references/attribution-models.md)
-- [Data Driven Attribution](references/data-driven-attribution.md)
-- [Implementation Guide](references/implementation-guide.md)
-- [Multi Touch Attribution](references/multi-touch-attribution.md)

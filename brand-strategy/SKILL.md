@@ -470,10 +470,3 @@ Proof Points (Evidence)
 **`/references/messaging-playbook.md`** — Read when developing comprehensive messaging frameworks, value propositions, and brand stories.
 
 **`/references/brand-audit-guide.md`** — Read when conducting brand audits, measuring brand health, and identifying opportunities for improvement.
-
-## References
-
-- [Brand Architecture](references/brand-architecture.md)
-- [Brand Identity Development](references/brand-identity-development.md)
-- [Competitive Differentiation](references/competitive-differentiation.md)
-- [Positioning Frameworks](references/positioning-frameworks.md)

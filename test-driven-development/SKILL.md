@@ -303,11 +303,3 @@ Start from user perspective, work inward.
 **`/references/tdd-patterns-antipatterns.md`** — Read when improving test quality, avoiding common pitfalls, or establishing team standards.
 
 **`/references/ci-cd-tdd-integration.md`** — Read when integrating TDD into CI/CD pipelines, setting up automated testing, or establishing quality gates.
-
-## References
-
-- [Ci Cd Tdd Integration](references/ci-cd-tdd-integration.md)
-- [Mocking Strategies](references/mocking-strategies.md)
-- [Tdd Cycle Deep Dive](references/tdd-cycle-deep-dive.md)
-- [Tdd Patterns Antipatterns](references/tdd-patterns-antipatterns.md)
-- [Testing Frameworks Guide](references/testing-frameworks-guide.md)

@@ -233,14 +233,3 @@ Structure test suites following the test pyramid for optimal speed and reliabili
 **`/references/mobile-automation-appium.md`** — Read when automating native mobile apps, setting up Appium infrastructure, or testing hybrid applications.
 
 **`/references/api-testing-strategies.md`** — Read when implementing API test layers, validating service contracts, or building integration test suites.
-
-## References
-
-- [Ai Self Healing Tests](references/ai-self-healing-tests.md)
-- [Api Testing Strategies](references/api-testing-strategies.md)
-- [Ci Cd Integration](references/ci-cd-integration.md)
-- [Cypress Spa Testing](references/cypress-spa-testing.md)
-- [Mobile Automation Appium](references/mobile-automation-appium.md)
-- [Playwright Implementation](references/playwright-implementation.md)
-- [Selenium Enterprise Patterns](references/selenium-enterprise-patterns.md)
-- [Test Architecture Patterns](references/test-architecture-patterns.md)

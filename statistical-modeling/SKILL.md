@@ -401,10 +401,3 @@ cph.check_assumptions(df, p_value_threshold=0.05)
 **`/references/model-validation-techniques.md`** — Read when validating models, implementing cross-validation strategies, or assessing predictive performance.
 
 **`/references/mixed-effects-survival.md`** — Read when analyzing hierarchical data, repeated measures, or time-to-event outcomes.
-
-## References
-
-- [Glm Comprehensive](references/glm-comprehensive.md)
-- [Mixed Effects Survival](references/mixed-effects-survival.md)
-- [Model Validation Techniques](references/model-validation-techniques.md)
-- [Regression Advanced](references/regression-advanced.md)

@@ -14,11 +14,3 @@ Modern retention strategies combine data-driven insights with emotional connecti
 ## Using the Reference Files
 
 Reference files provide detailed implementation guidance, templates, and advanced techniques for this skill.
-
-## References
-
-- [Engagement Strategies](references/engagement-strategies.md)
-- [Loyalty Program Design](references/loyalty-program-design.md)
-- [Personalization Frameworks](references/personalization-frameworks.md)
-- [Retention Metrics Analytics](references/retention-metrics-analytics.md)
-- [Win Back Campaigns](references/win-back-campaigns.md)

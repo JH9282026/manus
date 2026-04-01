@@ -198,10 +198,3 @@ Evaluate current state across five dimensions:
 **`/references/compensation-design.md`** — Read when creating or modifying sales compensation plans, setting quotas, designing commission structures, or aligning incentives with business goals. Provides compensation plan types, quota-setting methodologies, and incentive design principles.
 
 **`/references/analytics-reporting.md`** — Read when building sales dashboards, defining metrics, creating reports, or establishing analytics infrastructure. Contains dashboard design principles, metric definitions, and reporting best practices.
-
-## References
-
-- [Analytics Reporting](references/analytics-reporting.md)
-- [Compensation Design](references/compensation-design.md)
-- [Process Optimization](references/process-optimization.md)
-- [Territory Planning](references/territory-planning.md)

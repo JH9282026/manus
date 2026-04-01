@@ -470,8 +470,3 @@ See `references/` for detailed guides on advanced techniques, architecture patte
 
 - [./references/advanced-architectures.md](./references/advanced-architectures.md): Advanced Architectures
 - [./references/generative-models.md](./references/generative-models.md): Generative Models
-
-## References
-
-- [Advanced Architectures](references/advanced-architectures.md)
-- [Generative Models](references/generative-models.md)

@@ -248,9 +248,3 @@ Read `/references/integration-architecture.md` for system design patterns.
 **`/references/automation-examples.md`** — Read when implementing automated bid management, budget optimization, or building agentic AI systems for Twitch advertising.
 
 **`/references/integration-architecture.md`** — Read when designing system architecture for Twitch ads integration with marketing platforms, data warehouses, or custom dashboards.
-
-## References
-
-- [Amazon Ads Api Guide](references/amazon-ads-api-guide.md)
-- [Automation Examples](references/automation-examples.md)
-- [Twitch Api Endpoints](references/twitch-api-endpoints.md)

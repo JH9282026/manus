@@ -372,11 +372,3 @@ predictions = lof.fit_predict(X)
 **`/references/anomaly-detection-techniques.md`** — Read when detecting fraud, identifying network intrusions, or finding unusual patterns in data.
 
 **`/references/data-mining-case-studies.md`** — Read when starting a new data mining project or looking for real-world application examples.
-
-## References
-
-- [Anomaly Detection Techniques](references/anomaly-detection-techniques.md)
-- [Association Rules Advanced](references/association-rules-advanced.md)
-- [Classification Methods](references/classification-methods.md)
-- [Clustering Comprehensive](references/clustering-comprehensive.md)
-- [Data Mining Case Studies](references/data-mining-case-studies.md)

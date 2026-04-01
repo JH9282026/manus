@@ -104,10 +104,3 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
-
-## References
-
-- [Ai Search Platforms](references/ai-search-platforms.md)
-- [Citation Optimization](references/citation-optimization.md)
-- [Geo Vs Seo](references/geo-vs-seo.md)
-- [Llm Visibility Strategies](references/llm-visibility-strategies.md)

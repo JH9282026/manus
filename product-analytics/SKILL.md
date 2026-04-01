@@ -165,13 +165,3 @@ North Star: Weekly Active Users
 **`/references/tools-platforms.md`** — Read when evaluating analytics platforms, comparing Mixpanel vs. Amplitude, or planning tool implementation. Covers features, pricing, and integration.
 
 **`/references/implementation-guide.md`** — Read when setting up event tracking, building dashboards, or establishing data governance. Includes code examples and best practices.
-
-## References
-
-- [Analytics Frameworks](references/analytics-frameworks.md)
-- [Analytics Tools Platforms](references/analytics-tools-platforms.md)
-- [Behavioral Analysis Techniques](references/behavioral-analysis-techniques.md)
-- [Implementation Guide](references/implementation-guide.md)
-- [Metrics Kpis](references/metrics-kpis.md)
-- [Metrics Measurement Frameworks](references/metrics-measurement-frameworks.md)
-- [Tools Platforms](references/tools-platforms.md)

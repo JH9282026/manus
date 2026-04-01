@@ -227,11 +227,3 @@ Once Abacus generates the files:
 4. It's ready to use immediately
 
 Alternatively, if you have multiple skills, send them all and I'll batch deploy them.
-
-## References
-
-- [Ad Format Specifications](references/ad-format-specifications.md)
-- [Audience Targeting Strategies](references/audience-targeting-strategies.md)
-- [Campaign Manager Optimization](references/campaign-manager-optimization.md)
-- [Creative Best Practices](references/creative-best-practices.md)
-- [Performance Measurement Analytics](references/performance-measurement-analytics.md)

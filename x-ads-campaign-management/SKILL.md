@@ -186,11 +186,3 @@ def optimize_budgets(account_id, campaigns):
 **`/references/x-ads-automation-patterns.md`** — Read when implementing automated campaign management workflows, optimization rules, performance monitoring, and integration with MCP servers or browser control systems.
 
 **`/references/x-ads-best-practices.md`** — Read for campaign structure recommendations, budget allocation strategies, bidding optimization techniques, and troubleshooting common API issues.
-
-## References
-
-- [Ad Formats And Creative Strategies](references/ad-formats-and-creative-strategies.md)
-- [Budgeting Bidding And Optimization](references/budgeting-bidding-and-optimization.md)
-- [Fundamentals And Core Concepts](references/fundamentals-and-core-concepts.md)
-- [Targeting And Audience Strategies](references/targeting-and-audience-strategies.md)
-- [Tools Platforms And Api](references/tools-platforms-and-api.md)

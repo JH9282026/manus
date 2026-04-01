@@ -104,10 +104,3 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
-
-## References
-
-- [Abm Platform Comparison](references/abm-platform-comparison.md)
-- [Ai Abm Capabilities](references/ai-abm-capabilities.md)
-- [Crm Integration Guide](references/crm-integration-guide.md)
-- [Intent Data Tools](references/intent-data-tools.md)

@@ -104,10 +104,3 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
-
-## References
-
-- [Bant Framework](references/bant-framework.md)
-- [Lead Scoring Models](references/lead-scoring-models.md)
-- [Meddic Methodology](references/meddic-methodology.md)
-- [Mql Sql Definitions](references/mql-sql-definitions.md)

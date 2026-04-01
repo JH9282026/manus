@@ -461,8 +461,3 @@ if (block.number > targetBlock) {  // More reliable
 
 - [./references/advanced-solidity-patterns.md](./references/advanced-solidity-patterns.md): Advanced Solidity Patterns
 - [./references/solidity-fundamentals.md](./references/solidity-fundamentals.md): Solidity Fundamentals
-
-## References
-
-- [Advanced Solidity Patterns](references/advanced-solidity-patterns.md)
-- [Solidity Fundamentals](references/solidity-fundamentals.md)

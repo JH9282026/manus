@@ -227,11 +227,3 @@ Once Abacus generates the files:
 4. It's ready to use immediately
 
 Alternatively, if you have multiple skills, send them all and I'll batch deploy them.
-
-## References
-
-- [Best Practices And Compliance](references/best-practices-and-compliance.md)
-- [Campaign Types And Strategies](references/campaign-types-and-strategies.md)
-- [Fundamentals And Core Concepts](references/fundamentals-and-core-concepts.md)
-- [Google Ads Api Implementation](references/google-ads-api-implementation.md)
-- [Targeting And Optimization](references/targeting-and-optimization.md)

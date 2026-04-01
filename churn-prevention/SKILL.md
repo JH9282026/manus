@@ -14,11 +14,3 @@ Modern churn prevention combines predictive analytics, automated workflows, and 
 ## Using the Reference Files
 
 Reference files provide detailed implementation guidance, templates, and advanced techniques for this skill.
-
-## References
-
-- [Churn Analysis Techniques](references/churn-analysis-techniques.md)
-- [Early Warning Systems](references/early-warning-systems.md)
-- [Intervention Playbooks](references/intervention-playbooks.md)
-- [Predictive Analytics Models](references/predictive-analytics-models.md)
-- [Retention Automation](references/retention-automation.md)

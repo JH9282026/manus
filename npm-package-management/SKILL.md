@@ -437,10 +437,3 @@ npm update
 **`/references/security-best-practices.md`** — Read when auditing dependencies, implementing security policies, or managing private packages.
 
 **`/references/troubleshooting.md`** — Read when resolving dependency conflicts, debugging installation issues, or optimizing node_modules.
-
-## References
-
-- [01 Npm Fundamentals Best Practices](references/01_npm_fundamentals_best_practices.md)
-- [02 Lockfiles Reproducible Builds](references/02_lockfiles_reproducible_builds.md)
-- [03 Security Vulnerability Management](references/03_security_vulnerability_management.md)
-- [04 Workspaces Monorepo Management](references/04_workspaces_monorepo_management.md)

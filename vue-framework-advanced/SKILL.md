@@ -198,10 +198,3 @@ Vue 3's structured syntax is optimized for AI-assisted coding:
 **`/references/performance-optimization.md`** — Read when optimizing bundle size, improving render performance, or implementing code-splitting strategies.
 
 **`/references/typescript-integration.md`** — Read when setting up TypeScript in Vue 3, typing complex components, or creating type-safe composables.
-
-## References
-
-- [Composables Patterns](references/composables-patterns.md)
-- [Performance Optimization](references/performance-optimization.md)
-- [Reactivity Deep Dive](references/reactivity-deep-dive.md)
-- [Typescript Integration](references/typescript-integration.md)

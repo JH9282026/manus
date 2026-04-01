@@ -104,10 +104,3 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
-
-## References
-
-- [Cat Tools](references/cat-tools.md)
-- [Quality Assurance](references/quality-assurance.md)
-- [Translation Memory](references/translation-memory.md)
-- [Vendor Management](references/vendor-management.md)

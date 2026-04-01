@@ -270,10 +270,3 @@ Compliance management in 2026 requires continuous monitoring, automation, and in
 **`/references/gdpr-compliance-checklist.md`** — Read when ensuring GDPR compliance, implementing data protection measures, or managing data subject rights.
 
 **`/references/compliance-automation-tools.md`** — Read when selecting compliance platforms, automating evidence collection, or streamlining audit processes.
-
-## References
-
-- [Compliance Automation Tools](references/compliance-automation-tools.md)
-- [Gdpr Compliance Checklist](references/gdpr-compliance-checklist.md)
-- [Iso27001 Certification Path](references/iso27001-certification-path.md)
-- [Soc2 Implementation Guide](references/soc2-implementation-guide.md)

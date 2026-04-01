@@ -222,10 +222,3 @@ Parameters:
 **`/references/bigquery-integration.md`** — Read when exporting raw data to BigQuery, writing SQL queries for custom analysis, or building machine learning models on GA4 data.
 
 **`/references/migration-checklist.md`** — Read when migrating from Universal Analytics, mapping UA events to GA4, or planning dual-tracking implementation.
-
-## References
-
-- [Bigquery Integration](references/bigquery-integration.md)
-- [Event Tracking Guide](references/event-tracking-guide.md)
-- [Exploration Techniques](references/exploration-techniques.md)
-- [Migration Checklist](references/migration-checklist.md)

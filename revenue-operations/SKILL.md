@@ -316,10 +316,3 @@ Organizations implementing RevOps report:
 **`/references/forecasting-planning.md`** — Read when implementing forecasting processes, improving forecast accuracy, or establishing planning cadences. Provides forecasting methodologies, planning frameworks, and best practices.
 
 **`/references/data-governance.md`** — Read when establishing data standards, improving data quality, or implementing governance policies. Contains data governance frameworks, quality metrics, and stewardship models.
-
-## References
-
-- [Data Governance](references/data-governance.md)
-- [Forecasting Planning](references/forecasting-planning.md)
-- [Revops Framework](references/revops-framework.md)
-- [Tech Stack Integration](references/tech-stack-integration.md)

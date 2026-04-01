@@ -317,10 +317,3 @@ X-XSS-Protection: 1; mode=block
 **`/references/security-testing.md`** — Read when setting up security testing, using SAST/DAST tools, or conducting penetration testing.
 
 **`/references/secure-coding-guide.md`** — Read for comprehensive secure coding practices, code review checklists, and security patterns.
-
-## References
-
-- [Injection Prevention](references/injection-prevention.md)
-- [Owasp Top10 Details](references/owasp-top10-details.md)
-- [Secure Coding Guide](references/secure-coding-guide.md)
-- [Security Testing](references/security-testing.md)

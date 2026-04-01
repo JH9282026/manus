@@ -22,9 +22,3 @@ description: ""Track and optimize e-commerce performance using conversion metric
 **`/references/customer-behavior-analysis.md`** — [When to read]
 
 **`/references/analytics-tools-implementation.md`** — [When to read]
-
-## References
-
-- [Analytics Tools Implementation](references/analytics-tools-implementation.md)
-- [Conversion Metrics Kpis](references/conversion-metrics-kpis.md)
-- [Customer Behavior Analysis](references/customer-behavior-analysis.md)

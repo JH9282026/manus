@@ -104,10 +104,3 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
-
-## References
-
-- [I18N Frameworks](references/i18n-frameworks.md)
-- [I18N Principles](references/i18n-principles.md)
-- [Locale Handling](references/locale-handling.md)
-- [Unicode Implementation](references/unicode-implementation.md)

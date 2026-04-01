@@ -449,10 +449,3 @@ Participants verbalize their thoughts, actions, and feelings while completing ta
 **`/references/ux-metrics-analysis.md`** — Read when defining metrics for usability studies, measuring task success rates and efficiency, calculating and interpreting SUS/NPS/SEQ scores, analyzing quantitative usability data, benchmarking against standards, or creating metrics dashboards.
 
 **`/references/tools-best-practices.md`** — Read when selecting usability testing tools, setting up remote testing platforms, choosing analytics and heatmap tools, implementing survey and feedback collection, recruiting participants, analyzing and reporting findings, or establishing usability testing programs.
-
-## References
-
-- [Testing Methods](references/testing-methods.md)
-- [Tools Best Practices](references/tools-best-practices.md)
-- [Usability Fundamentals](references/usability-fundamentals.md)
-- [Ux Metrics Analysis](references/ux-metrics-analysis.md)

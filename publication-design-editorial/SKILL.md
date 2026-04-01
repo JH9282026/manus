@@ -481,9 +481,3 @@ Publication design combines artistic vision with technical precision to create e
 - [./references/editorial_workflow_processes.md](./references/editorial_workflow_processes.md): Editorial Workflow Processes
 - [./references/publication_design_fundamentals.md](./references/publication_design_fundamentals.md): Publication Design Fundamentals
 - [./references/typography_layout_techniques.md](./references/typography_layout_techniques.md): Typography Layout Techniques
-
-## References
-
-- [Editorial Workflow Processes](references/editorial_workflow_processes.md)
-- [Publication Design Fundamentals](references/publication_design_fundamentals.md)
-- [Typography Layout Techniques](references/typography_layout_techniques.md)

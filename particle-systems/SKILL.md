@@ -49,10 +49,3 @@ Particle systems simulate complex phenomena using many small particles, essentia
 **`/references/weather-systems.md`** — Rain, snow, fog, and environmental particles.
 
 **`/references/particle-optimization.md`** — Performance optimization for particle systems.
-
-## References
-
-- [Fire Smoke Effects](references/fire-smoke-effects.md)
-- [Magic Energy Effects](references/magic-energy-effects.md)
-- [Particle Optimization](references/particle-optimization.md)
-- [Weather Systems](references/weather-systems.md)

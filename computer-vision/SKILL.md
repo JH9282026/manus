@@ -97,9 +97,3 @@ Classify each pixel.
 - Not considering inference speed
 - Overfitting to small datasets
 - Poor anchor box design (object detection)
-
-## References
-
-- [Classification](references/classification.md)
-- [Object Detection](references/object-detection.md)
-- [Segmentation](references/segmentation.md)

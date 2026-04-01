@@ -293,9 +293,3 @@ Combine data lake and warehouse:
 **`/references/cloud-warehouse-comparison.md`** — Read when selecting a cloud data warehouse platform or optimizing for specific cloud features.
 
 **`/references/performance-tuning.md`** — Read when optimizing query performance, implementing partitioning strategies, or troubleshooting slow queries.
-
-## References
-
-- [Cloud Warehouse Comparison](references/cloud-warehouse-comparison.md)
-- [Dimensional Modeling Patterns](references/dimensional-modeling-patterns.md)
-- [Performance Tuning](references/performance-tuning.md)

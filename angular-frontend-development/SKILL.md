@@ -409,10 +409,3 @@ getUser(id: number): Observable<User> {
 **`/references/services-dependency-injection.md`** — Read when creating services, implementing dependency injection patterns, working with RxJS observables, handling HTTP communication, implementing interceptors, or managing application state with services.
 
 **`/references/routing-state-management.md`** — Read when configuring routing, implementing navigation, setting up route guards, working with lazy loading, implementing state management with NgRx or other libraries, or handling complex application state and data flow patterns.
-
-## References
-
-- [Angular Fundamentals](references/angular-fundamentals.md)
-- [Components Modules](references/components-modules.md)
-- [Routing State Management](references/routing-state-management.md)
-- [Services Dependency Injection](references/services-dependency-injection.md)

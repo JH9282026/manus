@@ -317,10 +317,3 @@ See `/references/dialogue-writing.md` for advanced techniques, common mistakes, 
 **`/references/dialogue-writing.md`** — Read when writing dialogue, creating distinct character voices, adding subtext, formatting dialogue correctly, or troubleshooting dialogue that feels stilted or expository.
 
 **`/references/editing-revision.md`** — Read when revising drafts, self-editing prose, identifying and fixing common issues, preparing manuscript for submission, or developing revision strategies.
-
-## References
-
-- [Character Development](references/character-development.md)
-- [Dialogue Writing](references/dialogue-writing.md)
-- [Editing Revision](references/editing-revision.md)
-- [Story Structure](references/story-structure.md)

@@ -273,10 +273,3 @@ Arrive 30-60 minutes early to:
 **`/references/workflow-optimization.md`** — Read when streamlining post-processing, setting up efficient culling systems, or implementing AI tools for faster editing and delivery.
 
 **`/references/business-practices.md`** — Read when establishing pricing, creating contracts, managing client expectations, or building an event photography business.
-
-## References
-
-- [Advanced Lighting Techniques](references/advanced-lighting-techniques.md)
-- [Business Practices](references/business-practices.md)
-- [Event Types Guide](references/event-types-guide.md)
-- [Workflow Optimization](references/workflow-optimization.md)

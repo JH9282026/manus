@@ -380,9 +380,3 @@ Blender is a free, open-source 3D creation suite supporting the entire 3D pipeli
 - [./references/advanced-techniques.md](./references/advanced-techniques.md): Advanced Techniques
 - [./references/topology-guide.md](./references/topology-guide.md): Topology Guide
 - [./references/workflow-optimization.md](./references/workflow-optimization.md): Workflow Optimization
-
-## References
-
-- [Advanced Techniques](references/advanced-techniques.md)
-- [Topology Guide](references/topology-guide.md)
-- [Workflow Optimization](references/workflow-optimization.md)

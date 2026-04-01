@@ -295,10 +295,3 @@ Measure blockchain implementation success through:
 **`/references/integration-challenges.md`** — Read when addressing implementation obstacles, planning system integration, or managing risks. Contains detailed challenge analysis, solution strategies, and best practices for overcoming common barriers.
 
 **`/references/case-studies-examples.md`** — Read when seeking real-world implementation examples, learning from successful deployments, or understanding practical outcomes. Contains detailed case studies from Walmart, Maersk, Ford, Nestlé, and other industry leaders.
-
-## References
-
-- [Case Studies Examples](references/case-studies-examples.md)
-- [Implementation Platforms](references/implementation-platforms.md)
-- [Integration Challenges](references/integration-challenges.md)
-- [Use Cases Benefits](references/use-cases-benefits.md)

@@ -136,9 +136,3 @@ Train smaller student model from larger teacher.
 - No rollback strategy
 - Insufficient logging
 - Not considering costs
-
-## References
-
-- [Monitoring](references/monitoring.md)
-- [Optimization](references/optimization.md)
-- [Serving](references/serving.md)

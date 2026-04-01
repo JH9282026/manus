@@ -283,10 +283,3 @@ resource vm 'Microsoft.Compute/virtualMachines@2021-03-01' = {
 **`/references/networking-guide.md`** — Read when designing VNet architecture, configuring NSGs, implementing load balancing, or setting up hybrid connectivity.
 
 **`/references/azure-ad-security.md`** — Read when implementing identity management, configuring RBAC, setting up Conditional Access, or managing application identities.
-
-## References
-
-- [Azure Ad Security](references/azure-ad-security.md)
-- [Networking Guide](references/networking-guide.md)
-- [Storage Accounts Guide](references/storage-accounts-guide.md)
-- [Virtual Machines Guide](references/virtual-machines-guide.md)

@@ -375,9 +375,3 @@ Mobile App Design applies platform-specific patterns and conventions for iOS and
 - [./references/ios-android-guidelines.md](./references/ios-android-guidelines.md): Ios Android Guidelines
 - [./references/mobile-design-principles.md](./references/mobile-design-principles.md): Mobile Design Principles
 - [./references/mobile-interaction-patterns.md](./references/mobile-interaction-patterns.md): Mobile Interaction Patterns
-
-## References
-
-- [Ios Android Guidelines](references/ios-android-guidelines.md)
-- [Mobile Design Principles](references/mobile-design-principles.md)
-- [Mobile Interaction Patterns](references/mobile-interaction-patterns.md)

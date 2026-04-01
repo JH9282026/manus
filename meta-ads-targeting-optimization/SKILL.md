@@ -482,9 +482,3 @@ print(f"Estimated reach: {estimate['users']}")
 **`/references/meta-audience-strategies.md`** — Read for audience building frameworks, lookalike optimization, retargeting funnels, and scaling strategies.
 
 **`/references/meta-conversion-optimization.md`** — Read for pixel implementation, event optimization, value-based bidding, and automated rule templates.
-
-## References
-
-- [Meta Audience Strategies](references/meta-audience-strategies.md)
-- [Meta Conversion Optimization](references/meta-conversion-optimization.md)
-- [Meta Targeting Reference](references/meta-targeting-reference.md)

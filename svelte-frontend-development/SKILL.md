@@ -488,10 +488,3 @@ For Vite + Svelte SPAs, run `npm run build` and deploy the `dist/` folder to sta
 **`/references/components-props.md`** — Read when creating reusable components, passing data between components, implementing slots and composition, working with component lifecycle, handling component events, or building component libraries and design systems.
 
 **`/references/sveltekit-framework.md`** — Read when building full-stack applications, implementing file-based routing, working with server-side rendering, creating API endpoints, handling form actions, implementing authentication, or deploying SvelteKit applications to various platforms.
-
-## References
-
-- [Components Props](references/components-props.md)
-- [Reactivity Stores](references/reactivity-stores.md)
-- [Svelte Basics](references/svelte-basics.md)
-- [Sveltekit Framework](references/sveltekit-framework.md)

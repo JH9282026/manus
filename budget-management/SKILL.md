@@ -490,9 +490,3 @@ Mean Absolute Percentage Error (MAPE) = Average(|Actual - Forecast| / Actual)
 **`/references/forecasting-techniques.md`** — Read when implementing rolling forecasts, improving forecast accuracy, or selecting forecasting methods.
 
 **`/references/cost-control-strategies.md`** — Read when reducing costs, optimizing spending, or implementing expense management controls.
-
-## References
-
-- [Budget Planning Templates](references/budget-planning-templates.md)
-- [Forecasting Techniques](references/forecasting-techniques.md)
-- [Variance Analysis Guide](references/variance-analysis-guide.md)

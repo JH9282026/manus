@@ -108,7 +108,3 @@ response = campaign_service.mutate_campaigns(
 **`/references/youtube-api-reference.md`** — Read for complete Google Ads API documentation for video campaigns.
 
 **`/references/youtube-creative-guide.md`** — Read for video best practices, format selection, and performance optimization.
-
-## References
-
-- [Youtube Api Reference](references/youtube-api-reference.md)

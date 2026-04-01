@@ -157,10 +157,3 @@ Before slicing, verify model integrity:
 **`/references/support-structures.md`** — Read when designing support strategies, configuring automatic support generation, creating custom supports, optimizing support removal, or printing complex geometries with overhangs and bridges.
 
 **`/references/troubleshooting-quality.md`** — Read when diagnosing print failures, fixing warping and adhesion issues, eliminating stringing and oozing, improving surface quality, resolving layer separation, or addressing dimensional inaccuracy.
-
-## References
-
-- [Model Optimization](references/model-optimization.md)
-- [Slicing Settings](references/slicing-settings.md)
-- [Support Structures](references/support-structures.md)
-- [Troubleshooting Quality](references/troubleshooting-quality.md)

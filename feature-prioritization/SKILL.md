@@ -22,9 +22,3 @@ description: ""Prioritize product features using frameworks like RICE, MoSCoW, K
 **`/references/implementation-best-practices.md`** — [When to read]
 
 **`/references/stakeholder-alignment.md`** — [When to read]
-
-## References
-
-- [Implementation Best Practices](references/implementation-best-practices.md)
-- [Prioritization Frameworks Comparison](references/prioritization-frameworks-comparison.md)
-- [Stakeholder Alignment](references/stakeholder-alignment.md)

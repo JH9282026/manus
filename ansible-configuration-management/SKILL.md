@@ -427,10 +427,3 @@ Enterprise features:
 **`/references/inventory-variables.md`** — Read when managing inventory (static or dynamic), working with variables and facts, implementing group/host variables, using Ansible Vault for secrets, or managing multiple environments.
 
 **`/references/automation-best-practices.md`** — Read when implementing production automation, optimizing performance, testing and validating playbooks, implementing CI/CD integration, following security best practices, or troubleshooting Ansible issues.
-
-## References
-
-- [Ansible Fundamentals](references/ansible-fundamentals.md)
-- [Automation Best Practices](references/automation-best-practices.md)
-- [Inventory Variables](references/inventory-variables.md)
-- [Playbooks Roles](references/playbooks-roles.md)

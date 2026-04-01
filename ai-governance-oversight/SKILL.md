@@ -104,10 +104,3 @@ Track these key performance indicators to measure success:
 4. Implement tracking and measurement systems
 5. Execute core tactics from reference guides
 6. Monitor, analyze, and optimize continuously
-
-## References
-
-- [Compliance Requirements](references/compliance-requirements.md)
-- [Ethical Frameworks](references/ethical-frameworks.md)
-- [Human Oversight](references/human-oversight.md)
-- [Risk Management](references/risk-management.md)

@@ -309,9 +309,3 @@ Customize tooltips to provide context:
 **`/references/dashboard-examples.md`** — Read when designing dashboards for specific use cases like sales analytics, marketing dashboards, or operational reporting.
 
 **`/references/performance-tuning.md`** — Read when optimizing slow dashboards, working with large datasets, or improving user experience.
-
-## References
-
-- [Advanced Calculations](references/advanced-calculations.md)
-- [Dashboard Examples](references/dashboard-examples.md)
-- [Performance Tuning](references/performance-tuning.md)

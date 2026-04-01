@@ -297,11 +297,3 @@ Critical with third-party cookie deprecation:
 **`/references/ai-marketing-integration.md`** — Read when implementing AI tools for personalization, predictive analytics, content generation, or marketing automation.
 
 **`/references/industry-playbooks.md`** — Read when developing strategies for specific industries (SaaS, ecommerce, B2B services, healthcare, fintech) with vertical-specific tactics.
-
-## References
-
-- [Ai Marketing Integration](references/ai-marketing-integration.md)
-- [Channel Strategy Guide](references/channel-strategy-guide.md)
-- [Framework Deep Dives](references/framework-deep-dives.md)
-- [Industry Playbooks](references/industry-playbooks.md)
-- [Measurement Attribution](references/measurement-attribution.md)

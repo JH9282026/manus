@@ -383,10 +383,3 @@ Ethereum's transition demonstrates key security considerations:
 **`/references/network-security.md`** — Read when hardening blockchain infrastructure, protecting against DDoS or Eclipse attacks, implementing node security, or securing peer-to-peer communications. Covers network-layer threats and infrastructure security controls.
 
 **`/references/audit-best-practices.md`** — Read when planning security audits, selecting audit firms, preparing audit documentation, or conducting post-audit remediation. Includes audit checklists, tool recommendations, and industry standards for blockchain security assessments.
-
-## References
-
-- [Audit Best Practices](references/audit-best-practices.md)
-- [Consensus Vulnerabilities](references/consensus-vulnerabilities.md)
-- [Network Security](references/network-security.md)
-- [Smart Contract Security](references/smart-contract-security.md)

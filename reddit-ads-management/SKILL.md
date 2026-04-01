@@ -86,7 +86,3 @@ targeting = {
 **`/references/reddit-api-reference.md`** — Read for complete Ads API documentation and targeting options.
 
 **`/references/reddit-targeting-guide.md`** — Read for subreddit selection strategies and community engagement best practices.
-
-## References
-
-- [Reddit Api Reference](references/reddit-api-reference.md)

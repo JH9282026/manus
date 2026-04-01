@@ -360,10 +360,3 @@ def feature_matching_loss(real_imgs, fake_imgs, discriminator):
 **`/references/gan-variants.md`** — Read when implementing specific GAN variants (StyleGAN, CycleGAN, Progressive GAN), working on style transfer, or generating high-resolution images.
 
 **`/references/applications-implementations.md`** — Read when applying GANs to specific tasks (image-to-image translation, super-resolution, text-to-image), implementing Pix2Pix or SRGAN, or working on data augmentation and practical applications.
-
-## References
-
-- [Applications Implementations](references/applications-implementations.md)
-- [Gan Architecture](references/gan-architecture.md)
-- [Gan Variants](references/gan-variants.md)
-- [Training Techniques](references/training-techniques.md)

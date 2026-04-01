@@ -472,11 +472,3 @@ export const authGuard: CanActivateFn = (route, state) => {
 **`/references/forms-validation.md`** — Read when building complex forms, custom validators, or dynamic form controls.
 
 **`/references/performance-optimization.md`** — Read when optimizing change detection, lazy loading, or bundle size.
-
-## References
-
-- [Architecture Patterns](references/architecture-patterns.md)
-- [Component Design Best Practices](references/component-design-best-practices.md)
-- [Performance Optimization](references/performance-optimization.md)
-- [State Management Rxjs](references/state-management-rxjs.md)
-- [Testing Strategies](references/testing-strategies.md)

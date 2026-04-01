@@ -257,11 +257,3 @@ snaptr('track', 'SIGN_UP');
 **`/references/snapchat-pixel-setup.md`** — Read when implementing conversion tracking or troubleshooting pixel issues.
 
 **`/references/snapchat-optimization-tactics.md`** — Read when optimizing campaigns or improving performance.
-
-## References
-
-- [Ar Lenses Filters Guide](references/ar-lenses-filters-guide.md)
-- [Campaign Structure Objectives](references/campaign-structure-objectives.md)
-- [Creative Optimization Best Practices](references/creative-optimization-best-practices.md)
-- [Pixel Conversion Tracking](references/pixel-conversion-tracking.md)
-- [Targeting Audience Strategies](references/targeting-audience-strategies.md)

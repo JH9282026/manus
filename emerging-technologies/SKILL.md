@@ -460,7 +460,3 @@ Devices → Edge Node (nearby) → Processing → Immediate Response
 ## Using the Reference Files
 
 - [./references/quantum-computing-deep-dive.md](./references/quantum-computing-deep-dive.md): Quantum Computing Deep Dive
-
-## References
-
-- [Quantum Computing Deep Dive](references/quantum-computing-deep-dive.md)
