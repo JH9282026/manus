@@ -408,5 +408,5 @@ Substance Painter streamlines PBR texturing with intuitive tools, Smart Material
 
 ## Using the Reference Files
 
-- [./references/pbr-workflow.md](./references/pbr-workflow.md): Pbr Workflow
-- [./references/smart-materials.md](./references/smart-materials.md): Smart Materials
+- [Pbr Workflow](./references/pbr-workflow.md): Pbr Workflow
+- [Smart Materials](./references/smart-materials.md): Smart Materials

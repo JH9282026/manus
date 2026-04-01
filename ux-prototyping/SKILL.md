@@ -496,5 +496,5 @@ UX prototyping involves creating preliminary versions of digital products to tes
 
 ## Using the Reference Files
 
-- [./references/prototyping-tools.md](./references/prototyping-tools.md): Prototyping Tools
-- [./references/wireframing-guide.md](./references/wireframing-guide.md): Wireframing Guide
+- [Prototyping Tools](./references/prototyping-tools.md): Prototyping Tools
+- [Wireframing Guide](./references/wireframing-guide.md): Wireframing Guide

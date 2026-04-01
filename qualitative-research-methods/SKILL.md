@@ -237,7 +237,7 @@ For focus groups, additional parameters include group size (6-10 recommended), h
 
 ## Using the Reference Files
 
-- [./references/coding_analysis_strategies.md](./references/coding_analysis_strategies.md): Coding Analysis Strategies
-- [./references/ensuring_rigor_trustworthiness.md](./references/ensuring_rigor_trustworthiness.md): Ensuring Rigor Trustworthiness
-- [./references/interview_techniques.md](./references/interview_techniques.md): Interview Techniques
-- [./references/qualitative_research_fundamentals.md](./references/qualitative_research_fundamentals.md): Qualitative Research Fundamentals
+- [Coding Analysis Strategies](./references/coding_analysis_strategies.md): Coding Analysis Strategies
+- [Ensuring Rigor Trustworthiness](./references/ensuring_rigor_trustworthiness.md): Ensuring Rigor Trustworthiness
+- [Interview Techniques](./references/interview_techniques.md): Interview Techniques
+- [Qualitative Research Fundamentals](./references/qualitative_research_fundamentals.md): Qualitative Research Fundamentals

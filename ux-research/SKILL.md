@@ -490,5 +490,5 @@ UX research provides the foundation for user-centered design. Combine methods, i
 
 ## Using the Reference Files
 
-- [./references/analysis-synthesis.md](./references/analysis-synthesis.md): Analysis Synthesis
-- [./references/research-methods.md](./references/research-methods.md): Research Methods
+- [Analysis Synthesis](./references/analysis-synthesis.md): Analysis Synthesis
+- [Research Methods](./references/research-methods.md): Research Methods

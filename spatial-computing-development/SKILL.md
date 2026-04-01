@@ -484,7 +484,7 @@ Simulators are insufficient for spatial computing. Physical device testing is ma
 
 ## Using the Reference Files
 
-- [./references/deployment-optimization.md](./references/deployment-optimization.md): Deployment Optimization
-- [./references/development-platforms.md](./references/development-platforms.md): Development Platforms
-- [./references/interaction-design.md](./references/interaction-design.md): Interaction Design
-- [./references/spatial-computing-fundamentals.md](./references/spatial-computing-fundamentals.md): Spatial Computing Fundamentals
+- [Deployment Optimization](./references/deployment-optimization.md): Deployment Optimization
+- [Development Platforms](./references/development-platforms.md): Development Platforms
+- [Interaction Design](./references/interaction-design.md): Interaction Design
+- [Spatial Computing Fundamentals](./references/spatial-computing-fundamentals.md): Spatial Computing Fundamentals

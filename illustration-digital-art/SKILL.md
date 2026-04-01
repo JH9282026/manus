@@ -287,6 +287,6 @@ Illustration and digital art represent the creative heart of visual communicatio
 
 ## Using the Reference Files
 
-- [./references/digital-illustration-fundamentals.md](./references/digital-illustration-fundamentals.md): Digital Illustration Fundamentals
-- [./references/illustration-styles-techniques.md](./references/illustration-styles-techniques.md): Illustration Styles Techniques
-- [./references/illustration-tools-software.md](./references/illustration-tools-software.md): Illustration Tools Software
+- [Digital Illustration Fundamentals](./references/digital-illustration-fundamentals.md): Digital Illustration Fundamentals
+- [Illustration Styles Techniques](./references/illustration-styles-techniques.md): Illustration Styles Techniques
+- [Illustration Tools Software](./references/illustration-tools-software.md): Illustration Tools Software

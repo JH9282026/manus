@@ -459,7 +459,7 @@ BI governance ensures data is:
 
 ## Using the Reference Files
 
-- [./references/analytics-platforms.md](./references/analytics-platforms.md): Analytics Platforms
-- [./references/bi-architecture.md](./references/bi-architecture.md): Bi Architecture
-- [./references/bi-governance.md](./references/bi-governance.md): Bi Governance
-- [./references/data-visualization.md](./references/data-visualization.md): Data Visualization
+- [Analytics Platforms](./references/analytics-platforms.md): Analytics Platforms
+- [Bi Architecture](./references/bi-architecture.md): Bi Architecture
+- [Bi Governance](./references/bi-governance.md): Bi Governance
+- [Data Visualization](./references/data-visualization.md): Data Visualization

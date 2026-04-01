@@ -467,6 +467,6 @@ Compare [DESIGN A] vs [DESIGN B]:
 
 ## Using the Reference Files
 
-- [./references/critique-frameworks.md](./references/critique-frameworks.md): Critique Frameworks
-- [./references/design-qa-checklist.md](./references/design-qa-checklist.md): Design Qa Checklist
-- [./references/stakeholder-review-management.md](./references/stakeholder-review-management.md): Stakeholder Review Management
+- [Critique Frameworks](./references/critique-frameworks.md): Critique Frameworks
+- [Design Qa Checklist](./references/design-qa-checklist.md): Design Qa Checklist
+- [Stakeholder Review Management](./references/stakeholder-review-management.md): Stakeholder Review Management

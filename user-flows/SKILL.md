@@ -464,8 +464,8 @@ For the [FLOW NAME] flow, design error handling:
 
 ## Using the Reference Files
 
-- [./references/01_user_flow_fundamentals.md](./references/01_user_flow_fundamentals.md): 01 User Flow Fundamentals
-- [./references/02_creating_user_flow_diagrams.md](./references/02_creating_user_flow_diagrams.md): 02 Creating User Flow Diagrams
-- [./references/03_user_flow_optimization.md](./references/03_user_flow_optimization.md): 03 User Flow Optimization
-- [./references/04_user_flows_vs_journey_maps.md](./references/04_user_flows_vs_journey_maps.md): 04 User Flows Vs Journey Maps
-- [./references/05_user_flow_best_practices.md](./references/05_user_flow_best_practices.md): 05 User Flow Best Practices
+- [01 User Flow Fundamentals](./references/01_user_flow_fundamentals.md): 01 User Flow Fundamentals
+- [02 Creating User Flow Diagrams](./references/02_creating_user_flow_diagrams.md): 02 Creating User Flow Diagrams
+- [03 User Flow Optimization](./references/03_user_flow_optimization.md): 03 User Flow Optimization
+- [04 User Flows Vs Journey Maps](./references/04_user_flows_vs_journey_maps.md): 04 User Flows Vs Journey Maps
+- [05 User Flow Best Practices](./references/05_user_flow_best_practices.md): 05 User Flow Best Practices

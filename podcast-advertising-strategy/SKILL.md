@@ -388,7 +388,7 @@ As the podcast industry continues to grow and evolve, with advancing technology 
 
 ## Using the Reference Files
 
-- [./references/ad-formats-pricing.md](./references/ad-formats-pricing.md): Ad Formats Pricing
-- [./references/campaign-planning.md](./references/campaign-planning.md): Campaign Planning
-- [./references/measurement-attribution.md](./references/measurement-attribution.md): Measurement Attribution
-- [./references/podcast-landscape.md](./references/podcast-landscape.md): Podcast Landscape
+- [Ad Formats Pricing](./references/ad-formats-pricing.md): Ad Formats Pricing
+- [Campaign Planning](./references/campaign-planning.md): Campaign Planning
+- [Measurement Attribution](./references/measurement-attribution.md): Measurement Attribution
+- [Podcast Landscape](./references/podcast-landscape.md): Podcast Landscape

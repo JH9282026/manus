@@ -275,8 +275,8 @@ Deploy this skill when:
 
 ## Using the Reference Files
 
-- [./references/crisis-monitoring-management.md](./references/crisis-monitoring-management.md): Crisis Monitoring Management
-- [./references/data-collection-tools-apis.md](./references/data-collection-tools-apis.md): Data Collection Tools Apis
-- [./references/influencer-network-analysis.md](./references/influencer-network-analysis.md): Influencer Network Analysis
-- [./references/research-methodology-frameworks.md](./references/research-methodology-frameworks.md): Research Methodology Frameworks
-- [./references/sentiment-analysis-techniques.md](./references/sentiment-analysis-techniques.md): Sentiment Analysis Techniques
+- [Crisis Monitoring Management](./references/crisis-monitoring-management.md): Crisis Monitoring Management
+- [Data Collection Tools Apis](./references/data-collection-tools-apis.md): Data Collection Tools Apis
+- [Influencer Network Analysis](./references/influencer-network-analysis.md): Influencer Network Analysis
+- [Research Methodology Frameworks](./references/research-methodology-frameworks.md): Research Methodology Frameworks
+- [Sentiment Analysis Techniques](./references/sentiment-analysis-techniques.md): Sentiment Analysis Techniques

@@ -477,8 +477,8 @@ output_format: "json"
 
 ## Using the Reference Files
 
-- [./references/01_fundamentals-and-core-concepts.md](./references/01_fundamentals-and-core-concepts.md): 01 Fundamentals And Core Concepts
-- [./references/02_tools-and-frameworks.md](./references/02_tools-and-frameworks.md): 02 Tools And Frameworks
-- [./references/03_best-practices-and-ethics.md](./references/03_best-practices-and-ethics.md): 03 Best Practices And Ethics
-- [./references/04_advanced-techniques-and-challenges.md](./references/04_advanced-techniques-and-challenges.md): 04 Advanced Techniques And Challenges
-- [./references/05_real-world-applications-and-case-studies.md](./references/05_real-world-applications-and-case-studies.md): 05 Real World Applications And Case Studies
+- [01 Fundamentals And Core Concepts](./references/01_fundamentals-and-core-concepts.md): 01 Fundamentals And Core Concepts
+- [02 Tools And Frameworks](./references/02_tools-and-frameworks.md): 02 Tools And Frameworks
+- [03 Best Practices And Ethics](./references/03_best-practices-and-ethics.md): 03 Best Practices And Ethics
+- [04 Advanced Techniques And Challenges](./references/04_advanced-techniques-and-challenges.md): 04 Advanced Techniques And Challenges
+- [05 Real World Applications And Case Studies](./references/05_real-world-applications-and-case-studies.md): 05 Real World Applications And Case Studies

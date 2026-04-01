@@ -459,7 +459,7 @@ Research competitors selling similar designs:
 
 ## Using the Reference Files
 
-- [./references/marketing-scaling.md](./references/marketing-scaling.md): Marketing Scaling
-- [./references/pod-platforms-services.md](./references/pod-platforms-services.md): Pod Platforms Services
-- [./references/product-design-creation.md](./references/product-design-creation.md): Product Design Creation
-- [./references/store-integration.md](./references/store-integration.md): Store Integration
+- [Marketing Scaling](./references/marketing-scaling.md): Marketing Scaling
+- [Pod Platforms Services](./references/pod-platforms-services.md): Pod Platforms Services
+- [Product Design Creation](./references/product-design-creation.md): Product Design Creation
+- [Store Integration](./references/store-integration.md): Store Integration

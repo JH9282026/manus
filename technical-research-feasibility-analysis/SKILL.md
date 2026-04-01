@@ -381,8 +381,8 @@ organizational_context:
 
 ## Using the Reference Files
 
-- [./references/feasibility-study-methodology.md](./references/feasibility-study-methodology.md): Feasibility Study Methodology
-- [./references/financial-operational-feasibility.md](./references/financial-operational-feasibility.md): Financial Operational Feasibility
-- [./references/market-legal-feasibility.md](./references/market-legal-feasibility.md): Market Legal Feasibility
-- [./references/risk-assessment-decision-making.md](./references/risk-assessment-decision-making.md): Risk Assessment Decision Making
-- [./references/technical-feasibility-assessment.md](./references/technical-feasibility-assessment.md): Technical Feasibility Assessment
+- [Feasibility Study Methodology](./references/feasibility-study-methodology.md): Feasibility Study Methodology
+- [Financial Operational Feasibility](./references/financial-operational-feasibility.md): Financial Operational Feasibility
+- [Market Legal Feasibility](./references/market-legal-feasibility.md): Market Legal Feasibility
+- [Risk Assessment Decision Making](./references/risk-assessment-decision-making.md): Risk Assessment Decision Making
+- [Technical Feasibility Assessment](./references/technical-feasibility-assessment.md): Technical Feasibility Assessment

@@ -227,10 +227,10 @@ Deploy this skill when developing procurement strategy, conducting strategic sou
 
 ## Using the Reference Files
 
-- [./references/01_strategic-sourcing-fundamentals.md](./references/01_strategic-sourcing-fundamentals.md): 01 Strategic Sourcing Fundamentals
-- [./references/02_supplier-management-and-relationships.md](./references/02_supplier-management-and-relationships.md): 02 Supplier Management And Relationships
-- [./references/03_contract-negotiation-strategies.md](./references/03_contract-negotiation-strategies.md): 03 Contract Negotiation Strategies
-- [./references/04_procurement-performance-metrics.md](./references/04_procurement-performance-metrics.md): 04 Procurement Performance Metrics
-- [./references/procurement-analytics-and-spend-management.md](./references/procurement-analytics-and-spend-management.md): Procurement Analytics And Spend Management
-- [./references/strategic-sourcing-frameworks-and-methodologies.md](./references/strategic-sourcing-frameworks-and-methodologies.md): Strategic Sourcing Frameworks And Methodologies
-- [./references/supplier-relationship-management.md](./references/supplier-relationship-management.md): Supplier Relationship Management
+- [01 Strategic Sourcing Fundamentals](./references/01_strategic-sourcing-fundamentals.md): 01 Strategic Sourcing Fundamentals
+- [02 Supplier Management And Relationships](./references/02_supplier-management-and-relationships.md): 02 Supplier Management And Relationships
+- [03 Contract Negotiation Strategies](./references/03_contract-negotiation-strategies.md): 03 Contract Negotiation Strategies
+- [04 Procurement Performance Metrics](./references/04_procurement-performance-metrics.md): 04 Procurement Performance Metrics
+- [Procurement Analytics And Spend Management](./references/procurement-analytics-and-spend-management.md): Procurement Analytics And Spend Management
+- [Strategic Sourcing Frameworks And Methodologies](./references/strategic-sourcing-frameworks-and-methodologies.md): Strategic Sourcing Frameworks And Methodologies
+- [Supplier Relationship Management](./references/supplier-relationship-management.md): Supplier Relationship Management

@@ -235,8 +235,8 @@ Deploy this skill when establishing ERM programs, conducting risk assessments, d
 
 ## Using the Reference Files
 
-- [./references/01-erm-frameworks-overview.md](./references/01-erm-frameworks-overview.md): 01 Erm Frameworks Overview
-- [./references/02-risk-identification-assessment.md](./references/02-risk-identification-assessment.md): 02 Risk Identification Assessment
-- [./references/03-risk-response-strategies.md](./references/03-risk-response-strategies.md): 03 Risk Response Strategies
-- [./references/04-risk-governance-culture.md](./references/04-risk-governance-culture.md): 04 Risk Governance Culture
-- [./references/05-risk-monitoring-reporting.md](./references/05-risk-monitoring-reporting.md): 05 Risk Monitoring Reporting
+- [01 Erm Frameworks Overview](./references/01-erm-frameworks-overview.md): 01 Erm Frameworks Overview
+- [02 Risk Identification Assessment](./references/02-risk-identification-assessment.md): 02 Risk Identification Assessment
+- [03 Risk Response Strategies](./references/03-risk-response-strategies.md): 03 Risk Response Strategies
+- [04 Risk Governance Culture](./references/04-risk-governance-culture.md): 04 Risk Governance Culture
+- [05 Risk Monitoring Reporting](./references/05-risk-monitoring-reporting.md): 05 Risk Monitoring Reporting

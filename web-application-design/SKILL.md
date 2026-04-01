@@ -300,20 +300,20 @@ Enterprise applications serve organizations with complex operational requirement
 
 ## Using the Reference Files
 
-- [./references/admin-panel-design.md](./references/admin-panel-design.md): Admin Panel Design
-- [./references/common-web-app-design-mistakes.md](./references/common-web-app-design-mistakes.md): Common Web App Design Mistakes
-- [./references/conclusion.md](./references/conclusion.md): Conclusion
-- [./references/real-time-and-collaborative-features.md](./references/real-time-and-collaborative-features.md): Real Time And Collaborative Features
-- [./references/web-app-best-practices.md](./references/web-app-best-practices.md): Web App Best Practices
-- [./references/web-app-data-tables-and-grids.md](./references/web-app-data-tables-and-grids.md): Web App Data Tables And Grids
-- [./references/web-app-design-patterns.md](./references/web-app-design-patterns.md): Web App Design Patterns
-- [./references/web-app-design-tools-and-workflow.md](./references/web-app-design-tools-and-workflow.md): Web App Design Tools And Workflow
-- [./references/web-app-forms-and-validation.md](./references/web-app-forms-and-validation.md): Web App Forms And Validation
-- [./references/web-app-information-architecture.md](./references/web-app-information-architecture.md): Web App Information Architecture
-- [./references/web-app-navigation-patterns.md](./references/web-app-navigation-patterns.md): Web App Navigation Patterns
-- [./references/web-app-notifications-and-alerts.md](./references/web-app-notifications-and-alerts.md): Web App Notifications And Alerts
-- [./references/web-app-onboarding.md](./references/web-app-onboarding.md): Web App Onboarding
-- [./references/web-app-search-and-filtering.md](./references/web-app-search-and-filtering.md): Web App Search And Filtering
-- [./references/web-app-settings-and-preferences.md](./references/web-app-settings-and-preferences.md): Web App Settings And Preferences
-- [./references/web-app-states.md](./references/web-app-states.md): Web App States
-- [./references/web-app-workflows-and-user-flows.md](./references/web-app-workflows-and-user-flows.md): Web App Workflows And User Flows
+- [Admin Panel Design](./references/admin-panel-design.md): Admin Panel Design
+- [Common Web App Design Mistakes](./references/common-web-app-design-mistakes.md): Common Web App Design Mistakes
+- [Conclusion](./references/conclusion.md): Conclusion
+- [Real Time And Collaborative Features](./references/real-time-and-collaborative-features.md): Real Time And Collaborative Features
+- [Web App Best Practices](./references/web-app-best-practices.md): Web App Best Practices
+- [Web App Data Tables And Grids](./references/web-app-data-tables-and-grids.md): Web App Data Tables And Grids
+- [Web App Design Patterns](./references/web-app-design-patterns.md): Web App Design Patterns
+- [Web App Design Tools And Workflow](./references/web-app-design-tools-and-workflow.md): Web App Design Tools And Workflow
+- [Web App Forms And Validation](./references/web-app-forms-and-validation.md): Web App Forms And Validation
+- [Web App Information Architecture](./references/web-app-information-architecture.md): Web App Information Architecture
+- [Web App Navigation Patterns](./references/web-app-navigation-patterns.md): Web App Navigation Patterns
+- [Web App Notifications And Alerts](./references/web-app-notifications-and-alerts.md): Web App Notifications And Alerts
+- [Web App Onboarding](./references/web-app-onboarding.md): Web App Onboarding
+- [Web App Search And Filtering](./references/web-app-search-and-filtering.md): Web App Search And Filtering
+- [Web App Settings And Preferences](./references/web-app-settings-and-preferences.md): Web App Settings And Preferences
+- [Web App States](./references/web-app-states.md): Web App States
+- [Web App Workflows And User Flows](./references/web-app-workflows-and-user-flows.md): Web App Workflows And User Flows

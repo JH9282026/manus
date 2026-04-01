@@ -428,7 +428,7 @@ Accessibility Review ensures designs meet WCAG guidelines and are usable by peop
 
 ## Using the Reference Files
 
-- [./references/accessibility-audit-process.md](./references/accessibility-audit-process.md): Accessibility Audit Process
-- [./references/aria-best-practices.md](./references/aria-best-practices.md): Aria Best Practices
-- [./references/assistive-technology-testing.md](./references/assistive-technology-testing.md): Assistive Technology Testing
-- [./references/wcag-compliance-standards.md](./references/wcag-compliance-standards.md): Wcag Compliance Standards
+- [Accessibility Audit Process](./references/accessibility-audit-process.md): Accessibility Audit Process
+- [Aria Best Practices](./references/aria-best-practices.md): Aria Best Practices
+- [Assistive Technology Testing](./references/assistive-technology-testing.md): Assistive Technology Testing
+- [Wcag Compliance Standards](./references/wcag-compliance-standards.md): Wcag Compliance Standards

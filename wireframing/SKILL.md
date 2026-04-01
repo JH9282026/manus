@@ -381,8 +381,8 @@ Consider:
 
 ## Using the Reference Files
 
-- [./references/01-wireframing-fundamentals.md](./references/01-wireframing-fundamentals.md): 01 Wireframing Fundamentals
-- [./references/02-wireframe-fidelity-levels.md](./references/02-wireframe-fidelity-levels.md): 02 Wireframe Fidelity Levels
-- [./references/03-wireframing-process-workflow.md](./references/03-wireframing-process-workflow.md): 03 Wireframing Process Workflow
-- [./references/04-wireframing-tools-techniques.md](./references/04-wireframing-tools-techniques.md): 04 Wireframing Tools Techniques
-- [./references/05-wireframing-best-practices.md](./references/05-wireframing-best-practices.md): 05 Wireframing Best Practices
+- [01 Wireframing Fundamentals](./references/01-wireframing-fundamentals.md): 01 Wireframing Fundamentals
+- [02 Wireframe Fidelity Levels](./references/02-wireframe-fidelity-levels.md): 02 Wireframe Fidelity Levels
+- [03 Wireframing Process Workflow](./references/03-wireframing-process-workflow.md): 03 Wireframing Process Workflow
+- [04 Wireframing Tools Techniques](./references/04-wireframing-tools-techniques.md): 04 Wireframing Tools Techniques
+- [05 Wireframing Best Practices](./references/05-wireframing-best-practices.md): 05 Wireframing Best Practices

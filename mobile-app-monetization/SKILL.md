@@ -459,7 +459,7 @@ extension AdManager: GADFullScreenContentDelegate {
 
 ## Using the Reference Files
 
-- [./references/advertising-integration.md](./references/advertising-integration.md): Advertising Integration
-- [./references/analytics-optimization.md](./references/analytics-optimization.md): Analytics Optimization
-- [./references/in-app-purchases.md](./references/in-app-purchases.md): In App Purchases
-- [./references/revenue-models.md](./references/revenue-models.md): Revenue Models
+- [Advertising Integration](./references/advertising-integration.md): Advertising Integration
+- [Analytics Optimization](./references/analytics-optimization.md): Analytics Optimization
+- [In App Purchases](./references/in-app-purchases.md): In App Purchases
+- [Revenue Models](./references/revenue-models.md): Revenue Models

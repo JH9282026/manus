@@ -414,8 +414,8 @@ If required inputs are unavailable:
 
 ## Using the Reference Files
 
-- [./references/brief_best_practices.md](./references/brief_best_practices.md): Brief Best Practices
-- [./references/brief_components_templates.md](./references/brief_components_templates.md): Brief Components Templates
-- [./references/brief_creation_process.md](./references/brief_creation_process.md): Brief Creation Process
-- [./references/brief_vs_other_documents.md](./references/brief_vs_other_documents.md): Brief Vs Other Documents
-- [./references/project_brief_fundamentals.md](./references/project_brief_fundamentals.md): Project Brief Fundamentals
+- [Brief Best Practices](./references/brief_best_practices.md): Brief Best Practices
+- [Brief Components Templates](./references/brief_components_templates.md): Brief Components Templates
+- [Brief Creation Process](./references/brief_creation_process.md): Brief Creation Process
+- [Brief Vs Other Documents](./references/brief_vs_other_documents.md): Brief Vs Other Documents
+- [Project Brief Fundamentals](./references/project_brief_fundamentals.md): Project Brief Fundamentals

@@ -279,8 +279,8 @@ Deploy this skill when:
 
 ## Using the Reference Files
 
-- [./references/data-sources-government-databases.md](./references/data-sources-government-databases.md): Data Sources Government Databases
-- [./references/impact-assessment-evaluation-tools.md](./references/impact-assessment-evaluation-tools.md): Impact Assessment Evaluation Tools
-- [./references/policy-brief-writing-communication.md](./references/policy-brief-writing-communication.md): Policy Brief Writing Communication
-- [./references/research-ethics-compliance.md](./references/research-ethics-compliance.md): Research Ethics Compliance
-- [./references/research-methodologies-frameworks.md](./references/research-methodologies-frameworks.md): Research Methodologies Frameworks
+- [Data Sources Government Databases](./references/data-sources-government-databases.md): Data Sources Government Databases
+- [Impact Assessment Evaluation Tools](./references/impact-assessment-evaluation-tools.md): Impact Assessment Evaluation Tools
+- [Policy Brief Writing Communication](./references/policy-brief-writing-communication.md): Policy Brief Writing Communication
+- [Research Ethics Compliance](./references/research-ethics-compliance.md): Research Ethics Compliance
+- [Research Methodologies Frameworks](./references/research-methodologies-frameworks.md): Research Methodologies Frameworks

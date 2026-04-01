@@ -414,10 +414,10 @@ Photo editing and retouching combine technical skill with artistic vision to tra
 
 ## Using the Reference Files
 
-- [./references/01_professional_retouching_fundamentals.md](./references/01_professional_retouching_fundamentals.md): 01 Professional Retouching Fundamentals
-- [./references/02_essential_retouching_techniques.md](./references/02_essential_retouching_techniques.md): 02 Essential Retouching Techniques
-- [./references/advanced-retouching-techniques.md](./references/advanced-retouching-techniques.md): Advanced Retouching Techniques
-- [./references/comprehensive-photo-retouching-guide.md](./references/comprehensive-photo-retouching-guide.md): Comprehensive Photo Retouching Guide
-- [./references/layers-masks-compositing.md](./references/layers-masks-compositing.md): Layers Masks Compositing
-- [./references/photo-editing-software-tools.md](./references/photo-editing-software-tools.md): Photo Editing Software Tools
-- [./references/raw-processing-color-grading-workflow.md](./references/raw-processing-color-grading-workflow.md): Raw Processing Color Grading Workflow
+- [01 Professional Retouching Fundamentals](./references/01_professional_retouching_fundamentals.md): 01 Professional Retouching Fundamentals
+- [02 Essential Retouching Techniques](./references/02_essential_retouching_techniques.md): 02 Essential Retouching Techniques
+- [Advanced Retouching Techniques](./references/advanced-retouching-techniques.md): Advanced Retouching Techniques
+- [Comprehensive Photo Retouching Guide](./references/comprehensive-photo-retouching-guide.md): Comprehensive Photo Retouching Guide
+- [Layers Masks Compositing](./references/layers-masks-compositing.md): Layers Masks Compositing
+- [Photo Editing Software Tools](./references/photo-editing-software-tools.md): Photo Editing Software Tools
+- [Raw Processing Color Grading Workflow](./references/raw-processing-color-grading-workflow.md): Raw Processing Color Grading Workflow

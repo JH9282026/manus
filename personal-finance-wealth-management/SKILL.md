@@ -224,12 +224,12 @@ A retiree with $800,000 in traditional IRA, $200,000 in Roth IRA, and $150,000 i
 
 ## Using the Reference Files
 
-- [./references/01_wealth_management_fundamentals.md](./references/01_wealth_management_fundamentals.md): 01 Wealth Management Fundamentals
-- [./references/02_investment_strategies_asset_allocation.md](./references/02_investment_strategies_asset_allocation.md): 02 Investment Strategies Asset Allocation
-- [./references/03_tax_planning_optimization.md](./references/03_tax_planning_optimization.md): 03 Tax Planning Optimization
-- [./references/04_retirement_estate_planning.md](./references/04_retirement_estate_planning.md): 04 Retirement Estate Planning
-- [./references/comprehensive-wealth-management-guide.md](./references/comprehensive-wealth-management-guide.md): Comprehensive Wealth Management Guide
-- [./references/investment-strategies-asset-classes.md](./references/investment-strategies-asset-classes.md): Investment Strategies Asset Classes
-- [./references/personal-finance-fundamentals.md](./references/personal-finance-fundamentals.md): Personal Finance Fundamentals
-- [./references/retirement-planning-strategies.md](./references/retirement-planning-strategies.md): Retirement Planning Strategies
-- [./references/tax-planning-optimization.md](./references/tax-planning-optimization.md): Tax Planning Optimization
+- [01 Wealth Management Fundamentals](./references/01_wealth_management_fundamentals.md): 01 Wealth Management Fundamentals
+- [02 Investment Strategies Asset Allocation](./references/02_investment_strategies_asset_allocation.md): 02 Investment Strategies Asset Allocation
+- [03 Tax Planning Optimization](./references/03_tax_planning_optimization.md): 03 Tax Planning Optimization
+- [04 Retirement Estate Planning](./references/04_retirement_estate_planning.md): 04 Retirement Estate Planning
+- [Comprehensive Wealth Management Guide](./references/comprehensive-wealth-management-guide.md): Comprehensive Wealth Management Guide
+- [Investment Strategies Asset Classes](./references/investment-strategies-asset-classes.md): Investment Strategies Asset Classes
+- [Personal Finance Fundamentals](./references/personal-finance-fundamentals.md): Personal Finance Fundamentals
+- [Retirement Planning Strategies](./references/retirement-planning-strategies.md): Retirement Planning Strategies
+- [Tax Planning Optimization](./references/tax-planning-optimization.md): Tax Planning Optimization

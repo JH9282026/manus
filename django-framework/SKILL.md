@@ -459,6 +459,6 @@ gunicorn myproject.wsgi:application --bind 0.0.0.0:8000
 
 ## Using the Reference Files
 
-- [./references/deployment-guide.md](./references/deployment-guide.md): Deployment Guide
-- [./references/drf-authentication.md](./references/drf-authentication.md): Drf Authentication
-- [./references/orm-advanced.md](./references/orm-advanced.md): Orm Advanced
+- [Deployment Guide](./references/deployment-guide.md): Deployment Guide
+- [Drf Authentication](./references/drf-authentication.md): Drf Authentication
+- [Orm Advanced](./references/orm-advanced.md): Orm Advanced

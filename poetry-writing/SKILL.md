@@ -434,7 +434,7 @@ Poetry writing is a lifelong practice that combines technical skill with emotion
 
 ## Using the Reference Files
 
-- [./references/imagery-metaphor.md](./references/imagery-metaphor.md): Imagery Metaphor
-- [./references/poetic-forms.md](./references/poetic-forms.md): Poetic Forms
-- [./references/revision-publishing.md](./references/revision-publishing.md): Revision Publishing
-- [./references/rhythm-meter.md](./references/rhythm-meter.md): Rhythm Meter
+- [Imagery Metaphor](./references/imagery-metaphor.md): Imagery Metaphor
+- [Poetic Forms](./references/poetic-forms.md): Poetic Forms
+- [Revision Publishing](./references/revision-publishing.md): Revision Publishing
+- [Rhythm Meter](./references/rhythm-meter.md): Rhythm Meter

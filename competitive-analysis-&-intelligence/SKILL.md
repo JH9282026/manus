@@ -427,8 +427,8 @@ Before delivering analysis, verify:
 
 ## Using the Reference Files
 
-- [./references/competitor-profiling.md](./references/competitor-profiling.md): Competitor Profiling
-- [./references/intelligence-gathering-tools.md](./references/intelligence-gathering-tools.md): Intelligence Gathering Tools
-- [./references/market-research-methodologies.md](./references/market-research-methodologies.md): Market Research Methodologies
-- [./references/strategic-insights-reporting.md](./references/strategic-insights-reporting.md): Strategic Insights Reporting
-- [./references/swot-analysis-frameworks.md](./references/swot-analysis-frameworks.md): Swot Analysis Frameworks
+- [Competitor Profiling](./references/competitor-profiling.md): Competitor Profiling
+- [Intelligence Gathering Tools](./references/intelligence-gathering-tools.md): Intelligence Gathering Tools
+- [Market Research Methodologies](./references/market-research-methodologies.md): Market Research Methodologies
+- [Strategic Insights Reporting](./references/strategic-insights-reporting.md): Strategic Insights Reporting
+- [Swot Analysis Frameworks](./references/swot-analysis-frameworks.md): Swot Analysis Frameworks

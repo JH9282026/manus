@@ -194,7 +194,7 @@ A company evaluates its distribution network following acquisition. The agent ma
 
 ## Using the Reference Files
 
-- [./references/01-fundamentals-of-supply-chain-management.md](./references/01-fundamentals-of-supply-chain-management.md): 01 Fundamentals Of Supply Chain Management
-- [./references/02-supply-chain-optimization-strategies.md](./references/02-supply-chain-optimization-strategies.md): 02 Supply Chain Optimization Strategies
-- [./references/03-procurement-and-supplier-management.md](./references/03-procurement-and-supplier-management.md): 03 Procurement And Supplier Management
-- [./references/04-technology-and-analytics.md](./references/04-technology-and-analytics.md): 04 Technology And Analytics
+- [01 Fundamentals Of Supply Chain Management](./references/01-fundamentals-of-supply-chain-management.md): 01 Fundamentals Of Supply Chain Management
+- [02 Supply Chain Optimization Strategies](./references/02-supply-chain-optimization-strategies.md): 02 Supply Chain Optimization Strategies
+- [03 Procurement And Supplier Management](./references/03-procurement-and-supplier-management.md): 03 Procurement And Supplier Management
+- [04 Technology And Analytics](./references/04-technology-and-analytics.md): 04 Technology And Analytics

@@ -461,6 +461,6 @@ Provide column spans for each element at each breakpoint.
 
 ## Using the Reference Files
 
-- [./references/grid-systems-fundamentals.md](./references/grid-systems-fundamentals.md): Grid Systems Fundamentals
-- [./references/responsive-layout-patterns.md](./references/responsive-layout-patterns.md): Responsive Layout Patterns
-- [./references/spacing-rhythm.md](./references/spacing-rhythm.md): Spacing Rhythm
+- [Grid Systems Fundamentals](./references/grid-systems-fundamentals.md): Grid Systems Fundamentals
+- [Responsive Layout Patterns](./references/responsive-layout-patterns.md): Responsive Layout Patterns
+- [Spacing Rhythm](./references/spacing-rhythm.md): Spacing Rhythm

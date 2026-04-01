@@ -188,7 +188,7 @@ This skill serves as the analytical foundation for real estate investment decisi
 
 ## Using the Reference Files
 
-- [./references/due-diligence-risk-assessment.md](./references/due-diligence-risk-assessment.md): Due Diligence Risk Assessment
-- [./references/investment-metrics-analysis.md](./references/investment-metrics-analysis.md): Investment Metrics Analysis
-- [./references/market-trends-demographics.md](./references/market-trends-demographics.md): Market Trends Demographics
-- [./references/property-valuation-methods.md](./references/property-valuation-methods.md): Property Valuation Methods
+- [Due Diligence Risk Assessment](./references/due-diligence-risk-assessment.md): Due Diligence Risk Assessment
+- [Investment Metrics Analysis](./references/investment-metrics-analysis.md): Investment Metrics Analysis
+- [Market Trends Demographics](./references/market-trends-demographics.md): Market Trends Demographics
+- [Property Valuation Methods](./references/property-valuation-methods.md): Property Valuation Methods

@@ -276,6 +276,6 @@ Consider: audience expectations, competitive differentiation, brand personality
 
 ## Using the Reference Files
 
-- [./references/research-methodologies.md](./references/research-methodologies.md): Research Methodologies
-- [./references/research-synthesis-frameworks.md](./references/research-synthesis-frameworks.md): Research Synthesis Frameworks
-- [./references/user-interview-techniques.md](./references/user-interview-techniques.md): User Interview Techniques
+- [Research Methodologies](./references/research-methodologies.md): Research Methodologies
+- [Research Synthesis Frameworks](./references/research-synthesis-frameworks.md): Research Synthesis Frameworks
+- [User Interview Techniques](./references/user-interview-techniques.md): User Interview Techniques

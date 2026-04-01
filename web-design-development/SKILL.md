@@ -352,8 +352,8 @@ This skill addresses business-critical web needs: corporate websites, e-commerce
 
 ## Using the Reference Files
 
-- [./references/01-web-design-fundamentals.md](./references/01-web-design-fundamentals.md): 01 Web Design Fundamentals
-- [./references/02-modern-css-techniques.md](./references/02-modern-css-techniques.md): 02 Modern Css Techniques
-- [./references/03-responsive-web-design.md](./references/03-responsive-web-design.md): 03 Responsive Web Design
-- [./references/04-web-accessibility-standards.md](./references/04-web-accessibility-standards.md): 04 Web Accessibility Standards
-- [./references/05-web-performance-optimization.md](./references/05-web-performance-optimization.md): 05 Web Performance Optimization
+- [01 Web Design Fundamentals](./references/01-web-design-fundamentals.md): 01 Web Design Fundamentals
+- [02 Modern Css Techniques](./references/02-modern-css-techniques.md): 02 Modern Css Techniques
+- [03 Responsive Web Design](./references/03-responsive-web-design.md): 03 Responsive Web Design
+- [04 Web Accessibility Standards](./references/04-web-accessibility-standards.md): 04 Web Accessibility Standards
+- [05 Web Performance Optimization](./references/05-web-performance-optimization.md): 05 Web Performance Optimization

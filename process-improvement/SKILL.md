@@ -459,7 +459,7 @@ Use **Impact-Effort Matrix**:
 
 ## Using the Reference Files
 
-- [./references/automation-optimization.md](./references/automation-optimization.md): Automation Optimization
-- [./references/continuous-improvement.md](./references/continuous-improvement.md): Continuous Improvement
-- [./references/lean-six-sigma.md](./references/lean-six-sigma.md): Lean Six Sigma
-- [./references/process-mapping.md](./references/process-mapping.md): Process Mapping
+- [Automation Optimization](./references/automation-optimization.md): Automation Optimization
+- [Continuous Improvement](./references/continuous-improvement.md): Continuous Improvement
+- [Lean Six Sigma](./references/lean-six-sigma.md): Lean Six Sigma
+- [Process Mapping](./references/process-mapping.md): Process Mapping

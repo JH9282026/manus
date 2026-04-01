@@ -182,8 +182,8 @@ A company launches a continuous improvement program. The agent establishes basel
 
 ## Using the Reference Files
 
-- [./references/lean-manufacturing-principles.md](./references/lean-manufacturing-principles.md): Lean Manufacturing Principles
-- [./references/performance-metrics-kpis.md](./references/performance-metrics-kpis.md): Performance Metrics Kpis
-- [./references/process-improvement-frameworks.md](./references/process-improvement-frameworks.md): Process Improvement Frameworks
-- [./references/six-sigma-methodology.md](./references/six-sigma-methodology.md): Six Sigma Methodology
-- [./references/supply-chain-optimization.md](./references/supply-chain-optimization.md): Supply Chain Optimization
+- [Lean Manufacturing Principles](./references/lean-manufacturing-principles.md): Lean Manufacturing Principles
+- [Performance Metrics Kpis](./references/performance-metrics-kpis.md): Performance Metrics Kpis
+- [Process Improvement Frameworks](./references/process-improvement-frameworks.md): Process Improvement Frameworks
+- [Six Sigma Methodology](./references/six-sigma-methodology.md): Six Sigma Methodology
+- [Supply Chain Optimization](./references/supply-chain-optimization.md): Supply Chain Optimization

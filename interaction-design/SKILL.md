@@ -453,7 +453,7 @@ Review these interactions for [PROJECT]:
 
 ## Using the Reference Files
 
-- [./references/design-principles.md](./references/design-principles.md): Design Principles
-- [./references/interaction-patterns.md](./references/interaction-patterns.md): Interaction Patterns
-- [./references/prototyping-tools.md](./references/prototyping-tools.md): Prototyping Tools
-- [./references/usability-testing.md](./references/usability-testing.md): Usability Testing
+- [Design Principles](./references/design-principles.md): Design Principles
+- [Interaction Patterns](./references/interaction-patterns.md): Interaction Patterns
+- [Prototyping Tools](./references/prototyping-tools.md): Prototyping Tools
+- [Usability Testing](./references/usability-testing.md): Usability Testing

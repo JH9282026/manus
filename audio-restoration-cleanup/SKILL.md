@@ -463,7 +463,7 @@ A spectrogram is a visual representation of audio showing:
 
 ## Using the Reference Files
 
-- [./references/archival-techniques.md](./references/archival-techniques.md): Archival Techniques
-- [./references/noise-reduction.md](./references/noise-reduction.md): Noise Reduction
-- [./references/restoration-tools.md](./references/restoration-tools.md): Restoration Tools
-- [./references/spectral-editing.md](./references/spectral-editing.md): Spectral Editing
+- [Archival Techniques](./references/archival-techniques.md): Archival Techniques
+- [Noise Reduction](./references/noise-reduction.md): Noise Reduction
+- [Restoration Tools](./references/restoration-tools.md): Restoration Tools
+- [Spectral Editing](./references/spectral-editing.md): Spectral Editing

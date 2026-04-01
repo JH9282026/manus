@@ -459,7 +459,7 @@ Event ROI = (Total Revenue - Total Costs) / Total Costs × 100
 
 ## Using the Reference Files
 
-- [./references/event-planning.md](./references/event-planning.md): Event Planning
-- [./references/measurement-analytics.md](./references/measurement-analytics.md): Measurement Analytics
-- [./references/promotion-strategies.md](./references/promotion-strategies.md): Promotion Strategies
-- [./references/virtual-hybrid-events.md](./references/virtual-hybrid-events.md): Virtual Hybrid Events
+- [Event Planning](./references/event-planning.md): Event Planning
+- [Measurement Analytics](./references/measurement-analytics.md): Measurement Analytics
+- [Promotion Strategies](./references/promotion-strategies.md): Promotion Strategies
+- [Virtual Hybrid Events](./references/virtual-hybrid-events.md): Virtual Hybrid Events

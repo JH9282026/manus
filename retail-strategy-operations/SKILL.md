@@ -273,8 +273,8 @@ Comprehensive metrics tracking including:
 
 ## Using the Reference Files
 
-- [./references/01-retail-operations-fundamentals.md](./references/01-retail-operations-fundamentals.md): 01 Retail Operations Fundamentals
-- [./references/02-technology-automation-retail.md](./references/02-technology-automation-retail.md): 02 Technology Automation Retail
-- [./references/03-omnichannel-retail-strategy.md](./references/03-omnichannel-retail-strategy.md): 03 Omnichannel Retail Strategy
-- [./references/04-retail-performance-metrics-kpis.md](./references/04-retail-performance-metrics-kpis.md): 04 Retail Performance Metrics Kpis
-- [./references/05-lean-retail-continuous-improvement.md](./references/05-lean-retail-continuous-improvement.md): 05 Lean Retail Continuous Improvement
+- [01 Retail Operations Fundamentals](./references/01-retail-operations-fundamentals.md): 01 Retail Operations Fundamentals
+- [02 Technology Automation Retail](./references/02-technology-automation-retail.md): 02 Technology Automation Retail
+- [03 Omnichannel Retail Strategy](./references/03-omnichannel-retail-strategy.md): 03 Omnichannel Retail Strategy
+- [04 Retail Performance Metrics Kpis](./references/04-retail-performance-metrics-kpis.md): 04 Retail Performance Metrics Kpis
+- [05 Lean Retail Continuous Improvement](./references/05-lean-retail-continuous-improvement.md): 05 Lean Retail Continuous Improvement

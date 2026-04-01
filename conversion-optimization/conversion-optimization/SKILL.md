@@ -436,8 +436,8 @@ See `references/` for detailed CRO frameworks, A/B testing guides, funnel optimi
 
 ## Using the Reference Files
 
-- [./references/ab-testing.md](./references/ab-testing.md): Ab Testing
-- [./references/analytics-tools.md](./references/analytics-tools.md): Analytics Tools
-- [./references/cro-frameworks.md](./references/cro-frameworks.md): Cro Frameworks
-- [./references/funnel-optimization.md](./references/funnel-optimization.md): Funnel Optimization
+- [Ab Testing](./references/ab-testing.md): Ab Testing
+- [Analytics Tools](./references/analytics-tools.md): Analytics Tools
+- [Cro Frameworks](./references/cro-frameworks.md): Cro Frameworks
+- [Funnel Optimization](./references/funnel-optimization.md): Funnel Optimization
 

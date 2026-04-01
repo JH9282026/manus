@@ -455,6 +455,6 @@ Compare scores between [VERSION 1] and [VERSION 2]:
 
 ## Using the Reference Files
 
-- [./references/competitive-benchmarking.md](./references/competitive-benchmarking.md): Competitive Benchmarking
-- [./references/metrics-and-kpis.md](./references/metrics-and-kpis.md): Metrics And Kpis
-- [./references/scoring-frameworks.md](./references/scoring-frameworks.md): Scoring Frameworks
+- [Competitive Benchmarking](./references/competitive-benchmarking.md): Competitive Benchmarking
+- [Metrics And Kpis](./references/metrics-and-kpis.md): Metrics And Kpis
+- [Scoring Frameworks](./references/scoring-frameworks.md): Scoring Frameworks

@@ -369,6 +369,6 @@ This skill includes the following detailed reference materials:
 
 ## Using the Reference Files
 
-- [./references/applications.md](./references/applications.md): Applications
-- [./references/visual-system.md](./references/visual-system.md): Visual System
+- [Applications](./references/applications.md): Applications
+- [Visual System](./references/visual-system.md): Visual System
 

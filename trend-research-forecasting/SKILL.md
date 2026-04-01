@@ -258,8 +258,8 @@ Deploy this skill when:
 
 ## Using the Reference Files
 
-- [./references/01_trend_forecasting_fundamentals.md](./references/01_trend_forecasting_fundamentals.md): 01 Trend Forecasting Fundamentals
-- [./references/02_forecasting_methods_techniques.md](./references/02_forecasting_methods_techniques.md): 02 Forecasting Methods Techniques
-- [./references/03_step_by_step_forecasting_process.md](./references/03_step_by_step_forecasting_process.md): 03 Step By Step Forecasting Process
-- [./references/04_trend_forecasting_tools_platforms.md](./references/04_trend_forecasting_tools_platforms.md): 04 Trend Forecasting Tools Platforms
-- [./references/05_advanced_frameworks_best_practices.md](./references/05_advanced_frameworks_best_practices.md): 05 Advanced Frameworks Best Practices
+- [01 Trend Forecasting Fundamentals](./references/01_trend_forecasting_fundamentals.md): 01 Trend Forecasting Fundamentals
+- [02 Forecasting Methods Techniques](./references/02_forecasting_methods_techniques.md): 02 Forecasting Methods Techniques
+- [03 Step By Step Forecasting Process](./references/03_step_by_step_forecasting_process.md): 03 Step By Step Forecasting Process
+- [04 Trend Forecasting Tools Platforms](./references/04_trend_forecasting_tools_platforms.md): 04 Trend Forecasting Tools Platforms
+- [05 Advanced Frameworks Best Practices](./references/05_advanced_frameworks_best_practices.md): 05 Advanced Frameworks Best Practices

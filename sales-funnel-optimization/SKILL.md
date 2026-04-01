@@ -197,8 +197,8 @@ A company with underperforming partner-sourced pipeline:
 
 ## Using the Reference Files
 
-- [./references/01-sales-funnel-fundamentals.md](./references/01-sales-funnel-fundamentals.md): 01 Sales Funnel Fundamentals
-- [./references/02-conversion-rate-optimization-strategies.md](./references/02-conversion-rate-optimization-strategies.md): 02 Conversion Rate Optimization Strategies
-- [./references/03-analytics-measurement-tools.md](./references/03-analytics-measurement-tools.md): 03 Analytics Measurement Tools
-- [./references/04-advanced-tactics-personalization.md](./references/04-advanced-tactics-personalization.md): 04 Advanced Tactics Personalization
-- [./references/05-industry-specific-applications.md](./references/05-industry-specific-applications.md): 05 Industry Specific Applications
+- [01 Sales Funnel Fundamentals](./references/01-sales-funnel-fundamentals.md): 01 Sales Funnel Fundamentals
+- [02 Conversion Rate Optimization Strategies](./references/02-conversion-rate-optimization-strategies.md): 02 Conversion Rate Optimization Strategies
+- [03 Analytics Measurement Tools](./references/03-analytics-measurement-tools.md): 03 Analytics Measurement Tools
+- [04 Advanced Tactics Personalization](./references/04-advanced-tactics-personalization.md): 04 Advanced Tactics Personalization
+- [05 Industry Specific Applications](./references/05-industry-specific-applications.md): 05 Industry Specific Applications

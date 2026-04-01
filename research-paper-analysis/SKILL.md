@@ -143,8 +143,8 @@ A research integrity office investigates concerns about a highly-cited paper. Th
 
 ## Using the Reference Files
 
-- [./references/citation-analysis-metrics.md](./references/citation-analysis-metrics.md): Citation Analysis Metrics
-- [./references/critical-appraisal-methods.md](./references/critical-appraisal-methods.md): Critical Appraisal Methods
-- [./references/data-extraction-synthesis.md](./references/data-extraction-synthesis.md): Data Extraction Synthesis
-- [./references/statistical-methods-interpretation.md](./references/statistical-methods-interpretation.md): Statistical Methods Interpretation
-- [./references/systematic-literature-review.md](./references/systematic-literature-review.md): Systematic Literature Review
+- [Citation Analysis Metrics](./references/citation-analysis-metrics.md): Citation Analysis Metrics
+- [Critical Appraisal Methods](./references/critical-appraisal-methods.md): Critical Appraisal Methods
+- [Data Extraction Synthesis](./references/data-extraction-synthesis.md): Data Extraction Synthesis
+- [Statistical Methods Interpretation](./references/statistical-methods-interpretation.md): Statistical Methods Interpretation
+- [Systematic Literature Review](./references/systematic-literature-review.md): Systematic Literature Review

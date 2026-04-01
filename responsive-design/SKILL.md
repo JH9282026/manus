@@ -386,7 +386,7 @@ Review responsiveness of [COMPONENT]:
 
 ## Using the Reference Files
 
-- [./references/breakpoints-media-queries.md](./references/breakpoints-media-queries.md): Breakpoints Media Queries
-- [./references/mobile-navigation-patterns.md](./references/mobile-navigation-patterns.md): Mobile Navigation Patterns
-- [./references/responsive-images-media.md](./references/responsive-images-media.md): Responsive Images Media
-- [./references/responsive-layout-fundamentals.md](./references/responsive-layout-fundamentals.md): Responsive Layout Fundamentals
+- [Breakpoints Media Queries](./references/breakpoints-media-queries.md): Breakpoints Media Queries
+- [Mobile Navigation Patterns](./references/mobile-navigation-patterns.md): Mobile Navigation Patterns
+- [Responsive Images Media](./references/responsive-images-media.md): Responsive Images Media
+- [Responsive Layout Fundamentals](./references/responsive-layout-fundamentals.md): Responsive Layout Fundamentals

@@ -458,7 +458,7 @@ function App() {
 
 ## Using the Reference Files
 
-- [./references/3d-modeling-optimization.md](./references/3d-modeling-optimization.md): 3d Modeling Optimization
-- [./references/interactive-experiences.md](./references/interactive-experiences.md): Interactive Experiences
-- [./references/performance-loading.md](./references/performance-loading.md): Performance Loading
-- [./references/webgl-threejs.md](./references/webgl-threejs.md): Webgl Threejs
+- [3D Modeling Optimization](./references/3d-modeling-optimization.md): 3d Modeling Optimization
+- [Interactive Experiences](./references/interactive-experiences.md): Interactive Experiences
+- [Performance Loading](./references/performance-loading.md): Performance Loading
+- [Webgl Threejs](./references/webgl-threejs.md): Webgl Threejs

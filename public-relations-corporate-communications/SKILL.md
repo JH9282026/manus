@@ -292,8 +292,8 @@ Deploy this skill when developing communications strategy, launching media campa
 
 ## Using the Reference Files
 
-- [./references/crisis_communications_management.md](./references/crisis_communications_management.md): Crisis Communications Management
-- [./references/internal_communications_strategies.md](./references/internal_communications_strategies.md): Internal Communications Strategies
-- [./references/measurement_evaluation_frameworks.md](./references/measurement_evaluation_frameworks.md): Measurement Evaluation Frameworks
-- [./references/media_relations_strategies.md](./references/media_relations_strategies.md): Media Relations Strategies
-- [./references/pr_fundamentals_overview.md](./references/pr_fundamentals_overview.md): Pr Fundamentals Overview
+- [Crisis Communications Management](./references/crisis_communications_management.md): Crisis Communications Management
+- [Internal Communications Strategies](./references/internal_communications_strategies.md): Internal Communications Strategies
+- [Measurement Evaluation Frameworks](./references/measurement_evaluation_frameworks.md): Measurement Evaluation Frameworks
+- [Media Relations Strategies](./references/media_relations_strategies.md): Media Relations Strategies
+- [Pr Fundamentals Overview](./references/pr_fundamentals_overview.md): Pr Fundamentals Overview

@@ -199,8 +199,8 @@ A company responds to new regulatory requirements with compliance deadline. The 
 
 ## Using the Reference Files
 
-- [./references/execution_challenges.md](./references/execution_challenges.md): Execution Challenges
-- [./references/methodologies_approaches.md](./references/methodologies_approaches.md): Methodologies Approaches
-- [./references/monitoring_control_techniques.md](./references/monitoring_control_techniques.md): Monitoring Control Techniques
-- [./references/planning_execution_fundamentals.md](./references/planning_execution_fundamentals.md): Planning Execution Fundamentals
-- [./references/tools_best_practices.md](./references/tools_best_practices.md): Tools Best Practices
+- [Execution Challenges](./references/execution_challenges.md): Execution Challenges
+- [Methodologies Approaches](./references/methodologies_approaches.md): Methodologies Approaches
+- [Monitoring Control Techniques](./references/monitoring_control_techniques.md): Monitoring Control Techniques
+- [Planning Execution Fundamentals](./references/planning_execution_fundamentals.md): Planning Execution Fundamentals
+- [Tools Best Practices](./references/tools_best_practices.md): Tools Best Practices

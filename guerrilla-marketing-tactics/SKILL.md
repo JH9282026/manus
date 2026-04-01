@@ -465,7 +465,7 @@ This approach captures long-term value rather than just immediate returns.
 
 ## Using the Reference Files
 
-- [./references/campaign-execution.md](./references/campaign-execution.md): Campaign Execution
-- [./references/case-studies-examples.md](./references/case-studies-examples.md): Case Studies Examples
-- [./references/guerrilla-fundamentals.md](./references/guerrilla-fundamentals.md): Guerrilla Fundamentals
-- [./references/tactics-techniques.md](./references/tactics-techniques.md): Tactics Techniques
+- [Campaign Execution](./references/campaign-execution.md): Campaign Execution
+- [Case Studies Examples](./references/case-studies-examples.md): Case Studies Examples
+- [Guerrilla Fundamentals](./references/guerrilla-fundamentals.md): Guerrilla Fundamentals
+- [Tactics Techniques](./references/tactics-techniques.md): Tactics Techniques

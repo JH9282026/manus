@@ -275,7 +275,7 @@ Deploy this skill when:
 
 ## Using the Reference Files
 
-- [./references/ai-driven-scouting-tools.md](./references/ai-driven-scouting-tools.md): Ai Driven Scouting Tools
-- [./references/innovation-scouting-frameworks.md](./references/innovation-scouting-frameworks.md): Innovation Scouting Frameworks
-- [./references/startup-ecosystem-engagement.md](./references/startup-ecosystem-engagement.md): Startup Ecosystem Engagement
-- [./references/technology-trends-analysis.md](./references/technology-trends-analysis.md): Technology Trends Analysis
+- [Ai Driven Scouting Tools](./references/ai-driven-scouting-tools.md): Ai Driven Scouting Tools
+- [Innovation Scouting Frameworks](./references/innovation-scouting-frameworks.md): Innovation Scouting Frameworks
+- [Startup Ecosystem Engagement](./references/startup-ecosystem-engagement.md): Startup Ecosystem Engagement
+- [Technology Trends Analysis](./references/technology-trends-analysis.md): Technology Trends Analysis

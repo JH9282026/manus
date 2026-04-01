@@ -496,8 +496,8 @@ See `references/` for method comparisons, case studies, and implementation guide
 
 ## Using the Reference Files
 
-- [./references/ethical-considerations.md](./references/ethical-considerations.md): Ethical Considerations
-- [./references/implementation-tools.md](./references/implementation-tools.md): Implementation Tools
-- [./references/interpretability-methods.md](./references/interpretability-methods.md): Interpretability Methods
-- [./references/model-transparency-techniques.md](./references/model-transparency-techniques.md): Model Transparency Techniques
-- [./references/xai-fundamentals-concepts.md](./references/xai-fundamentals-concepts.md): Xai Fundamentals Concepts
+- [Ethical Considerations](./references/ethical-considerations.md): Ethical Considerations
+- [Implementation Tools](./references/implementation-tools.md): Implementation Tools
+- [Interpretability Methods](./references/interpretability-methods.md): Interpretability Methods
+- [Model Transparency Techniques](./references/model-transparency-techniques.md): Model Transparency Techniques
+- [Xai Fundamentals Concepts](./references/xai-fundamentals-concepts.md): Xai Fundamentals Concepts

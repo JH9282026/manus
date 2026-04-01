@@ -230,8 +230,8 @@ This skill serves as the integrated analytical capability for understanding and 
 
 ## Using the Reference Files
 
-- [./references/downstream-refining-petrochemicals.md](./references/downstream-refining-petrochemicals.md): Downstream Refining Petrochemicals
-- [./references/industry-challenges-future.md](./references/industry-challenges-future.md): Industry Challenges Future
-- [./references/market-trends-economics.md](./references/market-trends-economics.md): Market Trends Economics
-- [./references/midstream-transportation-storage.md](./references/midstream-transportation-storage.md): Midstream Transportation Storage
-- [./references/upstream-exploration-production.md](./references/upstream-exploration-production.md): Upstream Exploration Production
+- [Downstream Refining Petrochemicals](./references/downstream-refining-petrochemicals.md): Downstream Refining Petrochemicals
+- [Industry Challenges Future](./references/industry-challenges-future.md): Industry Challenges Future
+- [Market Trends Economics](./references/market-trends-economics.md): Market Trends Economics
+- [Midstream Transportation Storage](./references/midstream-transportation-storage.md): Midstream Transportation Storage
+- [Upstream Exploration Production](./references/upstream-exploration-production.md): Upstream Exploration Production

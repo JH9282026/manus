@@ -465,7 +465,7 @@ Success on the PMP exam requires thinking like PMI, which may differ from your o
 
 ## Using the Reference Files
 
-- [./references/exam-structure-strategy.md](./references/exam-structure-strategy.md): Exam Structure Strategy
-- [./references/pmbok-guide-overview.md](./references/pmbok-guide-overview.md): Pmbok Guide Overview
-- [./references/practice-tips.md](./references/practice-tips.md): Practice Tips
-- [./references/study-resources.md](./references/study-resources.md): Study Resources
+- [Exam Structure Strategy](./references/exam-structure-strategy.md): Exam Structure Strategy
+- [Pmbok Guide Overview](./references/pmbok-guide-overview.md): Pmbok Guide Overview
+- [Practice Tips](./references/practice-tips.md): Practice Tips
+- [Study Resources](./references/study-resources.md): Study Resources

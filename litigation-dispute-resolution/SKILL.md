@@ -299,8 +299,8 @@ Litigation and dispute resolution requires analytical rigor, strategic thinking,
 
 ## Using the Reference Files
 
-- [./references/dispute-resolution-methods.md](./references/dispute-resolution-methods.md): Dispute Resolution Methods
-- [./references/litigation-fundamentals.md](./references/litigation-fundamentals.md): Litigation Fundamentals
-- [./references/litigation-process.md](./references/litigation-process.md): Litigation Process
-- [./references/strategy-management.md](./references/strategy-management.md): Strategy Management
+- [Dispute Resolution Methods](./references/dispute-resolution-methods.md): Dispute Resolution Methods
+- [Litigation Fundamentals](./references/litigation-fundamentals.md): Litigation Fundamentals
+- [Litigation Process](./references/litigation-process.md): Litigation Process
+- [Strategy Management](./references/strategy-management.md): Strategy Management
 

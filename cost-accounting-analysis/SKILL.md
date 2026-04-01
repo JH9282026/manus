@@ -384,7 +384,7 @@ For comprehensive cost accounting analysis expertise, consider developing these 
 
 ## Using the Reference Files
 
-- [./references/cost-accounting-fundamentals.md](./references/cost-accounting-fundamentals.md): Cost Accounting Fundamentals
-- [./references/costing-methods.md](./references/costing-methods.md): Costing Methods
-- [./references/decision-making-applications.md](./references/decision-making-applications.md): Decision Making Applications
-- [./references/variance-analysis.md](./references/variance-analysis.md): Variance Analysis
+- [Cost Accounting Fundamentals](./references/cost-accounting-fundamentals.md): Cost Accounting Fundamentals
+- [Costing Methods](./references/costing-methods.md): Costing Methods
+- [Decision Making Applications](./references/decision-making-applications.md): Decision Making Applications
+- [Variance Analysis](./references/variance-analysis.md): Variance Analysis

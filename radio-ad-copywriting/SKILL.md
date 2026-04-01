@@ -235,17 +235,17 @@ The microphone is on. What will you say?
 
 ## Using the Reference Files
 
-- [./references/best-practices-summary.md](./references/best-practices-summary.md): Best Practices Summary
-- [./references/common-mistakes-to-avoid.md](./references/common-mistakes-to-avoid.md): Common Mistakes To Avoid
-- [./references/daypart-considerations.md](./references/daypart-considerations.md): Daypart Considerations
-- [./references/different-radio-formats.md](./references/different-radio-formats.md): Different Radio Formats
-- [./references/jingles-and-mnemonics.md](./references/jingles-and-mnemonics.md): Jingles And Mnemonics
-- [./references/local-vs-national-radio.md](./references/local-vs-national-radio.md): Local Vs National Radio
-- [./references/music-and-sound-effects.md](./references/music-and-sound-effects.md): Music And Sound Effects
-- [./references/production-considerations.md](./references/production-considerations.md): Production Considerations
-- [./references/radio-ad-structure.md](./references/radio-ad-structure.md): Radio Ad Structure
-- [./references/radio-ad-templates.md](./references/radio-ad-templates.md): Radio Ad Templates
-- [./references/radio-advertising-resources.md](./references/radio-advertising-resources.md): Radio Advertising Resources
-- [./references/testing-and-optimization.md](./references/testing-and-optimization.md): Testing And Optimization
-- [./references/theater-of-the-mind.md](./references/theater-of-the-mind.md): Theater Of The Mind
-- [./references/voice-talent-and-delivery.md](./references/voice-talent-and-delivery.md): Voice Talent And Delivery
+- [Best Practices Summary](./references/best-practices-summary.md): Best Practices Summary
+- [Common Mistakes To Avoid](./references/common-mistakes-to-avoid.md): Common Mistakes To Avoid
+- [Daypart Considerations](./references/daypart-considerations.md): Daypart Considerations
+- [Different Radio Formats](./references/different-radio-formats.md): Different Radio Formats
+- [Jingles And Mnemonics](./references/jingles-and-mnemonics.md): Jingles And Mnemonics
+- [Local Vs National Radio](./references/local-vs-national-radio.md): Local Vs National Radio
+- [Music And Sound Effects](./references/music-and-sound-effects.md): Music And Sound Effects
+- [Production Considerations](./references/production-considerations.md): Production Considerations
+- [Radio Ad Structure](./references/radio-ad-structure.md): Radio Ad Structure
+- [Radio Ad Templates](./references/radio-ad-templates.md): Radio Ad Templates
+- [Radio Advertising Resources](./references/radio-advertising-resources.md): Radio Advertising Resources
+- [Testing And Optimization](./references/testing-and-optimization.md): Testing And Optimization
+- [Theater Of The Mind](./references/theater-of-the-mind.md): Theater Of The Mind
+- [Voice Talent And Delivery](./references/voice-talent-and-delivery.md): Voice Talent And Delivery

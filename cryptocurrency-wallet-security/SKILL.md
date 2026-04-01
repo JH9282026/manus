@@ -459,7 +459,7 @@ For Smart Contract Interactions:
 
 ## Using the Reference Files
 
-- [./references/private-key-management.md](./references/private-key-management.md): Private Key Management
-- [./references/recovery-backup.md](./references/recovery-backup.md): Recovery Backup
-- [./references/threat-protection.md](./references/threat-protection.md): Threat Protection
-- [./references/wallet-types-security.md](./references/wallet-types-security.md): Wallet Types Security
+- [Private Key Management](./references/private-key-management.md): Private Key Management
+- [Recovery Backup](./references/recovery-backup.md): Recovery Backup
+- [Threat Protection](./references/threat-protection.md): Threat Protection
+- [Wallet Types Security](./references/wallet-types-security.md): Wallet Types Security

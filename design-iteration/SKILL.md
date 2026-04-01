@@ -430,7 +430,7 @@ Review iteration V[X] → V[X+1]:
 
 ## Using the Reference Files
 
-- [./references/feedback-synthesis-methods.md](./references/feedback-synthesis-methods.md): Feedback Synthesis Methods
-- [./references/iterative-design-process.md](./references/iterative-design-process.md): Iterative Design Process
-- [./references/rapid-prototyping-techniques.md](./references/rapid-prototyping-techniques.md): Rapid Prototyping Techniques
-- [./references/version-control-for-designs.md](./references/version-control-for-designs.md): Version Control For Designs
+- [Feedback Synthesis Methods](./references/feedback-synthesis-methods.md): Feedback Synthesis Methods
+- [Iterative Design Process](./references/iterative-design-process.md): Iterative Design Process
+- [Rapid Prototyping Techniques](./references/rapid-prototyping-techniques.md): Rapid Prototyping Techniques
+- [Version Control For Designs](./references/version-control-for-designs.md): Version Control For Designs

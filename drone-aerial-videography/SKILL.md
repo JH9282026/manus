@@ -263,13 +263,13 @@ Drone regulations vary significantly by country. Key considerations:
 
 ## Using the Reference Files
 
-- [./references/aerial-cinematography-techniques.md](./references/aerial-cinematography-techniques.md): Aerial Cinematography Techniques
-- [./references/best-practices-for-drone-videography.md](./references/best-practices-for-drone-videography.md): Best Practices For Drone Videography
-- [./references/camera-settings-for-aerial-video.md](./references/camera-settings-for-aerial-video.md): Camera Settings For Aerial Video
-- [./references/commercial-applications.md](./references/commercial-applications.md): Commercial Applications
-- [./references/conclusion.md](./references/conclusion.md): Conclusion
-- [./references/drone-business-considerations.md](./references/drone-business-considerations.md): Drone Business Considerations
-- [./references/editing-aerial-footage.md](./references/editing-aerial-footage.md): Editing Aerial Footage
-- [./references/flight-techniques-and-safety.md](./references/flight-techniques-and-safety.md): Flight Techniques And Safety
-- [./references/future-of-drone-videography.md](./references/future-of-drone-videography.md): Future Of Drone Videography
-- [./references/troubleshooting-common-issues.md](./references/troubleshooting-common-issues.md): Troubleshooting Common Issues
+- [Aerial Cinematography Techniques](./references/aerial-cinematography-techniques.md): Aerial Cinematography Techniques
+- [Best Practices For Drone Videography](./references/best-practices-for-drone-videography.md): Best Practices For Drone Videography
+- [Camera Settings For Aerial Video](./references/camera-settings-for-aerial-video.md): Camera Settings For Aerial Video
+- [Commercial Applications](./references/commercial-applications.md): Commercial Applications
+- [Conclusion](./references/conclusion.md): Conclusion
+- [Drone Business Considerations](./references/drone-business-considerations.md): Drone Business Considerations
+- [Editing Aerial Footage](./references/editing-aerial-footage.md): Editing Aerial Footage
+- [Flight Techniques And Safety](./references/flight-techniques-and-safety.md): Flight Techniques And Safety
+- [Future Of Drone Videography](./references/future-of-drone-videography.md): Future Of Drone Videography
+- [Troubleshooting Common Issues](./references/troubleshooting-common-issues.md): Troubleshooting Common Issues

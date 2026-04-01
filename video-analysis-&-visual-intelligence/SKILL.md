@@ -400,5 +400,5 @@ For additional detailed content, examples, and resources, see:
 
 ## Using the Reference Files
 
-- [./references/detailed-content.md](./references/detailed-content.md): Detailed Content
+- [Detailed Content](./references/detailed-content.md): Detailed Content
 

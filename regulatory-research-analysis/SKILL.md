@@ -184,8 +184,8 @@ A European company evaluating US market entry needs to understand sector-specifi
 
 ## Using the Reference Files
 
-- [./references/compliance-monitoring-techniques.md](./references/compliance-monitoring-techniques.md): Compliance Monitoring Techniques
-- [./references/enforcement-and-penalties.md](./references/enforcement-and-penalties.md): Enforcement And Penalties
-- [./references/industry-specific-regulations.md](./references/industry-specific-regulations.md): Industry Specific Regulations
-- [./references/regulatory-change-management.md](./references/regulatory-change-management.md): Regulatory Change Management
-- [./references/regulatory-frameworks-overview.md](./references/regulatory-frameworks-overview.md): Regulatory Frameworks Overview
+- [Compliance Monitoring Techniques](./references/compliance-monitoring-techniques.md): Compliance Monitoring Techniques
+- [Enforcement And Penalties](./references/enforcement-and-penalties.md): Enforcement And Penalties
+- [Industry Specific Regulations](./references/industry-specific-regulations.md): Industry Specific Regulations
+- [Regulatory Change Management](./references/regulatory-change-management.md): Regulatory Change Management
+- [Regulatory Frameworks Overview](./references/regulatory-frameworks-overview.md): Regulatory Frameworks Overview

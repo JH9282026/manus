@@ -201,8 +201,8 @@ The value proposition lies in reducing product development risk, increasing user
 
 ## Using the Reference Files
 
-- [./references/best_practices.md](./references/best_practices.md): Best Practices
-- [./references/fundamentals.md](./references/fundamentals.md): Fundamentals
-- [./references/methodologies_and_frameworks.md](./references/methodologies_and_frameworks.md): Methodologies And Frameworks
-- [./references/research_methods.md](./references/research_methods.md): Research Methods
-- [./references/tools_and_resources.md](./references/tools_and_resources.md): Tools And Resources
+- [Best Practices](./references/best_practices.md): Best Practices
+- [Fundamentals](./references/fundamentals.md): Fundamentals
+- [Methodologies And Frameworks](./references/methodologies_and_frameworks.md): Methodologies And Frameworks
+- [Research Methods](./references/research_methods.md): Research Methods
+- [Tools And Resources](./references/tools_and_resources.md): Tools And Resources

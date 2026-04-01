@@ -406,8 +406,8 @@ See `references/` for advanced patterns, custom training loops, and deployment g
 
 ## Using the Reference Files
 
-- [./references/advanced-architectures.md](./references/advanced-architectures.md): Advanced Architectures
-- [./references/callbacks-regularization.md](./references/callbacks-regularization.md): Callbacks Regularization
-- [./references/deployment-production.md](./references/deployment-production.md): Deployment Production
-- [./references/keras-fundamentals-architecture.md](./references/keras-fundamentals-architecture.md): Keras Fundamentals Architecture
-- [./references/model-training-optimization.md](./references/model-training-optimization.md): Model Training Optimization
+- [Advanced Architectures](./references/advanced-architectures.md): Advanced Architectures
+- [Callbacks Regularization](./references/callbacks-regularization.md): Callbacks Regularization
+- [Deployment Production](./references/deployment-production.md): Deployment Production
+- [Keras Fundamentals Architecture](./references/keras-fundamentals-architecture.md): Keras Fundamentals Architecture
+- [Model Training Optimization](./references/model-training-optimization.md): Model Training Optimization

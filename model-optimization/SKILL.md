@@ -491,8 +491,8 @@ See `references/` for detailed optimization recipes, hardware-specific guides, a
 
 ## Using the Reference Files
 
-- [./references/01_pruning_quantization_fundamentals.md](./references/01_pruning_quantization_fundamentals.md): 01 Pruning Quantization Fundamentals
-- [./references/02_inference_optimization_techniques.md](./references/02_inference_optimization_techniques.md): 02 Inference Optimization Techniques
-- [./references/03_knowledge_distillation_compression.md](./references/03_knowledge_distillation_compression.md): 03 Knowledge Distillation Compression
-- [./references/04_deployment_best_practices.md](./references/04_deployment_best_practices.md): 04 Deployment Best Practices
-- [./references/05_neural_architecture_optimization.md](./references/05_neural_architecture_optimization.md): 05 Neural Architecture Optimization
+- [01 Pruning Quantization Fundamentals](./references/01_pruning_quantization_fundamentals.md): 01 Pruning Quantization Fundamentals
+- [02 Inference Optimization Techniques](./references/02_inference_optimization_techniques.md): 02 Inference Optimization Techniques
+- [03 Knowledge Distillation Compression](./references/03_knowledge_distillation_compression.md): 03 Knowledge Distillation Compression
+- [04 Deployment Best Practices](./references/04_deployment_best_practices.md): 04 Deployment Best Practices
+- [05 Neural Architecture Optimization](./references/05_neural_architecture_optimization.md): 05 Neural Architecture Optimization

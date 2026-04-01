@@ -465,7 +465,7 @@ DOOH advertising must navigate evolving privacy regulations:
 
 ## Using the Reference Files
 
-- [./references/creative-best-practices.md](./references/creative-best-practices.md): Creative Best Practices
-- [./references/dooh-formats-technology.md](./references/dooh-formats-technology.md): Dooh Formats Technology
-- [./references/measurement-analytics.md](./references/measurement-analytics.md): Measurement Analytics
-- [./references/programmatic-buying.md](./references/programmatic-buying.md): Programmatic Buying
+- [Creative Best Practices](./references/creative-best-practices.md): Creative Best Practices
+- [Dooh Formats Technology](./references/dooh-formats-technology.md): Dooh Formats Technology
+- [Measurement Analytics](./references/measurement-analytics.md): Measurement Analytics
+- [Programmatic Buying](./references/programmatic-buying.md): Programmatic Buying

@@ -209,8 +209,8 @@ This skill serves as the authoritative valuation capability for real estate asse
 
 ## Using the Reference Files
 
-- [./references/factors_affecting_value.md](./references/factors_affecting_value.md): Factors Affecting Value
-- [./references/residential_vs_commercial.md](./references/residential_vs_commercial.md): Residential Vs Commercial
-- [./references/standards_best_practices.md](./references/standards_best_practices.md): Standards Best Practices
-- [./references/valuation_fundamentals_overview.md](./references/valuation_fundamentals_overview.md): Valuation Fundamentals Overview
-- [./references/valuation_methods_techniques.md](./references/valuation_methods_techniques.md): Valuation Methods Techniques
+- [Factors Affecting Value](./references/factors_affecting_value.md): Factors Affecting Value
+- [Residential Vs Commercial](./references/residential_vs_commercial.md): Residential Vs Commercial
+- [Standards Best Practices](./references/standards_best_practices.md): Standards Best Practices
+- [Valuation Fundamentals Overview](./references/valuation_fundamentals_overview.md): Valuation Fundamentals Overview
+- [Valuation Methods Techniques](./references/valuation_methods_techniques.md): Valuation Methods Techniques

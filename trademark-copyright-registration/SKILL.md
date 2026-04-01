@@ -466,7 +466,7 @@ Registration specialist reviews application to determine:
 
 ## Using the Reference Files
 
-- [./references/copyright-registration.md](./references/copyright-registration.md): Copyright Registration
-- [./references/enforcement-protection.md](./references/enforcement-protection.md): Enforcement Protection
-- [./references/ip-fundamentals.md](./references/ip-fundamentals.md): Ip Fundamentals
-- [./references/trademark-registration.md](./references/trademark-registration.md): Trademark Registration
+- [Copyright Registration](./references/copyright-registration.md): Copyright Registration
+- [Enforcement Protection](./references/enforcement-protection.md): Enforcement Protection
+- [Ip Fundamentals](./references/ip-fundamentals.md): Ip Fundamentals
+- [Trademark Registration](./references/trademark-registration.md): Trademark Registration

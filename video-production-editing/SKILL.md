@@ -326,8 +326,8 @@ This skill serves diverse content needs: corporate communications, marketing cam
 
 ## Using the Reference Files
 
-- [./references/advanced-techniques-and-methodologies.md](./references/advanced-techniques-and-methodologies.md): Advanced Techniques And Methodologies
-- [./references/color-grading-and-audio-mixing.md](./references/color-grading-and-audio-mixing.md): Color Grading And Audio Mixing
-- [./references/fundamentals-and-workflow.md](./references/fundamentals-and-workflow.md): Fundamentals And Workflow
-- [./references/professional-tools-and-software.md](./references/professional-tools-and-software.md): Professional Tools And Software
-- [./references/real-world-applications-and-case-studies.md](./references/real-world-applications-and-case-studies.md): Real World Applications And Case Studies
+- [Advanced Techniques And Methodologies](./references/advanced-techniques-and-methodologies.md): Advanced Techniques And Methodologies
+- [Color Grading And Audio Mixing](./references/color-grading-and-audio-mixing.md): Color Grading And Audio Mixing
+- [Fundamentals And Workflow](./references/fundamentals-and-workflow.md): Fundamentals And Workflow
+- [Professional Tools And Software](./references/professional-tools-and-software.md): Professional Tools And Software
+- [Real World Applications And Case Studies](./references/real-world-applications-and-case-studies.md): Real World Applications And Case Studies

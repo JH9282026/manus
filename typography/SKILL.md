@@ -488,8 +488,8 @@ Check:
 
 ## Using the Reference Files
 
-- [./references/01_typography_fundamentals_hierarchy.md](./references/01_typography_fundamentals_hierarchy.md): 01 Typography Fundamentals Hierarchy
-- [./references/02_web_typography_responsive_design.md](./references/02_web_typography_responsive_design.md): 02 Web Typography Responsive Design
-- [./references/03_typography_accessibility.md](./references/03_typography_accessibility.md): 03 Typography Accessibility
-- [./references/04_typography_design_systems.md](./references/04_typography_design_systems.md): 04 Typography Design Systems
-- [./references/05_typography_tools_resources.md](./references/05_typography_tools_resources.md): 05 Typography Tools Resources
+- [01 Typography Fundamentals Hierarchy](./references/01_typography_fundamentals_hierarchy.md): 01 Typography Fundamentals Hierarchy
+- [02 Web Typography Responsive Design](./references/02_web_typography_responsive_design.md): 02 Web Typography Responsive Design
+- [03 Typography Accessibility](./references/03_typography_accessibility.md): 03 Typography Accessibility
+- [04 Typography Design Systems](./references/04_typography_design_systems.md): 04 Typography Design Systems
+- [05 Typography Tools Resources](./references/05_typography_tools_resources.md): 05 Typography Tools Resources

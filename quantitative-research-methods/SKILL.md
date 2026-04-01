@@ -258,7 +258,7 @@ Deploy this skill when:
 
 ## Using the Reference Files
 
-- [./references/data_management_ethics.md](./references/data_management_ethics.md): Data Management Ethics
-- [./references/quantitative_research_fundamentals.md](./references/quantitative_research_fundamentals.md): Quantitative Research Fundamentals
-- [./references/research_design_validity.md](./references/research_design_validity.md): Research Design Validity
-- [./references/statistical_analysis_methods.md](./references/statistical_analysis_methods.md): Statistical Analysis Methods
+- [Data Management Ethics](./references/data_management_ethics.md): Data Management Ethics
+- [Quantitative Research Fundamentals](./references/quantitative_research_fundamentals.md): Quantitative Research Fundamentals
+- [Research Design Validity](./references/research_design_validity.md): Research Design Validity
+- [Statistical Analysis Methods](./references/statistical_analysis_methods.md): Statistical Analysis Methods

@@ -472,5 +472,5 @@ Figma transforms UI/UX design through real-time collaboration, powerful componen
 
 ## Using the Reference Files
 
-- [./references/collaboration-workflow.md](./references/collaboration-workflow.md): Collaboration Workflow
-- [./references/components-systems.md](./references/components-systems.md): Components Systems
+- [Collaboration Workflow](./references/collaboration-workflow.md): Collaboration Workflow
+- [Components Systems](./references/components-systems.md): Components Systems

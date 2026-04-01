@@ -427,7 +427,7 @@ The design is now ready for implementation!
 
 ## Using the Reference Files
 
-- [./references/design-qa-and-review.md](./references/design-qa-and-review.md): Design Qa And Review
-- [./references/documentation-and-specifications.md](./references/documentation-and-specifications.md): Documentation And Specifications
-- [./references/fundamentals-and-principles.md](./references/fundamentals-and-principles.md): Fundamentals And Principles
-- [./references/tools-and-workflows.md](./references/tools-and-workflows.md): Tools And Workflows
+- [Design Qa And Review](./references/design-qa-and-review.md): Design Qa And Review
+- [Documentation And Specifications](./references/documentation-and-specifications.md): Documentation And Specifications
+- [Fundamentals And Principles](./references/fundamentals-and-principles.md): Fundamentals And Principles
+- [Tools And Workflows](./references/tools-and-workflows.md): Tools And Workflows

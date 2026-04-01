@@ -136,7 +136,7 @@ A trader evaluates pre-earnings positioning for Microsoft (MSFT). The skill exam
 
 ## Using the Reference Files
 
-- [./references/01_technical_analysis_fundamentals.md](./references/01_technical_analysis_fundamentals.md): 01 Technical Analysis Fundamentals
-- [./references/02_technical_indicators_guide.md](./references/02_technical_indicators_guide.md): 02 Technical Indicators Guide
-- [./references/03_fundamental_analysis_basics.md](./references/03_fundamental_analysis_basics.md): 03 Fundamental Analysis Basics
-- [./references/04_trading_strategies_risk_management.md](./references/04_trading_strategies_risk_management.md): 04 Trading Strategies Risk Management
+- [01 Technical Analysis Fundamentals](./references/01_technical_analysis_fundamentals.md): 01 Technical Analysis Fundamentals
+- [02 Technical Indicators Guide](./references/02_technical_indicators_guide.md): 02 Technical Indicators Guide
+- [03 Fundamental Analysis Basics](./references/03_fundamental_analysis_basics.md): 03 Fundamental Analysis Basics
+- [04 Trading Strategies Risk Management](./references/04_trading_strategies_risk_management.md): 04 Trading Strategies Risk Management

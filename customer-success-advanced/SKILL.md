@@ -496,8 +496,8 @@ Progress through stages of CS sophistication:
 
 ## Using the Reference Files
 
-- [./references/cs-operations.md](./references/cs-operations.md): Cs Operations
-- [./references/expansion-strategies.md](./references/expansion-strategies.md): Expansion Strategies
-- [./references/health-scoring.md](./references/health-scoring.md): Health Scoring
-- [./references/success-frameworks.md](./references/success-frameworks.md): Success Frameworks
+- [Cs Operations](./references/cs-operations.md): Cs Operations
+- [Expansion Strategies](./references/expansion-strategies.md): Expansion Strategies
+- [Health Scoring](./references/health-scoring.md): Health Scoring
+- [Success Frameworks](./references/success-frameworks.md): Success Frameworks
 

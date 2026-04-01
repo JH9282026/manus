@@ -190,7 +190,7 @@ A manufacturing company needs architecture for industrial IoT platform. The skil
 
 ## Using the Reference Files
 
-- [./references/01-fundamentals-of-system-architecture.md](./references/01-fundamentals-of-system-architecture.md): 01 Fundamentals Of System Architecture
-- [./references/02-microservices-design-patterns.md](./references/02-microservices-design-patterns.md): 02 Microservices Design Patterns
-- [./references/03-cloud-native-architecture.md](./references/03-cloud-native-architecture.md): 03 Cloud Native Architecture
-- [./references/04-enterprise-integration-patterns.md](./references/04-enterprise-integration-patterns.md): 04 Enterprise Integration Patterns
+- [01 Fundamentals Of System Architecture](./references/01-fundamentals-of-system-architecture.md): 01 Fundamentals Of System Architecture
+- [02 Microservices Design Patterns](./references/02-microservices-design-patterns.md): 02 Microservices Design Patterns
+- [03 Cloud Native Architecture](./references/03-cloud-native-architecture.md): 03 Cloud Native Architecture
+- [04 Enterprise Integration Patterns](./references/04-enterprise-integration-patterns.md): 04 Enterprise Integration Patterns

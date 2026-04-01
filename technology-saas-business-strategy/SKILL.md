@@ -330,7 +330,7 @@ This skill is essential for SaaS founders, executives, and operators seeking to 
 
 ## Using the Reference Files
 
-- [./references/saas-financial-planning.md](./references/saas-financial-planning.md): Saas Financial Planning
-- [./references/saas-growth-strategies.md](./references/saas-growth-strategies.md): Saas Growth Strategies
-- [./references/saas-metrics-kpis.md](./references/saas-metrics-kpis.md): Saas Metrics Kpis
-- [./references/saas-pricing-models.md](./references/saas-pricing-models.md): Saas Pricing Models
+- [Saas Financial Planning](./references/saas-financial-planning.md): Saas Financial Planning
+- [Saas Growth Strategies](./references/saas-growth-strategies.md): Saas Growth Strategies
+- [Saas Metrics Kpis](./references/saas-metrics-kpis.md): Saas Metrics Kpis
+- [Saas Pricing Models](./references/saas-pricing-models.md): Saas Pricing Models

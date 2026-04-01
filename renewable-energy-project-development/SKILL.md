@@ -235,8 +235,8 @@ This skill serves as the integrated development capability for renewable energy 
 
 ## Using the Reference Files
 
-- [./references/financing-structures.md](./references/financing-structures.md): Financing Structures
-- [./references/permitting-environmental-compliance.md](./references/permitting-environmental-compliance.md): Permitting Environmental Compliance
-- [./references/power-purchase-agreements.md](./references/power-purchase-agreements.md): Power Purchase Agreements
-- [./references/project-development-lifecycle.md](./references/project-development-lifecycle.md): Project Development Lifecycle
-- [./references/technology-selection-optimization.md](./references/technology-selection-optimization.md): Technology Selection Optimization
+- [Financing Structures](./references/financing-structures.md): Financing Structures
+- [Permitting Environmental Compliance](./references/permitting-environmental-compliance.md): Permitting Environmental Compliance
+- [Power Purchase Agreements](./references/power-purchase-agreements.md): Power Purchase Agreements
+- [Project Development Lifecycle](./references/project-development-lifecycle.md): Project Development Lifecycle
+- [Technology Selection Optimization](./references/technology-selection-optimization.md): Technology Selection Optimization

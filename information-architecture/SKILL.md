@@ -402,6 +402,6 @@ For [CONTENT TYPE], define the information hierarchy:
 
 ## Using the Reference Files
 
-- [./references/content-strategy-ia.md](./references/content-strategy-ia.md): Content Strategy Ia
-- [./references/ia-principles-methods.md](./references/ia-principles-methods.md): Ia Principles Methods
-- [./references/site-mapping-flows.md](./references/site-mapping-flows.md): Site Mapping Flows
+- [Content Strategy Ia](./references/content-strategy-ia.md): Content Strategy Ia
+- [Ia Principles Methods](./references/ia-principles-methods.md): Ia Principles Methods
+- [Site Mapping Flows](./references/site-mapping-flows.md): Site Mapping Flows

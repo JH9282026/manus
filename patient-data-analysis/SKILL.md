@@ -139,12 +139,12 @@ A contract research organization assesses trial feasibility for a rare disease i
 
 ## Using the Reference Files
 
-- [./references/01-fundamentals-of-healthcare-analytics.md](./references/01-fundamentals-of-healthcare-analytics.md): 01 Fundamentals Of Healthcare Analytics
-- [./references/01_healthcare_analytics_fundamentals.md](./references/01_healthcare_analytics_fundamentals.md): 01 Healthcare Analytics Fundamentals
-- [./references/02-clinical-data-analysis-methods.md](./references/02-clinical-data-analysis-methods.md): 02 Clinical Data Analysis Methods
-- [./references/02_clinical_data_analysis_methods.md](./references/02_clinical_data_analysis_methods.md): 02 Clinical Data Analysis Methods
-- [./references/03-data-mining-and-predictive-analytics.md](./references/03-data-mining-and-predictive-analytics.md): 03 Data Mining And Predictive Analytics
-- [./references/03_healthcare_data_tools_technologies.md](./references/03_healthcare_data_tools_technologies.md): 03 Healthcare Data Tools Technologies
-- [./references/04-tools-and-technologies.md](./references/04-tools-and-technologies.md): 04 Tools And Technologies
-- [./references/04_privacy_ethics_compliance.md](./references/04_privacy_ethics_compliance.md): 04 Privacy Ethics Compliance
-- [./references/05-challenges-ethics-and-best-practices.md](./references/05-challenges-ethics-and-best-practices.md): 05 Challenges Ethics And Best Practices
+- [01 Fundamentals Of Healthcare Analytics](./references/01-fundamentals-of-healthcare-analytics.md): 01 Fundamentals Of Healthcare Analytics
+- [01 Healthcare Analytics Fundamentals](./references/01_healthcare_analytics_fundamentals.md): 01 Healthcare Analytics Fundamentals
+- [02 Clinical Data Analysis Methods](./references/02-clinical-data-analysis-methods.md): 02 Clinical Data Analysis Methods
+- [02 Clinical Data Analysis Methods](./references/02_clinical_data_analysis_methods.md): 02 Clinical Data Analysis Methods
+- [03 Data Mining And Predictive Analytics](./references/03-data-mining-and-predictive-analytics.md): 03 Data Mining And Predictive Analytics
+- [03 Healthcare Data Tools Technologies](./references/03_healthcare_data_tools_technologies.md): 03 Healthcare Data Tools Technologies
+- [04 Tools And Technologies](./references/04-tools-and-technologies.md): 04 Tools And Technologies
+- [04 Privacy Ethics Compliance](./references/04_privacy_ethics_compliance.md): 04 Privacy Ethics Compliance
+- [05 Challenges Ethics And Best Practices](./references/05-challenges-ethics-and-best-practices.md): 05 Challenges Ethics And Best Practices

@@ -459,4 +459,4 @@ yarn start  # Start frontend
 
 ## Using the Reference Files
 
-- [./references/web3-architecture-patterns.md](./references/web3-architecture-patterns.md): Web3 Architecture Patterns
+- [Web3 Architecture Patterns](./references/web3-architecture-patterns.md): Web3 Architecture Patterns

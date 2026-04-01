@@ -459,7 +459,7 @@ spark.sparkContext.setCheckpointDir("hdfs://checkpoints/")
 
 ## Using the Reference Files
 
-- [./references/dataframes-datasets.md](./references/dataframes-datasets.md): Dataframes Datasets
-- [./references/optimization-tuning.md](./references/optimization-tuning.md): Optimization Tuning
-- [./references/spark-fundamentals.md](./references/spark-fundamentals.md): Spark Fundamentals
-- [./references/spark-streaming.md](./references/spark-streaming.md): Spark Streaming
+- [Dataframes Datasets](./references/dataframes-datasets.md): Dataframes Datasets
+- [Optimization Tuning](./references/optimization-tuning.md): Optimization Tuning
+- [Spark Fundamentals](./references/spark-fundamentals.md): Spark Fundamentals
+- [Spark Streaming](./references/spark-streaming.md): Spark Streaming

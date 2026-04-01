@@ -459,7 +459,7 @@ This statement was last updated on [date].
 
 ## Using the Reference Files
 
-- [./references/compliance-documentation.md](./references/compliance-documentation.md): Compliance Documentation
-- [./references/implementation-patterns.md](./references/implementation-patterns.md): Implementation Patterns
-- [./references/testing-tools.md](./references/testing-tools.md): Testing Tools
-- [./references/wcag-guidelines.md](./references/wcag-guidelines.md): Wcag Guidelines
+- [Compliance Documentation](./references/compliance-documentation.md): Compliance Documentation
+- [Implementation Patterns](./references/implementation-patterns.md): Implementation Patterns
+- [Testing Tools](./references/testing-tools.md): Testing Tools
+- [Wcag Guidelines](./references/wcag-guidelines.md): Wcag Guidelines

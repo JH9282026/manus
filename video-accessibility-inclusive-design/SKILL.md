@@ -302,14 +302,14 @@ The Web Content Accessibility Guidelines (WCAG) provide the international standa
 
 ## Using the Reference Files
 
-- [./references/accessibility-workflow-integration.md](./references/accessibility-workflow-integration.md): Accessibility Workflow Integration
-- [./references/accessible-video-players.md](./references/accessible-video-players.md): Accessible Video Players
-- [./references/audio-descriptions.md](./references/audio-descriptions.md): Audio Descriptions
-- [./references/best-practices-summary.md](./references/best-practices-summary.md): Best Practices Summary
-- [./references/cognitive-accessibility.md](./references/cognitive-accessibility.md): Cognitive Accessibility
-- [./references/color-contrast-and-visual-accessibility.md](./references/color-contrast-and-visual-accessibility.md): Color Contrast And Visual Accessibility
-- [./references/conclusion.md](./references/conclusion.md): Conclusion
-- [./references/inclusive-design-principles.md](./references/inclusive-design-principles.md): Inclusive Design Principles
-- [./references/legal-requirements.md](./references/legal-requirements.md): Legal Requirements
-- [./references/resources-and-tools.md](./references/resources-and-tools.md): Resources And Tools
-- [./references/testing-video-accessibility.md](./references/testing-video-accessibility.md): Testing Video Accessibility
+- [Accessibility Workflow Integration](./references/accessibility-workflow-integration.md): Accessibility Workflow Integration
+- [Accessible Video Players](./references/accessible-video-players.md): Accessible Video Players
+- [Audio Descriptions](./references/audio-descriptions.md): Audio Descriptions
+- [Best Practices Summary](./references/best-practices-summary.md): Best Practices Summary
+- [Cognitive Accessibility](./references/cognitive-accessibility.md): Cognitive Accessibility
+- [Color Contrast And Visual Accessibility](./references/color-contrast-and-visual-accessibility.md): Color Contrast And Visual Accessibility
+- [Conclusion](./references/conclusion.md): Conclusion
+- [Inclusive Design Principles](./references/inclusive-design-principles.md): Inclusive Design Principles
+- [Legal Requirements](./references/legal-requirements.md): Legal Requirements
+- [Resources And Tools](./references/resources-and-tools.md): Resources And Tools
+- [Testing Video Accessibility](./references/testing-video-accessibility.md): Testing Video Accessibility

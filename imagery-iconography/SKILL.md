@@ -421,6 +421,6 @@ Find illustration resources for [PROJECT] that:
 
 ## Using the Reference Files
 
-- [./references/icon-design-principles.md](./references/icon-design-principles.md): Icon Design Principles
-- [./references/photography-for-design.md](./references/photography-for-design.md): Photography For Design
-- [./references/visual-asset-management.md](./references/visual-asset-management.md): Visual Asset Management
+- [Icon Design Principles](./references/icon-design-principles.md): Icon Design Principles
+- [Photography For Design](./references/photography-for-design.md): Photography For Design
+- [Visual Asset Management](./references/visual-asset-management.md): Visual Asset Management

@@ -198,12 +198,12 @@ A B2B company prioritizing sales leads:
 
 ## Using the Reference Files
 
-- [./references/01_time_series_forecasting_methods.md](./references/01_time_series_forecasting_methods.md): 01 Time Series Forecasting Methods
-- [./references/01_time_series_fundamentals.md](./references/01_time_series_fundamentals.md): 01 Time Series Fundamentals
-- [./references/02_arima_statistical_methods.md](./references/02_arima_statistical_methods.md): 02 Arima Statistical Methods
-- [./references/02_business_applications_demand_forecasting.md](./references/02_business_applications_demand_forecasting.md): 02 Business Applications Demand Forecasting
-- [./references/03_forecast_accuracy_metrics.md](./references/03_forecast_accuracy_metrics.md): 03 Forecast Accuracy Metrics
-- [./references/03_machine_learning_forecasting.md](./references/03_machine_learning_forecasting.md): 03 Machine Learning Forecasting
-- [./references/04_business_applications_demand_forecasting.md](./references/04_business_applications_demand_forecasting.md): 04 Business Applications Demand Forecasting
-- [./references/04_model_selection_validation.md](./references/04_model_selection_validation.md): 04 Model Selection Validation
-- [./references/05_model_evaluation_deployment.md](./references/05_model_evaluation_deployment.md): 05 Model Evaluation Deployment
+- [01 Time Series Forecasting Methods](./references/01_time_series_forecasting_methods.md): 01 Time Series Forecasting Methods
+- [01 Time Series Fundamentals](./references/01_time_series_fundamentals.md): 01 Time Series Fundamentals
+- [02 Arima Statistical Methods](./references/02_arima_statistical_methods.md): 02 Arima Statistical Methods
+- [02 Business Applications Demand Forecasting](./references/02_business_applications_demand_forecasting.md): 02 Business Applications Demand Forecasting
+- [03 Forecast Accuracy Metrics](./references/03_forecast_accuracy_metrics.md): 03 Forecast Accuracy Metrics
+- [03 Machine Learning Forecasting](./references/03_machine_learning_forecasting.md): 03 Machine Learning Forecasting
+- [04 Business Applications Demand Forecasting](./references/04_business_applications_demand_forecasting.md): 04 Business Applications Demand Forecasting
+- [04 Model Selection Validation](./references/04_model_selection_validation.md): 04 Model Selection Validation
+- [05 Model Evaluation Deployment](./references/05_model_evaluation_deployment.md): 05 Model Evaluation Deployment

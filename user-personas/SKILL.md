@@ -416,8 +416,8 @@ Evaluate against our personas:
 
 ## Using the Reference Files
 
-- [./references/best_practices.md](./references/best_practices.md): Best Practices
-- [./references/fundamentals.md](./references/fundamentals.md): Fundamentals
-- [./references/methodologies_and_frameworks.md](./references/methodologies_and_frameworks.md): Methodologies And Frameworks
-- [./references/real_world_examples.md](./references/real_world_examples.md): Real World Examples
-- [./references/tools_and_techniques.md](./references/tools_and_techniques.md): Tools And Techniques
+- [Best Practices](./references/best_practices.md): Best Practices
+- [Fundamentals](./references/fundamentals.md): Fundamentals
+- [Methodologies And Frameworks](./references/methodologies_and_frameworks.md): Methodologies And Frameworks
+- [Real World Examples](./references/real_world_examples.md): Real World Examples
+- [Tools And Techniques](./references/tools_and_techniques.md): Tools And Techniques

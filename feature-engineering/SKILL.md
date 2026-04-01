@@ -378,8 +378,8 @@ See `references/` for advanced techniques, domain-specific patterns, and automat
 
 ## Using the Reference Files
 
-- [./references/advanced-transformations.md](./references/advanced-transformations.md): Advanced Transformations
-- [./references/categorical-feature-encoding.md](./references/categorical-feature-encoding.md): Categorical Feature Encoding
-- [./references/feature-engineering-fundamentals.md](./references/feature-engineering-fundamentals.md): Feature Engineering Fundamentals
-- [./references/feature-selection-methods.md](./references/feature-selection-methods.md): Feature Selection Methods
-- [./references/numerical-feature-techniques.md](./references/numerical-feature-techniques.md): Numerical Feature Techniques
+- [Advanced Transformations](./references/advanced-transformations.md): Advanced Transformations
+- [Categorical Feature Encoding](./references/categorical-feature-encoding.md): Categorical Feature Encoding
+- [Feature Engineering Fundamentals](./references/feature-engineering-fundamentals.md): Feature Engineering Fundamentals
+- [Feature Selection Methods](./references/feature-selection-methods.md): Feature Selection Methods
+- [Numerical Feature Techniques](./references/numerical-feature-techniques.md): Numerical Feature Techniques
