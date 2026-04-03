@@ -271,4 +271,10 @@ Suggest alternatives that:
 
 ### When to Read Each Reference
 
+**`./references/color-theory-psychology.md`** — Read when you need to understand color theory fundamentals, color harmony systems (complementary, analogous, triadic), the psychology of color and emotional impact, cultural color associations, or the 60-30-10 rule for palette distribution.
+
+**`./references/accessibility-contrast-wcag.md`** — Read when you need to verify WCAG contrast ratios, design for color vision deficiencies, build accessible palettes with proper neutral scales, implement dark mode accessibility, or select contrast testing tools and workflows.
+
+**`./references/color-system-implementation.md`** — Read when you need to implement design tokens for color (primitive, semantic, component tiers), define naming conventions, set up CSS custom properties or Tailwind config, use Style Dictionary for multi-platform output, or generate perceptually uniform color scales with OKLCH.
+
 **`./references/color-system-taskflow.md`** — Read when you need detailed guidance on color system taskflow aspects of this skill.

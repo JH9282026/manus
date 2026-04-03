@@ -305,6 +305,10 @@ Based on the wireframes for [PROJECT], list all UI components needed:
 
 ### When to Read Each Reference
 
+**`./references/component-library-patterns.md`** — Read when you need to apply Atomic Design methodology (atoms, molecules, organisms), design component APIs with consistent props and naming, implement composition patterns (slots, compound components, headless), manage interactive states and their combinations, build responsive/adaptive components, or integrate accessibility and design tokens.
+
+**`./references/component-documentation.md`** — Read when you need to write component documentation, create specification sheets for developer handoff, structure Storybook stories, define prop tables and code examples, establish do's/don'ts guidelines, or set up documentation governance and quality metrics.
+
 **`./references/buttons.md`** — Read when you need detailed guidance on buttons aspects of this skill.
 
 **`./references/navigation.md`** — Read when you need detailed guidance on navigation aspects of this skill.

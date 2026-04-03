@@ -292,4 +292,10 @@ Check:
 
 ### When to Read Each Reference
 
+**`./references/type-scale-hierarchy.md`** — Read when you need to create type scales using mathematical ratios, choose between scale ratios (Major Second through Golden Ratio), define visual hierarchy through size/weight/color/spacing, assign line heights, or structure design tokens for typography.
+
+**`./references/font-pairing-strategies.md`** — Read when you need to select and combine typefaces, evaluate pairing compatibility across typeface categories, implement proven pairing strategies (serif+sans, superfamily, contrasting sans), optimize font loading performance, or choose pairings for specific contexts (SaaS, marketing, editorial, mobile).
+
+**`./references/responsive-typography.md`** — Read when you need to implement fluid typography with CSS clamp(), manage type across breakpoints, control line length for readability, use viewport units safely, implement container queries for component-level type, or ensure accessibility with user zoom and touch targets.
+
 **`./references/typography-system-taskflow.md`** — Read when you need detailed guidance on typography system taskflow aspects of this skill.
