@@ -1,0 +1,209 @@
+# Iteration Plan: TaskFlow V2 → V3 - Detailed Reference
+
+Detailed reference content for design iteration.
+
+---
+
+## Iteration Plan: TaskFlow V2 → V3
+### Goal
+Move from 7.74/10 to 8.5+/10
+
+### Priority Matrix
+
+#### Do First (High Impact, Low Effort)
+1. **Fix typography line-heights** | +0.1 impact | 1 hour
+   - Body: 1.5 → 1.6
+   - Headings: 1.2 → 1.3
+   
+2. **Standardize shadows** | +0.05 impact | 30 min
+   - Define: shadow-sm, shadow-md, shadow-lg
+   - Apply consistently to all cards
+
+3. **Enhance focus states** | +0.1 impact | 1 hour
+   - Add visible focus ring (3px violet-200)
+   - Ensure all interactive elements covered
+
+#### Schedule (High Impact, High Effort)
+4. **Mobile task list redesign** | +0.15 impact | 3 hours
+   - Convert to swipeable cards
+   - Larger touch targets
+   - Pull to refresh
+
+5. **Empty states with personality** | +0.1 impact | 2 hours
+   - Add illustrations
+   - Friendly copy
+   - Clear CTAs
+
+#### Quick Wins (Low Impact, Low Effort)
+6. **Border radius consistency** | +0.02 | 15 min
+7. **Button hover state refinement** | +0.02 | 15 min
+
+---
+
+### Iteration Scope
+
+**V3 Scope** (This iteration - Target: 8.5/10):
+- Typography line-heights ✓
+- Shadow standardization ✓
+- Focus states ✓
+- Mobile task list ✓
+- Quick wins ✓
+
+**V4 Scope** (Next iteration - Target: 9.0/10):
+- Empty states
+- Micro-interactions
+- Final accessibility audit
+- Edge case handling
+
+---
+
+### Detailed Changes
+
+#### 1. Typography Line-Heights
+
+**Before:**
+```css
+body { line-height: 1.5; }
+h1 { line-height: 1.1; }
+h2 { line-height: 1.1; }
+```
+
+**After:**
+```css
+body { line-height: 1.6; }
+h1 { line-height: 1.2; }
+h2 { line-height: 1.25; }
+h3 { line-height: 1.3; }
+```
+
+**Impact**: Improved readability, especially in dense content areas.
+
+---
+
+#### 2. Shadow Standardization
+
+**Before**: Mix of values
+- Card A: `box-shadow: 0 1px 3px rgba(0,0,0,0.1)`
+- Card B: `box-shadow: 0 2px 4px rgba(0,0,0,0.15)`
+- Card C: `box-shadow: 0 1px 2px rgba(0,0,0,0.08)`
+
+**After**: Consistent scale
+```css
+--shadow-sm: 0 1px 2px rgba(0,0,0,0.05);
+--shadow-md: 0 4px 6px rgba(0,0,0,0.07);
+--shadow-lg: 0 10px 15px rgba(0,0,0,0.1);
+
+/* All cards use shadow-md */
+.card { box-shadow: var(--shadow-md); }
+```
+
+**Impact**: Visual consistency, professional appearance.
+
+---
+
+#### 3. Focus States
+
+**Before**: Browser default (often invisible)
+
+**After**:
+```css
+:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 3px var(--violet-200);
+}
+
+/* Buttons */
+.btn:focus-visible {
+  box-shadow: 0 0 0 3px var(--violet-200);
+}
+
+/* Inputs */
+.input:focus {
+  border-color: var(--violet-500);
+  box-shadow: 0 0 0 3px var(--violet-100);
+}
+```
+
+**Impact**: Accessibility improvement, WCAG compliance.
+
+---
+
+#### 4. Mobile Task List Redesign
+
+**Before**:
+```
+┌────────────────────┐
+│ ○ Task name      > │  <- Small touch target
+│   Due today       │
+└────────────────────┘
+```
+
+**After**:
+```
+┌───────────────────────┐
+│  ┌───┐                │
+│  │   │  Task name     │  <- 48px touch target
+│  │ ○ │                │
+│  │   │  Acme • Today   │
+│  └───┘                │
+└───────────────────────┘
+    ↑
+    Swipe left to complete/delete
+```
+
+Changes:
+- Larger card padding (16px → 20px)
+- Checkbox area: 48×48px touch target
+- Swipe actions for complete/delete
+- Pull-to-refresh at top
+- Clearer visual separation between tasks
+
+---
+
+#### 5-6. Quick Wins
+
+**Border radius standardized**:
+- All cards: 12px
+- All buttons: 8px
+- All inputs: 8px
+- All modals: 16px
+
+**Button hover refined**:
+```css
+.btn-primary:hover {
+  background: var(--violet-400);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+}
+```
+
+---
+
+### Expected Score Impact
+
+| Category | V2 | V3 Expected | Change |
+|----------|-----|-------------|--------|
+| Visual | 7.6 | 8.2 | +0.6 |
+| UX | 8.0 | 8.2 | +0.2 |
+| Consistency | 7.7 | 8.5 | +0.8 |
+| Responsiveness | 7.7 | 8.3 | +0.6 |
+| Accessibility | 7.7 | 8.5 | +0.8 |
+| Brand | 7.5 | 7.8 | +0.3 |
+
+**Projected V3 Score**: 8.3/10
+
+---
+
+### Validation Checklist
+
+- [ ] Line-heights feel more comfortable
+- [ ] Shadows consistent across all cards
+- [ ] Tab through interface shows clear focus
+- [ ] Mobile task list easier to use
+- [ ] Border radius consistent
+- [ ] Hover states refined
+- [ ] No regressions in other areas
+- [ ] Ready for V3 scoring
+```
+
+---
